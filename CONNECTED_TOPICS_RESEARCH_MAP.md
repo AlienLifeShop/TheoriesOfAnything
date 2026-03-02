@@ -1,10 +1,10 @@
 # Connected Topics Research Map — Full Corpus Analysis (v3)
 
-> **Generated:** Feb 28, 2026 | **Last Updated:** Feb 28, 2026 | **Source:** Full scan of 450 documents across 19 sections
+> **Generated:** Feb 28, 2026 | **Last Updated:** Mar 2, 2026 | **Source:** Full scan of 602 documents across 22 sections (A–V)
 > **Purpose:** Map interconnected research threads, cross-domain connections, and prioritized topics for expansion
 > **Scope:** Life, origins, consciousness, reality, ancient knowledge, suppressed history, meaning of existence
 > **Previous Versions:** v1 (Feb 27, 2026) — 170 docs, 12 threads; v2 (Feb 28, 2026) — 232 docs, 20 threads
-> **This Version:** 450 documents, 20+ thematic threads, 200+ cross-domain connections. Phase 7 added 120 new documents and expanded 9 stubs.
+> **This Version:** 602 documents, 20+ thematic threads, 200+ cross-domain connections. Phases 6–8 added T (Psychology & Social), U (Art, Music & Culture), V (Mathematics & Information).
 
 ---
 
