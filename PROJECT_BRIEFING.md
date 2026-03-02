@@ -67,13 +67,6 @@
 [SectionLetter][##]_Name.md    (e.g., A01_Sumerian_Texts.md, T01_Social_Psychology.md)
 ```
 
-## WHAT WE'VE REJECTED (Tier 4)
-
-- Literal shapeshifting reptilian world leaders
-- Anunnaki as literal aliens (Sitchin's translations rejected by Assyriologists)
-- Rh-negative blood as alien DNA
-- Vaimanika Shastra as ancient (channeled 1904-1923)
-- Flat Earth, crystal skulls (modern), most Ica Stones
 
 ## WHAT'S STRONGEST (Tier 1)
 
