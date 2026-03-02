@@ -1,16 +1,18 @@
-# Connected Topics Research Map — Full Corpus Analysis (v3)
+# Connected Topics Research Map — Full Corpus Analysis (v4)
 
 > **Generated:** Feb 28, 2026 | **Last Updated:** Mar 2, 2026 | **Source:** Full scan of 602 documents across 22 sections (A–V)
 > **Purpose:** Map interconnected research threads, cross-domain connections, and prioritized topics for expansion
 > **Scope:** Life, origins, consciousness, reality, ancient knowledge, suppressed history, meaning of existence
-> **Previous Versions:** v1 (Feb 27, 2026) — 170 docs, 12 threads; v2 (Feb 28, 2026) — 232 docs, 20 threads
-> **This Version:** 602 documents, 20+ thematic threads, 200+ cross-domain connections. Phases 6–8 added T (Psychology & Social), U (Art, Music & Culture), V (Mathematics & Information).
+> **Previous Versions:** v1 (Feb 27, 2026) — 170 docs, 12 threads; v2 (Feb 28, 2026) — 232 docs, 20 threads; v3 (Mar 2, 2026) — 602 docs, header update
+> **This Version:** v4 — 602 documents, ~146,000 lines, 22 sections (A–V), 10,387 keywords, 20+ thematic threads, 200+ cross-domain connections. Phases 6–8 added T (Psychology & Social), U (Art, Music & Culture), V (Mathematics & Information).
 
 ---
 
 ## QUICK SUMMARY
 
-This document maps every identified connection between existing research documents and identifies **20 thematic threads** (up from 12) and **101 new cross-domain connections** organized by focus area. The corpus expansion from ~170 to 232 documents — adding 10 new sections (J–S) — reveals 8 new threads that bridge consciousness research, modern physics, evolutionary biology, philosophy, and future technology with the original ancient foundations. The most striking finding: the same structural patterns (self-organization, information hierarchies, cyclic destruction/renewal, observer-dependent reality) appear at every scale from quantum mechanics to cosmology to mythology, suggesting these are not metaphors but descriptions of fundamental reality from different vantage points.
+This document maps every identified connection between existing research documents and identifies **20 thematic threads** and **101+ cross-domain connections** organized by focus area. The corpus has grown through 8 phases — from the original ~100 documents (Phases 1–3) through 232 documents (Phase 6) to the current **602 documents across 22 sections (A–V)** with **~146,000 lines of research**. Phase 7 expanded every section (A–O grew from 232 to 465 docs), and Phase 8 added three new sections: T (Psychology & Social, 10 docs), U (Art, Music & Culture, 6 docs), and V (Mathematics & Information, 7 docs). The 8 threads added in Phase 5 (Threads 13–20) bridge consciousness research, modern physics, evolutionary biology, philosophy, and future technology with the original ancient foundations. The most striking finding: the same structural patterns (self-organization, information hierarchies, cyclic destruction/renewal, observer-dependent reality) appear at every scale from quantum mechanics to cosmology to mythology, suggesting these are not metaphors but descriptions of fundamental reality from different vantage points.
+
+> **Note:** The 20 thematic threads and 101 cross-domain connections below were mapped against the Phase 6 corpus (232 docs). All document references remain valid — the Phase 7–8 expansion added depth within existing sections rather than changing existing documents. A future v5 re-mapping should incorporate connections to the 370 documents added in Phases 7–8, particularly T (psychology/propaganda), U (music/sacred sound), and V (mathematics/information theory).
 
 ---
 
@@ -392,44 +394,54 @@ This document maps every identified connection between existing research documen
 
 ## PART III — CORPUS STATISTICS
 
+### Current Corpus (as of Mar 2, 2026)
+
 | Metric | Value |
 |--------|-------|
-| Total documents | 232 |
-| Total sections | 19 (A–S) |
-| Thematic threads | 20 (12 original + 8 new) |
+| Total documents | **602** |
+| Total sections | **22 (A–V)** |
+| Total lines of research | **~146,000** |
+| Thematic threads mapped | 20 (12 original + 8 new) |
 | Cross-domain connections mapped | 101 new + ~50 original = ~151 total |
-| Tier 1 claims | 981 (44.7%) |
-| Tier 2 claims | 769 (35.1%) |
-| Tier 3 claims | 214 (9.8%) |
-| Tier 4 claims | 229 (10.4%) |
-| Average source agreement | 3.3/5 |
-| Unique keywords | 4,958 |
-| Bibliography entries | 1,465 |
-| Unique authors cited | 1,030 |
+| Unique keywords | **10,387** |
+| Keyword-doc links | **13,485** |
+| Bibliography entries | **~5,500+** |
+| Unique authors cited | **~4,900+** |
+
+### Thread Mapping Coverage
+
+| Metric | Value | Notes |
+|--------|-------|-------|
+| Documents with thread connections | 232 | Threads mapped against Phase 6 corpus |
+| Documents added since mapping | 370 | Phases 7–8 expanded all sections + added T, U, V |
+| Sections needing thread re-mapping | T, U, V | New sections not yet in thread tables |
 
 ### Section Distribution
 
 | Section | Docs | Focus |
 |---------|------|-------|
-| A — Foundations | 17 | Ancient texts and religious traditions |
-| B — Beings & Entities | 11 | Non-human intelligence claims |
-| C — Global Traditions | 31 | Cross-cultural mythology and patterns |
-| D — Sites & Artifacts | 18 | Archaeological evidence and sacred geometry |
-| E — Cataclysms & Chronology | 16 | Catastrophes, dating, cyclic history |
-| F — Lost Connections | 9 | Inter-civilizational contact and knowledge transfer |
-| G — Modern Frameworks | 15 | Modern science paralleling ancient ideas |
-| H — Suppression & Thesis | 6 | Knowledge suppression and thesis documents |
-| I — UAP Disclosure | 8 | Government UFO/UAP programs and disclosure |
-| J — Ancient Technology | 9 | Engineering, acoustics, metallurgy |
-| K — Consciousness | 19 | Mind, brain, altered states, psychedelics |
-| L — Genetics & Origins | 7 | DNA, evolution, ancient genetics |
-| M — Forbidden Archaeology | 4 | Out-of-place artifacts, suppressed finds |
-| N — Secret Societies | 7 | Mystery schools, Freemasons, Vatican, Templars |
-| O — Earth Anomalies | 5 | Ley lines, anomalous zones, ocean mysteries |
-| P — Philosophy & Meaning | 13 | Consciousness, ethics, meaning of life |
-| Q — Cosmology & Physics | 15 | Universe, quantum mechanics, string theory |
-| R — Biology & Evolution | 15 | Origin of life, brain evolution, extinction |
-| S — Future Technology | 7 | AI, CRISPR, transhumanism, existential risk |
+| A — Foundations | 34 | Ancient texts and religious traditions |
+| B — Beings & Entities | 29 | Non-human intelligence claims |
+| C — Global Traditions | 112 | Cross-cultural mythology and patterns |
+| D — Sites & Artifacts | 43 | Archaeological evidence and sacred geometry |
+| E — Cataclysms & Chronology | 30 | Catastrophes, dating, cyclic history |
+| F — Lost Connections | 22 | Inter-civilizational contact and knowledge transfer |
+| G — Modern Frameworks | 33 | Modern science paralleling ancient ideas |
+| H — Suppression & Thesis | 16 | Knowledge suppression and thesis documents |
+| I — UAP Disclosure | 18 | Government UFO/UAP programs and disclosure |
+| J — Ancient Technology | 24 | Engineering, acoustics, metallurgy |
+| K — Consciousness | 35 | Mind, brain, altered states, psychedelics |
+| L — Genetics & Origins | 16 | DNA, evolution, ancient genetics |
+| M — Forbidden Archaeology | 17 | Out-of-place artifacts, suppressed finds |
+| N — Secret Societies | 20 | Mystery schools, Freemasons, Vatican, Templars |
+| O — Earth Anomalies | 16 | Ley lines, anomalous zones, ocean mysteries |
+| P — Philosophy & Meaning | 34 | Consciousness, ethics, meaning of life |
+| Q — Cosmology & Physics | 24 | Universe, quantum mechanics, string theory |
+| R — Biology & Evolution | 31 | Origin of life, brain evolution, extinction |
+| S — Future Technology | 25 | AI, CRISPR, transhumanism, existential risk |
+| T — Psychology & Social | 10 | Social psychology, archetypes, propaganda, cult dynamics |
+| U — Art, Music & Culture | 6 | Sacred music, dance, oral literature, color symbolism |
+| V — Mathematics & Information | 7 | Zero, primes, computation, information theory, cryptography |
 
 ---
 
@@ -450,5 +462,50 @@ These are the 10 most important connections that link multiple sections and shou
 
 ---
 
-*Generated from full corpus scan of 232 documents. Replaces v1 (Feb 27, 2026, ~170 docs, 12 threads).*
-*Feb 28, 2026 — Version 2: 232 documents, 20 threads, 101 new connections, post-verification corrections applied.*
+## PART V — FUTURE THREAD CONNECTIONS (T, U, V)
+
+The following connections between the new Phase 8 sections and existing threads have been identified but not yet fully mapped into the thread tables above. These should be incorporated in v5:
+
+### T — Psychology & Social → Existing Threads
+
+| Connection | Documents | Thread |
+|---|---|---|
+| Jungian archetypes / collective unconscious ↔ universal archetype patterns | T02 → C08, C22, C23 | Thread 15 (Universal Archetypes) |
+| Social conformity / obedience ↔ knowledge suppression mechanisms | T01 → H01, H04 | Thread 3 (Suppression) |
+| Propaganda & information warfare ↔ propaganda and information control | T07 → H04, H06 | Thread 3 (Suppression) |
+| Cult psychology ↔ mystery school initiation ↔ cargo cults | T05 → N01, N06, C10 | Thread 2 (Knowledge-Giver) |
+| Transpersonal psychology ↔ shamanic states ↔ NDEs | T04 → K15, K01, K04 | Thread 4 (Consciousness) |
+| Cross-cultural psychology ↔ cross-cultural patterns | T06 → C08, C09, P10 | Thread 15 (Universal Archetypes) |
+| Evolutionary psychology ↔ snake detection hypothesis | T03 → R15, C09 | Thread 10 (Sacred Patterns) |
+| Psychology of grief/death ↔ death/afterlife philosophy ↔ dying-rising deity | T08 → P07, C28, K01 | Thread 15 (Universal Archetypes) |
+| Neurodiversity as adaptive spectrum ↔ savant syndrome ↔ consciousness filter | T10 → K10, K12 | Thread 4 (Consciousness) |
+
+### U — Art, Music & Culture → Existing Threads
+
+| Connection | Documents | Thread |
+|---|---|---|
+| Music theory / harmonic series ↔ sound/vibration creation ↔ cymatics | U01 → J04, J06, J07 | Thread 14 (Ritual Technology) |
+| Sacred music / chant / raga ↔ 110 Hz acoustic alteration ↔ sacred caves | U04 → J07, J08, K08 | Thread 14 (Ritual Technology) |
+| Sacred dance / ritual movement ↔ shamanic altered states ↔ initiation rites | U02 → K15, C63, N06 | Thread 14 (Ritual Technology) |
+| Oral literature / epic / memory ↔ post-catastrophe knowledge preservation | U03 → F07, C13, C30 | Thread 18 (Substrate Cultures) |
+| Cultural evolution / dual inheritance ↔ computational phylogenetics | U06 → P13, R08, C08 | Thread 15 (Universal Archetypes) |
+| Color symbolism across cultures ↔ cross-cultural patterns | U05 → C08, D10, K16 | Thread 10 (Sacred Patterns) |
+
+### V — Mathematics & Information → Existing Threads
+
+| Connection | Documents | Thread |
+|---|---|---|
+| History of zero ↔ mathematics discovered/invented ↔ sacred geometry | V01 → P04, D10, D16 | Thread 10 (Sacred Patterns) |
+| Prime numbers / Riemann ↔ Gödel's incompleteness ↔ limits of knowledge | V02 → P09, G14 | Thread 7 (Reality) |
+| Algorithms / computation limits ↔ simulation theory ↔ information-as-reality | V03 → G02, G14, Q06 | Thread 7 (Reality) |
+| Infinity / paradoxes ↔ deep time cognitive limits ↔ philosophy of time | V04 → P12, Q08 | Thread 7 (Reality) |
+| Ethnomathematics ↔ indigenous knowledge systems ↔ substrate cultures | V05 → C13, C30, P04 | Thread 18 (Substrate Cultures) |
+| Information theory (Shannon) ↔ IIT (Φ) ↔ holographic principle ↔ consciousness | V06 → G10, G14, Q06, K11 | Thread 19 (Complexity/Emergence) |
+| Cryptography ↔ secret societies ↔ knowledge concealment | V07 → N01, N03, H01 | Thread 3 (Suppression) |
+
+---
+
+*v1 (Feb 27, 2026): 170 docs, 12 threads.*
+*v2 (Feb 28, 2026): 232 documents, 20 threads, 101 new connections, post-verification corrections applied.*
+*v3 (Mar 2, 2026): Header updated to 602 docs / 22 sections.*
+*v4 (Mar 2, 2026): Full statistics updated to 602 docs, ~146K lines, 10,387 keywords. Section distribution corrected. T/U/V future thread connections mapped. Thread tables remain against Phase 6 (232-doc) corpus — all references valid.*
