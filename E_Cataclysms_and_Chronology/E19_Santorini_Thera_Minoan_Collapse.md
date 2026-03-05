@@ -3,7 +3,7 @@
 > **Document ID:** E19
 > **Section:** E_Cataclysms_and_Chronology
 > **Keywords:** Santorini, Thera, Minoan, eruption, VEI-7, Akrotiri, Bronze Age, Atlantis, tsunami, caldera, Aegean, Plato, radiocarbon dating, olive branch dating, Mycenaean, volcanic winter, tephra, Minoan civilization, Knossos, Cyclades, 1628 BCE, 1600 BCE
-> **Cross-References:** [C42](../C_Global_Traditions/C42_Minoan_Civilization.md) · [O06](../O_Earth_Anomalies/O06_Supervolcanoes_Catastrophism.md) · [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) · [F01](../F_Lost_Connections/F01_Atlantis.md) · [G16](../G_Modern_Frameworks/G16_Systems_Collapse.md)
+> **Cross-References:** [C42](../C_Global_Traditions/C42_Minoan_Civilization_Bull_Cult.md) · [O06](../O_Earth_Anomalies/O06_Volcanism_Supervolcanoes.md) · [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) · [F01](../F_Lost_Connections/F01_Atlantis.md) · [G16](../G_Modern_Frameworks/G16_Systems_Collapse_Complexity_Theory.md)
 > **Reliability Tier:** Tier 1–2 (eruption confirmed; Minoan collapse causation debated; Atlantis connection speculative)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 12 scholarly sources | **Confidence:** High (eruption data); Medium (civilizational impact); Low (Atlantis identification)
 
@@ -167,11 +167,11 @@ The identification of Minoan Crete and/or Thera with Plato's Atlantis is the mos
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C42 — Minoan Civilization](../C_Global_Traditions/C42_Minoan_Civilization.md) | Minoan culture directly impacted by eruption |
-| [O06 — Supervolcanoes](../O_Earth_Anomalies/O06_Supervolcanoes_Catastrophism.md) | Volcanic catastrophism and VEI scale |
+| [C42 — Minoan Civilization](../C_Global_Traditions/C42_Minoan_Civilization_Bull_Cult.md) | Minoan culture directly impacted by eruption |
+| [O06 — Supervolcanoes](../O_Earth_Anomalies/O06_Volcanism_Supervolcanoes.md) | Volcanic catastrophism and VEI scale |
 | [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) | Recurring civilizational destruction patterns |
 | [F01 — Atlantis](../F_Lost_Connections/F01_Atlantis.md) | Thera as primary Atlantis candidate |
-| [G16 — Systems Collapse](../G_Modern_Frameworks/G16_Systems_Collapse.md) | Multi-factor collapse model for Minoan decline |
+| [G16 — Systems Collapse](../G_Modern_Frameworks/G16_Systems_Collapse_Complexity_Theory.md) | Multi-factor collapse model for Minoan decline |
 | [E13 — 536 CE](../E_Cataclysms_and_Chronology/E13_536_CE_Climate_Catastrophe.md) | Comparable volcanic climate events |
 | [E17 — Toba](../E_Cataclysms_and_Chronology/E17_Toba_Supervolcano_Genetic_Bottleneck.md) | Supervolcanic eruption comparison (VEI 8 vs VEI 7) |
 

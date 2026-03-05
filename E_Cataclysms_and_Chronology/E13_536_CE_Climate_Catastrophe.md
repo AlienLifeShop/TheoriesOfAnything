@@ -505,4 +505,17 @@ However, it remains a **hypothesis** — mythological narratives cannot be defin
 
 ## Bibliography
 
-- Gregor & Timmermann. *Journal of Climate*. 2011.
+1. Sigl, M. et al. "Timing and Climate Forcing of Volcanic Eruptions for the Past 2,500 Years." *Nature* 523 (2015): 543–549.
+2. Büntgen, U. et al. "Cooling and Societal Change during the Late Antique Little Ice Age from 536 to around 660 CE." *Nature Geoscience* 9 (2016): 231–236.
+3. Dull, R.A. et al. "Radiocarbon and Geologic Evidence Reveal Ilopango Volcano as Source of the Colossal 'Mystery' Eruption of 539/40 CE." *Quaternary Science Reviews* 222 (2019): 105855.
+4. Harbeck, M. et al. "Yersinia pestis DNA from Skeletal Remains from the 6th Century AD Reveals Insights into Justinianic Plague." *PLoS Pathogens* 9.5 (2013): e1003349.
+5. Baillie, M.G.L. *Exodus to Arthur: Catastrophic Encounters with Comets*. B.T. Batsford, 1999.
+6. Zielinski, G.A. et al. "Record of Volcanism since 7000 B.C. from the GISP2 Greenland Ice Core." *Science* 264 (1994): 948–952.
+7. Harper, Kyle. *The Fate of Rome: Climate, Disease, and the End of an Empire*. Princeton University Press, 2017.
+8. Gräslund, Bo & Price, Neil. "Twilight of the Gods? The 'Dust Veil Event' of AD 536 in Critical Perspective." *Antiquity* 86.332 (2012): 428–443.
+9. Keys, David. *Catastrophe: An Investigation into the Origins of the Modern World*. Century, 1999.
+10. McCormick, Michael et al. "Climate Change during and after the Roman Empire." *Journal of Interdisciplinary History* 43.2 (2012): 169–220.
+11. Tainter, Joseph A. *The Collapse of Complex Societies*. Cambridge University Press, 1988.
+12. Axboe, Morten. "The Year 536 and the Scandinavian Gold Hoards." *Medieval Archaeology* 45 (2001): 1–18.
+13. Procopius of Caesarea. *History of the Wars*. c. 550 CE.
+14. Cassiodorus. *Variae*. c. 537 CE.

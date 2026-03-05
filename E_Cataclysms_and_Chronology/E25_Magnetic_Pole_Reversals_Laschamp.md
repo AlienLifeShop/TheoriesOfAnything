@@ -3,7 +3,7 @@
 > **Document ID:** E25
 > **Section:** E_Cataclysms_and_Chronology
 > **Keywords:** geomagnetic reversal, magnetic pole, Laschamp Event, 42000 BP, Adams Event, Neanderthal extinction, megafauna, cave art, cosmic radiation, ozone depletion, South Atlantic Anomaly, Brunhes-Matuyama, magnetic excursion, paleomagnetic, magnetosphere, aurora, satellite vulnerability, power grid, ¹⁰Be, ¹⁴C, geodynamo
-> **Cross-References:** [E06](../E_Cataclysms_and_Chronology/E06_Paleomagnetism_Geomagnetic_Excursions.md) · [O04](../O_Earth_Anomalies/O04_Magnetosphere.md) · [R05](../R_Biology_Evolution/R05_Mass_Extinction.md) · [R09](../R_Biology_Evolution/R09_Neanderthal.md) · [S07](../S_Future_Technology/S07_Existential_Risk.md)
+> **Cross-References:** [E06](../E_Cataclysms_and_Chronology/E06_Paleomagnetism_Geomagnetic_Excursions.md) · [O04](../O_Earth_Anomalies/O04_Magnetosphere_Solar_Activity.md) · [R05](../R_Biology_Evolution/R05_Mass_Extinction_Events.md) · [R09](../R_Biology_Evolution/R09_Neanderthal_Cognition.md) · [S07](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md)
 > **Reliability Tier:** Tier 1–2 (reversals are well-documented; Laschamp excursion confirmed; biological/civilizational impacts debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 13 scholarly sources | **Confidence:** Very High (reversal occurrence); High (Laschamp dating and characteristics); Medium (Adams Event biological correlations); Low (predictions for next reversal)
 
@@ -200,10 +200,10 @@ In a landmark 2021 paper in *Science*, **Alan Cooper** and colleagues proposed t
 | Related Doc | Connection |
 |-------------|-----------|
 | [E06 — Paleomagnetism](../E_Cataclysms_and_Chronology/E06_Paleomagnetism_Geomagnetic_Excursions.md) | Detailed paleomagnetic methods and excursion catalog |
-| [O04 — Magnetosphere](../O_Earth_Anomalies/O04_Magnetosphere.md) | Earth's magnetic field structure and protective role |
-| [R05 — Mass Extinction](../R_Biology_Evolution/R05_Mass_Extinction.md) | Potential (weak) link between reversals and extinctions |
-| [R09 — Neanderthal](../R_Biology_Evolution/R09_Neanderthal.md) | Laschamp–Neanderthal extinction correlation (Adams Event) |
-| [S07 — Existential Risk](../S_Future_Technology/S07_Existential_Risk.md) | Geomagnetic reversal as potential technological risk |
+| [O04 — Magnetosphere](../O_Earth_Anomalies/O04_Magnetosphere_Solar_Activity.md) | Earth's magnetic field structure and protective role |
+| [R05 — Mass Extinction](../R_Biology_Evolution/R05_Mass_Extinction_Events.md) | Potential (weak) link between reversals and extinctions |
+| [R09 — Neanderthal](../R_Biology_Evolution/R09_Neanderthal_Cognition.md) | Laschamp–Neanderthal extinction correlation (Adams Event) |
+| [S07 — Existential Risk](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md) | Geomagnetic reversal as potential technological risk |
 | [E01 — Younger Dryas](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Near-contemporary climate event (~12,800 BP) |
 
 ---

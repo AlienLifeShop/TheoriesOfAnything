@@ -3,7 +3,7 @@
 > **Document ID:** E22
 > **Section:** E_Cataclysms_and_Chronology
 > **Keywords:** 536 CE, Late Antiquity Little Ice Age, LALIA, volcanic winter, Ilopango, Justinian Plague, bubonic plague, Procopius, tree rings, dendrochronology, climate catastrophe, crop failure, famine, fall of Rome, dark ages, Constantinople, Yersinia pestis, Roman Empire, medieval, Late Antiquity, ice cores
-> **Cross-References:** [E13](../E_Cataclysms_and_Chronology/E13_536_CE_Climate_Catastrophe.md) · [E09](../E_Cataclysms_and_Chronology/E09_Rise_Fall_Civilizations.md) · [G16](../G_Modern_Frameworks/G16_Systems_Collapse.md) · [O06](../O_Earth_Anomalies/O06_Supervolcanoes_Catastrophism.md) · [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md)
+> **Cross-References:** [E13](../E_Cataclysms_and_Chronology/E13_536_CE_Climate_Catastrophe.md) · [E09](../E_Cataclysms_and_Chronology/E09_Rise_Fall_Civilizations.md) · [G16](../G_Modern_Frameworks/G16_Systems_Collapse_Complexity_Theory.md) · [O06](../O_Earth_Anomalies/O06_Volcanism_Supervolcanoes.md) · [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md)
 > **Reliability Tier:** Tier 1–2 (volcanic events confirmed by ice cores and tree rings; specific eruption sources debated; civilizational impact supported but causation complex)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 11 scholarly sources | **Confidence:** High (climate events); Medium–High (civilizational consequences)
 
@@ -170,8 +170,8 @@ Identifying the specific volcano(es) responsible for the 536 and 540 CE climate 
 |-------------|-----------|
 | [E13 — 536 CE Climate Catastrophe](../E_Cataclysms_and_Chronology/E13_536_CE_Climate_Catastrophe.md) | Detailed treatment of the 536 CE event specifically |
 | [E09 — Rise/Fall of Civilizations](../E_Cataclysms_and_Chronology/E09_Rise_Fall_Civilizations.md) | Civilizational collapse and transition patterns |
-| [G16 — Systems Collapse](../G_Modern_Frameworks/G16_Systems_Collapse.md) | Multi-factor collapse theory applied to Late Antiquity |
-| [O06 — Supervolcanoes](../O_Earth_Anomalies/O06_Supervolcanoes_Catastrophism.md) | Volcanic climate forcing in historical context |
+| [G16 — Systems Collapse](../G_Modern_Frameworks/G16_Systems_Collapse_Complexity_Theory.md) | Multi-factor collapse theory applied to Late Antiquity |
+| [O06 — Supervolcanoes](../O_Earth_Anomalies/O06_Volcanism_Supervolcanoes.md) | Volcanic climate forcing in historical context |
 | [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) | Recurring civilizational catastrophe patterns |
 | [E23 — Black Death](../E_Cataclysms_and_Chronology/E23_Black_Death_Pandemic_Civilizational_Reset.md) | Later *Y. pestis* pandemic — comparison and continuity |
 

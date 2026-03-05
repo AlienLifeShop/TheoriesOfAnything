@@ -325,3 +325,10 @@ Modern archaeoastronomy emphasizes **statistical testing** of alignments to redu
 ---
 
 *E04 — Consolidated from Gemini/29, GPT5.2/29, Master/29, raptor/29 — February 2026*
+
+## Bibliography
+
+1. de Santillana, Giorgio and von Dechend, Hertha, "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth" (Gambit, 1969)
+2. Ulansey, David, "The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World" (Oxford University Press, 1989)
+3. Aveni, Anthony, "Skywatchers: A Revised and Updated Version of Skywatchers of Ancient Mexico" (University of Texas Press, 2001)
+4. Sellers, Jane B., "The Death of Gods in Ancient Egypt" (Penguin, 1992)

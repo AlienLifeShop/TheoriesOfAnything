@@ -3,7 +3,7 @@
 > **Document ID:** E20
 > **Section:** E_Cataclysms_and_Chronology
 > **Keywords:** Chicxulub, K-Pg boundary, Cretaceous, Paleogene, asteroid impact, iridium anomaly, Alvarez, mass extinction, dinosaurs, non-avian dinosaurs, Yucatan, shocked quartz, tektites, impact winter, Deccan Traps, cenotes, crater, bolide, ejecta, extinction event, 66 million years
-> **Cross-References:** [E02](../E_Cataclysms_and_Chronology/E02_Meteor_and_Asteroid_Impacts.md) · [R05](../R_Biology_Evolution/R05_Mass_Extinction.md) · [E07](../E_Cataclysms_and_Chronology/E07_Complete_Meteor_Impact_Catalog.md) · [O12](../O_Earth_Anomalies/O12_Cenotes.md)
+> **Cross-References:** [E02](../E_Cataclysms_and_Chronology/E02_Meteor_and_Asteroid_Impacts.md) · [R05](../R_Biology_Evolution/R05_Mass_Extinction_Events.md) · [E07](../E_Cataclysms_and_Chronology/E07_Complete_Meteor_Impact_Catalog.md) · [O12](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md)
 > **Reliability Tier:** Tier 1 (well-established science; some details of kill mechanism still debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 14 scholarly sources | **Confidence:** Very High (impact confirmed; extinction link established; Deccan interaction debated)
 
@@ -37,7 +37,7 @@ Approximately **66 million years ago**, at the boundary between the Cretaceous a
 | **Impact energy** | ~4.2 × 10²³ joules (~10¹⁰ tons TNT equivalent) |
 | **Discovery** | Antonio Camargo and Glen Penfield (1978, PEMEX geophysical survey); linked to K-Pg by Alan Hildebrand (1991) |
 
-- The crater rim is marked by a **ring of cenotes** (sinkholes) visible in satellite imagery → [O12](../O_Earth_Anomalies/O12_Cenotes.md)
+- The crater rim is marked by a **ring of cenotes** (sinkholes) visible in satellite imagery → [O12](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md)
 - **IODP Expedition 364** (2016): drilled into the peak ring, recovering core samples confirming impact origin (shocked minerals, melt rock, suevite)
 
 ### 1.3 Global Impact Evidence [5/5 sources]
@@ -179,11 +179,11 @@ Approximately **66 million years ago**, at the boundary between the Cretaceous a
 | Related Doc | Connection |
 |-------------|-----------|
 | [E02 — Meteor and Asteroid Impacts](../E_Cataclysms_and_Chronology/E02_Meteor_and_Asteroid_Impacts.md) | General impact science and history |
-| [R05 — Mass Extinction](../R_Biology_Evolution/R05_Mass_Extinction.md) | The "Big Five" mass extinctions — K-Pg is #5 |
+| [R05 — Mass Extinction](../R_Biology_Evolution/R05_Mass_Extinction_Events.md) | The "Big Five" mass extinctions — K-Pg is #5 |
 | [E07 — Impact Catalog](../E_Cataclysms_and_Chronology/E07_Complete_Meteor_Impact_Catalog.md) | Complete catalog of confirmed impact structures |
-| [O12 — Cenotes](../O_Earth_Anomalies/O12_Cenotes.md) | Cenote ring tracing Chicxulub crater rim |
+| [O12 — Cenotes](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md) | Cenote ring tracing Chicxulub crater rim |
 | [E21 — Permian-Triassic](../E_Cataclysms_and_Chronology/E21_Permian_Triassic_Great_Dying.md) | Comparison with even larger extinction event |
-| [S07 — Existential Risk](../S_Future_Technology/S07_Existential_Risk.md) | Impact events as existential risks to civilization |
+| [S07 — Existential Risk](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md) | Impact events as existential risks to civilization |
 
 ---
 

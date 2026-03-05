@@ -127,14 +127,14 @@ Recent climate modeling has **revised downward** the estimated climate impact of
 
 | Document | Connection |
 |----------|------------|
-| [O06 — Supervolcanoes](../O_Earth_Anomalies/O06_Supervolcanoes_Catastrophism.md) | Supervolcanic eruptions and catastrophism |
-| [E01 — Flood Myths](../E_Cataclysms_and_Chronology/E01_Flood_Myths_Cataclysms.md) | Cataclysmic events in collective memory |
-| [L01 — Human Origins](../L_Genetics_Origins/L01_Human_Origins_DNA.md) | Genetic bottleneck evidence |
-| [L02 — Mitochondrial DNA](../L_Genetics_Origins/L02_Mitochondrial_Eve.md) | MtDNA diversity and common ancestor |
-| [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Myths.md) | Catastrophe in mythological frameworks |
+| [O06 — Supervolcanoes](../O_Earth_Anomalies/O06_Volcanism_Supervolcanoes.md) | Supervolcanic eruptions and catastrophism |
+| [E01 — Flood Myths](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Cataclysmic events in collective memory |
+| [L01 — Human Origins](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Genetic bottleneck evidence |
+| [L02 — Mitochondrial DNA](../L_Genetics_Origins/L04_Mitochondrial_Eve_Y_Adam.md) | MtDNA diversity and common ancestor |
+| [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) | Catastrophe in mythological frameworks |
 | [S10 — Climate Change](../S_Future_Technology/S10_Climate_Change_Civilization_Deep_Time.md) | Volcanic climate forcing in deep time |
-| [R06 — Human Evolution](../R_Biology_Evolution/R06_Human_Evolution_Speciation.md) | Bottleneck impact on human evolution |
-| [O01 — Earth Anomalies Overview](../O_Earth_Anomalies/O01_Earth_Anomalies_Overview.md) | Geological catastrophism |
+| [R06 — Human Evolution](../R_Biology_Evolution/R06_Gaia_Theory.md) | Bottleneck impact on human evolution |
+| [O01 — Earth Anomalies Overview](../O_Earth_Anomalies/O01_Ley_Lines_Earth_Grid.md) | Geological catastrophism |
 | [E18 — Ice Age Civilizations](E18_Ice_Age_Civilizations_LGM.md) | Human complexity during Ice Age conditions |
 
 ---

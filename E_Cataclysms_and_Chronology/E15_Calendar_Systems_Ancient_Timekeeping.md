@@ -502,6 +502,18 @@ This document synthesizes well-established historical, archaeological, and astro
 
 ## Bibliography
 
-- Dieterlen. *Le Renard Pâle*. 1965.
-- Subbarayappa. *The Tradition of Astronomy in India*. 2008.
-- Tedlock. *Time and the Highland Maya*. 1982.
+1. Parker, Richard A. *The Calendars of Ancient Egypt*. Studies in Ancient Oriental Civilization 26. University of Chicago Press, 1950.
+2. Hunger, Hermann & Pingree, David. *MUL.APIN: An Astronomical Compendium in Cuneiform*. Archiv für Orientforschung, Beiheft 24, 1989.
+3. Aveni, Anthony F. *Skywatchers of Ancient Mexico*. University of Texas Press, 1980 (rev. ed. 2001).
+4. Reiner, Erica & Pingree, David. *Babylonian Planetary Omens*. 4 vols. Bibliotheca Mesopotamica, 1975–2005.
+5. Tedlock, Barbara. *Time and the Highland Maya*. University of New Mexico Press, 1982.
+6. Talmon, Shemaryahu. *The World of Qumran from Within*. Magnes Press / Brill, 1989.
+7. de Santillana, Giorgio & von Dechend, Hertha. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969.
+8. Malville, J. McKim et al. "Megaliths and Neolithic Astronomy in Southern Egypt." *Nature* 392 (1998): 488–491.
+9. Britton, John P. "Studies in Babylonian Lunar Theory." *Journal for the History of Astronomy* 38 (2007).
+10. Sweatman, Martin B. & Tsikritsis, Dimitrios. "Decoding Göbekli Tepe with Archaeoastronomy." *Mediterranean Archaeology and Archaeometry* 17.1 (2017): 233–250.
+11. Parker Pearson, Mike. *Stonehenge: Exploring the Greatest Stone Age Mystery*. Simon & Schuster, 2012.
+12. Subbarayappa, B.V. *The Tradition of Astronomy in India*. History of Science, Philosophy and Culture in Indian Civilization, Vol. IV, Part 4, 2008.
+13. Griaule, Marcel & Dieterlen, Germaine. *Le Renard Pâle*. Institut d'Ethnologie, 1965.
+14. Hawkins, Gerald. *Stonehenge Decoded*. Doubleday, 1965.
+15. Milbrath, Susan. *Star Gods of the Maya*. University of Texas Press, 1999.

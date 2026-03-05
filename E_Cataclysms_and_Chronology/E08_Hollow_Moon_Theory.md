@@ -385,3 +385,10 @@ This document provides a **dedicated deep dive** into the "Hollow Moon" question
 ---
 
 *E08 — Deep Scan Expansion Document — February 2026*
+
+## Bibliography
+
+1. Vasin, Mikhail and Shcherbakov, Alexander, "Is the Moon the Creation of Alien Intelligence?" (Sputnik, 1970)
+2. Wilson, Don, "Our Mysterious Spaceship Moon" (Dell, 1975)
+3. Weber, Renee C. et al., "Seismic Detection of the Lunar Core" (Science, 2011)
+4. Zuber, Maria T. et al., "Gravity Field of the Moon from the Gravity Recovery and Interior Laboratory (GRAIL) Mission" (Science, 2013)

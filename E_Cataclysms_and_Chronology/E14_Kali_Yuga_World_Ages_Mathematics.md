@@ -502,4 +502,11 @@ The mathematical data is entirely verifiable in primary sources. The cross-cultu
 
 ## Bibliography
 
-- Yukteswar. *The Holy Science*. 1894.
+1. de Santillana, Giorgio & von Dechend, Hertha. *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth*. Gambit, 1969.
+2. Sri Yukteswar Giri. *The Holy Science (Kaivalya Darshanam)*. 1894.
+3. Eliade, Mircea. *The Myth of the Eternal Return*. Bollingen Series XLVI, Pantheon Books, 1954 (orig. 1949).
+4. Hancock, Graham. *Fingerprints of the Gods*. Crown, 1995.
+5. Jenkins, John Major. *Maya Cosmogenesis 2012*. Bear & Company, 1998.
+6. Pingree, David. "Astronomy and Astrology in India and Iran." *Isis* 54 (1963): 229–246.
+7. Tedlock, Dennis (trans.). *Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life*. Simon & Schuster, 1985.
+8. Sturluson, Snorri. *Prose Edda*. c. 1220 CE. Trans. Anthony Faulkes, Everyman, 1987.

@@ -3,7 +3,7 @@
 > **Document ID:** E24
 > **Section:** E_Cataclysms_and_Chronology
 > **Keywords:** Tunguska, 1908, airburst, asteroid, comet, Siberia, Chelyabinsk, 2013, Shoemaker-Levy 9, near-Earth object, NEO, planetary defense, impact hazard, bolide, fireball, atmospheric explosion, megatons, forest flattening, 2019 OK, DART, asteroid detection
-> **Cross-References:** [E02](../E_Cataclysms_and_Chronology/E02_Meteor_and_Asteroid_Impacts.md) · [E07](../E_Cataclysms_and_Chronology/E07_Complete_Meteor_Impact_Catalog.md) · [S15](../S_Future_Technology/S15_Planetary_Defense.md) · [S07](../S_Future_Technology/S07_Existential_Risk.md)
+> **Cross-References:** [E02](../E_Cataclysms_and_Chronology/E02_Meteor_and_Asteroid_Impacts.md) · [E07](../E_Cataclysms_and_Chronology/E07_Complete_Meteor_Impact_Catalog.md) · [S15](../S_Future_Technology/S15_Asteroid_Deflection_Planetary_Defense.md) · [S07](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md)
 > **Reliability Tier:** Tier 1–2 (Tunguska and Chelyabinsk events well-documented; Tunguska mechanism still debated in detail; planetary defense is active engineering field)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 12 scholarly sources | **Confidence:** Very High (events occurred); High (general mechanism); Medium (exact Tunguska impactor composition)
 
@@ -127,7 +127,7 @@ On **June 30, 1908**, an atmospheric explosion over the **Podkamennaya Tunguska 
 
 - A Tunguska-scale airburst over a major city would cause **millions of casualties** and damage worth hundreds of billions of dollars
 - If ocean impact: potential for localized tsunamis (depending on depth and size)
-- A Chicxulub-scale impact today would end technological civilization — this is the existential risk that drives planetary defense investment → [S07](../S_Future_Technology/S07_Existential_Risk.md)
+- A Chicxulub-scale impact today would end technological civilization — this is the existential risk that drives planetary defense investment → [S07](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md)
 
 ---
 
@@ -181,8 +181,8 @@ On **June 30, 1908**, an atmospheric explosion over the **Podkamennaya Tunguska 
 |-------------|-----------|
 | [E02 — Meteor and Asteroid Impacts](../E_Cataclysms_and_Chronology/E02_Meteor_and_Asteroid_Impacts.md) | General impact science and history |
 | [E07 — Impact Catalog](../E_Cataclysms_and_Chronology/E07_Complete_Meteor_Impact_Catalog.md) | Complete catalog of known impact structures |
-| [S15 — Planetary Defense](../S_Future_Technology/S15_Planetary_Defense.md) | Active defense strategies and technology |
-| [S07 — Existential Risk](../S_Future_Technology/S07_Existential_Risk.md) | Impact events as existential risk category |
+| [S15 — Planetary Defense](../S_Future_Technology/S15_Asteroid_Deflection_Planetary_Defense.md) | Active defense strategies and technology |
+| [S07 — Existential Risk](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md) | Impact events as existential risk category |
 | [E20 — Chicxulub](../E_Cataclysms_and_Chronology/E20_Chicxulub_Impact_KPg_Boundary.md) | Large-scale impact comparison — extinction-level event |
 
 ---

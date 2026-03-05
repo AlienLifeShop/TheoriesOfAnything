@@ -290,3 +290,10 @@ The strongest chronological arguments use **multiple independent methods** conve
 
 *E05 — Source: Claude/58 — February 2026*
 *Updated: Deep Scan expansion — added complementary dating methods table, multi-method assessment for project sites*
+
+## Bibliography
+
+1. Bowman, Sheridan, "Radiocarbon Dating" (University of California Press, 1990)
+2. Taylor, R.E. and Bar-Yosef, Ofer, "Radiocarbon Dating: An Archaeological Perspective" (Left Coast Press, 2014)
+3. Reimer, Paula J. et al., "The IntCal20 Northern Hemisphere Radiocarbon Age Calibration Curve (0-55 cal kBP)" (Radiocarbon, 2020)
+4. Aitken, M.J., "Science-Based Dating in Archaeology" (Longman, 1990)

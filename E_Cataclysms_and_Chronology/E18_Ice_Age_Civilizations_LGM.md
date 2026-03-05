@@ -128,15 +128,15 @@ The **Beringian Standstill Model** (Tamm et al., 2007) proposes that the ancesto
 
 | Document | Connection |
 |----------|------------|
-| [C34 — Paleolithic Religion](../C_Global_Traditions/C34_Paleolithic_Religion_Cave_Art.md) | Cave art and Upper Paleolithic cognition |
+| [C34 — Paleolithic Religion](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md) | Cave art and Upper Paleolithic cognition |
 | [D01 — Göbekli Tepe](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) | Pre-agricultural monumental architecture |
-| [E01 — Flood Myths](E01_Flood_Myths_Cataclysms.md) | Post-glacial sea level rise → flood traditions |
-| [F05 — Trans-Oceanic Contact](../F_Lost_Connections/F05_Trans_Oceanic_Contact_Theories.md) | Ice Age migration and contact |
-| [L01 — Human Origins](../L_Genetics_Origins/L01_Human_Origins_DNA.md) | Population genetics during LGM |
-| [M01 — Forbidden Archaeology](../M_Forbidden_Archaeology/M01_Forbidden_Archaeology_Overview.md) | Anomalous dating claims and suppression thesis |
+| [E01 — Flood Myths](E01_Younger_Dryas_Impact.md) | Post-glacial sea level rise → flood traditions |
+| [F05 — Trans-Oceanic Contact](../F_Lost_Connections/F05_Ancient_Maritime_Technology.md) | Ice Age migration and contact |
+| [L01 — Human Origins](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Population genetics during LGM |
+| [M01 — Forbidden Archaeology](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Anomalous dating claims and suppression thesis |
 | [E17 — Toba Supervolcano](E17_Toba_Supervolcano_Genetic_Bottleneck.md) | Population bottleneck during Ice Age |
-| [D05 — Megalithic Structures](../D_Sites_and_Artifacts/D05_Megalithic_Structures.md) | Post-Ice Age monumental construction |
-| [E09 — Younger Dryas](E09_Younger_Dryas.md) | Climate catastrophe at end of Ice Age |
+| [D05 — Megalithic Structures](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Post-Ice Age monumental construction |
+| [E09 — Younger Dryas](E09_Rise_Fall_Civilizations.md) | Climate catastrophe at end of Ice Age |
 
 ---
 

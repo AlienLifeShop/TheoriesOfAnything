@@ -388,4 +388,16 @@ A synthetic review collating multiple lines of critical evidence — chronology,
 
 ## Bibliography
 
-- Clube & Napier. *The Cosmic Serpent*. 1982.
+1. Firestone, R.B., West, A., Kennett, J.P. et al. "Evidence for an Extraterrestrial Impact 12,900 Years Ago That Contributed to the Megafaunal Extinctions and the Younger Dryas Cooling." *PNAS* 104.41 (2007): 16016–16021.
+2. Kennett, D.J., Kennett, J.P., West, A. et al. "Shock-Synthesized Hexagonal Diamonds in Younger Dryas Boundary Sediments." *PNAS* 106.31 (2009): 12623–12628.
+3. Surovell, T.A. et al. "An Independent Evaluation of the Younger Dryas Extraterrestrial Impact Hypothesis." *PNAS* 106 (2009): 18155–18158.
+4. Daulton, T.L., Pinter, N. & Scott, A.C. "No Evidence of Nanodiamonds in Younger–Dryas Sediments to Support an Impact Event." *PNAS* 107 (2010): 16043–16047.
+5. Moore, C.R., West, A., LeCompte, M.A. et al. "Widespread Platinum Anomaly Documented at the Younger Dryas Onset in North American Sedimentary Sequences." *Scientific Reports* 7 (2017): 44031.
+6. Moore, A.M.T., Kennett, J.P., Napier, W.M. et al. "Evidence of Cosmic Impact at Abu Hureyra, Syria at the Younger Dryas Onset (~12.8 ka)." *Scientific Reports* 10 (2020): 4185.
+7. Holliday, V.T., Daulton, T.L. et al. "Comprehensive Refutation of the Younger Dryas Impact Hypothesis (YDIH)." *Earth-Science Reviews* 247 (2023): 104502.
+8. Sweatman, M.B. "The Younger Dryas Impact Hypothesis: Review of the Impact Evidence." *Earth-Science Reviews* (2021).
+9. Pino, M. et al. "Sedimentary Record from Patagonia, Southern Chile Supports Cosmic-Impact Triggering of Biomass Burning." *Scientific Reports* 9 (2019): 4413.
+10. Kjær, K.H. et al. "A Large Impact Crater beneath Hiawatha Glacier in Northwest Greenland." *Science Advances* 4.11 (2018).
+11. Clube, Victor & Napier, Bill. *The Cosmic Serpent: A Catastrophist Manifesto*. 1982.
+12. Bunch, T.E. et al. "A Tunguska-Sized Airburst Destroyed Tall el-Hammam." *Scientific Reports* 11 (2021): 18632.
+13. Wu, Qinglong et al. "Outburst Flood at 1920 BCE Supports Historicity of China's Great Flood and the Xia Dynasty." *Science* 353.6299 (2016): 579–582.

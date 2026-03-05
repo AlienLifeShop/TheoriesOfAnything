@@ -523,3 +523,10 @@ This document is a **comprehensive catalog** of every known, suspected, and myth
 ---
 
 *E07 — Deep Scan Expansion Document — February 2026*
+
+## Bibliography
+
+1. French, Bevan M., "Traces of Catastrophe: A Handbook of Shock-Metamorphic Effects in Terrestrial Meteorite Impact Structures" (Lunar and Planetary Institute, 1998)
+2. Alvarez, Walter, "T. Rex and the Crater of Doom" (Princeton University Press, 1997)
+3. Clube, Victor and Napier, Bill, "The Cosmic Winter" (Blackwell, 1990)
+4. Bunch, Ted E. et al., "A Tunguska Sized Airburst Destroyed Tall el-Hammam" (Scientific Reports, 2021)

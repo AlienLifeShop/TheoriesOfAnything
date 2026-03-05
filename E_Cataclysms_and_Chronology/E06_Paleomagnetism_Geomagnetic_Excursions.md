@@ -314,5 +314,18 @@ Reliable radiometric and crater dating helps distinguish point-source impacts fr
 
 ---
 
+## Bibliography
+
+1. Cooper, A. et al. "A Global Environmental Crisis 42,000 Years Ago." *Science* 371.6531 (2021): 811–818.
+2. Channell, J.E.T. et al. "Geomagnetic Paleointensity for the Last 100 Kyr from the North Atlantic." *Earth and Planetary Science Letters* 276.1–2 (2009): 80–90.
+3. Bonhommet, N. & Babkine, J. "Sur la présence d'aimantations inversées dans la Chaîne des Puys." *Comptes Rendus de l'Académie des Sciences* 264 (1967): 92–94.
+4. Merrill, R.T., McElhinny, M.W. & McFadden, P.L. *The Magnetic Field of the Earth.* San Diego: Academic Press, 1996.
+5. Tauxe, L. *Essentials of Paleomagnetism.* Berkeley: University of California Press, 2010.
+6. Constable, C.G. & Korte, M. "Is Earth's Magnetic Field Reversing?" *Earth and Planetary Science Letters* 246.1–2 (2006): 1–16.
+7. Liddicoat, J.C. & Coe, R.S. "Mono Lake Geomagnetic Excursion." *Journal of Geophysical Research* 84.B1 (1979): 261–271.
+8. Mörner, N.-A. "The Gothenburg Magnetic Excursion." *Quaternary Research* 7.3 (1977): 413–427.
+
+---
+
 *E06 — Source: Claude/57 — February 2026*
 *Updated: February 21, 2026 — SAA twin-lobe splitting + Swarm data; Laschamp/Adams Event critique; biological effects chain; archaeomagnetic dating applications*

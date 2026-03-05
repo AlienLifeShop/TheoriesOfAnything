@@ -409,4 +409,14 @@ This document synthesizes material from multiple domains:
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. de Santillana, Giorgio & von Dechend, Hertha. *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth*. Gambit, 1969.
+2. Thompson, J. Eric S. *Maya Hieroglyphic Writing: An Introduction*. Carnegie Institution of Washington, 1950.
+3. Aveni, Anthony F. *Skywatchers of Ancient Mexico*. University of Texas Press, 1980 (rev. ed. 2001).
+4. Baillie, M.G.L. *Exodus to Arthur: Catastrophic Encounters with Comets*. B.T. Batsford, 1999.
+5. Dee, M.W. et al. "An Absolute Chronology for Early Egypt Using Radiocarbon Dating and Bayesian Statistical Modelling." *Proceedings of the Royal Society A* 469 (2013).
+6. Roullier, Caroline et al. "Historical Collections Reveal Patterns of Diffusion of Sweet Potato in Oceania Obscured by Modern Plant Movements and Recombination." *PNAS* 110.6 (2013): 2205–2210.
+7. Raghavan, Maanasa et al. "Genomic Evidence for the Pleistocene and Recent Population History of Native Americans." *Science* 349.6250 (2015).
+8. Moreno-Mayar, J. Víctor et al. "Terminal Pleistocene Alaskan Genome Reveals First Founding Population of Native Americans." *Nature* 553 (2018): 203–207.
+9. Vansina, Jan. *Oral Tradition as History*. University of Wisconsin Press, 1985.
+10. Campbell, Lyle & Poser, William J. *Language Classification: History and Method*. Cambridge University Press, 2008.
+11. van der Waerden, B.L. "The Great Year in Greek, Persian, and Hindu Astronomy." *Archive for History of Exact Sciences* 18.2 (1978): 119–140.

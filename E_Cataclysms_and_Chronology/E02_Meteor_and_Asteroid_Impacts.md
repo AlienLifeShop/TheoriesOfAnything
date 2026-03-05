@@ -345,3 +345,10 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 
 *E02 — Consolidated from Gemini/24, GPT5.2/24, Master/24, raptor/24 + Deep Scan — February 2026*
 *Updated: February 21, 2026 — Added OSIRIS-REx Bennu sample return (2023), Apophis 2029 flyby, NEO Surveyor update*
+
+## Bibliography
+
+1. Alvarez, Luis W. et al., "Extraterrestrial Cause for the Cretaceous-Tertiary Extinction" (Science, 1980)
+2. Firestone, Richard B. et al., "The Cycle of Cosmic Catastrophes: Flood, Fire, and Famine in the History of Civilization" (Bear and Company, 2006)
+3. Schulte, Peter et al., "The Chicxulub Asteroid Impact and Mass Extinction at the Cretaceous-Paleogene Boundary" (Science, 2010)
+4. Clube, Victor and Napier, Bill, "The Cosmic Serpent: A Catastrophist View of Earth History" (Universe Books, 1982)

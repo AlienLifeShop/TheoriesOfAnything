@@ -3,7 +3,7 @@
 > **Document ID:** E23
 > **Section:** E_Cataclysms_and_Chronology
 > **Keywords:** Black Death, bubonic plague, Yersinia pestis, pandemic, 1347, medieval, Europe, Silk Road, Caffa, biological warfare, pneumonic plague, septicemic plague, serfdom, labor shortage, flagellants, antisemitism, Danse Macabre, Renaissance, population collapse, plague recurrence, Great Plague of London
-> **Cross-References:** [E09](../E_Cataclysms_and_Chronology/E09_Rise_Fall_Civilizations.md) · [G16](../G_Modern_Frameworks/G16_Systems_Collapse.md) · [S07](../S_Future_Technology/S07_Existential_Risk.md) · [F11](../F_Lost_Connections/F11_Silk_Road.md) · [S14](../S_Future_Technology/S14_Pandemic_Risk.md)
+> **Cross-References:** [E09](../E_Cataclysms_and_Chronology/E09_Rise_Fall_Civilizations.md) · [G16](../G_Modern_Frameworks/G16_Systems_Collapse_Complexity_Theory.md) · [S07](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md) · [F11](../F_Lost_Connections/F11_Silk_Road_Knowledge_Exchange.md) · [S14](../S_Future_Technology/S14_Pandemic_Risk_Ancient_Plagues.md)
 > **Reliability Tier:** Tier 1–2 (pandemic is extremely well-documented; exact mortality figures debated; causation of social consequences debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 13 scholarly sources | **Confidence:** Very High (pandemic occurrence and scale); High (social and economic consequences); Medium (exact mortality, Caffa origin story)
 
@@ -184,10 +184,10 @@ The **Black Death** (1347–1353 CE) was the most devastating pandemic in record
 | Related Doc | Connection |
 |-------------|-----------|
 | [E09 — Rise/Fall of Civilizations](../E_Cataclysms_and_Chronology/E09_Rise_Fall_Civilizations.md) | Pandemic as driver of civilizational transformation |
-| [G16 — Systems Collapse](../G_Modern_Frameworks/G16_Systems_Collapse.md) | Multi-factor collapse framework applied to late medieval Europe |
-| [S07 — Existential Risk](../S_Future_Technology/S07_Existential_Risk.md) | Pandemic risk as existential/catastrophic threat |
-| [F11 — Silk Road](../F_Lost_Connections/F11_Silk_Road.md) | Trade routes as pathways for pathogen transmission |
-| [S14 — Pandemic Risk](../S_Future_Technology/S14_Pandemic_Risk.md) | Modern pandemic preparedness and lessons from history |
+| [G16 — Systems Collapse](../G_Modern_Frameworks/G16_Systems_Collapse_Complexity_Theory.md) | Multi-factor collapse framework applied to late medieval Europe |
+| [S07 — Existential Risk](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md) | Pandemic risk as existential/catastrophic threat |
+| [F11 — Silk Road](../F_Lost_Connections/F11_Silk_Road_Knowledge_Exchange.md) | Trade routes as pathways for pathogen transmission |
+| [S14 — Pandemic Risk](../S_Future_Technology/S14_Pandemic_Risk_Ancient_Plagues.md) | Modern pandemic preparedness and lessons from history |
 | [E22 — Late Antiquity Little Ice Age](../E_Cataclysms_and_Chronology/E22_Late_Antiquity_Little_Ice_Age.md) | Earlier *Y. pestis* pandemic (Justinian Plague) — comparison |
 
 ---

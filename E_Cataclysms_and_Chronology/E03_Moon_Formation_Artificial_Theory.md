@@ -357,3 +357,10 @@ This near-perfect match enables total solar eclipses where the Moon precisely co
 
 *E03 — Consolidated from Claude/20, Gemini/20, GPT5.2/20, Master/20, raptor/20 — February 2026*
 *Updated: February 21, 2026 — Added Kegerreis 2022 rapid formation simulation; expanded Chang'e 5 (2020) sample results; added Chang'e 6 (2024) far-side sample return*
+
+## Bibliography
+
+1. Hartmann, William K. and Davis, Donald R., "Satellite-Sized Planetesimals and Lunar Origin" (Icarus, 1975)
+2. Ward, Peter D. and Brownlee, Donald, "Rare Earth: Why Complex Life Is Uncommon in the Universe" (Copernicus, 2000)
+3. Canup, Robin M., "Simulations of a Late Lunar-Forming Impact" (Icarus, 2004)
+4. Zuber, Maria T. et al., "Gravity Field of the Moon from the GRAIL Mission" (Science, 2013)

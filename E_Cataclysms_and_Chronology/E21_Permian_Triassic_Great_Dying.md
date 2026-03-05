@@ -3,7 +3,7 @@
 > **Document ID:** E21
 > **Section:** E_Cataclysms_and_Chronology
 > **Keywords:** Permian, Triassic, Great Dying, mass extinction, Siberian Traps, volcanism, 252 million years, ocean anoxia, acid rain, ozone depletion, methane, CO2, global warming, fungal spike, Pangaea, therapsids, recovery, climate change, extinction event
-> **Cross-References:** [R05](../R_Biology_Evolution/R05_Mass_Extinction.md) · [E07](../E_Cataclysms_and_Chronology/E07_Complete_Meteor_Impact_Catalog.md) · [O06](../O_Earth_Anomalies/O06_Supervolcanoes_Catastrophism.md) · [S07](../S_Future_Technology/S07_Existential_Risk.md) · [Q14](../Q_Cosmology_Physics/Q14_Fate_of_Universe.md)
+> **Cross-References:** [R05](../R_Biology_Evolution/R05_Mass_Extinction_Events.md) · [E07](../E_Cataclysms_and_Chronology/E07_Complete_Meteor_Impact_Catalog.md) · [O06](../O_Earth_Anomalies/O06_Volcanism_Supervolcanoes.md) · [S07](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md) · [Q14](../Q_Cosmology_Physics/Q14_Fate_of_Universe.md)
 > **Reliability Tier:** Tier 1–2 (extinction is well-documented; specific kill mechanisms and sequence still debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 12 scholarly sources | **Confidence:** Very High (extinction magnitude); High (Siberian Traps as primary cause); Medium (detailed kill sequence)
 
@@ -115,7 +115,7 @@ Approximately **252 million years ago**, at the boundary between the Permian and
 - The **same fundamental mechanism** (CO₂-driven warming → ocean acidification → anoxia) is operating today, though at a much smaller scale and faster rate
 - Rate of CO₂ increase today may actually **exceed** the P-T rate (Cui et al., 2021) — raising concern about rate-dependent kill mechanisms
 - Ocean "dead zones" are already expanding in modern oceans (anoxia is increasing)
-- The P-T extinction is increasingly cited in climate policy discussions as a deep-time analogue for unmitigated emissions → [S07](../S_Future_Technology/S07_Existential_Risk.md)
+- The P-T extinction is increasingly cited in climate policy discussions as a deep-time analogue for unmitigated emissions → [S07](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md)
 
 ---
 
@@ -169,10 +169,10 @@ Approximately **252 million years ago**, at the boundary between the Permian and
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [R05 — Mass Extinction](../R_Biology_Evolution/R05_Mass_Extinction.md) | The "Big Five" extinctions — P-T is #3 chronologically but #1 in severity |
+| [R05 — Mass Extinction](../R_Biology_Evolution/R05_Mass_Extinction_Events.md) | The "Big Five" extinctions — P-T is #3 chronologically but #1 in severity |
 | [E07 — Impact Catalog](../E_Cataclysms_and_Chronology/E07_Complete_Meteor_Impact_Catalog.md) | Possible (unconfirmed) impact contribution |
-| [O06 — Supervolcanoes](../O_Earth_Anomalies/O06_Supervolcanoes_Catastrophism.md) | Siberian Traps as largest flood basalt province |
-| [S07 — Existential Risk](../S_Future_Technology/S07_Existential_Risk.md) | P-T extinction as deep-time analogue for climate change risk |
+| [O06 — Supervolcanoes](../O_Earth_Anomalies/O06_Volcanism_Supervolcanoes.md) | Siberian Traps as largest flood basalt province |
+| [S07 — Existential Risk](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md) | P-T extinction as deep-time analogue for climate change risk |
 | [Q14 — Fate of Universe](../Q_Cosmology_Physics/Q14_Fate_of_Universe.md) | Long-term planetary habitability |
 | [E20 — Chicxulub](../E_Cataclysms_and_Chronology/E20_Chicxulub_Impact_KPg_Boundary.md) | Comparison: impact vs. volcanic extinction |
 
