@@ -3,7 +3,7 @@
 > **Document ID:** U02
 > **Section:** U_Art_Music_Culture
 > **Keywords:** sacred dance, Sufi whirling, sema, Bharatanatyam, Sun Dance, shamanic dance, ritual movement, trance, possession dance, entrainment, Morris dance, Butoh, corroboree, liturgical movement
-> **Cross-References:** [K10](../K_Consciousness/K10_Meditation_Neuroscience.md) · [C105](../C_Global_Traditions/C105_Sacred_Sexuality_Hieros_Gamos.md) · [N18](../N_Secret_Societies/N18_Gurdjieff_Fourth_Way.md) · [C111](../C_Global_Traditions/C111_Pygmy_Mbuti_Forest_Cosmology.md) · [K30](../K_Consciousness/K30_Mystical_Experience_Neuroscience.md)
+> **Cross-References:** [K10](../K_Consciousness/K08_Meditation_Neuroplasticity.md) · [C105](../C_Global_Traditions/C105_Sacred_Sexuality_Hieros_Gamos_Fertility_Cults.md) · [N18](../N_Secret_Societies/N18_Gurdjieff_Fourth_Way.md) · [C111](../C_Global_Traditions/C111_Pygmy_Mbuti_BaAka_Forest_Cosmology.md) · [K30](../K_Consciousness/K30_Mystical_Experience_Neuroscience.md)
 > **Reliability Tier:** Tier 1-2 (ethnographic documentation solid; altered-state mechanisms partially understood)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High
 
@@ -133,10 +133,10 @@ Sacred dance represents one of humanity's oldest and most widespread forms of re
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K10 — Meditation Neuroscience](../K_Consciousness/K10_Meditation_Neuroscience.md) | Rhythmic entrainment and altered-state mechanisms |
-| [C105 — Sacred Sexuality](../C_Global_Traditions/C105_Sacred_Sexuality_Hieros_Gamos.md) | Dance as embodied ritual connecting desire and the sacred |
+| [K10 — Meditation Neuroscience](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Rhythmic entrainment and altered-state mechanisms |
+| [C105 — Sacred Sexuality](../C_Global_Traditions/C105_Sacred_Sexuality_Hieros_Gamos_Fertility_Cults.md) | Dance as embodied ritual connecting desire and the sacred |
 | [N18 — Gurdjieff](../N_Secret_Societies/N18_Gurdjieff_Fourth_Way.md) | Sacred Movements as embodied mindfulness exercises |
-| [C111 — Mbuti Forest Cosmology](../C_Global_Traditions/C111_Pygmy_Mbuti_Forest_Cosmology.md) | Molimo dance as cosmic communication |
+| [C111 — Mbuti Forest Cosmology](../C_Global_Traditions/C111_Pygmy_Mbuti_BaAka_Forest_Cosmology.md) | Molimo dance as cosmic communication |
 | [K30 — Mystical Experience](../K_Consciousness/K30_Mystical_Experience_Neuroscience.md) | Dance-induced numinous states |
 | [U04 — Sacred Music](U04_Sacred_Music_Chant_Raga_Acoustic_Theology.md) | Music and dance as inseparable in ritual |
 | [C104 — Sacrifice](../C_Global_Traditions/C104_Sacrifice_Offering_Across_Civilizations.md) | Sun Dance as sacrificial dance ritual |

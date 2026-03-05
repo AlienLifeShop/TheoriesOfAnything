@@ -3,7 +3,7 @@
 > **Document ID:** U06
 > **Section:** U_Art_Music_Culture
 > **Keywords:** cultural evolution, dual inheritance, gene-culture coevolution, cumulative culture, Boyd Richerson, memetics, prestige bias, conformity bias, cultural group selection, WEIRD, cultural phylogenetics, niche construction, cultural ratchet
-> **Cross-References:** [G29](../G_Modern_Frameworks/G29_Memetics_Cultural_Evolution.md) · [R01](../R_Biology_Evolution/R01_Darwin_Evolution_Overview.md) · [T06](../T_Psychology_Social/T06_Cross_Cultural_Psychology.md) · [G12](../G_Modern_Frameworks/G12_Evolutionary_Dynamics.md) · [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md)
+> **Cross-References:** [G29](../G_Modern_Frameworks/G29_Memetics_Cultural_Evolution.md) · [R01](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) · [T06](../T_Psychology_Social/T06_Cross_Cultural_Psychology.md) · [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) · [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md)
 > **Reliability Tier:** Tier 1-2 (theoretical framework well-established; specific mechanisms debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
 
@@ -132,9 +132,9 @@ Cultural evolution theory applies Darwinian principles — variation, selection,
 | Related Doc | Connection |
 |-------------|-----------|
 | [G29 — Memetics](../G_Modern_Frameworks/G29_Memetics_Cultural_Evolution.md) | Dawkins's meme theory vs Boyd-Richerson population-level approach |
-| [R01 — Darwin & Evolution](../R_Biology_Evolution/R01_Darwin_Evolution_Overview.md) | Darwinian framework applied to cultural change |
+| [R01 — Darwin & Evolution](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) | Darwinian framework applied to cultural change |
 | [T06 — Cross-Cultural Psychology](../T_Psychology_Social/T06_Cross_Cultural_Psychology.md) | WEIRD problem and cultural variation in cognition |
-| [G12 — Evolutionary Dynamics](../G_Modern_Frameworks/G12_Evolutionary_Dynamics.md) | Mathematical models of selection and drift |
+| [G12 — Evolutionary Dynamics](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) | Mathematical models of selection and drift |
 | [L14 — Domestication Genetics](../L_Genetics_Origins/L14_Domestication_Genetics.md) | Gene-culture coevolution in domestication |
 | [R30 — Self-Domestication](../R_Biology_Evolution/R30_Self_Domestication.md) | Cultural self-domestication of Homo sapiens |
 | [R27 — Altruism](../R_Biology_Evolution/R27_Altruism_Cooperation.md) | Cultural group selection and prosociality |

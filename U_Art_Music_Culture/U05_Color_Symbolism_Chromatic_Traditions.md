@@ -3,7 +3,7 @@
 > **Document ID:** U05
 > **Section:** U_Art_Music_Culture
 > **Keywords:** color symbolism, Berlin and Kay, basic color terms, liturgical colors, chakra, synesthesia, Sapir-Whorf, color perception, pigments, lapis lazuli, ochre, Goethe, chromatic universals, cultural color
-> **Cross-References:** [K06](../K_Consciousness/K06_Kundalini_Chakra_System.md) · [T06](../T_Psychology_Social/T06_Cross_Cultural_Psychology.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry_Proportions.md) · [P32](../P_Philosophy_Meaning/P32_Aesthetics.md) · [T10](../T_Psychology_Social/T10_Neurodiversity.md)
+> **Cross-References:** [K06](../K_Consciousness/K06_Kundalini_Serpent_Energy.md) · [T06](../T_Psychology_Social/T06_Cross_Cultural_Psychology.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [P32](../P_Philosophy_Meaning/P32_Aesthetics.md) · [T10](../T_Psychology_Social/T10_Neurodiversity.md)
 > **Reliability Tier:** Tier 1-2 (linguistic universals well-documented; symbolic interpretations vary)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High
 
@@ -129,12 +129,12 @@ Color is both a physical phenomenon (wavelengths of electromagnetic radiation) a
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K06 — Kundalini/Chakra](../K_Consciousness/K06_Kundalini_Chakra_System.md) | Chakra-color correspondence system |
+| [K06 — Kundalini/Chakra](../K_Consciousness/K06_Kundalini_Serpent_Energy.md) | Chakra-color correspondence system |
 | [T06 — Cross-Cultural Psychology](../T_Psychology_Social/T06_Cross_Cultural_Psychology.md) | Sapir-Whorf debate and color-category research |
-| [D10 — Sacred Geometry](../D_Sites_and_Artifacts/D10_Sacred_Geometry_Proportions.md) | Color as part of sacred proportion systems |
+| [D10 — Sacred Geometry](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Color as part of sacred proportion systems |
 | [P32 — Aesthetics](../P_Philosophy_Meaning/P32_Aesthetics.md) | Philosophy of beauty and chromatic experience |
 | [T10 — Neurodiversity](../T_Psychology_Social/T10_Neurodiversity.md) | Synesthesia as neurodivergent color perception |
-| [J20 — Ancient Textiles](../J_Ancient_Technology/J20_Ancient_Textiles_Weaving_Dyeing.md) | Dye technology and color production |
+| [J20 — Ancient Textiles](../J_Ancient_Technology/J20_Ancient_Textiles_Weaving_Dyeing_Fiber.md) | Dye technology and color production |
 | [C102 — Hmong Cosmology](../C_Global_Traditions/C102_Hmong_Cosmology_Shamanism.md) | Paj ntaub story cloth color symbolism |
 
 ---

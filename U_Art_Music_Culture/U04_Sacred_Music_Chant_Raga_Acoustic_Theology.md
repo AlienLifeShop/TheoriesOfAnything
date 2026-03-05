@@ -3,7 +3,7 @@
 > **Document ID:** U04
 > **Section:** U_Art_Music_Culture
 > **Keywords:** sacred music, Gregorian chant, Byzantine chant, Vedic chanting, raga, gamelan, overtone chanting, Quranic recitation, tajwid, psalms, liturgical music, Bach, acoustic theology, neumes
-> **Cross-References:** [U01](U01_Music_Theory_Harmonic_Series_Physics_of_Sound.md) · [C99](../C_Global_Traditions/C99_Shinto_Lived_Religion.md) · [C111](../C_Global_Traditions/C111_Pygmy_Mbuti_Forest_Cosmology.md) · [K10](../K_Consciousness/K10_Meditation_Neuroscience.md) · [A34](../A_Foundations/A34_Guru_Granth_Sahib_Primary_Sacred_Text.md)
+> **Cross-References:** [U01](U01_Music_Theory_Harmonic_Series_Physics_of_Sound.md) · [C99](../C_Global_Traditions/C99_Shinto_Lived_Religion_Ritual_Purity.md) · [C111](../C_Global_Traditions/C111_Pygmy_Mbuti_BaAka_Forest_Cosmology.md) · [K10](../K_Consciousness/K08_Meditation_Neuroplasticity.md) · [A34](../A_Foundations/A34_Guru_Granth_Sahib_Primary_Sacred_Text.md)
 > **Reliability Tier:** Tier 1-2 (musicological documentation solid; consciousness effects partially verified)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
 
@@ -147,9 +147,9 @@ Sacred music — sound deliberately structured for ritual, worship, or spiritual
 | Related Doc | Connection |
 |-------------|-----------|
 | [U01 — Music Theory](U01_Music_Theory_Harmonic_Series_Physics_of_Sound.md) | Physics of sound underlying sacred tuning systems |
-| [C99 — Shinto Lived Religion](../C_Global_Traditions/C99_Shinto_Lived_Religion.md) | Kagura sacred music-dance in Shinto ritual |
-| [C111 — Mbuti Cosmology](../C_Global_Traditions/C111_Pygmy_Mbuti_Forest_Cosmology.md) | BaAka polyphonic singing as sacred communication |
-| [K10 — Meditation](../K_Consciousness/K10_Meditation_Neuroscience.md) | Chanting as meditative practice — EEG correlates |
+| [C99 — Shinto Lived Religion](../C_Global_Traditions/C99_Shinto_Lived_Religion_Ritual_Purity.md) | Kagura sacred music-dance in Shinto ritual |
+| [C111 — Mbuti Cosmology](../C_Global_Traditions/C111_Pygmy_Mbuti_BaAka_Forest_Cosmology.md) | BaAka polyphonic singing as sacred communication |
+| [K10 — Meditation](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Chanting as meditative practice — EEG correlates |
 | [A34 — Guru Granth Sahib](../A_Foundations/A34_Guru_Granth_Sahib_Primary_Sacred_Text.md) | Sikh scripture organized by musical raga |
 | [U02 — Sacred Dance](U02_Sacred_Dance_Ritual_Movement.md) | Dance and music as inseparable in ritual context |
 | [K30 — Mystical Experience](../K_Consciousness/K30_Mystical_Experience_Neuroscience.md) | Music-induced numinous states |

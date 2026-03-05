@@ -3,7 +3,7 @@
 > **Document ID:** U01
 > **Section:** U_Art_Music_Culture
 > **Keywords:** music theory, harmonic series, overtones, Pythagoras, monochord, temperament, consonance, dissonance, cymatics, acoustics, frequency, resonance, music of the spheres, Kepler, sound waves
-> **Cross-References:** [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry_Proportions.md) · [C113](../C_Global_Traditions/C113_Numerology_Sacred_Number_Systems.md) · [Q04](../Q_Cosmology_Physics/Q04_Electromagnetism_Light.md) · [K10](../K_Consciousness/K10_Meditation_Neuroscience.md) · [P25](../P_Philosophy_Meaning/P25_Pre_Socratic_Philosophy.md)
+> **Cross-References:** [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [C113](../C_Global_Traditions/C113_Numerology_Sacred_Number_Systems.md) · [Q04](../Q_Cosmology_Physics/Q04_Fermi_Paradox_Drake_Equation.md) · [K10](../K_Consciousness/K08_Meditation_Neuroplasticity.md) · [P25](../P_Philosophy_Meaning/P25_Pre_Socratic_Philosophy.md)
 > **Reliability Tier:** Tier 1-2 (acoustics is hard science; cultural interpretations are scholarly but debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
 
@@ -137,13 +137,13 @@ Music theory intersects physics, mathematics, and human perception in ways that 
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [D10 — Sacred Geometry](../D_Sites_and_Artifacts/D10_Sacred_Geometry_Proportions.md) | Mathematical ratios shared between geometry and harmonics |
+| [D10 — Sacred Geometry](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Mathematical ratios shared between geometry and harmonics |
 | [C113 — Numerology](../C_Global_Traditions/C113_Numerology_Sacred_Number_Systems.md) | Pythagorean number-music-cosmos connection |
-| [Q04 — Electromagnetism](../Q_Cosmology_Physics/Q04_Electromagnetism_Light.md) | Sound waves vs electromagnetic waves — parallel wave physics |
-| [K10 — Meditation Neuroscience](../K_Consciousness/K10_Meditation_Neuroscience.md) | Binaural beats, chanting, and brainwave entrainment |
+| [Q04 — Electromagnetism](../Q_Cosmology_Physics/Q04_Fermi_Paradox_Drake_Equation.md) | Sound waves vs electromagnetic waves — parallel wave physics |
+| [K10 — Meditation Neuroscience](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Binaural beats, chanting, and brainwave entrainment |
 | [P25 — Pre-Socratic Philosophy](../P_Philosophy_Meaning/P25_Pre_Socratic_Philosophy.md) | Pythagoras as founder of both music theory and Western philosophy |
 | [U04 — Sacred Music](U04_Sacred_Music_Chant_Raga_Acoustic_Theology.md) | Applied musical systems in ritual contexts |
-| [J09 — Acoustic Levitation](../J_Ancient_Technology/J09_Acoustic_Levitation_Sound_Tech.md) | Modern acoustic levitation vs ancient construction claims |
+| [J09 — Acoustic Levitation](../J_Ancient_Technology/J04_Acoustic_Vibrational_Technology.md) | Modern acoustic levitation vs ancient construction claims |
 
 ---
 

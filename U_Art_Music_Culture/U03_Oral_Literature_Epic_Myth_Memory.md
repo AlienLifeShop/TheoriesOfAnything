@@ -3,7 +3,7 @@
 > **Document ID:** U03
 > **Section:** U_Art_Music_Culture
 > **Keywords:** oral literature, oral tradition, epic poetry, Homer, griot, songlines, oral-formulaic theory, Milman Parry, Albert Lord, memory, Kalevala, bards, skalds, storytelling, pre-literate
-> **Cross-References:** [C07](../C_Global_Traditions/C07_Oral_Tradition_Folk_Memory.md) · [A31](../A_Foundations/A31_Epic_of_Gilgamesh_Oldest_Literary_Work.md) · [A32](../A_Foundations/A32_Hesiod_Theogony_Works_and_Days.md) · [H16](../H_Suppression_and_Thesis/H16_Linguistic_Extinction_Lost_Knowledge.md) · [C38](../C_Global_Traditions/C38_African_Oral_Cosmologies.md)
+> **Cross-References:** [C07](../C_Global_Traditions/C07_Pacific_Island_Traditions.md) · [A31](../A_Foundations/A31_Epic_of_Gilgamesh_Oldest_Literary_Work.md) · [A32](../A_Foundations/A32_Hesiod_Theogony_Works_and_Days.md) · [H16](../H_Suppression_and_Thesis/H16_Linguistic_Extinction_Lost_Knowledge_Systems.md) · [C38](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md)
 > **Reliability Tier:** Tier 1-2 (oral-formulaic theory well-established; deep-time memory claims debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
 
@@ -126,11 +126,11 @@ Before writing systems emerged (~3400 BCE in Sumer), all human knowledge was tra
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C07 — Oral Tradition](../C_Global_Traditions/C07_Oral_Tradition_Folk_Memory.md) | Broader framework for oral knowledge transmission |
+| [C07 — Oral Tradition](../C_Global_Traditions/C07_Pacific_Island_Traditions.md) | Broader framework for oral knowledge transmission |
 | [A31 — Epic of Gilgamesh](../A_Foundations/A31_Epic_of_Gilgamesh_Oldest_Literary_Work.md) | Oldest literary work, oral-to-written transition |
 | [A32 — Hesiod](../A_Foundations/A32_Hesiod_Theogony_Works_and_Days.md) | Greek oral tradition crystallized in writing |
-| [H16 — Linguistic Extinction](../H_Suppression_and_Thesis/H16_Linguistic_Extinction_Lost_Knowledge.md) | Death of oral traditions with language loss |
-| [C38 — African Oral Cosmologies](../C_Global_Traditions/C38_African_Oral_Cosmologies.md) | Griot and African oral traditions |
+| [H16 — Linguistic Extinction](../H_Suppression_and_Thesis/H16_Linguistic_Extinction_Lost_Knowledge_Systems.md) | Death of oral traditions with language loss |
+| [C38 — African Oral Cosmologies](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md) | Griot and African oral traditions |
 | [U04 — Sacred Music](U04_Sacred_Music_Chant_Raga_Acoustic_Theology.md) | Sung oral literature — chant as memory technology |
 | [C100 — Ainu Mythology](../C_Global_Traditions/C100_Ainu_Mythology_Bear_Ceremonialism.md) | Yukar epic oral tradition |
 
