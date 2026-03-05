@@ -3,7 +3,7 @@
 > **Document ID:** R30
 > **Section:** R_Biology_Evolution
 > **Keywords:** self-domestication, Brian Hare, cranial globularization, reduced brow ridge, sexual dimorphism, neural crest cells, serotonin, Belyaev fox experiment, bonobos, chimpanzees, Williams syndrome, prosociality, domestication syndrome, reactive aggression, proactive aggression
-> **Cross-References:** [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md) · [R01](R01_Abiogenesis_Origin_of_Life.md) · [T03](../T_Psychology_Social/T03_Evolutionary_Psychology.md) · [R27](R27_Altruism_Cooperation.md) · [K34](../K_Consciousness/K34_Split_Brain.md)
+> **Cross-References:** [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md) · [R01](R01_Abiogenesis_Origin_of_Life.md) · [T03](../T_Psychology_Social/T03_Evolutionary_Psychology_Adapted_Mind.md) · [R27](R27_Altruism_Cooperation.md) · [K34](../K_Consciousness/K34_Split_Brain_Divided_Consciousness.md)
 > **Reliability Tier:** Tier 2-3 (domestication syndrome in animals is well-documented; application to humans is a credible but contested hypothesis)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High (animal domestication data) to Moderate (human self-domestication hypothesis)
 
@@ -158,21 +158,21 @@ The human self-domestication hypothesis proposes that *Homo sapiens* underwent a
 |---|---|---|
 | Domestication genetics | [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md) | Belyaev experiment, domestication genomics |
 | Darwinian evolution | [R01](R01_Abiogenesis_Origin_of_Life.md) | Natural selection framework |
-| Evolutionary psychology | [T03](../T_Psychology_Social/T03_Evolutionary_Psychology.md) | Human behavioral evolution |
+| Evolutionary psychology | [T03](../T_Psychology_Social/T03_Evolutionary_Psychology_Adapted_Mind.md) | Human behavioral evolution |
 | Altruism/cooperation | [R27](R27_Altruism_Cooperation.md) | Prosociality, punishment, cooperation |
-| Split-brain | [K34](../K_Consciousness/K34_Split_Brain.md) | Neurology of behavior |
+| Split-brain | [K34](../K_Consciousness/K34_Split_Brain_Divided_Consciousness.md) | Neurology of behavior |
 | Bipedalism | [R29](R29_Bipedalism.md) | Anatomical evolution in hominins |
 | Dog domestication | [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md) | Parallel domestication process |
-| Language evolution | [K30](../K_Consciousness/K30_Language_Origins.md) | Self-domestication → language preconditions |
-| Neolithic transition | [E05](../E_Cataclysms_and_Chronology/E05_Neolithic_Revolution.md) | Agricultural "second wave" hypothesis |
+| Language evolution | [K30](../C_Global_Traditions/C14_Language_Origins_Tower_of_Babel.md) | Self-domestication → language preconditions |
+| Neolithic transition | [E05](../E_Cataclysms_and_Chronology/E05_Radiocarbon_Calibration.md) | Agricultural "second wave" hypothesis |
 | Neural crest cells | [R02](R02_Human_Brain_Evolution.md) | Developmental biology overlap |
 | Sexual selection | [R24](R24_Sexual_Selection.md) | Mate choice and reduced aggression |
 | Social insects | [R26](R26_Social_Insects_Superorganisms.md) | Parallel prosociality mechanisms |
-| Genetics | [L01](../L_Genetics_Origins/L01_Genetics_Overview.md) | Genomic selection signatures |
-| Epigenetics | [L12](../L_Genetics_Origins/L12_Epigenetics.md) | Methylation and gene regulation |
+| Genetics | [L01](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Genomic selection signatures |
+| Epigenetics | [L12](../R_Biology_Evolution/R04_Epigenetics_Ancestral_Memory.md) | Methylation and gene regulation |
 | Behavioral ecology | [R27](R27_Altruism_Cooperation.md) | Prosociality and punishment overlap |
 | Coevolution | [R25](R25_Coevolution_Arms_Races.md) | Human-dog co-domestication |
-| Serotonin systems | [K10](../K_Consciousness/K10_Neurochemistry.md) | Neurotransmitter role in behavior |
+| Serotonin systems | [K10](../K_Consciousness/K10_Savant_Syndrome.md) | Neurotransmitter role in behavior |
 | Social insects | [R26](R26_Social_Insects_Superorganisms.md) | Parallel prosociality mechanisms |
 
 ---

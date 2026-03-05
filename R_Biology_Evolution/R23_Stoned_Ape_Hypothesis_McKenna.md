@@ -3,7 +3,7 @@
 > **Document ID:** R23
 > **Section:** R_Biology_Evolution
 > **Keywords:** stoned ape hypothesis, Terence McKenna, psilocybin, mushrooms, cognitive evolution, neurogenesis, Food of the Gods, Paul Stamets, psychedelics, brain expansion, Tassili, soma, ethnobotany
-> **Cross-References:** [R02](R02_Brain_Evolution.md) · [G03](../G_Modern_Frameworks/G03_Mycelium.md) · [K02](../K_Consciousness/K02_Altered_States.md) · [K17](../K_Consciousness/K17_Ergot.md) · [A20](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md)
+> **Cross-References:** [R02](R02_Human_Brain_Evolution.md) · [G03](../G_Modern_Frameworks/G03_Mycelium_Network.md) · [K02](../K_Consciousness/K02_Altered_States_Psychedelics.md) · [K17](../K_Consciousness/K17_Ergot_Sacred_Pharmacology_History.md) · [A20](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md)
 > **Reliability Tier:** Tier 2-4 (psilocybin neuroscience is Tier 1-2; the evolutionary hypothesis itself is Tier 3; mechanism as primary driver of brain expansion is Tier 4)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High (psilocybin neuroscience) to Low (evolutionary hypothesis)
 
@@ -128,12 +128,12 @@ The "Stoned Ape Hypothesis," proposed by ethnobotanist Terence McKenna in *Food 
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [R02](R02_Brain_Evolution.md) | Brain expansion timeline — the phenomenon McKenna attempts to explain |
-| [G03](../G_Modern_Frameworks/G03_Mycelium.md) | Mycelial networks and fungi's role in ecosystems — Stamets's broader context |
-| [K02](../K_Consciousness/K02_Altered_States.md) | Altered states of consciousness — psilocybin as primary example |
-| [K17](../K_Consciousness/K17_Ergot.md) | Ergot alkaloids — Eleusinian Mysteries, related psychoactive compounds |
+| [R02](R02_Human_Brain_Evolution.md) | Brain expansion timeline — the phenomenon McKenna attempts to explain |
+| [G03](../G_Modern_Frameworks/G03_Mycelium_Network.md) | Mycelial networks and fungi's role in ecosystems — Stamets's broader context |
+| [K02](../K_Consciousness/K02_Altered_States_Psychedelics.md) | Altered states of consciousness — psilocybin as primary example |
+| [K17](../K_Consciousness/K17_Ergot_Sacred_Pharmacology_History.md) | Ergot alkaloids — Eleusinian Mysteries, related psychoactive compounds |
 | [A20](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md) | Vedic soma debate — potential psychedelic component of earliest Hindu texts |
-| [C77](../C_Global_Traditions/C77_Berber_Traditions.md) | Tassili n'Ajjer rock art — potential mushroom depictions in Saharan cultures |
+| [C77](../C_Global_Traditions/C77_Berber_Amazigh_North_African.md) | Tassili n'Ajjer rock art — potential mushroom depictions in Saharan cultures |
 | [L09](../L_Genetics_Origins/L09_FOXP2_Genetics_of_Language.md) | FOXP2 and language evolution — genetic basis for the capacity McKenna attributes to psilocybin |
 
 ---

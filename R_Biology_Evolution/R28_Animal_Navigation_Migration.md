@@ -3,7 +3,7 @@
 > **Document ID:** R28
 > **Section:** R_Biology_Evolution
 > **Keywords:** animal navigation, migration, monarch butterfly, Arctic tern, magnetoreception, cryptochrome, magnetic compass, bird star navigation, salmon homing, sea turtle, pigeon homing, whale song corridors, elephant memory, celestial navigation, olfactory navigation
-> **Cross-References:** [Q04](../Q_Cosmology_Physics/Q04_Fermi_Paradox_Drake_Equation.md) · [R12](R12_Horizontal_Gene_Transfer.md) · [K22](../K_Consciousness/K22_Anomalous_Abilities.md) · [O14](../O_Earth_Anomalies/O14_Atmospheric.md) · [G26](../G_Modern_Frameworks/G26_Chaos_Nonlinear.md)
+> **Cross-References:** [Q04](../Q_Cosmology_Physics/Q04_Fermi_Paradox_Drake_Equation.md) · [R12](R12_Horizontal_Gene_Transfer.md) · [K22](../K_Consciousness/K22_Anomalous_Human_Abilities_Siddhis.md) · [O14](../O_Earth_Anomalies/O14_Atmospheric_Anomalies_Ball_Lightning.md) · [G26](../G_Modern_Frameworks/G26_Chaos_Theory_Fractals_Nonlinear_Dynamics.md)
 > **Reliability Tier:** Tier 1-2 (migration patterns are well-documented; magnetoreception mechanisms are under active investigation)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (migration observations) to Moderate (sensory mechanism details)
 
@@ -167,11 +167,11 @@ Animal migration and navigation represent some of the most astonishing feats in 
 |---|---|---|
 | Electromagnetism | [Q04](../Q_Cosmology_Physics/Q04_Fermi_Paradox_Drake_Equation.md) | Earth's magnetic field |
 | Biodiversity | [R12](R12_Horizontal_Gene_Transfer.md) | Species-level diversity |
-| Anomalous abilities | [K22](../K_Consciousness/K22_Anomalous_Abilities.md) | Sensory limits and extensions |
-| Atmospheric phenomena | [O14](../O_Earth_Anomalies/O14_Atmospheric.md) | Weather, infrasound, navigation cues |
-| Chaos/nonlinear dynamics | [G26](../G_Modern_Frameworks/G26_Chaos_Nonlinear.md) | Complex systems, emergent behavior |
+| Anomalous abilities | [K22](../K_Consciousness/K22_Anomalous_Human_Abilities_Siddhis.md) | Sensory limits and extensions |
+| Atmospheric phenomena | [O14](../O_Earth_Anomalies/O14_Atmospheric_Anomalies_Ball_Lightning.md) | Weather, infrasound, navigation cues |
+| Chaos/nonlinear dynamics | [G26](../G_Modern_Frameworks/G26_Chaos_Theory_Fractals_Nonlinear_Dynamics.md) | Complex systems, emergent behavior |
 | Quantum biology | [R13](R13_Quantum_Biology.md) | Radical pair mechanism |
-| Climate history | [E10](../E_Cataclysms_and_Chronology/E10_Climate_History.md) | Migration response to climate change |
+| Climate history | [E10](../E_Cataclysms_and_Chronology/E10_Catastrophic_Flood_Geomorphology.md) | Migration response to climate change |
 | Coevolution | [R25](R25_Coevolution_Arms_Races.md) | Pollinator migration and plant coevolution |
 | Insect societies | [R26](R26_Social_Insects_Superorganisms.md) | Bee foraging and waggle dance navigation |
 

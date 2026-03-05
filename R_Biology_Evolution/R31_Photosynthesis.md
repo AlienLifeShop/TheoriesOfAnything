@@ -3,7 +3,7 @@
 > **Document ID:** R31
 > **Section:** R_Biology_Evolution
 > **Keywords:** photosynthesis, Great Oxygenation Event, cyanobacteria, chloroplast, endosymbiosis, Lynn Margulis, C3 C4 CAM, quantum coherence, rubisco, carbon fixation, artificial photosynthesis, light reactions, Calvin cycle, oxygen evolution, thylakoid
-> **Cross-References:** [R06](R06_Gaia_Theory.md) · [R05](R05_Mass_Extinction_Events.md) · [R12](R12_Horizontal_Gene_Transfer.md) · [Q04](../Q_Cosmology_Physics/Q04_Fermi_Paradox_Drake_Equation.md) · [S25](../S_Future_Technology/S25_Food_Security.md)
+> **Cross-References:** [R06](R06_Gaia_Theory.md) · [R05](R05_Mass_Extinction_Events.md) · [R12](R12_Horizontal_Gene_Transfer.md) · [Q04](../Q_Cosmology_Physics/Q04_Fermi_Paradox_Drake_Equation.md) · [S25](../S_Future_Technology/S25_Food_Security_Agricultural_Technology.md)
 > **Reliability Tier:** Tier 1-2 (photosynthetic biochemistry is well-characterized; quantum coherence mechanisms and early evolution of photosynthesis are active research frontiers)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** Very High (biochemistry) to Moderate (evolutionary origins, quantum biology)
 
@@ -168,13 +168,13 @@ Photosynthesis — the conversion of light energy into chemical energy — is ar
 | Quantum biology | [R13](R13_Quantum_Biology.md) | Coherence in FMO complex |
 | Electromagnetism | [Q04](../Q_Cosmology_Physics/Q04_Fermi_Paradox_Drake_Equation.md) | Light physics, solar radiation |
 | Symbiogenesis | [R17](R17_Symbiogenesis_Lynn_Margulis.md) | Margulis's endosymbiotic theory |
-| Food security | [S25](../S_Future_Technology/S25_Food_Security.md) | Engineering crops for yield |
-| Climate change | [E10](../E_Cataclysms_and_Chronology/E10_Climate_History.md) | Carbon cycle and CO₂ regulation |
+| Food security | [S25](../S_Future_Technology/S25_Food_Security_Agricultural_Technology.md) | Engineering crops for yield |
+| Climate change | [E10](../E_Cataclysms_and_Chronology/E10_Catastrophic_Flood_Geomorphology.md) | Carbon cycle and CO₂ regulation |
 | Astrobiology | [Q23](../Q_Cosmology_Physics/Q23_Exoplanets_Habitable_Zones.md) | Biosignatures from photosynthesis |
 | Endosymbiosis | [R17](R17_Symbiogenesis_Lynn_Margulis.md) | Chloroplast origin |
 | Savanna evolution | [R29](R29_Bipedalism.md) | C4 grasslands and hominin habitat |
 | Coevolution | [R25](R25_Coevolution_Arms_Races.md) | Plant-herbivore photosynthetic arms races |
-| Artificial intelligence | [S01](../S_Future_Technology/S01_AI_Overview.md) | Bio-inspired computing from photosynthetic efficiency |
+| Artificial intelligence | [S01](../S_Future_Technology/S01_AGI_Existential_Risk.md) | Bio-inspired computing from photosynthetic efficiency |
 
 ---
 

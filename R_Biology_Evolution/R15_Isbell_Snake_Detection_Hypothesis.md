@@ -523,4 +523,13 @@ The Snake Detection Theory RAISES the evidentiary bar for the project's more spe
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Isbell, L.A. *The Fruit, the Tree, and the Serpent: Why We See So Well.* Cambridge: Harvard University Press, 2009.
+2. Isbell, L.A. "Snakes as Agents of Evolutionary Change in Primate Brains." *Journal of Human Evolution* 51.1 (2006): 1–35.
+3. Van Le, Q. et al. "Pulvinar Neurons Reveal Neurobiological Evidence of Past Selection for Rapid Detection of Snakes." *Proceedings of the National Academy of Sciences* 110.47 (2013): 19000–19005.
+4. LoBue, V. & DeLoache, J.S. "Detecting the Snake in the Grass: Attention to Fear-Relevant Stimuli by Adults and Young Children." *Psychological Science* 19.3 (2008): 284–289.
+5. Hoehl, S. et al. "Itsy Bitsy Spider...: Infants React with Increased Arousal to Spiders and Snakes." *Frontiers in Psychology* 8 (2017): 1710.
+6. Öhman, A. & Mineka, S. "Fears, Phobias, and Preparedness: Toward an Evolved Module of Fear and Fear Learning." *Psychological Review* 108.3 (2001): 483–522.
+7. Greene, H.W. *Snakes: The Evolution of Mystery in Nature.* Berkeley: University of California Press, 1997.
+8. LoBue, V. & DeLoache, J.S. "Superior Detection of Threat-Relevant Stimuli in Infancy." *Developmental Science* 13.1 (2010): 221–228.
+9. Kawai, N. & He, H. "Breaking Snake Camouflage: Humans Detect Snakes More Accurately Than Other Animals Under Less Discernible Visual Conditions." *PLOS ONE* 11.11 (2016): e0164342.
+10. Van Strien, J.W. & Isbell, L.A. "Snake Scales, Partial Exposure, and the Snake Detection Theory: A Human Event-Related Potentials Study." *Evolution and Human Behavior* 38.5 (2017): 694–700.

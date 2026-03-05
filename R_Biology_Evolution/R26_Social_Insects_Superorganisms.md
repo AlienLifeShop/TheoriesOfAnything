@@ -3,7 +3,7 @@
 > **Document ID:** R26
 > **Section:** R_Biology_Evolution
 > **Keywords:** eusociality, social insects, ants, bees, termites, naked mole rats, Hamilton's rule, kin selection, haplodiploidy, superorganism, swarm intelligence, ant colony optimization, waggle dance, von Frisch, division of labor, Hölldobler, Wilson, thermoregulation
-> **Cross-References:** [G28](../G_Modern_Frameworks/G28_Artificial_Life.md) · [R27](R27_Altruism_Cooperation.md) · [G27](../G_Modern_Frameworks/G27_Game_Theory.md) · [R06](R06_Gaia_Theory.md) · [K16](../K_Consciousness/K16_Collective_Consciousness.md)
+> **Cross-References:** [G28](../G_Modern_Frameworks/G28_Artificial_Life_Emergence_Digital_Evolution.md) · [R27](R27_Altruism_Cooperation.md) · [G27](../G_Modern_Frameworks/G27_Game_Theory_Strategic_Interaction_Cooperation.md) · [R06](R06_Gaia_Theory.md) · [K16](../K_Consciousness/K16_Entoptic_Phenomena_Phosphene_Patterns.md)
 > **Reliability Tier:** Tier 1-2 (eusociality, kin selection, and swarm behaviors are well-documented; superorganism boundaries and consciousness attributions are debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High (behavioral and ecological observations) to Moderate (theoretical interpretations)
 
@@ -157,18 +157,18 @@ Social insects — ants, bees, wasps, and termites — represent one of evolutio
 
 | Topic | Document | Relevance |
 |---|---|---|
-| Artificial life | [G28](../G_Modern_Frameworks/G28_Artificial_Life.md) | Swarm algorithms, agent-based models |
+| Artificial life | [G28](../G_Modern_Frameworks/G28_Artificial_Life_Emergence_Digital_Evolution.md) | Swarm algorithms, agent-based models |
 | Altruism/cooperation | [R27](R27_Altruism_Cooperation.md) | Kin selection, cooperation mechanisms |
-| Game theory | [G27](../G_Modern_Frameworks/G27_Game_Theory.md) | ESS, cooperation games |
+| Game theory | [G27](../G_Modern_Frameworks/G27_Game_Theory_Strategic_Interaction_Cooperation.md) | ESS, cooperation games |
 | Gaia theory | [R06](R06_Gaia_Theory.md) | Colony as ecosystem parallel |
-| Collective consciousness | [K16](../K_Consciousness/K16_Collective_Consciousness.md) | Emergence of mind from simple units |
-| Evolutionary dynamics | [G12](../G_Modern_Frameworks/G12_Evolutionary_Dynamics.md) | Multilevel selection |
-| Agriculture origins | [E05](../E_Cataclysms_and_Chronology/E05_Neolithic_Revolution.md) | Parallel to ant/termite agriculture |
+| Collective consciousness | [K16](../K_Consciousness/K16_Entoptic_Phenomena_Phosphene_Patterns.md) | Emergence of mind from simple units |
+| Evolutionary dynamics | [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) | Multilevel selection |
+| Agriculture origins | [E05](../E_Cataclysms_and_Chronology/E05_Radiocarbon_Calibration.md) | Parallel to ant/termite agriculture |
 | Pollinator ecology | [R25](R25_Coevolution_Arms_Races.md) | Plant-pollinator coevolution |
-| Biomimicry | [S20](../S_Future_Technology/S20_Biomimicry.md) | Engineering from insect design |
+| Biomimicry | [S20](../S_Future_Technology/S20_Geoengineering.md) | Engineering from insect design |
 | Parasitism | [R12](R12_Horizontal_Gene_Transfer.md) | Host-parasite dynamics in colonies |
 | Thermoregulation | [R06](R06_Gaia_Theory.md) | Colony temperature homeostasis |
-| Superorganism theory | [K16](../K_Consciousness/K16_Collective_Consciousness.md) | Emergence at colony level |
+| Superorganism theory | [K16](../K_Consciousness/K16_Entoptic_Phenomena_Phosphene_Patterns.md) | Emergence at colony level |
 | Communication | [R28](R28_Animal_Navigation_Migration.md) | Waggle dance as navigation link |
 | Sexual selection | [R24](R24_Sexual_Selection.md) | Queen mating and sperm competition |
 | Coevolution | [R25](R25_Coevolution_Arms_Races.md) | Ant-fungus mutualistic coevolution |

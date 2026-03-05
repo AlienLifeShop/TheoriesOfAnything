@@ -3,7 +3,7 @@
 > **Document ID:** R24
 > **Section:** R_Biology_Evolution
 > **Keywords:** sexual selection, Darwin, mate choice, peacock's tail, Fisher's runaway, Zahavi handicap principle, female choice, male competition, good genes, cryptic female choice, sexual conflict, human mate selection, sexual dimorphism, ornaments, intrasexual selection
-> **Cross-References:** [R01](R01_Abiogenesis_Origin_of_Life.md) · [G12](../G_Modern_Frameworks/G12_Evolutionary_Dynamics.md) · [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md) · [T03](../T_Psychology_Social/T03_Evolutionary_Psychology.md) · [P32](../P_Philosophy_Meaning/P32_Aesthetics.md)
+> **Cross-References:** [R01](R01_Abiogenesis_Origin_of_Life.md) · [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) · [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md) · [T03](../T_Psychology_Social/T03_Evolutionary_Psychology_Adapted_Mind.md) · [P32](../P_Philosophy_Meaning/P32_Aesthetics.md)
 > **Reliability Tier:** Tier 1-2 (sexual selection is a foundational evolutionary mechanism; some specific hypotheses remain actively debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High (core theory) to Moderate (specific mechanisms and human applications)
 
@@ -75,7 +75,7 @@ Sexual selection, first articulated by Charles Darwin in *The Descent of Man, an
 ### 2.6 Human Mate Preferences
 - Cross-cultural studies (Buss, 1989 — 37 cultures, 10,000+ individuals) found consistent patterns: women value resource-acquisition ability, ambition, and older age in partners; men value physical attractiveness and youth — consistent with sexual selection predictions based on parental investment theory (Trivers, 1972).
 - **Fluctuating asymmetry** (Gangestad & Thornhill, 1997): preference for bodily symmetry is hypothesized to signal developmental stability and genetic quality, though effect sizes are debated.
-- **Voice pitch**: cross-cultural studies show women prefer lower male voice pitch (associated with testosterone and body size) and men prefer higher female voice pitch (associated with youth and estrogen). However, the magnitude and context-dependence of preferences varies substantially.
+- **Voice pitch**: cross-cultural studies (Puts, 2005; Feinberg et al., 2005) show women prefer lower male voice pitch (associated with testosterone and body size) and men prefer higher female voice pitch (associated with youth and estrogen). However, the magnitude and context-dependence of preferences varies substantially.
 - **Major histocompatibility complex (MHC)**: the "sweaty T-shirt experiment" (Wedekind et al., 1995) suggested women prefer the scent of men with dissimilar MHC genotypes (promoting offspring heterozygosity), though replications have produced mixed results.
 
 ### 2.7 Sexual Selection in Plants
@@ -163,17 +163,17 @@ Sexual selection, first articulated by Charles Darwin in *The Descent of Man, an
 | Topic | Document | Relevance |
 |---|---|---|
 | Darwinian evolution | [R01](R01_Abiogenesis_Origin_of_Life.md) | Foundational evolutionary theory |
-| Evolutionary dynamics | [G12](../G_Modern_Frameworks/G12_Evolutionary_Dynamics.md) | Formal models of selection |
+| Evolutionary dynamics | [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) | Formal models of selection |
 | Domestication genetics | [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md) | Artificial and sexual selection parallels |
-| Evolutionary psychology | [T03](../T_Psychology_Social/T03_Evolutionary_Psychology.md) | Human mate choice behaviors |
+| Evolutionary psychology | [T03](../T_Psychology_Social/T03_Evolutionary_Psychology_Adapted_Mind.md) | Human mate choice behaviors |
 | Aesthetics | [P32](../P_Philosophy_Meaning/P32_Aesthetics.md) | Beauty, art, evolutionary origin |
-| Game theory | [G27](../G_Modern_Frameworks/G27_Game_Theory.md) | ESS models of signaling |
+| Game theory | [G27](../G_Modern_Frameworks/G27_Game_Theory_Strategic_Interaction_Cooperation.md) | ESS models of signaling |
 | Coevolution | [R25](R25_Coevolution_Arms_Races.md) | Host-parasite and pollinator arms races |
 | Self-domestication | [R30](R30_Self_Domestication.md) | Reduced aggression and mate choice shifts |
 | Bipedalism | [R29](R29_Bipedalism.md) | Body plan enabling display behavior |
 | Animal communication | [R28](R28_Animal_Navigation_Migration.md) | Sensory ecology and signaling channels |
-| Speciation | [R10](R10_Speciation_Mechanisms.md) | Sexual selection driving reproductive isolation |
-| Genetics | [L01](../L_Genetics_Origins/L01_Genetics_Overview.md) | Heritability of ornamental traits |
+| Speciation | [R10](R10_Homo_Floresiensis.md) | Sexual selection driving reproductive isolation |
+| Genetics | [L01](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Heritability of ornamental traits |
 
 ---
 

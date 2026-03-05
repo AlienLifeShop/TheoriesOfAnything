@@ -3,7 +3,7 @@
 > **Document ID:** R27
 > **Section:** R_Biology_Evolution
 > **Keywords:** altruism, cooperation, kin selection, Hamilton, reciprocal altruism, Trivers, group selection, multilevel selection, vampire bats, prairie dogs, Nowak, strong reciprocity, punishment, prosocial behavior, ultra-sociality, mutualism, prisoner's dilemma
-> **Cross-References:** [G27](../G_Modern_Frameworks/G27_Game_Theory.md) · [R26](R26_Social_Insects_Superorganisms.md) · [R01](R01_Abiogenesis_Origin_of_Life.md) · [T01](../T_Psychology_Social/T01_Social_Psychology.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md)
+> **Cross-References:** [G27](../G_Modern_Frameworks/G27_Game_Theory_Strategic_Interaction_Cooperation.md) · [R26](R26_Social_Insects_Superorganisms.md) · [R01](R01_Abiogenesis_Origin_of_Life.md) · [T01](../T_Psychology_Social/T01_Social_Psychology_Conformity_Obedience.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md)
 > **Reliability Tier:** Tier 1-2 (kin selection and reciprocal altruism are well-established; group selection and mechanisms of human cooperation are actively debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (biological mechanisms) to Moderate (evolutionary explanations for human altruism)
 
@@ -156,22 +156,22 @@ Altruism — behavior that reduces the actor's fitness while increasing the reci
 
 | Topic | Document | Relevance |
 |---|---|---|
-| Game theory | [G27](../G_Modern_Frameworks/G27_Game_Theory.md) | Prisoner's dilemma, ESS, cooperation |
+| Game theory | [G27](../G_Modern_Frameworks/G27_Game_Theory_Strategic_Interaction_Cooperation.md) | Prisoner's dilemma, ESS, cooperation |
 | Social insects | [R26](R26_Social_Insects_Superorganisms.md) | Eusociality, kin selection examples |
 | Darwinian evolution | [R01](R01_Abiogenesis_Origin_of_Life.md) | Foundational framework |
-| Social psychology | [T01](../T_Psychology_Social/T01_Social_Psychology.md) | Human cooperation experiments |
+| Social psychology | [T01](../T_Psychology_Social/T01_Social_Psychology_Conformity_Obedience.md) | Human cooperation experiments |
 | Political philosophy | [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md) | Social contracts, institutions |
 | Self-domestication | [R30](R30_Self_Domestication.md) | Prosociality selection in humans |
-| Primate cognition | [K35](../K_Consciousness/K35_Embodied_Consciousness.md) | Cognitive basis for cooperation |
-| Moral philosophy | [P01](../P_Philosophy_Meaning/P01_Ethics_Foundations.md) | Philosophical basis of altruism |
+| Primate cognition | [K35](../K_Consciousness/K35_Phantom_Limb_Body_Schema.md) | Cognitive basis for cooperation |
+| Moral philosophy | [P01](../P_Philosophy_Meaning/P03_Ethics_Across_Civilizations.md) | Philosophical basis of altruism |
 | Microbiome | [R12](R12_Horizontal_Gene_Transfer.md) | Microbial cooperation and cheating |
-| Economic theory | [G27](../G_Modern_Frameworks/G27_Game_Theory.md) | Market-based cooperation models |
+| Economic theory | [G27](../G_Modern_Frameworks/G27_Game_Theory_Strategic_Interaction_Cooperation.md) | Market-based cooperation models |
 | Coevolution | [R25](R25_Coevolution_Arms_Races.md) | Mutualism as cooperative coevolution |
 | Communication | [R28](R28_Animal_Navigation_Migration.md) | Alarm calls and signal honesty |
 | Sexual selection | [R24](R24_Sexual_Selection.md) | Costly signaling and mate choice |
-| Collective action | [T01](../T_Psychology_Social/T01_Social_Psychology.md) | Human group cooperation dynamics |
-| Network theory | [V05](../V_Mathematics_Information/V05_Network_Theory.md) | Cooperation on social networks |
-| Evolutionary psychology | [T03](../T_Psychology_Social/T03_Evolutionary_Psychology.md) | Evolved cooperation mechanisms |
+| Collective action | [T01](../T_Psychology_Social/T01_Social_Psychology_Conformity_Obedience.md) | Human group cooperation dynamics |
+| Network theory | [V05](../V_Mathematics_Information/V05_Ethnomathematics_Indigenous_Systems.md) | Cooperation on social networks |
+| Evolutionary psychology | [T03](../T_Psychology_Social/T03_Evolutionary_Psychology_Adapted_Mind.md) | Evolved cooperation mechanisms |
 | Domestication | [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md) | Selection for tameness and cooperation |
 | Bipedalism | [R29](R29_Bipedalism.md) | Freeing hands for cooperative provisioning |
 

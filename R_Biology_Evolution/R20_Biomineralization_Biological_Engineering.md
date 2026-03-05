@@ -3,7 +3,7 @@
 > **Document ID:** R20
 > **Section:** R_Biology_Evolution
 > **Keywords:** biomineralization, nacre, bone, coral, diatoms, Fibonacci, magnetotactic bacteria, biomimetics, calcium carbonate, silica, hydroxyapatite, hierarchical materials
-> **Cross-References:** [D21](../D_Sites_and_Artifacts/D21_Crystal_Piezoelectric.md) · [R07](R07_Extremophiles.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [R08](R08_Convergent_Evolution.md)
+> **Cross-References:** [D21](../D_Sites_and_Artifacts/D21_Crystal_Stone_Piezoelectric_Technology.md) · [R07](R07_Extremophile_Biology.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [R08](R08_Convergent_Evolution_Aquatic_Ape.md)
 > **Reliability Tier:** Tier 1-2 (biomineralization processes are well-characterized; biomimetic applications are rapidly advancing but some remain experimental)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High (materials science) to Moderate (biomimetic engineering applications)
 
@@ -133,12 +133,12 @@ Biomineralization — the process by which living organisms produce minerals —
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [D21](../D_Sites_and_Artifacts/D21_Crystal_Piezoelectric.md) | Piezoelectric properties of biominerals — bone, diatom silica |
-| [R07](R07_Extremophiles.md) | Extremophile biomineralization under extreme conditions |
+| [D21](../D_Sites_and_Artifacts/D21_Crystal_Stone_Piezoelectric_Technology.md) | Piezoelectric properties of biominerals — bone, diatom silica |
+| [R07](R07_Extremophile_Biology.md) | Extremophile biomineralization under extreme conditions |
 | [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Fibonacci spirals in shells — mathematical growth patterns |
-| [R08](R08_Convergent_Evolution.md) | Convergent evolution of biomineralization across phyla |
-| [G24](../G_Modern_Frameworks/G24_Biomimicry.md) | Biomimetic engineering inspired by natural mineralization |
-| [E01](../E_Cataclysms_and_Chronology/E01_Cambrian_Explosion.md) | Cambrian origin of widespread biomineralization |
+| [R08](R08_Convergent_Evolution_Aquatic_Ape.md) | Convergent evolution of biomineralization across phyla |
+| [G24](../G_Modern_Frameworks/G24_Biomimicry_Nature_Inspired_Design.md) | Biomimetic engineering inspired by natural mineralization |
+| [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Cambrian origin of widespread biomineralization |
 
 ---
 

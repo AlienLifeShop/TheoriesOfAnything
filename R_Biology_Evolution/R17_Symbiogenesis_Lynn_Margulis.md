@@ -124,12 +124,12 @@ Margulis collaborated with **James Lovelock** on the **Gaia hypothesis** (→ G0
 
 | Document | Connection |
 |----------|------------|
-| [R01 — Evolution Overview](../R_Biology_Evolution/R01_Evolution_Overview.md) | Evolutionary mechanisms and theory |
-| [R06 — Epigenetics](../R_Biology_Evolution/R06_Epigenetics.md) | Non-genetic inheritance mechanisms |
-| [L01 — Human Origins DNA](../L_Genetics_Origins/L01_Human_Origins_DNA.md) | Mitochondrial DNA and human ancestry |
+| [R01 — Evolution Overview](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) | Evolutionary mechanisms and theory |
+| [R06 — Epigenetics](../R_Biology_Evolution/R04_Epigenetics_Ancestral_Memory.md) | Non-genetic inheritance mechanisms |
+| [L01 — Human Origins DNA](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Mitochondrial DNA and human ancestry |
 | [L08 — Human Microbiome](../L_Genetics_Origins/L08_Human_Microbiome_Gut_Brain_Axis.md) | Holobiont concept and microbial symbiosis |
-| [Q02 — Cosmological Models](../Q_Cosmology_Physics/Q02_Cosmological_Models.md) | Self-organization in nature |
-| [G07 — Gaia Theory](../G_Modern_Frameworks/G07_Gaia_Theory.md) | Margulis-Lovelock collaboration |
+| [Q02 — Cosmological Models](../Q_Cosmology_Physics/Q02_Big_Bang_Alternative_Cosmologies.md) | Self-organization in nature |
+| [G07 — Gaia Theory](../R_Biology_Evolution/R06_Gaia_Theory.md) | Margulis-Lovelock collaboration |
 | [R18 — Viruses as Evolutionary Drivers](../R_Biology_Evolution/R18_Viruses_Evolutionary_Drivers.md) | Endogenous retroviruses and HGT |
 
 ---

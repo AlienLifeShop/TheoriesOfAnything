@@ -78,7 +78,7 @@ The last two decades have produced a revolution in **plant biology** that challe
 |-------|----------|------------|
 | **Root-generated clicks** | Gagliano et al. (2012): young corn roots emit 220 Hz clicks; neighboring roots grow toward sound | **Tier 2-3** — published in peer-reviewed journal; replication needed |
 | **Sound-directed root growth** | Gagliano et al. (2017): pea plant roots grew toward water pipe sounds even without moisture | **Tier 2-3** — methodology debated; fascinating if confirmed |
-| **Music and plant growth** | Popular claim that music helps plants grow | **Tier 4** — controlled studies show minimal/no effect; vibration effects are non-specific |
+| **Music and plant growth** | Popular claim that music helps plants grow | **Tier 4** — controlled studies (Galston & Slayman, 1979) show minimal/no effect; vibration effects are non-specific |
 
 ---
 
@@ -174,14 +174,14 @@ Gagliano et al. (2016), published in *Scientific Reports*:
 
 | Document | Connection |
 |----------|------------|
-| [G03 — Mycelium Networks](../G_Modern_Frameworks/G03_Mycelial_Networks_Consciousness.md) | Wood wide web; fungal-plant symbiosis |
-| [R06 — Gaia Theory](R06_Gaia_Theory_Living_Earth.md) | Planetary-scale plant contribution to homeostasis |
-| [O05 — Ecosystem Intelligence](../O_Earth_Anomalies/O05_Ecosystem_Collapse_Biodiversity.md) | Emergent intelligence in ecosystems |
-| [P05 — Panpsychism](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Revival.md) | Consciousness as substrate-independent |
+| [G03 — Mycelium Networks](../G_Modern_Frameworks/G03_Mycelium_Network.md) | Wood wide web; fungal-plant symbiosis |
+| [R06 — Gaia Theory](R06_Gaia_Theory.md) | Planetary-scale plant contribution to homeostasis |
+| [O05 — Ecosystem Intelligence](../O_Earth_Anomalies/O05_Biodiversity_Ecosystem_Intelligence.md) | Emergent intelligence in ecosystems |
+| [P05 — Panpsychism](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) | Consciousness as substrate-independent |
 | [G10 — IIT](../G_Modern_Frameworks/G10_Integrated_Information_Theory.md) | Integrated information in plant systems |
-| [K08 — Meditation](../K_Consciousness/K08_Meditation_Neuroscience.md) | Consciousness studies methodology |
+| [K08 — Meditation](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Consciousness studies methodology |
 | [C47 — Amazonian Traditions](../C_Global_Traditions/C47_Maori_Mythology_Whakapapa.md) | Plant teacher cosmology |
-| [R04 — Epigenetics](R04_Epigenetics_Lamarckian_Echoes.md) | Heritable plant responses to environment |
+| [R04 — Epigenetics](R04_Epigenetics_Ancestral_Memory.md) | Heritable plant responses to environment |
 
 ---
 

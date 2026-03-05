@@ -122,11 +122,11 @@ The **global virome** is staggeringly vast:
 
 | Document | Connection |
 |----------|------------|
-| [R01 — Evolution Overview](../R_Biology_Evolution/R01_Evolution_Overview.md) | Evolutionary mechanisms and theory |
-| [L01 — Human Origins DNA](../L_Genetics_Origins/L01_Human_Origins_DNA.md) | Genomic archaeology and ancestry |
-| [R06 — Epigenetics](../R_Biology_Evolution/R06_Epigenetics.md) | ERV-derived epigenetic regulation |
+| [R01 — Evolution Overview](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) | Evolutionary mechanisms and theory |
+| [L01 — Human Origins DNA](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Genomic archaeology and ancestry |
+| [R06 — Epigenetics](../R_Biology_Evolution/R04_Epigenetics_Ancestral_Memory.md) | ERV-derived epigenetic regulation |
 | [R17 — Symbiogenesis](../R_Biology_Evolution/R17_Symbiogenesis_Lynn_Margulis.md) | Horizontal gene transfer and cooperation |
-| [S07 — Biotechnology](../S_Future_Technology/S07_Biotechnology_CRISPR.md) | CRISPR as co-opted viral defense |
+| [S07 — Biotechnology](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md) | CRISPR as co-opted viral defense |
 | [R16 — Plant Intelligence](../R_Biology_Evolution/R16_Plant_Intelligence_Botanical_Communication.md) | Viral role in plant evolution |
 
 ---

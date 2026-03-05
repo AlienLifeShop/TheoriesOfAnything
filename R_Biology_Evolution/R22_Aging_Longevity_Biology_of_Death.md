@@ -3,7 +3,7 @@
 > **Document ID:** R22
 > **Section:** R_Biology_Evolution
 > **Keywords:** aging, longevity, telomeres, telomerase, Hayflick limit, senescence, caloric restriction, Yamanaka factors, immortal jellyfish, naked mole rat, lifespan, epigenetic clock, ancient longevity claims
-> **Cross-References:** [B07](../B_Beings_and_Entities/B07_Ancient_Rulers_Lifespans.md) · [S06](../S_Future_Technology/S06_Bioethics.md) · [R04](R04_Epigenetics.md) · [S02](../S_Future_Technology/S02_CRISPR.md) · [R07](R07_Extremophiles.md)
+> **Cross-References:** [B07](../B_Beings_and_Entities/B07_Ancient_Rulers_Lifespans.md) · [S06](../S_Future_Technology/S06_Bioethics_Human_Enhancement.md) · [R04](R04_Epigenetics_Ancestral_Memory.md) · [S02](../S_Future_Technology/S02_Singularity_Transhumanism.md) · [R07](R07_Extremophile_Biology.md)
 > **Reliability Tier:** Tier 1-3 (molecular mechanisms are established; anti-aging interventions range from well-supported to highly speculative; ancient claims are Tier 4)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (basic biology of aging) to Speculative (longevity extension, ancient claims)
 
@@ -130,11 +130,11 @@ Why do organisms age and die? This question — one of the oldest in human inqui
 | Related Doc | Connection |
 |-------------|-----------|
 | [B07](../B_Beings_and_Entities/B07_Ancient_Rulers_Lifespans.md) | Ancient claims of extreme longevity — Sumerian King List, Genesis patriarchs |
-| [S06](../S_Future_Technology/S06_Bioethics.md) | Ethical implications of life extension technologies |
-| [R04](R04_Epigenetics.md) | Epigenetic aging clocks, reprogramming as epigenetic reset |
-| [S02](../S_Future_Technology/S02_CRISPR.md) | Gene editing approaches to aging — telomerase activation, senescence gene modification |
-| [R07](R07_Extremophiles.md) | Exceptional longevity organisms under extreme conditions |
-| [R08](R08_Convergent_Evolution.md) | Convergent evolution of longevity mechanisms across species |
+| [S06](../S_Future_Technology/S06_Bioethics_Human_Enhancement.md) | Ethical implications of life extension technologies |
+| [R04](R04_Epigenetics_Ancestral_Memory.md) | Epigenetic aging clocks, reprogramming as epigenetic reset |
+| [S02](../S_Future_Technology/S02_Singularity_Transhumanism.md) | Gene editing approaches to aging — telomerase activation, senescence gene modification |
+| [R07](R07_Extremophile_Biology.md) | Exceptional longevity organisms under extreme conditions |
+| [R08](R08_Convergent_Evolution_Aquatic_Ape.md) | Convergent evolution of longevity mechanisms across species |
 
 ---
 

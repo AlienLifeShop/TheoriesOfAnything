@@ -3,7 +3,7 @@
 > **Document ID:** R19
 > **Section:** R_Biology_Evolution
 > **Keywords:** animal cognition, corvids, cetaceans, cephalopods, consciousness, tool use, mirror self-recognition, Cambridge Declaration, dolphins, octopus, elephants, great apes, non-human minds
-> **Cross-References:** [R16](R16_Plant_Intelligence.md) · [O05](../O_Earth_Anomalies/O05_Biodiversity.md) · [P05](../P_Philosophy_Meaning/P05_Panpsychism.md) · [R02](R02_Brain_Evolution.md) · [B12](../B_Beings_and_Entities/B12_Animal_Symbolism.md)
+> **Cross-References:** [R16](R16_Plant_Intelligence_Botanical_Communication.md) · [O05](../O_Earth_Anomalies/O05_Biodiversity_Ecosystem_Intelligence.md) · [P05](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) · [R02](R02_Human_Brain_Evolution.md) · [B12](../B_Beings_and_Entities/B12_Animal_Symbolism_Beyond_Serpents.md)
 > **Reliability Tier:** Tier 1-3 (behavioral evidence is extensive and peer-reviewed; interpretation regarding consciousness and subjective experience remains philosophically debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 24 scholarly sources | **Confidence:** High (behavioral data) to Moderate (consciousness attribution)
 
@@ -133,13 +133,13 @@ The study of animal cognition has undergone a revolution over the past three dec
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [R16](R16_Plant_Intelligence.md) | Plant cognition parallels — intelligence without neurons |
-| [O05](../O_Earth_Anomalies/O05_Biodiversity.md) | Biodiversity and cognitive diversity across species |
-| [P05](../P_Philosophy_Meaning/P05_Panpsychism.md) | Consciousness as fundamental — gradient view supported by animal cognition data |
-| [R02](R02_Brain_Evolution.md) | Evolution of brains and cognitive capacity across lineages |
-| [B12](../B_Beings_and_Entities/B12_Animal_Symbolism.md) | Ancient cultural significance of intelligent animals |
-| [R08](R08_Convergent_Evolution.md) | Convergent evolution of intelligence across unrelated lineages |
-| [K01](../K_Consciousness/K01_Consciousness_Overview.md) | Nature of consciousness and the hard problem |
+| [R16](R16_Plant_Intelligence_Botanical_Communication.md) | Plant cognition parallels — intelligence without neurons |
+| [O05](../O_Earth_Anomalies/O05_Biodiversity_Ecosystem_Intelligence.md) | Biodiversity and cognitive diversity across species |
+| [P05](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) | Consciousness as fundamental — gradient view supported by animal cognition data |
+| [R02](R02_Human_Brain_Evolution.md) | Evolution of brains and cognitive capacity across lineages |
+| [B12](../B_Beings_and_Entities/B12_Animal_Symbolism_Beyond_Serpents.md) | Ancient cultural significance of intelligent animals |
+| [R08](R08_Convergent_Evolution_Aquatic_Ape.md) | Convergent evolution of intelligence across unrelated lineages |
+| [K01](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Nature of consciousness and the hard problem |
 
 ---
 

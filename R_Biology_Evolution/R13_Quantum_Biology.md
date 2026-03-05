@@ -374,4 +374,15 @@ Some researchers have noted parallels between quantum biological concepts and an
 
 ## Bibliography
 
-- Hore & Mouritsen. *Annual Review of Biophysics*. 2016.
+1. Engel, G.S. et al. "Evidence for Wavelike Energy Transfer Through Quantum Coherence in Photosynthetic Systems." *Nature* 446.7137 (2007): 782–786.
+2. Ritz, T. et al. "A Model for Photoreceptor-Based Magnetoreception in Birds." *Biophysical Journal* 78.2 (2000): 707–718.
+3. Hore, P.J. & Mouritsen, H. "The Radical-Pair Mechanism of Magnetoreception." *Annual Review of Biophysics* 45 (2016): 299–344.
+4. Al-Khalili, J. & McFadden, J. *Life on the Edge: The Coming of Age of Quantum Biology.* London: Bantam Press, 2014.
+5. Fisher, M.P.A. "Quantum Cognition: The Possibility of Processing with Nuclear Spins in the Brain." *Annals of Physics* 362 (2015): 593–602.
+6. Löwdin, P.-O. "Proton Tunneling in DNA and Its Biological Implications." *Reviews of Modern Physics* 35.3 (1963): 724–732.
+7. Penrose, R. & Hameroff, S. "Consciousness in the Universe: A Review of the 'Orch OR' Theory." *Physics of Life Reviews* 11.1 (2014): 39–78.
+8. Turin, L. "A Spectroscopic Mechanism for Primary Olfactory Reception." *Chemical Senses* 21.6 (1996): 773–791.
+9. Cao, J. et al. "Quantum Biology Revisited." *Science Advances* 6.14 (2020): eaaz4888.
+10. Klinman, J.P. & Kohen, A. "Hydrogen Tunneling Links Protein Dynamics to Enzyme Catalysis." *Annual Review of Biochemistry* 82 (2013): 471–496.
+11. Tegmark, M. "Importance of Quantum Decoherence in Brain Processes." *Physical Review E* 61.4 (2000): 4194–4206.
+12. Xu, J. et al. "Magnetic Sensitivity of Cryptochrome 4 from a Migratory Songbird." *Nature* 594.7864 (2021): 535–540.

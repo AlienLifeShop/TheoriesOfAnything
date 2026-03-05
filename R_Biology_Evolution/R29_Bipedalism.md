@@ -3,7 +3,7 @@
 > **Document ID:** R29
 > **Section:** R_Biology_Evolution
 > **Keywords:** bipedalism, human evolution, Sahelanthropus, Ardipithecus, Laetoli footprints, savanna hypothesis, thermoregulation, provisioning model, Owen Lovejoy, aquatic ape hypothesis, obstetric dilemma, spinal trade-offs, tool use, freed hands, locomotion
-> **Cross-References:** [L06](../L_Genetics_Origins/L06_Archaic_Humans.md) · [R01](R01_Abiogenesis_Origin_of_Life.md) · [R30](R30_Self_Domestication.md) · [L15](../L_Genetics_Origins/L15_Migration.md) · [K35](../K_Consciousness/K35_Embodied_Consciousness.md)
+> **Cross-References:** [L06](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) · [R01](R01_Abiogenesis_Origin_of_Life.md) · [R30](R30_Self_Domestication.md) · [L15](../L_Genetics_Origins/L15_Human_Migration_Synthesis.md) · [K35](../K_Consciousness/K35_Phantom_Limb_Body_Schema.md)
 > **Reliability Tier:** Tier 1-2 (fossil evidence for bipedalism is strong; causal hypotheses for its evolution are debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (anatomical evidence) to Moderate (evolutionary causation)
 
@@ -160,14 +160,14 @@ Bipedalism — habitual upright walking on two legs — is the defining characte
 
 | Topic | Document | Relevance |
 |---|---|---|
-| Archaic humans | [L06](../L_Genetics_Origins/L06_Archaic_Humans.md) | Hominin lineage context |
+| Archaic humans | [L06](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) | Hominin lineage context |
 | Darwinian evolution | [R01](R01_Abiogenesis_Origin_of_Life.md) | Foundational framework |
 | Self-domestication | [R30](R30_Self_Domestication.md) | Anatomical changes in *Homo sapiens* |
-| Human migration | [L15](../L_Genetics_Origins/L15_Migration.md) | Bipedalism enabling dispersal |
-| Embodied consciousness | [K35](../K_Consciousness/K35_Embodied_Consciousness.md) | Body plan ↔ mind interaction |
+| Human migration | [L15](../L_Genetics_Origins/L15_Human_Migration_Synthesis.md) | Bipedalism enabling dispersal |
+| Embodied consciousness | [K35](../K_Consciousness/K35_Phantom_Limb_Body_Schema.md) | Body plan ↔ mind interaction |
 | Brain evolution | [R02](R02_Human_Brain_Evolution.md) | Freeing hands → brain expansion cascade |
-| Aquatic ape discussions | [O01](../O_Earth_Anomalies/O01_Coastal_Migrations.md) | Alternative habitat hypothesis |
-| Tool technology | [J01](../J_Ancient_Technology/J01_Stone_Tool_Evolution.md) | Bipedalism → freed hands → lithic tech |
+| Aquatic ape discussions | [O01](../O_Earth_Anomalies/O01_Ley_Lines_Earth_Grid.md) | Alternative habitat hypothesis |
+| Tool technology | [J01](../J_Ancient_Technology/J01_Ancient_Power_Energy_Systems.md) | Bipedalism → freed hands → lithic tech |
 | Thermoregulation | [R06](R06_Gaia_Theory.md) | Body temperature regulation context |
 | Sexual selection | [R24](R24_Sexual_Selection.md) | Display behavior and mate signaling |
 | Coevolution | [R25](R25_Coevolution_Arms_Races.md) | Host-parasite and dietary pressures |

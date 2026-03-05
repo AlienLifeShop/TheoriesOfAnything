@@ -3,7 +3,7 @@
 > **Document ID:** R25
 > **Section:** R_Biology_Evolution
 > **Keywords:** coevolution, Red Queen hypothesis, Van Valen, arms race, mutualism, plant-pollinator, host-parasite, mycorrhizal networks, wood wide web, fig-fig wasp, gene-for-gene, MHC, cultural coevolution, reciprocal adaptation, diffuse coevolution
-> **Cross-References:** [R01](R01_Abiogenesis_Origin_of_Life.md) · [R12](R12_Horizontal_Gene_Transfer.md) · [G12](../G_Modern_Frameworks/G12_Evolutionary_Dynamics.md) · [R06](R06_Gaia_Theory.md) · [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md)
+> **Cross-References:** [R01](R01_Abiogenesis_Origin_of_Life.md) · [R12](R12_Horizontal_Gene_Transfer.md) · [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) · [R06](R06_Gaia_Theory.md) · [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md)
 > **Reliability Tier:** Tier 1-2 (coevolution is a well-documented evolutionary process; specific coevolutionary mechanisms and their relative importance remain actively researched)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (empirical evidence) to Moderate (some theoretical models)
 
@@ -161,19 +161,19 @@ Coevolution — reciprocal evolutionary change between interacting species — i
 |---|---|---|
 | Darwinian evolution | [R01](R01_Abiogenesis_Origin_of_Life.md) | Foundational framework |
 | Horizontal gene transfer | [R12](R12_Horizontal_Gene_Transfer.md) | Alternative genetic exchange |
-| Evolutionary dynamics | [G12](../G_Modern_Frameworks/G12_Evolutionary_Dynamics.md) | Formal coevolutionary models |
+| Evolutionary dynamics | [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) | Formal coevolutionary models |
 | Gaia theory | [R06](R06_Gaia_Theory.md) | Ecosystem-level interactions |
 | Domestication genetics | [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md) | Human-crop coevolution |
 | Biodiversity | [R12](R12_Horizontal_Gene_Transfer.md) | Coevolution drives diversification |
-| Coral reef ecology | [O10](../O_Earth_Anomalies/O10_Marine_Ecosystems.md) | Coral-zooxanthellae mutualism |
-| MHC and immunity | [L05](../L_Genetics_Origins/L05_Immune_System_Evolution.md) | Pathogen-driven genetic diversity |
+| Coral reef ecology | [O10](../O_Earth_Anomalies/O03_Ocean_Mysteries_Deep_Sea.md) | Coral-zooxanthellae mutualism |
+| MHC and immunity | [L05](../L_Genetics_Origins/L02_Interbreeding_Events.md) | Pathogen-driven genetic diversity |
 | Chemical ecology | [R06](R06_Gaia_Theory.md) | Plant chemical defense in ecosystem context |
 | Sexual selection | [R24](R24_Sexual_Selection.md) | Coevolution in mate choice systems |
 | Social insects | [R26](R26_Social_Insects_Superorganisms.md) | Mutualism in ant-fungus farming |
-| Speciation | [R10](R10_Speciation_Mechanisms.md) | Coevolution driving diversification |
+| Speciation | [R10](R10_Homo_Floresiensis.md) | Coevolution driving diversification |
 | Photosynthesis | [R31](R31_Photosynthesis.md) | Plant-herbivore photosynthetic trade-offs |
 | Microbiome | [R12](R12_Horizontal_Gene_Transfer.md) | Host-microbe coevolutionary dynamics |
-| Biogeography | [O01](../O_Earth_Anomalies/O01_Coastal_Migrations.md) | Geographic mosaic of coevolution |
+| Biogeography | [O01](../O_Earth_Anomalies/O01_Ley_Lines_Earth_Grid.md) | Geographic mosaic of coevolution |
 
 ---
 

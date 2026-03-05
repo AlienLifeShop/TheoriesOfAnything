@@ -3,7 +3,7 @@
 > **Document ID:** R21
 > **Section:** R_Biology_Evolution
 > **Keywords:** circadian rhythms, biological clock, SCN, suprachiasmatic nucleus, melatonin, pineal gland, Nobel Prize 2017, period gene, cryptochrome, blue light, jet lag, chronobiology
-> **Cross-References:** [E15](../E_Cataclysms_and_Chronology/E15_Calendar_Systems.md) · [R02](R02_Brain_Evolution.md) · [K13](../K_Consciousness/K13_Pineal_Gland.md) · [P18](../P_Philosophy_Meaning/P18_Ritual_Symbol.md)
+> **Cross-References:** [E15](../E_Cataclysms_and_Chronology/E15_Calendar_Systems_Ancient_Timekeeping.md) · [R02](R02_Human_Brain_Evolution.md) · [K13](../K_Consciousness/K13_Pineal_Gland_Third_Eye.md) · [P18](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred.md)
 > **Reliability Tier:** Tier 1-2 (molecular mechanisms are Nobel Prize-caliber established science; connections to ancient practices are scholarly but interpretive)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** Very High (molecular biology) to Moderate (ancient practice correlations)
 
@@ -112,7 +112,7 @@ Every cell in the human body keeps time. The circadian system — a ~24-hour int
 5. Nobel Assembly at Karolinska Institutet (2017). "The Nobel Prize in Physiology or Medicine 2017: Hall, Rosbash, Young." *Nobel Foundation Press Release*.
 6. Lockley, S. W. et al. (2003). "High sensitivity of the human circadian melatonin rhythm to resetting by short wavelength light." *Journal of Clinical Endocrinology & Metabolism*, 88(9), 4502–4505.
 7. Cajochen, C. et al. (2011). "Evening exposure to a light-emitting diodes (LED)-backlit computer screen affects circadian physiology and cognitive performance." *Journal of Applied Physiology*, 110(5), 1432–1438.
-8. de Mairan, J. J. d'O. (1729). "Observation botanique." *Histoire de l'Académie Royale des Sciences*, 35–36.
+8. de Mairan, J. J. d'Ortous. (1729). "Observation botanique." *Histoire de l'Académie Royale des Sciences*, 35–36. Modern commentary: Daan, Serge. "A History of Chronobiological Concepts." In *The Circadian Clock*, Springer, 2010.
 9. Schernhammer, E. S. et al. (2001). "Rotating Night Shifts and Risk of Breast Cancer in Women." *JNCI*, 93(20), 1563–1568.
 10. Scheer, F. A. J. L. et al. (2009). "Adverse metabolic and cardiovascular consequences of circadian misalignment." *PNAS*, 106(11), 4453–4458.
 11. Cho, K. (2001). "Chronic 'jet lag' produces temporal lobe atrophy and spatial cognitive deficits." *Nature Neuroscience*, 4, 567–568.
@@ -133,12 +133,12 @@ Every cell in the human body keeps time. The circadian system — a ~24-hour int
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [E15](../E_Cataclysms_and_Chronology/E15_Calendar_Systems.md) | Ancient calendar systems aligned with circadian and seasonal rhythms |
-| [R02](R02_Brain_Evolution.md) | SCN and brain evolution — circadian clock as ancient neural structure |
-| [K13](../K_Consciousness/K13_Pineal_Gland.md) | Pineal gland, melatonin, and "third eye" traditions |
-| [K27](../K_Consciousness/K27_Sleep_Science.md) | Sleep science — circadian regulation of sleep-wake cycles |
-| [P18](../P_Philosophy_Meaning/P18_Ritual_Symbol.md) | Ritual timing aligned with circadian biology |
-| [R07](R07_Extremophiles.md) | Circadian clocks in extremophile organisms |
+| [E15](../E_Cataclysms_and_Chronology/E15_Calendar_Systems_Ancient_Timekeeping.md) | Ancient calendar systems aligned with circadian and seasonal rhythms |
+| [R02](R02_Human_Brain_Evolution.md) | SCN and brain evolution — circadian clock as ancient neural structure |
+| [K13](../K_Consciousness/K13_Pineal_Gland_Third_Eye.md) | Pineal gland, melatonin, and "third eye" traditions |
+| [K27](../K_Consciousness/K27_Sleep_Science_Ancient_Practices.md) | Sleep science — circadian regulation of sleep-wake cycles |
+| [P18](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred.md) | Ritual timing aligned with circadian biology |
+| [R07](R07_Extremophile_Biology.md) | Circadian clocks in extremophile organisms |
 
 ---
 
