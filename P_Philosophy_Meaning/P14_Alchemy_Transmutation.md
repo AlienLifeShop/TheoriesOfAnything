@@ -76,7 +76,7 @@ This single principle — **"as above, so below"** — establishes the alchemica
 - Daoist body-cosmos correspondence (see [C32](../C_Global_Traditions/C32_Daoism_Chinese_Alchemy.md))
 - Hermetic philosophy broadly (see [A08](../A_Foundations/A08_Hermetic_Tradition.md))
 - The Hindu concept of Brahman-Atman identity
-- Modern holographic models of consciousness (see [K01](../K_Consciousness/K01_Consciousness_Overview.md))
+- Modern holographic models of consciousness (see [K01](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md))
 
 ### 2.3 Graeco-Egyptian Alchemists [3/5 sources]
 
@@ -303,9 +303,9 @@ Beyond Jung's psychological reading, alchemy functions as a **contemplative spir
 | [C32](../C_Global_Traditions/C32_Daoism_Chinese_Alchemy.md) | Chinese Daoist alchemy — waidan/neidan parallel |
 | [A08](../A_Foundations/A08_Hermetic_Tradition.md) | Hermetic tradition — Emerald Tablet, "as above, so below" |
 | [C18](../C_Global_Traditions/C18_Prometheus_Forbidden_Knowledge_Archetype.md) | Forbidden knowledge — alchemist as Promethean figure |
-| [K01](../K_Consciousness/K01_Consciousness_Overview.md) | Consciousness — alchemical transformation as awareness shift |
-| [K13](../K_Consciousness/K13_Pineal_Gland_Third_Eye_Traditions.md) | Third eye — alchemical "inner gold" / pineal connection |
-| [J05](../J_Ancient_Technology/J05_Metallurgy_Alloys.md) | Metallurgy — practical chemistry within alchemy |
+| [K01](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Consciousness — alchemical transformation as awareness shift |
+| [K13](../K_Consciousness/K13_Pineal_Gland_Third_Eye.md) | Third eye — alchemical "inner gold" / pineal connection |
+| [J05](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Metallurgy — practical chemistry within alchemy |
 | [C12](../C_Global_Traditions/C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) | Chinese dragon — mercury/cinnabar/serpent symbolism |
 | [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) | Perennial philosophy — alchemy as universal path |
 | [C19](../C_Global_Traditions/C19_Zoroastrianism_Demonization_Pivot.md) | Zoroastrian dualism — sulfur/mercury as cosmic duality |

@@ -3,7 +3,7 @@
 > **Document ID:** P30
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** political philosophy, Plato, Republic, Aristotle, Machiavelli, Hobbes, social contract, Locke, natural rights, Rousseau, general will, Marx, historical materialism, Rawls, veil of ignorance, Foucault, power-knowledge, Arendt, banality of evil, justice, sovereignty
-> **Cross-References:** [N16](../N_Secret_Societies/N16_Illuminati.md) · [T01](../T_Psychology_Social/T01_Social_Psychology.md) · [T07](../T_Psychology_Social/T07_Propaganda.md) · [P26](P26_Existentialism.md) · [H13](../H_Suppression_and_Thesis/H13_Inquisition.md) · [P03](P03_Ethics_Across_Civilizations.md) · [P25](P25_Pre_Socratic_Philosophy.md)
+> **Cross-References:** [N16](../N_Secret_Societies/N16_Illuminati.md) · [T01](../T_Psychology_Social/T01_Social_Psychology_Conformity_Obedience.md) · [T07](../T_Psychology_Social/T07_Propaganda_Persuasion_Information_Warfare.md) · [P26](P26_Existentialism.md) · [H13](../H_Suppression_and_Thesis/H13_Inquisition_Systematic_Knowledge_Suppression.md) · [P03](P03_Ethics_Across_Civilizations.md) · [P25](P25_Pre_Socratic_Philosophy.md)
 > **Reliability Tier:** Tier 1-2 (well-documented philosophical tradition with active contemporary debate)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
 
@@ -165,10 +165,10 @@ Non-Western political thought — from Confucian governance and Islamic jurispru
 | Topic | Document | Relationship |
 |-------|----------|-------------|
 | Illuminati | [N16](../N_Secret_Societies/N16_Illuminati.md) | Secret societies and political power |
-| Social Psychology | [T01](../T_Psychology_Social/T01_Social_Psychology.md) | Group dynamics and authority |
-| Propaganda | [T07](../T_Psychology_Social/T07_Propaganda.md) | Ideology, media, and power |
+| Social Psychology | [T01](../T_Psychology_Social/T01_Social_Psychology_Conformity_Obedience.md) | Group dynamics and authority |
+| Propaganda | [T07](../T_Psychology_Social/T07_Propaganda_Persuasion_Information_Warfare.md) | Ideology, media, and power |
 | Existentialism | [P26](P26_Existentialism.md) | Arendt, Sartre on political engagement |
-| Inquisition | [H13](../H_Suppression_and_Thesis/H13_Inquisition.md) | Institutional suppression of dissent |
+| Inquisition | [H13](../H_Suppression_and_Thesis/H13_Inquisition_Systematic_Knowledge_Suppression.md) | Institutional suppression of dissent |
 | Ethics | [P03](P03_Ethics_Across_Civilizations.md) | Foundations of justice and virtue |
 | Pre-Socratics | [P25](P25_Pre_Socratic_Philosophy.md) | Origins of political thought in Greece |
 | Islamic Philosophy | [P29](P29_Islamic_Philosophy.md) | Al-Farabi's Virtuous City |

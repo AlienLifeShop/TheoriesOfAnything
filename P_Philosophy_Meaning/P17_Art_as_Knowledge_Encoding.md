@@ -103,10 +103,10 @@ Pythagoras (~570-495 BCE) and followers discovered **mathematical relationships*
 
 | Document | Connection |
 |----------|------------|
-| [C34 — Paleolithic Religion](../C_Global_Traditions/C34_Paleolithic_Religion_Cave_Art.md) | Cave art as knowledge system |
+| [C34 — Paleolithic Religion](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md) | Cave art as knowledge system |
 | [D23 — Masks and Ritual Objects](../D_Sites_and_Artifacts/D23_Masks_Ritual_Objects_Power_Artifacts.md) | Material culture as knowledge encoding |
 | [F11 — Silk Road](../F_Lost_Connections/F11_Silk_Road_Knowledge_Exchange.md) | Knowledge transmission networks |
-| [K01 — Consciousness Theories](../K_Consciousness/K01_Consciousness_Theories.md) | Cognition and symbolic capacity |
+| [K01 — Consciousness Theories](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Cognition and symbolic capacity |
 | [C63 — Initiation Rites](../C_Global_Traditions/C63_Initiation_Rites_Coming_of_Age.md) | Performative knowledge transmission |
 | [P18 — Ritual, Symbol, Sacred](P18_Ritual_Symbol_Sacred.md) | Theory of symbolic cognition |
 

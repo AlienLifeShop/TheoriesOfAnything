@@ -113,8 +113,8 @@ Symbols are not arbitrary signs but **polysemic** (carrying multiple meanings si
 | [C65 — Death Rituals](../C_Global_Traditions/C65_Death_Rituals_Funerary_Architecture.md) | Funerary rites as ultimate transition |
 | [C66 — Fire Symbolism](../C_Global_Traditions/C66_Fire_Symbolism_Sacred_Flame.md) | Fire as universal ritual symbol |
 | [D23 — Masks and Ritual Objects](../D_Sites_and_Artifacts/D23_Masks_Ritual_Objects_Power_Artifacts.md) | Material culture of ritual |
-| [K01 — Consciousness Theories](../K_Consciousness/K01_Consciousness_Theories.md) | Consciousness and mystical experience |
-| [K02 — Meditation](../K_Consciousness/K02_Meditation_Consciousness.md) | Altered states in ritual context |
+| [K01 — Consciousness Theories](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Consciousness and mystical experience |
+| [K02 — Meditation](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Altered states in ritual context |
 | [P17 — Art as Knowledge](P17_Art_as_Knowledge_Encoding.md) | Art and symbolic knowledge systems |
 
 ---

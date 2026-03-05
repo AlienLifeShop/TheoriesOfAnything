@@ -3,7 +3,7 @@
 > **Document ID:** P19
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** epistemology, empiricism, rationalism, Kant, Bayesian inference, falsificationism, Popper, Kuhn, paradigm shifts, indigenous epistemologies, knowledge, truth, justification
-> **Cross-References:** [P09](P09_Gödel_Incompleteness.md) · [P04](P04_Mathematics.md) · [H08](../H_Suppression_and_Thesis/H08_Academic_Gatekeeping.md) · [C13](../C_Global_Traditions/C13_Indigenous_Knowledge.md) · [G22](../G_Modern_Frameworks/G22_Cognitive_Science.md)
+> **Cross-References:** [P09](P09_Godels_Incompleteness.md) · [P04](P04_Mathematics_Discovered_Invented.md) · [H08](../H_Suppression_and_Thesis/H08_Academic_Gatekeeping_Paradigm_Resistance.md) · [C13](../C_Global_Traditions/C13_Indigenous_Knowledge_Systems.md) · [G22](../G_Modern_Frameworks/G22_Cognitive_Science_Religion.md)
 > **Reliability Tier:** Tier 1-2 (established philosophical frameworks with ongoing academic debate)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 25 scholarly sources | **Confidence:** High
 
@@ -157,12 +157,12 @@ Epistemology — the branch of philosophy concerned with the nature, sources, an
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [P09](P09_Gödel_Incompleteness.md) | Gödel — formal limits of knowledge within logical systems |
-| [P04](P04_Mathematics.md) | Mathematics as paradigmatic case of a priori knowledge |
-| [H08](../H_Suppression_and_Thesis/H08_Academic_Gatekeeping.md) | Academic gatekeeping — Kuhnian paradigm defense mechanisms |
-| [C13](../C_Global_Traditions/C13_Indigenous_Knowledge.md) | Indigenous knowledge systems — alternative epistemologies |
-| [G22](../G_Modern_Frameworks/G22_Cognitive_Science.md) | Cognitive science — how the brain processes knowledge |
-| [P03](P03_Ethics.md) | Ethics — moral epistemology |
+| [P09](P09_Godels_Incompleteness.md) | Gödel — formal limits of knowledge within logical systems |
+| [P04](P04_Mathematics_Discovered_Invented.md) | Mathematics as paradigmatic case of a priori knowledge |
+| [H08](../H_Suppression_and_Thesis/H08_Academic_Gatekeeping_Paradigm_Resistance.md) | Academic gatekeeping — Kuhnian paradigm defense mechanisms |
+| [C13](../C_Global_Traditions/C13_Indigenous_Knowledge_Systems.md) | Indigenous knowledge systems — alternative epistemologies |
+| [G22](../G_Modern_Frameworks/G22_Cognitive_Science_Religion.md) | Cognitive science — how the brain processes knowledge |
+| [P03](P03_Ethics_Across_Civilizations.md) | Ethics — moral epistemology |
 | [P10](P10_Perennial_Philosophy.md) | Perennial philosophy — cross-cultural knowledge claims |
 
 ---

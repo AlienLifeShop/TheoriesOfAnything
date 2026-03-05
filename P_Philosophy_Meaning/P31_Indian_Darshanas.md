@@ -3,7 +3,7 @@
 > **Document ID:** P31
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** darshana, Samkhya, purusha, prakriti, Yoga, Patanjali, Nyaya, logic, Vaisheshika, atomism, Mimamsa, Vedanta, Advaita, Vishishtadvaita, Dvaita, Brahman, Charvaka, Buddhist philosophy, Jain philosophy, pramana, epistemology
-> **Cross-References:** [A28](../A_Foundations/A28_Upanishads.md) · [A20](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md) · [P05](P05_Panpsychism_Modern_Philosophy.md) · [K10](../K_Consciousness/K10_Meditation.md) · [P10](P10_Perennial_Philosophy.md) · [P24](P24_Non_Dualism_Advaita_Unity.md) · [P25](P25_Pre_Socratic_Philosophy.md)
+> **Cross-References:** [A28](../A_Foundations/A28_Upanishads_Core_Vedantic_Philosophy.md) · [A20](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md) · [P05](P05_Panpsychism_Modern_Philosophy.md) · [K10](../K_Consciousness/K08_Meditation_Neuroplasticity.md) · [P10](P10_Perennial_Philosophy.md) · [P24](P24_Non_Dualism_Advaita_Unity.md) · [P25](P25_Pre_Socratic_Philosophy.md)
 > **Reliability Tier:** Tier 1-2 (well-documented philosophical traditions with extensive textual evidence and ongoing scholarly debate)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High
 
@@ -165,10 +165,10 @@ The Indian philosophical tradition produced six orthodox (āstika) systems (dar�
 
 | Topic | Document | Relationship |
 |-------|----------|-------------|
-| Upanishads | [A28](../A_Foundations/A28_Upanishads.md) | Textual foundations for Vedanta |
+| Upanishads | [A28](../A_Foundations/A28_Upanishads_Core_Vedantic_Philosophy.md) | Textual foundations for Vedanta |
 | Rig Veda | [A20](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md) | Cosmological source texts |
 | Panpsychism | [P05](P05_Panpsychism_Modern_Philosophy.md) | Samkhya consciousness-matter dualism |
-| Meditation | [K10](../K_Consciousness/K10_Meditation.md) | Yoga practice and consciousness |
+| Meditation | [K10](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Yoga practice and consciousness |
 | Perennial Philosophy | [P10](P10_Perennial_Philosophy.md) | Cross-tradition convergences |
 | Non-Dualism | [P24](P24_Non_Dualism_Advaita_Unity.md) | Advaita Vedanta tradition |
 | Pre-Socratics | [P25](P25_Pre_Socratic_Philosophy.md) | Parallel atomism and cosmological inquiry |

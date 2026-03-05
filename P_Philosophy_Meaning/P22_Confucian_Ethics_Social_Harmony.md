@@ -3,7 +3,7 @@
 > **Document ID:** P22
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** Confucius, Kong Qiu, Analects, ren, yi, li, xiao, filial piety, Five Relationships, Neo-Confucianism, Zhu Xi, keju, civil service examinations, Mencius, Xunzi, social harmony
-> **Cross-References:** [P03](P03_Ethics.md) · [C32](../C_Global_Traditions/C32_Daoism.md) · [P10](P10_Perennial_Philosophy.md) · [A23](../A_Foundations/A23_Tao_Te_Ching_Daoist_Primary_Texts.md) · [B18](../B_Beings_and_Entities/B18_Ancestor_Spirits.md)
+> **Cross-References:** [P03](P03_Ethics_Across_Civilizations.md) · [C32](../C_Global_Traditions/C32_Daoism_Chinese_Alchemy.md) · [P10](P10_Perennial_Philosophy.md) · [A23](../A_Foundations/A23_Tao_Te_Ching_Daoist_Primary_Texts.md) · [B18](../B_Beings_and_Entities/B18_Ancestor_Spirits_Worship_Traditions.md)
 > **Reliability Tier:** Tier 1-2 (well-documented historical philosophy and institutional legacy)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High
 
@@ -156,11 +156,11 @@ Confucianism — the ethical, social, and political philosophy developed from th
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [P03](P03_Ethics.md) | Ethics — virtue ethics across traditions |
-| [C32](../C_Global_Traditions/C32_Daoism.md) | Daoism — Confucianism's complementary opposite |
+| [P03](P03_Ethics_Across_Civilizations.md) | Ethics — virtue ethics across traditions |
+| [C32](../C_Global_Traditions/C32_Daoism_Chinese_Alchemy.md) | Daoism — Confucianism's complementary opposite |
 | [P10](P10_Perennial_Philosophy.md) | Perennial philosophy — Confucian universal claims |
 | [A23](../A_Foundations/A23_Tao_Te_Ching_Daoist_Primary_Texts.md) | Daoist texts — Confucian-Daoist dialogue |
-| [B18](../B_Beings_and_Entities/B18_Ancestor_Spirits.md) | Ancestor spirits — filial piety and ancestral rites |
+| [B18](../B_Beings_and_Entities/B18_Ancestor_Spirits_Worship_Traditions.md) | Ancestor spirits — filial piety and ancestral rites |
 | [P19](P19_Epistemology_How_We_Know.md) | Epistemology — Confucian investigation of things |
 | [P23](P23_Ubuntu_African_Philosophy.md) | Ubuntu — communitarian ethics comparison |
 

@@ -3,7 +3,7 @@
 > **Document ID:** P23
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** Ubuntu, African philosophy, Yoruba, Ori, Akan, Sankofa, Adinkra, Bantu, vital force, Maat, communitarian ethics, Tutu, Truth and Reconciliation, omoluabi, Kagame
-> **Cross-References:** [P03](P03_Ethics.md) · [C40](../C_Global_Traditions/C40_Bantu_Cosmology.md) · [C05](../C_Global_Traditions/C05_African_Traditions.md) · [H12](../H_Suppression_and_Thesis/H12_Aboriginal_Destruction.md) · [P10](P10_Perennial_Philosophy.md)
+> **Cross-References:** [P03](P03_Ethics_Across_Civilizations.md) · [C40](../C_Global_Traditions/C40_Bantu_Cosmology_Migration_Iron.md) · [C05](../C_Global_Traditions/C05_Credo_Mutwa_African_Traditions.md) · [H12](../H_Suppression_and_Thesis/H12_Aboriginal_Knowledge_System_Destruction.md) · [P10](P10_Perennial_Philosophy.md)
 > **Reliability Tier:** Tier 1-3 (documented philosophical traditions with oral-tradition challenges)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Moderate-High
 
@@ -150,10 +150,10 @@ African philosophy encompasses a rich and diverse family of intellectual traditi
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [P03](P03_Ethics.md) | Ethics — Ubuntu as communitarian ethical system |
-| [C40](../C_Global_Traditions/C40_Bantu_Cosmology.md) | Bantu cosmology — vital force and ancestral hierarchy |
-| [C05](../C_Global_Traditions/C05_African_Traditions.md) | African traditions — cultural context |
-| [H12](../H_Suppression_and_Thesis/H12_Aboriginal_Destruction.md) | Destruction of indigenous knowledge systems |
+| [P03](P03_Ethics_Across_Civilizations.md) | Ethics — Ubuntu as communitarian ethical system |
+| [C40](../C_Global_Traditions/C40_Bantu_Cosmology_Migration_Iron.md) | Bantu cosmology — vital force and ancestral hierarchy |
+| [C05](../C_Global_Traditions/C05_Credo_Mutwa_African_Traditions.md) | African traditions — cultural context |
+| [H12](../H_Suppression_and_Thesis/H12_Aboriginal_Knowledge_System_Destruction.md) | Destruction of indigenous knowledge systems |
 | [P10](P10_Perennial_Philosophy.md) | Perennial philosophy — Ubuntu as universal ethical insight |
 | [P19](P19_Epistemology_How_We_Know.md) | Epistemology — epistemic injustice and African knowledge |
 | [P22](P22_Confucian_Ethics_Social_Harmony.md) | Confucian ethics — communitarian comparison |

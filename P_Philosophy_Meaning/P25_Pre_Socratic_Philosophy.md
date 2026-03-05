@@ -3,7 +3,7 @@
 > **Document ID:** P25
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** Pre-Socratics, Thales, Anaximander, apeiron, Heraclitus, logos, flux, Parmenides, being, Empedocles, Democritus, atomism, Pythagoras, Anaxagoras, nous, Milesian school, Ionian philosophy, arche
-> **Cross-References:** [P04](P04_Mathematics_Discovered_Invented.md) · [Q01](../Q_Cosmology_Physics/Q01_Unified_Field_Theory.md) · [P05](P05_Panpsychism_Modern_Philosophy.md) · [A32](../A_Foundations/A32_Hesiod_Theogony_Works_Days.md) · [C113](../C_Global_Traditions/C113_Numerology_Sacred_Number.md) · [P20](P20_Stoicism_Ancient_Resilience.md) · [P24](P24_Non_Dualism_Advaita_Unity.md)
+> **Cross-References:** [P04](P04_Mathematics_Discovered_Invented.md) · [Q01](../Q_Cosmology_Physics/Q01_Anthropic_Principle_Fine_Tuning.md) · [P05](P05_Panpsychism_Modern_Philosophy.md) · [A32](../A_Foundations/A32_Hesiod_Theogony_Works_and_Days.md) · [C113](../C_Global_Traditions/C113_Numerology_Sacred_Number_Systems.md) · [P20](P20_Stoicism_Ancient_Resilience.md) · [P24](P24_Non_Dualism_Advaita_Unity.md)
 > **Reliability Tier:** Tier 1-2 (well-documented ancient philosophy with fragmentary primary sources)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
 
@@ -165,15 +165,15 @@ The Pre-Socratic philosophers (c. 624–370 BCE) inaugurated Western philosophy 
 | Topic | Document | Relationship |
 |-------|----------|-------------|
 | Mathematics as Reality | [P04](P04_Mathematics_Discovered_Invented.md) | Pythagorean "all is number" thesis |
-| Unified Field Theory | [Q01](../Q_Cosmology_Physics/Q01_Unified_Field_Theory.md) | Archê as unifying principle parallels |
+| Unified Field Theory | [Q01](../Q_Cosmology_Physics/Q01_Anthropic_Principle_Fine_Tuning.md) | Archê as unifying principle parallels |
 | Panpsychism | [P05](P05_Panpsychism_Modern_Philosophy.md) | Anaxagoras' nous as cosmic mind |
-| Hesiod/Theogony | [A32](../A_Foundations/A32_Hesiod_Theogony_Works_Days.md) | Mythological cosmology Pre-Socratics replaced |
-| Numerology | [C113](../C_Global_Traditions/C113_Numerology_Sacred_Number.md) | Pythagorean number mysticism |
+| Hesiod/Theogony | [A32](../A_Foundations/A32_Hesiod_Theogony_Works_and_Days.md) | Mythological cosmology Pre-Socratics replaced |
+| Numerology | [C113](../C_Global_Traditions/C113_Numerology_Sacred_Number_Systems.md) | Pythagorean number mysticism |
 | Stoicism | [P20](P20_Stoicism_Ancient_Resilience.md) | Heraclitean logos adopted by Stoics |
 | Non-Dualism | [P24](P24_Non_Dualism_Advaita_Unity.md) | Unity of opposites parallels |
 | Perennial Philosophy | [P10](P10_Perennial_Philosophy.md) | Cross-cultural logos/Dao/Rta parallels |
 | Existentialism | [P26](P26_Existentialism.md) | Nietzsche's engagement with Heraclitus |
-| Scientific Censorship | [H15](../H_Suppression_and_Thesis/H15_Scientific_Censorship.md) | Anaxagoras' prosecution for impiety |
+| Scientific Censorship | [H15](../H_Suppression_and_Thesis/H15_Scientific_Censorship_Paradigm_Defense.md) | Anaxagoras' prosecution for impiety |
 
 ---
 

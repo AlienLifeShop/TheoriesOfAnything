@@ -118,7 +118,7 @@ Foster and Lehoux (2007) examined and critically assessed the hypothesis that th
 
 - Geological surveys confirmed active fault lines beneath the temple site
 - Travertine deposits indicate ancient spring activity involving CO₂ and possibly ethylene
-- Laboratory studies show ethylene in moderate concentrations produces euphoria, altered consciousness, and dissociative states
+- Laboratory studies by Spiller and Hale (2002) show ethylene in moderate concentrations produces euphoria, altered consciousness, and dissociative states
 - **However**: Foster and Lehoux argue the geological evidence for sufficient ethylene concentrations is inconclusive, and the hypothesis may oversimplify a complex cultural institution
 
 The debate illustrates a recurring tension: the desire to find **material explanations** for spiritual/prophetic phenomena vs. the recognition that reducing prophecy to chemistry may miss the social and psychological dimensions.
@@ -265,7 +265,7 @@ Anthropological studies consistently show that divination serves critical **soci
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K08](../K_Consciousness/K08_Shamanic_Consciousness_Practices.md) | Shamanic consciousness — trance-based divination |
+| [K08](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Shamanic consciousness — trance-based divination |
 | [C17](../C_Global_Traditions/C17_Sacred_Kingship_Divine_Rulership.md) | Sacred kingship — divine mandate through oracles |
 | [A01](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) | Sumerian texts — Mesopotamian omen tradition origins |
 | [A08](../A_Foundations/A08_Hermetic_Tradition.md) | Hermetic tradition — correspondence theory |
@@ -274,7 +274,7 @@ Anthropological studies consistently show that divination serves critical **soci
 | [C33](../C_Global_Traditions/C33_Korean_Shamanism_Muism.md) | Korean shamanism — mudang oracular practices |
 | [P08](../P_Philosophy_Meaning/P08_Free_Will_Determinism.md) | Free will — determinism and foreknowledge tension |
 | [C25](../C_Global_Traditions/C25_Orpheus_Descent_Underworld_Archetype.md) | Underworld descent — Trophonius oracle parallel |
-| [K01](../K_Consciousness/K01_Consciousness_Overview.md) | Consciousness — altered states and knowledge access |
+| [K01](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Consciousness — altered states and knowledge access |
 
 ---
 

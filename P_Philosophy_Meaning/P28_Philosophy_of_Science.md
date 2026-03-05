@@ -3,7 +3,7 @@
 > **Document ID:** P28
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** philosophy of science, Popper, falsificationism, Kuhn, paradigm shift, Lakatos, research programmes, Feyerabend, anarchism, Duhem-Quine thesis, scientific realism, anti-realism, Bayesianism, induction, underdetermination, demarcation problem, instrumentalism
-> **Cross-References:** [H15](../H_Suppression_and_Thesis/H15_Scientific_Censorship.md) · [G12](../G_Modern_Frameworks/G12_Evolutionary_Dynamics.md) · [Q01](../Q_Cosmology_Physics/Q01_Unified_Field_Theory.md) · [R01](../R_Biology_Evolution/R01_Darwin_Evolution.md) · [P25](P25_Pre_Socratic_Philosophy.md) · [P19](P19_Epistemology_How_We_Know.md)
+> **Cross-References:** [H15](../H_Suppression_and_Thesis/H15_Scientific_Censorship_Paradigm_Defense.md) · [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) · [Q01](../Q_Cosmology_Physics/Q01_Anthropic_Principle_Fine_Tuning.md) · [R01](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) · [P25](P25_Pre_Socratic_Philosophy.md) · [P19](P19_Epistemology_How_We_Know.md)
 > **Reliability Tier:** Tier 1-2 (well-established academic discipline with active ongoing debate)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
 
@@ -164,10 +164,10 @@ The philosophy of science investigates the foundations, methods, and implication
 
 | Topic | Document | Relationship |
 |-------|----------|-------------|
-| Scientific Censorship | [H15](../H_Suppression_and_Thesis/H15_Scientific_Censorship.md) | Institutional suppression of anomalies |
-| Evolutionary Dynamics | [G12](../G_Modern_Frameworks/G12_Evolutionary_Dynamics.md) | Paradigmatic evolution of evolutionary theory |
-| Unified Field Theory | [Q01](../Q_Cosmology_Physics/Q01_Unified_Field_Theory.md) | Realism and unobservable entities |
-| Darwin/Evolution | [R01](../R_Biology_Evolution/R01_Darwin_Evolution.md) | Paradigm case of scientific revolution |
+| Scientific Censorship | [H15](../H_Suppression_and_Thesis/H15_Scientific_Censorship_Paradigm_Defense.md) | Institutional suppression of anomalies |
+| Evolutionary Dynamics | [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) | Paradigmatic evolution of evolutionary theory |
+| Unified Field Theory | [Q01](../Q_Cosmology_Physics/Q01_Anthropic_Principle_Fine_Tuning.md) | Realism and unobservable entities |
+| Darwin/Evolution | [R01](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) | Paradigm case of scientific revolution |
 | Pre-Socratics | [P25](P25_Pre_Socratic_Philosophy.md) | Origins of naturalistic inquiry |
 | Epistemology | [P19](P19_Epistemology_How_We_Know.md) | Foundational knowledge questions |
 | Existentialism | [P26](P26_Existentialism.md) | Kuhn's existentialist influences |

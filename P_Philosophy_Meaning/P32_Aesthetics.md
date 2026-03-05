@@ -3,7 +3,7 @@
 > **Document ID:** P32
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** aesthetics, philosophy of art, beauty, sublime, Plato, mimesis, Aristotle, catharsis, Kant, purposiveness, Hegel, Schopenhauer, Nietzsche, Apollonian, Dionysian, Heidegger, truth-disclosure, Dewey, rasa theory, taste, imagination, aesthetic experience
-> **Cross-References:** [U01](../U_Art_Music_Culture/U01_Music_Theory.md) · [U02](../U_Art_Music_Culture/U02_Sacred_Dance.md) · [U05](../U_Art_Music_Culture/U05_Color_Symbolism.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [P27](P27_Phenomenology.md) · [P26](P26_Existentialism.md) · [P25](P25_Pre_Socratic_Philosophy.md)
+> **Cross-References:** [U01](../U_Art_Music_Culture/U01_Music_Theory_Harmonic_Series_Physics_of_Sound.md) · [U02](../U_Art_Music_Culture/U02_Sacred_Dance_Ritual_Movement.md) · [U05](../U_Art_Music_Culture/U05_Color_Symbolism_Chromatic_Traditions.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [P27](P27_Phenomenology.md) · [P26](P26_Existentialism.md) · [P25](P25_Pre_Socratic_Philosophy.md)
 > **Reliability Tier:** Tier 1-2 (well-established philosophical discipline with active contemporary debate)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High
 
@@ -165,9 +165,9 @@ Aesthetics — the philosophical study of beauty, art, taste, and the sublime �
 
 | Topic | Document | Relationship |
 |-------|----------|-------------|
-| Music Theory | [U01](../U_Art_Music_Culture/U01_Music_Theory.md) | Schopenhauer on music; Pythagorean harmony |
-| Sacred Dance | [U02](../U_Art_Music_Culture/U02_Sacred_Dance.md) | Dionysian performance; rasa in dance |
-| Color Symbolism | [U05](../U_Art_Music_Culture/U05_Color_Symbolism.md) | Aesthetic perception of color |
+| Music Theory | [U01](../U_Art_Music_Culture/U01_Music_Theory_Harmonic_Series_Physics_of_Sound.md) | Schopenhauer on music; Pythagorean harmony |
+| Sacred Dance | [U02](../U_Art_Music_Culture/U02_Sacred_Dance_Ritual_Movement.md) | Dionysian performance; rasa in dance |
+| Color Symbolism | [U05](../U_Art_Music_Culture/U05_Color_Symbolism_Chromatic_Traditions.md) | Aesthetic perception of color |
 | Sacred Geometry | [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Mathematical beauty in architecture |
 | Phenomenology | [P27](P27_Phenomenology.md) | Aesthetic experience and perception |
 | Existentialism | [P26](P26_Existentialism.md) | Nietzsche, Heidegger on art |

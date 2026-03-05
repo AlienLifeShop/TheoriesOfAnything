@@ -354,4 +354,13 @@ This document does not argue for or against any specific alternative history cla
 
 ## Bibliography
 
-- In. *The Logic of Scientific Discovery*. 1934.
+1. McPhee, J. *Basin and Range.* New York: Farrar, Straus and Giroux, 1981.
+2. Hutton, J. "Theory of the Earth." *Transactions of the Royal Society of Edinburgh* 1.2 (1788): 209–304.
+3. Lyell, C. *Principles of Geology.* 3 vols. London: John Murray, 1830–1833.
+4. Popper, K. *The Logic of Scientific Discovery.* London: Hutchinson, 1959. [Originally *Logik der Forschung*, 1934.]
+5. Kuhn, T.S. *The Structure of Scientific Revolutions.* Chicago: University of Chicago Press, 1962.
+6. Kahneman, D. *Thinking, Fast and Slow.* New York: Farrar, Straus and Giroux, 2011.
+7. Tversky, A. & Kahneman, D. "Judgment Under Uncertainty: Heuristics and Biases." *Science* 185.4157 (1974): 1124–1131.
+8. Schmidt, G. & Frank, A. "The Silurian Hypothesis: Would It Be Possible to Detect an Industrial Civilization in the Geological Record?" *International Journal of Astrobiology* 18.2 (2018): 142–150.
+9. Alvarez, L.W. et al. "Extraterrestrial Cause for the Cretaceous-Tertiary Extinction." *Science* 208.4448 (1980): 1095–1108.
+10. Firestone, R.B. et al. "Evidence for an Extraterrestrial Impact 12,900 Years Ago." *Proceedings of the National Academy of Sciences* 104.41 (2007): 16016–16021.

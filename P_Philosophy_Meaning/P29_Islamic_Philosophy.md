@@ -3,7 +3,7 @@
 > **Document ID:** P29
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** Islamic philosophy, falsafa, Al-Kindi, Al-Farabi, Ibn Sina, Avicenna, necessary being, Al-Ghazali, Ibn Rushd, Averroes, Mulla Sadra, Suhrawardi, illuminationism, kalam, mutazilite, Aristotle, emanation, transcendent theosophy
-> **Cross-References:** [A21](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md) · [P25](P25_Pre_Socratic_Philosophy.md) · [P10](P10_Perennial_Philosophy.md) · [P04](P04_Mathematics_Discovered_Invented.md) · [N19](../N_Secret_Societies/N19_Druze.md) · [P19](P19_Epistemology_How_We_Know.md) · [P06](P06_Problem_of_Evil_Theodicy.md)
+> **Cross-References:** [A21](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md) · [P25](P25_Pre_Socratic_Philosophy.md) · [P10](P10_Perennial_Philosophy.md) · [P04](P04_Mathematics_Discovered_Invented.md) · [N19](../N_Secret_Societies/N19_Druze_Secret_Religion.md) · [P19](P19_Epistemology_How_We_Know.md) · [P06](P06_Problem_of_Evil_Theodicy.md)
 > **Reliability Tier:** Tier 1-2 (well-documented scholarly tradition with rich manuscript evidence)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High
 
@@ -168,7 +168,7 @@ Islamic philosophy (falsafa) represents one of the great intellectual traditions
 | Pre-Socratics | [P25](P25_Pre_Socratic_Philosophy.md) | Greek philosophical roots |
 | Perennial Philosophy | [P10](P10_Perennial_Philosophy.md) | Universal philosophical convergence |
 | Mathematics | [P04](P04_Mathematics_Discovered_Invented.md) | Islamic mathematical contributions |
-| Druze | [N19](../N_Secret_Societies/N19_Druze.md) | Philosophical context for esoteric groups |
+| Druze | [N19](../N_Secret_Societies/N19_Druze_Secret_Religion.md) | Philosophical context for esoteric groups |
 | Epistemology | [P19](P19_Epistemology_How_We_Know.md) | Avicennan theory of knowledge |
 | Problem of Evil | [P06](P06_Problem_of_Evil_Theodicy.md) | Al-Ghazali's occasionalism and divine will |
 | Process Philosophy | [P34](P34_Process_Philosophy.md) | Mulla Sadra's substantial motion |

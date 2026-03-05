@@ -3,7 +3,7 @@
 > **Document ID:** P34
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** process philosophy, Alfred North Whitehead, Process and Reality, actual occasions, prehension, eternal objects, creativity, dipolar God, primordial nature, consequent nature, Charles Hartshorne, process theology, concrescence, nexus, Deleuze, becoming, quantum mechanics, Buddhist parallels
-> **Cross-References:** [P05](P05_Panpsychism_Modern_Philosophy.md) · [Q01](../Q_Cosmology_Physics/Q01_Unified_Field_Theory.md) · [K04](../K_Consciousness/K04_Quantum_Consciousness.md) · [P21](P21_Buddhist_Philosophy_Dependent_Origination.md) · [P27](P27_Phenomenology.md) · [P25](P25_Pre_Socratic_Philosophy.md) · [P31](P31_Indian_Darshanas.md)
+> **Cross-References:** [P05](P05_Panpsychism_Modern_Philosophy.md) · [Q01](../Q_Cosmology_Physics/Q01_Anthropic_Principle_Fine_Tuning.md) · [K04](../K_Consciousness/K04_Quantum_Consciousness.md) · [P21](P21_Buddhist_Philosophy_Dependent_Origination.md) · [P27](P27_Phenomenology.md) · [P25](P25_Pre_Socratic_Philosophy.md) · [P31](P31_Indian_Darshanas.md)
 > **Reliability Tier:** Tier 1-3 (well-documented philosophical system with speculative connections to physics and Eastern thought)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** Moderate-High
 
@@ -167,7 +167,7 @@ Process philosophy, most fully developed in Alfred North Whitehead's *Process an
 | Topic | Document | Relationship |
 |-------|----------|-------------|
 | Panpsychism | [P05](P05_Panpsychism_Modern_Philosophy.md) | Panexperientialism as variant |
-| Unified Field Theory | [Q01](../Q_Cosmology_Physics/Q01_Unified_Field_Theory.md) | Metaphysics of quantum events |
+| Unified Field Theory | [Q01](../Q_Cosmology_Physics/Q01_Anthropic_Principle_Fine_Tuning.md) | Metaphysics of quantum events |
 | Quantum Consciousness | [K04](../K_Consciousness/K04_Quantum_Consciousness.md) | Stapp's Whiteheadian QM |
 | Buddhist Philosophy | [P21](P21_Buddhist_Philosophy_Dependent_Origination.md) | Momentariness and interdependence |
 | Phenomenology | [P27](P27_Phenomenology.md) | Prehension and intentionality |

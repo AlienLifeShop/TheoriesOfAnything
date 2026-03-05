@@ -3,7 +3,7 @@
 > **Document ID:** P20
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** Stoicism, Zeno of Citium, Seneca, Epictetus, Marcus Aurelius, logos, pneuma, apatheia, amor fati, memento mori, ekpyrosis, CBT, virtue ethics, cosmopolitanism, Stoa Poikile
-> **Cross-References:** [P02](P02_Meaning_Frameworks.md) · [P03](P03_Ethics.md) · [Q14](../Q_Cosmology_Physics/Q14_Fate_of_Universe.md) · [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction.md) · [K08](../K_Consciousness/K08_Meditation.md)
+> **Cross-References:** [P02](P02_Philosophical_Frameworks_Meaning.md) · [P03](P03_Ethics_Across_Civilizations.md) · [Q14](../Q_Cosmology_Physics/Q14_Fate_of_Universe.md) · [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) · [K08](../K_Consciousness/K08_Meditation_Neuroplasticity.md)
 > **Reliability Tier:** Tier 1-2 (well-documented historical philosophy with debated modern applications)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High
 
@@ -147,13 +147,13 @@ Stoicism — founded by Zeno of Citium circa 300 BCE and developed over five cen
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [P02](P02_Meaning_Frameworks.md) | Meaning frameworks — Stoicism as comprehensive life philosophy |
-| [P03](P03_Ethics.md) | Virtue ethics — Stoic cardinal virtues |
+| [P02](P02_Philosophical_Frameworks_Meaning.md) | Meaning frameworks — Stoicism as comprehensive life philosophy |
+| [P03](P03_Ethics_Across_Civilizations.md) | Virtue ethics — Stoic cardinal virtues |
 | [Q14](../Q_Cosmology_Physics/Q14_Fate_of_Universe.md) | Ekpyrosis — cosmic fire and cyclical universe |
-| [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction.md) | Cyclical destruction myths — parallel to ekpyrosis |
-| [K08](../K_Consciousness/K08_Meditation.md) | Meditation — Stoic prosoche and mindfulness exercises |
+| [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) | Cyclical destruction myths — parallel to ekpyrosis |
+| [K08](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Meditation — Stoic prosoche and mindfulness exercises |
 | [P10](P10_Perennial_Philosophy.md) | Perennial philosophy — Stoicism as universal wisdom tradition |
-| [H08](../H_Suppression_and_Thesis/H08_Academic_Gatekeeping.md) | Paradigm resistance — Kuhnian model's Stoic parallel |
+| [H08](../H_Suppression_and_Thesis/H08_Academic_Gatekeeping_Paradigm_Resistance.md) | Paradigm resistance — Kuhnian model's Stoic parallel |
 
 ---
 

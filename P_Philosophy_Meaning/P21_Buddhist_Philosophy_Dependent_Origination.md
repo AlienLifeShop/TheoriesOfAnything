@@ -3,7 +3,7 @@
 > **Document ID:** P21
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** Buddhism, pratityasamutpada, dependent origination, anatman, non-self, sunyata, emptiness, Nagarjuna, Madhyamaka, Four Noble Truths, Two Truths, consciousness, Mind and Life Institute
-> **Cross-References:** [C39](../C_Global_Traditions/C39_Tibetan_Buddhism.md) · [P10](P10_Perennial_Philosophy.md) · [P05](P05_Panpsychism.md) · [K08](../K_Consciousness/K08_Meditation.md) · [P24](P24_Non_Dualism_Advaita_Unity.md)
+> **Cross-References:** [C39](../C_Global_Traditions/C39_Tibetan_Buddhism_Bon_Terma.md) · [P10](P10_Perennial_Philosophy.md) · [P05](P05_Panpsychism_Modern_Philosophy.md) · [K08](../K_Consciousness/K08_Meditation_Neuroplasticity.md) · [P24](P24_Non_Dualism_Advaita_Unity.md)
 > **Reliability Tier:** Tier 1-2 (textually well-documented philosophical tradition with active scholarly and scientific engagement)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 24 scholarly sources | **Confidence:** High
 
@@ -145,14 +145,14 @@ Buddhist philosophy — developed from the teachings attributed to Siddhārtha G
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C39](../C_Global_Traditions/C39_Tibetan_Buddhism.md) | Tibetan Buddhism — Madhyamaka as central philosophy |
+| [C39](../C_Global_Traditions/C39_Tibetan_Buddhism_Bon_Terma.md) | Tibetan Buddhism — Madhyamaka as central philosophy |
 | [P10](P10_Perennial_Philosophy.md) | Perennial philosophy — Buddhist universal claims |
-| [P05](P05_Panpsychism.md) | Panpsychism — consciousness as fundamental |
-| [K08](../K_Consciousness/K08_Meditation.md) | Meditation — neuroscience of Buddhist practice |
+| [P05](P05_Panpsychism_Modern_Philosophy.md) | Panpsychism — consciousness as fundamental |
+| [K08](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Meditation — neuroscience of Buddhist practice |
 | [P24](P24_Non_Dualism_Advaita_Unity.md) | Non-dualism — Madhyamaka vs. Advaita comparison |
-| [P03](P03_Ethics.md) | Ethics — Buddhist compassion and precepts |
+| [P03](P03_Ethics_Across_Civilizations.md) | Ethics — Buddhist compassion and precepts |
 | [P19](P19_Epistemology_How_We_Know.md) | Epistemology — Buddhist empirical approach to knowledge |
-| [G01](../G_Modern_Frameworks/G01_Quantum_Mechanics.md) | Quantum mechanics — structural parallels with dependent origination |
+| [G01](../G_Modern_Frameworks/G01_Quantum_Mechanics_Ancient_Knowledge.md) | Quantum mechanics — structural parallels with dependent origination |
 
 ---
 

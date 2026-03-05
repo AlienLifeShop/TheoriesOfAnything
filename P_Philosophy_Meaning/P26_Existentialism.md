@@ -3,7 +3,7 @@
 > **Document ID:** P26
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** existentialism, Kierkegaard, Nietzsche, Heidegger, Sartre, Camus, absurd, Dasein, being-toward-death, existence precedes essence, anxiety, authenticity, de Beauvoir, bad faith, freedom, will to power
-> **Cross-References:** [P11](P11_Personal_Identity_Continuity.md) · [P07](P07_Death_Afterlife_Across_Cultures.md) · [P23](P23_Ubuntu_African_Philosophy.md) · [K33](../K_Consciousness/K33_Death_Neuroscience.md) · [T08](../T_Psychology_Social/T08_Grief_Loss.md) · [P27](P27_Phenomenology.md) · [P25](P25_Pre_Socratic_Philosophy.md)
+> **Cross-References:** [P11](P11_Personal_Identity_Continuity.md) · [P07](P07_Death_Afterlife_Across_Cultures.md) · [P23](P23_Ubuntu_African_Philosophy.md) · [K33](../K_Consciousness/K33_Neuroscience_of_Death.md) · [T08](../T_Psychology_Social/T08_Psychology_Grief_Loss_Death.md) · [P27](P27_Phenomenology.md) · [P25](P25_Pre_Socratic_Philosophy.md)
 > **Reliability Tier:** Tier 1-2 (well-documented philosophical movement with ongoing interpretive debate)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** High
 
@@ -167,8 +167,8 @@ The term "existentialism" was popularized by Sartre in his 1945 lecture *Existen
 | Personal Identity | [P11](P11_Personal_Identity_Continuity.md) | Existentialist view of self as project |
 | Death/Afterlife | [P07](P07_Death_Afterlife_Across_Cultures.md) | Being-toward-death, authentic mortality |
 | Meaning/Nihilism | [P23](P23_Ubuntu_African_Philosophy.md) | Alternative meaning frameworks |
-| Death Neuroscience | [K33](../K_Consciousness/K33_Death_Neuroscience.md) | Empirical correlates of dying |
-| Grief/Loss | [T08](../T_Psychology_Social/T08_Grief_Loss.md) | Existential dimensions of bereavement |
+| Death Neuroscience | [K33](../K_Consciousness/K33_Neuroscience_of_Death.md) | Empirical correlates of dying |
+| Grief/Loss | [T08](../T_Psychology_Social/T08_Psychology_Grief_Loss_Death.md) | Existential dimensions of bereavement |
 | Phenomenology | [P27](P27_Phenomenology.md) | Methodological foundation |
 | Pre-Socratics | [P25](P25_Pre_Socratic_Philosophy.md) | Nietzsche's Heraclitean roots |
 | Perennial Philosophy | [P10](P10_Perennial_Philosophy.md) | Cross-cultural convergences |

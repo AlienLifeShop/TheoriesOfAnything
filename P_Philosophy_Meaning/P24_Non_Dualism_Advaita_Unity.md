@@ -3,7 +3,7 @@
 > **Document ID:** P24
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** non-dualism, Advaita Vedanta, Shankara, Brahman, Atman, maya, yin-yang, complementarity, coincidentia oppositorum, Nicholas of Cusa, Meister Eckhart, Sufi fana, Ken Wilber, Integral Theory, wave-particle duality
-> **Cross-References:** [P10](P10_Perennial_Philosophy.md) · [P05](P05_Panpsychism.md) · [A20](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md) · [C32](../C_Global_Traditions/C32_Daoism.md) · [C57](../C_Global_Traditions/C57_Sufi_Mysticism.md) · [G01](../G_Modern_Frameworks/G01_Quantum_Mechanics.md)
+> **Cross-References:** [P10](P10_Perennial_Philosophy.md) · [P05](P05_Panpsychism_Modern_Philosophy.md) · [A20](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md) · [C32](../C_Global_Traditions/C32_Daoism_Chinese_Alchemy.md) · [C57](../C_Global_Traditions/C57_Sufi_Mysticism_Islamic_Esotericism.md) · [G01](../G_Modern_Frameworks/G01_Quantum_Mechanics_Ancient_Knowledge.md)
 > **Reliability Tier:** Tier 1-3 (well-documented philosophical traditions through speculative modern physics parallels)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 26 scholarly sources | **Confidence:** Moderate-High
 
@@ -168,14 +168,14 @@ Non-dualism — the philosophical position that ultimate reality is not divided 
 | Related Doc | Connection |
 |-------------|-----------|
 | [P10](P10_Perennial_Philosophy.md) | Perennial philosophy — non-dualism as universal mystical core |
-| [P05](P05_Panpsychism.md) | Panpsychism — consciousness as fundamental reality |
+| [P05](P05_Panpsychism_Modern_Philosophy.md) | Panpsychism — consciousness as fundamental reality |
 | [A20](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md) | Rig Veda — "That One" (Nasadiya Sukta) as proto-non-dual cosmology |
-| [C32](../C_Global_Traditions/C32_Daoism.md) | Daoism — yin-yang complementarity |
-| [C57](../C_Global_Traditions/C57_Sufi_Mysticism.md) | Sufi mysticism — fana and wahdat al-wujud |
-| [G01](../G_Modern_Frameworks/G01_Quantum_Mechanics.md) | Quantum mechanics — complementarity and observer effect |
-| [C39](../C_Global_Traditions/C39_Tibetan_Buddhism.md) | Tibetan Buddhism — Dzogchen non-dual practice |
+| [C32](../C_Global_Traditions/C32_Daoism_Chinese_Alchemy.md) | Daoism — yin-yang complementarity |
+| [C57](../C_Global_Traditions/C57_Sufi_Mysticism_Islamic_Esotericism.md) | Sufi mysticism — fana and wahdat al-wujud |
+| [G01](../G_Modern_Frameworks/G01_Quantum_Mechanics_Ancient_Knowledge.md) | Quantum mechanics — complementarity and observer effect |
+| [C39](../C_Global_Traditions/C39_Tibetan_Buddhism_Bon_Terma.md) | Tibetan Buddhism — Dzogchen non-dual practice |
 | [P21](P21_Buddhist_Philosophy_Dependent_Origination.md) | Buddhist emptiness — non-dual without substance |
-| [K08](../K_Consciousness/K08_Meditation.md) | Meditation — non-dual awareness through practice |
+| [K08](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Meditation — non-dual awareness through practice |
 
 ---
 

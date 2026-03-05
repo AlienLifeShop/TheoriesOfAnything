@@ -494,4 +494,14 @@ This document synthesizes findings from multiple peer-reviewed sources across se
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Witzel, E.J.M. *The Origins of the World's Mythologies.* Oxford: Oxford University Press, 2012.
+2. d'Huy, J. "A Phylogenetic Approach of Mythology and Its Archaeological Consequences." *Rock Art Research* 30.1 (2013): 115–118.
+3. d'Huy, J. "The Evolution of Myths." *Scientific American* 315.6 (2016): 62–69.
+4. Tehrani, J.J. "The Phylogeny of Little Red Riding Hood." *PLOS ONE* 8.11 (2013): e78871.
+5. da Silva, S.G. & Tehrani, J.J. "Comparative Phylogenetic Analyses Uncover the Ancient Roots of Indo-European Folktales." *Royal Society Open Science* 3.1 (2016): 150645.
+6. Berezkin, Y.E. "Continental-Scale Distribution of Folklore Motifs." *Tracing the Indo-Europeans.* Ed. B. Olsen et al. Oxford: Oxbow Books, 2017.
+7. Campbell, J. *The Hero with a Thousand Faces.* New York: Pantheon Books, 1949.
+8. Frazer, J.G. *The Golden Bough: A Study in Comparative Religion.* 2 vols. London: Macmillan, 1890.
+9. Lévi-Strauss, C. *Mythologiques.* 4 vols. Paris: Plon, 1964–1971.
+10. Eliade, M. *The Sacred and the Profane: The Nature of Religion.* New York: Harcourt, 1959.
+11. Felsenstein, J. *Inferring Phylogenies.* Sunderland: Sinauer Associates, 2004.

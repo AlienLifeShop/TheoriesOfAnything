@@ -3,7 +3,7 @@
 > **Document ID:** P27
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** phenomenology, Husserl, intentionality, epoché, transcendental reduction, Heidegger, hermeneutic phenomenology, Merleau-Ponty, embodiment, chiasm, Levinas, ethics of the Other, Michel Henry, Varela, neurophenomenology, lifeworld, noesis, noema
-> **Cross-References:** [K04](../K_Consciousness/K04_Quantum_Consciousness.md) · [P26](P26_Existentialism.md) · [P05](P05_Panpsychism_Modern_Philosophy.md) · [K35](../K_Consciousness/K35_Phantom_Limb_Embodiment.md) · [P11](P11_Personal_Identity_Continuity.md) · [P01](P01_Hard_Problem_of_Consciousness.md) · [P25](P25_Pre_Socratic_Philosophy.md)
+> **Cross-References:** [K04](../K_Consciousness/K04_Quantum_Consciousness.md) · [P26](P26_Existentialism.md) · [P05](P05_Panpsychism_Modern_Philosophy.md) · [K35](../K_Consciousness/K35_Phantom_Limb_Body_Schema.md) · [P11](P11_Personal_Identity_Continuity.md) · [P01](P01_Hard_Problem_of_Consciousness.md) · [P25](P25_Pre_Socratic_Philosophy.md)
 > **Reliability Tier:** Tier 1-2 (rigorously established philosophical tradition with ongoing interpretive debate)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High
 
@@ -167,7 +167,7 @@ Phenomenology's motto, "To the things themselves!" (Zu den Sachen selbst), expre
 | Quantum Consciousness | [K04](../K_Consciousness/K04_Quantum_Consciousness.md) | Observer-constitution parallels |
 | Existentialism | [P26](P26_Existentialism.md) | Heidegger's existential-phenomenological method |
 | Panpsychism | [P05](P05_Panpsychism_Modern_Philosophy.md) | Merleau-Ponty's "flesh" and proto-subjectivity |
-| Phantom Limb | [K35](../K_Consciousness/K35_Phantom_Limb_Embodiment.md) | Embodied phenomenology of body schema |
+| Phantom Limb | [K35](../K_Consciousness/K35_Phantom_Limb_Body_Schema.md) | Embodied phenomenology of body schema |
 | Personal Identity | [P11](P11_Personal_Identity_Continuity.md) | First-person perspective constitution |
 | Hard Problem | [P01](P01_Hard_Problem_of_Consciousness.md) | Neurophenomenology as methodology |
 | Pre-Socratics | [P25](P25_Pre_Socratic_Philosophy.md) | Logos and rational structure |

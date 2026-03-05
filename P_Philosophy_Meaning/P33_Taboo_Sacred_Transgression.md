@@ -3,7 +3,7 @@
 > **Document ID:** P33
 > **Section:** P_Philosophy_Meaning
 > **Keywords:** taboo, sacred, profane, Durkheim, Mary Douglas, purity, danger, Mircea Eliade, hierophany, René Girard, scapegoat, mimetic desire, Victor Turner, liminality, communitas, Georges Bataille, transgression, food taboos, incest prohibition, death taboos, sacrifice, pollution
-> **Cross-References:** [C104](../C_Global_Traditions/C104_Sacrifice.md) · [C105](../C_Global_Traditions/C105_Sacred_Sexuality.md) · [P10](P10_Perennial_Philosophy.md) · [T01](../T_Psychology_Social/T01_Social_Psychology.md) · [C107](../C_Global_Traditions/C107_Greek_Religion.md) · [P18](P18_Ritual_Symbol_Sacred.md) · [P03](P03_Ethics_Across_Civilizations.md)
+> **Cross-References:** [C104](../C_Global_Traditions/C104_Sacrifice_Offering_Across_Civilizations.md) · [C105](../C_Global_Traditions/C105_Sacred_Sexuality_Hieros_Gamos_Fertility_Cults.md) · [P10](P10_Perennial_Philosophy.md) · [T01](../T_Psychology_Social/T01_Social_Psychology_Conformity_Obedience.md) · [C107](../C_Global_Traditions/C107_Greek_Religion_Lived_Practice.md) · [P18](P18_Ritual_Symbol_Sacred.md) · [P03](P03_Ethics_Across_Civilizations.md)
 > **Reliability Tier:** Tier 1-3 (well-documented anthropological and philosophical theories; speculative psychodynamic claims)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Moderate-High
 
@@ -166,11 +166,11 @@ Taboo — the prohibition of certain acts, objects, or persons as dangerous, pol
 
 | Topic | Document | Relationship |
 |-------|----------|-------------|
-| Sacrifice | [C104](../C_Global_Traditions/C104_Sacrifice.md) | Girard's sacrificial mechanism |
-| Sacred Sexuality | [C105](../C_Global_Traditions/C105_Sacred_Sexuality.md) | Sexual taboo and transgression |
+| Sacrifice | [C104](../C_Global_Traditions/C104_Sacrifice_Offering_Across_Civilizations.md) | Girard's sacrificial mechanism |
+| Sacred Sexuality | [C105](../C_Global_Traditions/C105_Sacred_Sexuality_Hieros_Gamos_Fertility_Cults.md) | Sexual taboo and transgression |
 | Perennial Philosophy | [P10](P10_Perennial_Philosophy.md) | Universal sacred structures |
-| Social Psychology | [T01](../T_Psychology_Social/T01_Social_Psychology.md) | Group identity and boundary maintenance |
-| Greek Religion | [C107](../C_Global_Traditions/C107_Greek_Religion.md) | Greek pollution and purification |
+| Social Psychology | [T01](../T_Psychology_Social/T01_Social_Psychology_Conformity_Obedience.md) | Group identity and boundary maintenance |
+| Greek Religion | [C107](../C_Global_Traditions/C107_Greek_Religion_Lived_Practice.md) | Greek pollution and purification |
 | Ritual & Symbol | [P18](P18_Ritual_Symbol_Sacred.md) | Ritual as taboo-management |
 | Ethics | [P03](P03_Ethics_Across_Civilizations.md) | Moral dimensions of prohibition |
 | Existentialism | [P26](P26_Existentialism.md) | Heidegger on death anxiety |
