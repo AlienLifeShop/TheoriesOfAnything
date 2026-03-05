@@ -3,7 +3,7 @@
 > **Document ID:** C97
 > **Section:** C_Global_Traditions
 > **Keywords:** Cherokee, Tsalagi, three-tier cosmos, Selu, Corn Mother, Kanati, Lucky Hunter, Uktena, horned serpent, water spider, fire origin, darkening land, sacred number seven, Cherokee syllabary, Sequoyah, medicine wheel, Upper World, Under World
-> **Cross-References:** [C04](C04_Viracocha_South_American_Knowledge_Givers.md) · [C96](C96_Navajo_Dine_Cosmology_Emergence.md) · [C02](C02_Global_Flood_Stories.md) · [B01](../B_Beings_and_Entities/B01_Reptilian_Beings.md) · [C75](C75_Iroquois_Confederacy_Great_Law.md) · [C73](C73_Mississippian_Culture_Cahokia.md)
+> **Cross-References:** [C04](C04_Viracocha_South_American_Knowledge_Givers.md) · [C96](C96_Navajo_Dine_Cosmology_Emergence.md) · [C02](C02_Global_Flood_Stories.md) · [B01](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) · [C75](C75_Iroquois_Confederacy_Great_Law.md) · [C73](C73_Mississippian_Culture_Cahokia.md)
 > **Reliability Tier:** Tier 1-2 (strong ethnographic record from 19th-century observers; James Mooney's 1900 documentation definitive; oral tradition ongoing in Eastern Band; archaeological record linked to Mississippian complex)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** High
 
@@ -171,7 +171,7 @@ Cherokee (Tsalagi) cosmology structures the universe as a three-tiered system: G
 | [C04 — Viracocha / South American Knowledge Givers](C04_Viracocha_South_American_Knowledge_Givers.md) | Comparative Indigenous cosmologies; culture hero archetypes |
 | [C96 — Navajo (Diné) Cosmology](C96_Navajo_Dine_Cosmology_Emergence.md) | Parallel Southwestern/Southeastern emergence and monster-slaying narratives |
 | [C02 — Global Flood Stories](C02_Global_Flood_Stories.md) | Cherokee water-world and earth-diver narrative; Darkening Land prophecy |
-| [B01 — Reptilian Beings](../B_Beings_and_Entities/B01_Reptilian_Beings.md) | Uktena as horned serpent; pan-cultural serpentine power beings |
+| [B01 — Reptilian Beings](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) | Uktena as horned serpent; pan-cultural serpentine power beings |
 | [C75 — Iroquois Confederacy](C75_Iroquois_Confederacy_Great_Law.md) | Cherokee-Iroquoian linguistic and mythological connections |
 | [C73 — Mississippian Culture / Cahokia](C73_Mississippian_Culture_Cahokia.md) | Southeastern Ceremonial Complex; shared cosmological iconography |
 | [C55 — Twin Mythology / Duality](C55_Twin_Mythology_Duality.md) | Selu-Kanati duality; Thunder Boys as twin heroes |

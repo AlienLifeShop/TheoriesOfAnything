@@ -3,7 +3,7 @@
 > **Document ID:** C78
 > **Section:** C_Global_Traditions
 > **Keywords:** Kush, Nubia, Kerma, Napata, Meroë, Nubian pyramids, 25th Dynasty, Black Pharaohs, Meroitic script, Kandake, iron smelting, Amun, Jebel Barkal, Gebel Barkal, Sudan, Nile, Taharqa, Piye, Aspelta
-> **Cross-References:** [D02 — Great Pyramid](../D_Sites_and_Artifacts/D02_Great_Pyramid.md) · [D11 — Pyramid Catalog](../D_Sites_and_Artifacts/D11_Pyramid_Catalog.md) · [C40 — Bantu Traditions](C40_Bantu_Traditions.md) · [D19 — Archaeoastronomy](../D_Sites_and_Artifacts/D19_Archaeoastronomy.md) · [F05 — Maritime Technology](../F_Lost_Connections/F05_Maritime_Technology.md) · [C05 — African Traditions](C05_African_Traditions.md)
+> **Cross-References:** [D02 — Great Pyramid](../D_Sites_and_Artifacts/D02_Pyramids_Worldwide.md) · [D11 — Pyramid Catalog](../D_Sites_and_Artifacts/D11_Complete_Pyramid_Catalog.md) · [C40 — Bantu Traditions](C40_Bantu_Cosmology_Migration_Iron.md) · [D19 — Archaeoastronomy](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [F05 — Maritime Technology](../F_Lost_Connections/F05_Ancient_Maritime_Technology.md) · [C05 — African Traditions](C05_Credo_Mutwa_African_Traditions.md)
 > **Reliability Tier:** Tier 1-2 (extensive archaeological record; Meroitic script partially undeciphered limits some interpretation; iron smelting chronology debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 17 scholarly sources | **Confidence:** High
 

@@ -3,7 +3,7 @@
 > **Document ID:** C75
 > **Section:** C_Global_Traditions
 > **Keywords:** Haudenosaunee, Iroquois Confederacy, Great Law of Peace, Gayanashagowa, wampum, Hiawatha, Deganawida, Peacemaker, Clan Mothers, Longhouse, Six Nations, democracy, U.S. Constitution, Twin Mythology, Three Sisters
-> **Cross-References:** [P17 — Art as Knowledge Transmission](../P_Philosophy_Meaning/P17_Art_Knowledge_Transmission.md) · [C55 — Twin Mythology](C55_Twin_Mythology.md) · [M08 — Forbidden Archaeology of the Americas](../M_Forbidden_Archaeology/M08_Forbidden_Archaeology_Americas.md) · [C68 — Native American Traditions](C68_Native_American_Traditions.md)
+> **Cross-References:** [P17 — Art as Knowledge Transmission](../P_Philosophy_Meaning/P17_Art_as_Knowledge_Encoding.md) · [C55 — Twin Mythology](C55_Twin_Mythology_Duality.md) · [M08 — Forbidden Archaeology of the Americas](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) · [C68 — Native American Traditions](C68_Native_American_Great_Plains_Vision_Quest.md)
 > **Reliability Tier:** Tier 1-2 (well-documented confederacy with archaeological and ethnohistorical confirmation; exact founding date and constitutional influence debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 15 scholarly sources | **Confidence:** High
 

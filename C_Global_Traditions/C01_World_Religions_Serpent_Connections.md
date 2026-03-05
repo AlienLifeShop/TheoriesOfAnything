@@ -751,14 +751,15 @@ From a scholarly perspective, many "ancient alien proof" texts are either: (1) m
 
 ## Bibliography
 
-- Budge. *The Gods of the Egyptians*. 1904.
-- Campbell. *The Hero with a Thousand Faces*. 1949.
-- Doniger. *Hindu Myths*. 1975.
-- Eliade. *Patterns in Comparative Religion*. 1958.
-- Jones. *An Instinct for Dragons*. 2000.
-- Jung. *Man and His Symbols*. 1964.
-- Lean. *The Triune Brain in Evolution*. 1990.
-- Passes. *The Anthropology of Love and Anger*. 2000.
-- Rose. *Dingo Makes Us Human*. 1992.
-- Temple. *The Sirius Mystery*. 1976.
-- White. *Myths of the Dog-Man*. 1991.
+1. Eliade, Mircea. *Patterns in Comparative Religion*. Sheed & Ward, 1958.
+2. Jung, Carl G. *Man and His Symbols*. Doubleday, 1964.
+3. Campbell, Joseph. *The Hero with a Thousand Faces*. Pantheon, 1949.
+4. Campbell, Joseph. *The Masks of God*. 4 vols. Viking Press, 1959–1968.
+5. Budge, E.A. Wallis. *The Gods of the Egyptians*. Methuen, 1904.
+6. Doniger, Wendy (trans.). *Hindu Myths: A Sourcebook*. Penguin, 1975.
+7. Jones, David E. *An Instinct for Dragons*. Routledge, 2000.
+8. White, David Gordon. *Myths of the Dog-Man*. University of Chicago Press, 1991.
+9. Temple, Robert K.G. *The Sirius Mystery*. St. Martin's Press, 1976.
+10. MacLean, Paul D. *The Triune Brain in Evolution*. Plenum Press, 1990.
+11. Rose, Deborah Bird. *Dingo Makes Us Human: Life and Land in an Aboriginal Australian Culture*. Cambridge University Press, 1992.
+12. Overing, Joanna & Passes, Alan (eds.). *The Anthropology of Love and Anger*. Routledge, 2000.

@@ -191,7 +191,7 @@ If the dead were not properly buried or given offerings, their **etemmu** (ghost
 | [A19 — Book of the Dead](../A_Foundations/A19_Egyptian_Book_of_the_Dead.md) | Egyptian afterlife comparison; Duat |
 | [C50 — Vodou](C50_Haitian_Vodou_Afro_Diasporic.md) | Baron Samedi / death lords across traditions |
 | [C48 — Inuit Cosmology](C48_Inuit_Arctic_Cosmology.md) | Afterlife geography comparison |
-| [P07 — Philosophy of Death](../P_Philosophy_Meaning/P07_Philosophy_Death_Afterlife.md) | Existential confrontation with mortality |
+| [P07 — Philosophy of Death](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) | Existential confrontation with mortality |
 | [A04 — Book of Enoch](../A_Foundations/A04_Book_of_Enoch_and_Watchers.md) | Underworld/Sheol traditions in Enochic literature |
 
 ---

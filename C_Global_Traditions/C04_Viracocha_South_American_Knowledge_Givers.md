@@ -311,6 +311,8 @@ This document catalogs the major "knowledge-giver" traditions of the Americas, c
   - Adaptive responses by indigenous informants to please Spanish interlocutors
 - Archaeological evidence (e.g., Tiwanaku Staff God iconography) does not depict a "white, bearded" figure — it depicts a deity with rays, staffs, and condor/serpent motifs
 
+**Counter-Argument:** Townsend (*Fifth Sun*, 2019) and Restall (*When Montezuma Met Cortés*, 2018) argue that virtually all "white, bearded" descriptions of Viracocha and Quetzalcoatl derive from post-conquest colonial sources written by or for Spanish audiences. The Tiwanaku Staff God iconography — our best pre-contact visual evidence — shows no European-type features, undermining claims of pre-Columbian memory of a "white" figure.
+
 ---
 
 ### 3.3 Trans-Oceanic Contact Implications **[1/1 sources — Claude]**
@@ -349,6 +351,8 @@ This document catalogs the major "knowledge-giver" traditions of the Americas, c
 | The identification paralyzed Aztec military response | Cortés's own letters claim this | The Aztecs DID fight — fiercely; the "paralysis" narrative is contradicted by the Noche Triste and the siege of Tenochtitlan |
 
 - **Reliability: LOW** — increasingly rejected by scholars (Townsend, Restall) as post-conquest construction
+
+**Counter-Argument:** Camilla Townsend (*Fifth Sun*, 2019) demonstrates that no contemporary Aztec source confirms Montezuma believed Cortés was Quetzalcoatl returning. The narrative was constructed after the conquest by both Spanish chroniclers and indigenous elites seeking to rationalize defeat. The Aztec military resistance — the Noche Triste, the siege of Tenochtitlan — contradicts any claim of "paralysis" from prophetic fear.
 
 ---
 
@@ -521,10 +525,21 @@ This document catalogs the major "knowledge-giver" traditions of the Americas, c
 
 ## Bibliography
 
-- Betanzos. *Suma y Narración de los Incas*. 1551.
-- Cobo. *Historia del Nuevo Mundo*. 1653.
-- Hamilton. *Inca Religion and Customs*. 1990.
-- Heyerdahl. *American Indians in the Pacific*. 1952.
-- Piedrahita. *Historia General de las Conquistas del Nuevo Reyno de Granada*. 1688.
-- Thevet. *Les Singularitez de la France Antarctique*. 1557.
-- Vega. *Comentarios Reales de los Incas*. 1609.
+1. Betanzos, Juan de. *Suma y Narración de los Incas*. 1551. Trans. Roland Hamilton & Dana Buchanan, University of Texas Press, 1996.
+2. Cieza de León, Pedro de. *Crónica del Perú*. 1553. Trans. Harriet de Onís, *The Incas*, University of Oklahoma Press, 1959.
+3. Cobo, Bernabé. *Historia del Nuevo Mundo*. 1653. Trans. Roland Hamilton, *Inca Religion and Customs*, University of Texas Press, 1990.
+4. Molina, Cristóbal de. *Relación de las fábulas y ritos de los Incas*. c. 1575. Trans. Brian Bauer et al., University of Texas Press, 2011.
+5. Sahagún, Bernardino de et al. *Florentine Codex: General History of the Things of New Spain*. 1545–1590. Trans. Arthur J.O. Anderson & Charles Dibble, University of Utah Press, 1950–1982.
+6. Landa, Diego de. *Relación de las cosas de Yucatán*. c. 1566. Trans. William Gates, Dover, 1937.
+7. Tedlock, Dennis (trans.). *Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life*. Simon & Schuster, 1985.
+8. Vega, Garcilaso de la. *Comentarios Reales de los Incas*. 1609.
+9. Piedrahita, Lucas Fernández de. *Historia General de las Conquistas del Nuevo Reyno de Granada*. 1688.
+10. Thevet, André. *Les Singularitez de la France Antarctique*. 1557.
+11. Guaman Poma de Ayala, Felipe. *El primer nueva corónica y buen gobierno*. c. 1615.
+12. Heyerdahl, Thor. *American Indians in the Pacific*. Allen & Unwin, 1952.
+13. Townsend, Camilla. *Fifth Sun: A New History of the Aztecs*. Oxford University Press, 2019.
+14. Restall, Matthew. *When Montezuma Met Cortés: The True Story of the Meeting That Changed History*. Ecco, 2018.
+15. Carrasco, Davíd. *Quetzalcoatl and the Irony of Empire: Myths and Prophecies in the Aztec Tradition*. University of Chicago Press, 1982 (revised 2000).
+16. Bauer, Brian. *The Sacred Landscape of the Inca: The Cusco Ceque System*. University of Texas Press, 1998.
+17. Coe, Michael. *The Maya*. Thames & Hudson, 9th ed., 2015.
+18. Hancock, Graham. *Fingerprints of the Gods*. Crown, 1995.

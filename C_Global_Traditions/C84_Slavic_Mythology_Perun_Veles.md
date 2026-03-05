@@ -3,7 +3,7 @@
 > **Document ID:** C84
 > **Section:** C_Global_Traditions
 > **Keywords:** Slavic mythology, Perun, Veles, Rod, Mokosh, Svarog, Dazhbog, Stribog, Marzanna, world tree, Prav, Yav, Nav, dvoeverie, dual faith, Christianization, Vladimir, pantheon, thunder god, chthonic, serpent, oak, Baltic-Slavic, Indo-European
-> **Cross-References:** [C56 — Storm God](C56_Storm_God_Pattern.md) · [F09 — Pre-IE](../F_Lost_Connections/F09_Pre_Indo_European.md) · [C53 — Axis Mundi](C53_Axis_Mundi_World_Tree.md) · [A12 — Norse Eddas](../A_Foundations/A12_Norse_Eddas.md) · [C85 — Baltic Mythology](C85_Baltic_Mythology_Lithuanian_Latvian.md) · [C83 — Finnish/Kalevala](C83_Finnish_Kalevala_Finno_Ugric.md)
+> **Cross-References:** [C56 — Storm God](C56_Storm_God_Pattern.md) · [F09 — Pre-IE](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) · [C53 — Axis Mundi](C53_Sacred_Trees_Axis_Mundi.md) · [A12 — Norse Eddas](../A_Foundations/A12_Norse_Eddas.md) · [C85 — Baltic Mythology](C85_Baltic_Mythology_Lithuanian_Latvian.md) · [C83 — Finnish/Kalevala](C83_Finnish_Kalevala_Finno_Ugric.md)
 > **Reliability Tier:** Tier 1–3 (IE comparative mythology well established; Slavic-specific reconstruction contested due to late Christianization and lack of pre-Christian texts)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 12 scholarly sources | **Confidence:** High (reconstructed IE patterns), Medium (specific Slavic pantheon details), Low (Rod/three-realm cosmology dating)
 
@@ -182,12 +182,12 @@ The proposed Slavic cosmological model:
 | Related Doc | Connection |
 |-------------|-----------|
 | [C56 — Storm God](C56_Storm_God_Pattern.md) | Perun as IE storm god — closest reflex of PIE *Perkwunos vs. *Welnos |
-| [C53 — Axis Mundi](C53_Axis_Mundi_World_Tree.md) | Slavic world tree (oak) — Perun at top, Veles at roots, three realms |
+| [C53 — Axis Mundi](C53_Sacred_Trees_Axis_Mundi.md) | Slavic world tree (oak) — Perun at top, Veles at roots, three realms |
 | [A12 — Norse Eddas](../A_Foundations/A12_Norse_Eddas.md) | Thor/Jörmungandr parallels; Yggdrasil/world tree; comparable IE cosmology |
 | [C85 — Baltic Mythology](C85_Baltic_Mythology_Lithuanian_Latvian.md) | Proto-Balto-Slavic religious unity; Perun–Perkūnas, Veles–Velnias |
 | [C83 — Finnish/Kalevala](C83_Finnish_Kalevala_Finno_Ugric.md) | Northern European contact zone — Finno-Slavic mythological interface |
 | [C82 — Georgian/Caucasian](C82_Georgian_Caucasian_Prometheus.md) | Svarog as divine smith — Nart saga parallels |
-| [F09 — Pre-IE](../F_Lost_Connections/F09_Pre_Indo_European.md) | Pre-IE substrate in Slavic religion (Mokosh? Rod?) |
+| [F09 — Pre-IE](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) | Pre-IE substrate in Slavic religion (Mokosh? Rod?) |
 | [C81 — Armenian](C81_Armenian_Mythology_Urartian.md) | IE comparative parallels — Vahagn/Perun thunder-god variants |
 
 ---

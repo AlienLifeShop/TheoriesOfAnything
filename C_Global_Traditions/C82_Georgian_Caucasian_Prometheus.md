@@ -3,7 +3,7 @@
 > **Document ID:** C82
 > **Section:** C_Global_Traditions
 > **Keywords:** Georgia, Caucasus, Amirani, Prometheus, Colchis, Golden Fleece, Kartvelian, Nart sagas, metallurgy, Ossetian, Circassian, Abkhaz, Amirani, chained hero, eagle, liver, fire theft, Medea, Argonauts, Georgian mythology, Svan, Mingrelian
-> **Cross-References:** [C18 — Prometheus/Forbidden Knowledge](C18_Prometheus_Forbidden_Knowledge.md) · [C56 — Storm God](C56_Storm_God_Pattern.md) · [C66 — Fire Symbolism](C66_Fire_Symbolism_Prometheus.md) · [J05 — Metallurgy](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) · [C81 — Armenian](C81_Armenian_Mythology_Urartian.md)
+> **Cross-References:** [C18 — Prometheus/Forbidden Knowledge](C18_Prometheus_Forbidden_Knowledge_Archetype.md) · [C56 — Storm God](C56_Storm_God_Pattern.md) · [C66 — Fire Symbolism](C66_Fire_Symbolism_Sacred_Flame.md) · [J05 — Metallurgy](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) · [C81 — Armenian](C81_Armenian_Mythology_Urartian.md)
 > **Reliability Tier:** Tier 1–2 (Colchis archaeology established; Amirani/Nart parallels debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 10 scholarly sources | **Confidence:** High (archaeology, comparative myth), Medium (fire-theft origin theories)
 
@@ -168,9 +168,9 @@ The parallels are too precise to be coincidental:
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C18 — Prometheus/Forbidden Knowledge](C18_Prometheus_Forbidden_Knowledge.md) | Amirani as Georgian Prometheus — direct parallel |
+| [C18 — Prometheus/Forbidden Knowledge](C18_Prometheus_Forbidden_Knowledge_Archetype.md) | Amirani as Georgian Prometheus — direct parallel |
 | [C56 — Storm God](C56_Storm_God_Pattern.md) | Thunder/storm elements in Nart sagas and Georgian deity Armazi |
-| [C66 — Fire Symbolism](C66_Fire_Symbolism_Prometheus.md) | Fire theft and divine punishment — core Caucasian motif |
+| [C66 — Fire Symbolism](C66_Fire_Symbolism_Sacred_Flame.md) | Fire theft and divine punishment — core Caucasian motif |
 | [J05 — Metallurgy](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Colchis as metallurgical center; Nart smith-gods |
 | [C81 — Armenian Mythology](C81_Armenian_Mythology_Urartian.md) | Caucasian neighbour — shared cultural zone, fire temples |
 | [C44 — Scythian](C44_Scythian_Steppe_Nomad_Traditions.md) | Sarmatian/Ossetian connections — Nart saga carriers |

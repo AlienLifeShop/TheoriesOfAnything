@@ -211,7 +211,7 @@ The 100-year discrepancy between radiocarbon and archaeological dating remains u
 | [C31 — Women and Gender](C31_Women_Gender_Ancient_Knowledge_Traditions.md) | Minoan female-centered religious imagery |
 | [D13 — Submerged Structures](../D_Sites_and_Artifacts/D13_Submerged_Structures_Underwater_Archaeology.md) | Thera caldera collapse; possible Atlantis source |
 | [C56 — Storm God Pattern](C56_Storm_God_Pattern.md) | Bull-slaying motif; Indo-European vs. Minoan contrast |
-| [C58 — Hittite Mythology](C58_Hittite_Hurrian_Mythology.md) | Eastern Mediterranean religious exchange |
+| [C58 — Hittite Mythology](C58_Hittite_Hurrian_Mythology_Kumarbi.md) | Eastern Mediterranean religious exchange |
 | [F03 — Bronze Age Trade](../F_Lost_Connections/F03_Bronze_Age_Trade_Networks.md) | Minoan participation in Uluburun-era trade |
 | [C08 — Cross-Cultural Patterns](C08_Cross_Cultural_Patterns.md) | Serpent-goddess pattern parallels |
 | [J08 — Sacred Caves](../J_Ancient_Technology/J08_Sacred_Caves_Ritual_Technology.md) | Cretan sacred caves (Psychro, Kamares, Idaean) |

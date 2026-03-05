@@ -177,13 +177,13 @@ Since 1990, Tengrism has experienced remarkable revival:
 | Document | Connection |
 |----------|------------|
 | [C46 — Siberian Shamanism](C46_Siberian_Shamanism_Origin.md) | Source tradition for Mongol shamanic practice |
-| [K15 — Shamanism & Consciousness](../K_Consciousness/K15_Shamanism_Consciousness.md) | Trance techniques, drum journeying |
+| [K15 — Shamanism & Consciousness](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Trance techniques, drum journeying |
 | [C44 — Scythian](C44_Scythian_Steppe_Nomad_Traditions.md) | Shared steppe heritage; kurgan burial parallels |
-| [N06 — Pipeline Shamanism → Religion](../N_Secret_Societies/N06_Pipeline_Shamanism_Organized_Religion.md) | Court shamans as political-spiritual actors |
-| [C17 — Sacred Kingship](C17_Sacred_Kingship_Traditions.md) | Tengri-mandate parallels divine right |
+| [N06 — Pipeline Shamanism → Religion](../N_Secret_Societies/N06_Shamanic_Institutional_Pipeline.md) | Court shamans as political-spiritual actors |
+| [C17 — Sacred Kingship](C17_Sacred_Kingship_Divine_Rulership.md) | Tengri-mandate parallels divine right |
 | [C56 — Storm God Pattern](C56_Storm_God_Pattern.md) | Sky-god parallels across IE and non-IE cultures |
-| [C39 — Tibetan Traditions](C39_Tibetan_Bon_Buddhist_Cosmology.md) | Buddhist overlay on Tengrist substrate |
-| [C61 — Persian Civilization](C61_Persian_Civilization_Achaemenid.md) | Iranian-Turkic interaction at steppe edges |
+| [C39 — Tibetan Traditions](C39_Tibetan_Buddhism_Bon_Terma.md) | Buddhist overlay on Tengrist substrate |
+| [C61 — Persian Civilization](C61_Persian_Civilization_Achaemenid_Magi.md) | Iranian-Turkic interaction at steppe edges |
 | [C53 — Sacred Trees / Axis Mundi](C53_Sacred_Trees_Axis_Mundi.md) | World Tree/cosmic pillar concept |
 
 ---

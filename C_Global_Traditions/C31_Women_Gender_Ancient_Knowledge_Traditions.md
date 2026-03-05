@@ -383,7 +383,11 @@ This document covers a wide range of evidence and interpretation spanning Tier 1
 
 ## Bibliography
 
-- Harris. *Gender and Aging in Mesopotamia*. 2000.
-- Kendall. *Shamans, Housewives, and Other Restless Spirits*. 1985.
-- Knight. *Blood Relations*. 1991.
-- Stavrakopoulou. *God: An Anatomy*. 2021.
+1. Gimbutas, Marija. *The Language of the Goddess*. Harper & Row, 1989.
+2. Eller, Cynthia. *The Myth of Matriarchal Prehistory: Why an Invented Past Won't Give Women a Future*. Beacon Press, 2000.
+3. Harris, Rivkah. *Gender and Aging in Mesopotamia: The Gilgamesh Epic and Other Ancient Literature*. University of Oklahoma Press, 2000.
+4. Stavrakopoulou, Francesca. *God: An Anatomy*. Knopf, 2021.
+5. Kendall, Laurel. *Shamans, Housewives, and Other Restless Spirits: Women in Korean Ritual Life*. University of Hawaii Press, 1985.
+6. Knight, Chris. *Blood Relations: Menstruation and the Origins of Culture*. Yale University Press, 1991.
+7. Harrison, Jane Ellen. *Prolegomena to the Study of Greek Religion*. Cambridge University Press, 1903.
+8. de Boer, Jelle Z. & Hale, John R. "The Geological Origins of the Oracle at Delphi, Greece." In *Volcanic Degassing*, Geological Society Special Publications 213, 2001.

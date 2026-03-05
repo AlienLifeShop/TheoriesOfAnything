@@ -594,3 +594,11 @@ Raptor proposes integrating two research approaches to advance the field:
 *Date: February 9, 2026*
 *Sources: Claude, Gemini, GPT5.2, Master, Raptor*
 *Approach: Neutral — presenting all interpretations without choosing a side*
+
+## Bibliography
+
+1. Dundes, Alan (ed.), "The Flood Myth" (University of California Press, 1988)
+2. Finkel, Irving, "The Ark Before Noah: Decoding the Story of the Flood" (Doubleday, 2014)
+3. Ryan, William and Pitman, Walter, "Noah's Flood: The New Scientific Discoveries About the Event that Changed History" (Simon and Schuster, 1998)
+4. Frazer, James George, "Folk-Lore in the Old Testament: Studies in Comparative Religion" (Macmillan, 1919)
+5. George, Andrew R., "The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts" (Oxford University Press, 2003)

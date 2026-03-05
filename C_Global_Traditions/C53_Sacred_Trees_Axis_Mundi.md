@@ -196,12 +196,12 @@ Modern ecology reveals the world tree metaphor as more literal than metaphorical
 | [C34 — Celtic Traditions](C34_Celtic_Druidic_Traditions.md) | Sacred groves, nemeton, Druid = "oak-knower" |
 | [N09 — Kabbalah](../N_Secret_Societies/N09_Kabbalah_Jewish_Mysticism.md) | Sephirotic Tree of Life as emanation map |
 | [A14 — Pyramid Texts](../A_Foundations/A14_Pyramid_Texts.md) | Djed pillar as axis mundi / Tree of Osiris |
-| [C20 — Seven Levels Tradition](C20_Seven_Levels_Tradition.md) | Vertical cosmic geography shared with tree imagery |
+| [C20 — Seven Levels Tradition](C20_Seven_Level_Cosmology_Seven_Gates.md) | Vertical cosmic geography shared with tree imagery |
 | [C46 — Siberian Shamanism](C46_Siberian_Shamanism_Origin.md) | World tree as shamanic climbing medium |
-| [C57 — Sacred Mountains](C57_Sacred_Mountains_Cosmic_Mountain.md) | Mountain as alternative axis mundi form |
+| [C57 — Sacred Mountains](C57_Sufi_Mysticism_Islamic_Esotericism.md) | Mountain as alternative axis mundi form |
 | [A02 — Bible Serpent References](../A_Foundations/A02_Bible_Serpent_References.md) | Tree of Knowledge, serpent-tree-woman triad |
-| [C39 — Tibetan Traditions](C39_Tibetan_Bon_Buddhist_Cosmology.md) | Mt. Meru as Buddhist axis mundi |
-| [G03 — Mycelium Intelligence](../G_Modern_Frameworks/G03_Mycelium_Intelligence.md) | "Wood-wide web" validates tree interconnection |
+| [C39 — Tibetan Traditions](C39_Tibetan_Buddhism_Bon_Terma.md) | Mt. Meru as Buddhist axis mundi |
+| [G03 — Mycelium Intelligence](../G_Modern_Frameworks/G03_Mycelium_Network.md) | "Wood-wide web" validates tree interconnection |
 | [K06 — Kundalini](../K_Consciousness/K06_Kundalini_Serpent_Energy.md) | Spine as bodily axis mundi, serpent energy ascent |
 
 ---

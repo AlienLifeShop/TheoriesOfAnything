@@ -152,7 +152,7 @@ This concept has direct parallels to:
 - The **Hermetic** creation of the "Body of Light" (see [A08](../A_Foundations/A08_Hermetic_Tradition.md))
 - The **Tibetan Buddhist** development of the **illusory body** (sgyu lus)
 - Modern Western occultism's "astral body"
-- The raising of **kundalini** through the crown chakra in Hindu yoga (see [K01](../K_Consciousness/K01_Consciousness_Overview.md))
+- The raising of **kundalini** through the crown chakra in Hindu yoga (see [K01](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md))
 
 ### 3.4 The Microcosmic Orbit [3/5 sources]
 
@@ -280,14 +280,14 @@ This connects directly to the global serpent-being pattern documented throughout
 | Related Doc | Connection |
 |-------------|-----------|
 | [C12](../C_Global_Traditions/C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) | Chinese dragon traditions — serpent being parallel |
-| [K01](../K_Consciousness/K01_Consciousness_Overview.md) | Consciousness and kundalini parallels |
-| [K04](../K_Consciousness/K04_Kundalini_Serpent_Energy.md) | Kundalini energy — direct parallel to neidan microcosmic orbit |
-| [K13](../K_Consciousness/K13_Pineal_Gland_Third_Eye_Traditions.md) | Third eye / upper dantian correspondence |
+| [K01](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Consciousness and kundalini parallels |
+| [K04](../K_Consciousness/K06_Kundalini_Serpent_Energy.md) | Kundalini energy — direct parallel to neidan microcosmic orbit |
+| [K13](../K_Consciousness/K13_Pineal_Gland_Third_Eye.md) | Third eye / upper dantian correspondence |
 | [P14](../P_Philosophy_Meaning/P14_Alchemy_Transmutation.md) | Alchemy as global phenomenon — Chinese branch |
 | [A08](../A_Foundations/A08_Hermetic_Tradition.md) | Hermetic tradition — "as above, so below" parallel |
 | [C20](../C_Global_Traditions/C20_Seven_Level_Cosmology_Seven_Gates.md) | Multi-level cosmology — dantian as cosmic levels |
 | [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) | Perennial philosophy — cross-tradition convergence |
-| [J05](../J_Ancient_Technology/J05_Metallurgy_Alloys.md) | Ancient metallurgy — cinnabar/mercury technology |
+| [J05](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Ancient metallurgy — cinnabar/mercury technology |
 | [C15](../C_Global_Traditions/C15_Yoruba_Ogun_Divine_Smiths.md) | Divine smiths — alchemist archetype parallel |
 
 ---

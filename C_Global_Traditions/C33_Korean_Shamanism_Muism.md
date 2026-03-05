@@ -299,11 +299,11 @@ The Japanese **miko** (巫女, shrine maiden) tradition — female ritual specia
 | [C30](../C_Global_Traditions/C30_Australian_Aboriginal_Dreamtime.md) | Aboriginal Australian traditions — shamanic parallels |
 | [C25](../C_Global_Traditions/C25_Orpheus_Descent_Underworld_Archetype.md) | Orphic descent — psychopomp parallel |
 | [C17](../C_Global_Traditions/C17_Sacred_Kingship_Divine_Rulership.md) | Sacred kingship — Dangun as divine king |
-| [K01](../K_Consciousness/K01_Consciousness_Overview.md) | Consciousness — altered states in trance |
-| [K08](../K_Consciousness/K08_Shamanic_Consciousness_Practices.md) | Shamanic consciousness — direct parallel |
+| [K01](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Consciousness — altered states in trance |
+| [K08](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Shamanic consciousness — direct parallel |
 | [B04](../B_Beings_and_Entities/B04_Solomon_and_the_Jinn.md) | Jinn/spirit beings — Korean gwishin/dokgaebi |
 | [C07](../C_Global_Traditions/C07_Pacific_Island_Traditions.md) | Pacific traditions — Japanese miko connection |
-| [H05](../H_Suppression_and_Thesis/H05_Knowledge_Suppression_Mechanisms.md) | Knowledge suppression — Joseon persecution |
+| [H05](../H_Suppression_and_Thesis/H01_Suppression_of_Ancient_Knowledge.md) | Knowledge suppression — Joseon persecution |
 | [C32](../C_Global_Traditions/C32_Daoism_Chinese_Alchemy.md) | Daoism — Chinese wu-shaman tradition parallel |
 
 ---

@@ -166,13 +166,13 @@ Lynne Kelly's *The Memory Code* (2016) demonstrates:
 | Document | Connection |
 |----------|------------|
 | [C30 — Aboriginal Dreamtime](C30_Australian_Aboriginal_Dreamtime.md) | The Dreaming — cosmological framework for songlines |
-| [C37 — Easter Island](C37_Easter_Island_Rapa_Nui.md) | Polynesian vs. Aboriginal navigation systems |
+| [C37 — Easter Island](C37_Maya_Epigraphy_Astronomy.md) | Polynesian vs. Aboriginal navigation systems |
 | [C47 — Māori Mythology](C47_Maori_Mythology_Whakapapa.md) | Land-based knowledge systems; ancestral landscape |
 | [D01 — Göbekli Tepe](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) | Mnemonic function of ancient monuments |
-| [K15 — Altered States](../K_Consciousness/K15_Altered_States_Consciousness.md) | Ceremonial contexts for songline performance |
-| [P11 — Panpsychism/Animism](../P_Philosophy_Meaning/P11_Panpsychism_Animism_Comparison.md) | Living landscape ontology |
+| [K15 — Altered States](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Ceremonial contexts for songline performance |
+| [P11 — Panpsychism/Animism](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) | Living landscape ontology |
 | [H07 — Indigenous Suppression](../H_Suppression_and_Thesis/H07_Indigenous_Knowledge_Suppression.md) | Colonial destruction of Aboriginal knowledge systems |
-| [O03 — Earth Changes](../O_Earth_Anomalies/O03_Earth_Changes_Pole_Shifts.md) | Oral traditions recording environmental changes |
+| [O03 — Earth Changes](../O_Earth_Anomalies/O03_Ocean_Mysteries_Deep_Sea.md) | Oral traditions recording environmental changes |
 
 ---
 

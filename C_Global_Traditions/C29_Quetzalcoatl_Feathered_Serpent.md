@@ -440,5 +440,15 @@ The feathered serpent is the Mesoamerican expression of this universal pattern. 
 
 ## Bibliography
 
-- Gardner. *Traditions of the Fathers*. 2015.
-- Southerton. *Losing a Lost Tribe*. 2004.
+1. Carrasco, Davíd. *Quetzalcoatl and the Irony of Empire: Myths and Prophecies in the Aztec Tradition*. University of Chicago Press, 1982 (revised 2000).
+2. Sahagún, Bernardino de et al. *Florentine Codex: General History of the Things of New Spain*. Trans. Arthur J.O. Anderson & Charles Dibble. University of Utah Press, 1950–1982.
+3. Tedlock, Dennis (trans.). *Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life*. Simon & Schuster, 1985.
+4. Restall, Matthew. *When Montezuma Met Cortés: The True Story of the Meeting That Changed History*. Ecco, 2018.
+5. Townsend, Camilla. *Fifth Sun: A New History of the Aztecs*. Oxford University Press, 2019.
+6. Nicholson, H.B. *Topiltzin Quetzalcoatl: The Once and Future Lord of the Toltecs*. University Press of Colorado, 2001.
+7. Florescano, Enrique. *The Myth of Quetzalcoatl*. Trans. Lysa Hochroth. Johns Hopkins University Press, 1999.
+8. López Austin, Alfredo. *The Myths of the Opossum: Pathways of Mesoamerican Mythology*. University of New Mexico Press, 1993.
+9. Taube, Karl A. *The Major Gods of Ancient Yucatan*. Dumbarton Oaks, 1992.
+10. Sugiyama, Saburo. *Human Sacrifice, Militarism, and Rulership: Materialization of State Ideology at the Feathered Serpent Pyramid, Teotihuacan*. Cambridge University Press, 2005.
+11. Bierhorst, John (trans.). *History and Mythology of the Aztecs: The Codex Chimalpopoca*. University of Arizona Press, 1992.
+12. Southerton, Simon G. *Losing a Lost Tribe: Native Americans, DNA, and the Mormon Church*. Signature Books, 2004.

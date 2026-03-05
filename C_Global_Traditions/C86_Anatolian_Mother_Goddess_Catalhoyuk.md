@@ -3,7 +3,7 @@
 > **Document ID:** C86
 > **Section:** C_Global_Traditions
 > **Keywords:** Çatalhöyük, Cybele, Magna Mater, Anatolian, mother goddess, Neolithic, bull cult, bucrania, leopard, seated goddess, Galli, self-castration, Göbekli Tepe, black meteorite, Phrygian, Kubaba, fertility, ritual transformation, Catalhoyuk
-> **Cross-References:** [C23 — Mother Goddess](C23_Mother_Goddess_Traditions.md) · [F09 — Pre-IE](../F_Lost_Connections/F09_Pre_Indo_European.md) · [C42 — Minoan](C42_Minoan_Civilization_Bull_Cult.md) · [D01 — Göbekli Tepe](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) · [D22 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture.md)
+> **Cross-References:** [C23 — Mother Goddess](C23_Mother_Goddess_Earth_Goddess.md) · [F09 — Pre-IE](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) · [C42 — Minoan](C42_Minoan_Civilization_Bull_Cult.md) · [D01 — Göbekli Tepe](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) · [D22 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md)
 > **Reliability Tier:** Tier 1–2 (archaeology well-established; theological interpretations debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 12 scholarly sources | **Confidence:** High (archaeological record), Medium (goddess-identification debates), Low (continuity claims Çatalhöyük → Cybele)
 
@@ -185,12 +185,12 @@ The question of continuity across **five millennia**:
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C23 — Mother Goddess](C23_Mother_Goddess_Traditions.md) | Çatalhöyük goddess debate — central case study in goddess-tradition scholarship |
+| [C23 — Mother Goddess](C23_Mother_Goddess_Earth_Goddess.md) | Çatalhöyük goddess debate — central case study in goddess-tradition scholarship |
 | [D01 — Göbekli Tepe](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) | Earlier Anatolian monumental religion — possible precursor tradition |
 | [C42 — Minoan](C42_Minoan_Civilization_Bull_Cult.md) | Bull symbolism continuity — bucrania → bull-leaping → taurobolium |
-| [D22 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture.md) | Çatalhöyük as earliest "sacred architecture"; Cybele's Palatine temple |
-| [F09 — Pre-IE](../F_Lost_Connections/F09_Pre_Indo_European.md) | Anatolian mother goddess as pre-IE religious substrate |
-| [C58 — Hittite/Hurrian](C58_Hittite_Hurrian_Mythology.md) | Kubaba → Cybele name evolution; Anatolian religious continuum |
+| [D22 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) | Çatalhöyük as earliest "sacred architecture"; Cybele's Palatine temple |
+| [F09 — Pre-IE](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) | Anatolian mother goddess as pre-IE religious substrate |
+| [C58 — Hittite/Hurrian](C58_Hittite_Hurrian_Mythology_Kumarbi.md) | Kubaba → Cybele name evolution; Anatolian religious continuum |
 | [C87 — Nabataean](C87_Nabataean_Petra_Water_Engineering.md) | Baetyl/sacred stone traditions — meteorite worship parallels |
 | [C88 — Canaanite](C88_Canaanite_Religion_Beyond_Ugarit.md) | Asherah/mother goddess traditions in broader Near Eastern context |
 

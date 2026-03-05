@@ -379,10 +379,14 @@ Polynesian oral tradition attributes navigational knowledge to divine or semi-di
 
 ## Bibliography
 
-- Elkin. *Aboriginal Men of High Degree*. 1945.
-- Finney. *Voyage of Rediscovery: A Cultural Odyssey Through Polynesia*. 1994.
-- Fischer. *Rongorongo: The Easter Island Script*. 1997.
-- Irwin. *The Prehistoric Exploration and Colonisation of the Pacific*. 1992.
-- Lewis. *We, the Navigators*. 1972.
-- Williams. *Fiji and the Fijians*. 1858.
-- Woolagoodja. *Lalai Dreamtime: Aboriginal Art from the Kimberley*. 2007.
+1. Beckwith, Martha. *Hawaiian Mythology*. Yale University Press, 1940.
+2. Lewis, David. *We, the Navigators: The Ancient Art of Landfinding in the Pacific*. University of Hawaii Press, 1972.
+3. Finney, Ben. *Voyage of Rediscovery: A Cultural Odyssey Through Polynesia*. University of California Press, 1994.
+4. Irwin, Geoffrey. *The Prehistoric Exploration and Colonisation of the Pacific*. Cambridge University Press, 1992.
+5. Flood, Josephine. *The Original Australians: Story of the Aboriginal People*. Allen & Unwin, 2006.
+6. Elkin, A.P. *Aboriginal Men of High Degree*. Australasian Publishing, 1945.
+7. Fischer, Steven Roger. *Rongorongo: The Easter Island Script*. Clarendon Press, 1997.
+8. Lipo, Carl & Hunt, Terry. *The Statues That Walked: Unraveling the Mystery of Easter Island*. Free Press, 2011.
+9. Williams, Thomas. *Fiji and the Fijians*. Alexander Heylin, 1858.
+10. Woolagoodja, Donny. *Lalai Dreamtime: Aboriginal Art from the Kimberley*. Magabala Books, 2007.
+11. Roullier, Caroline et al. "Historical Collections Reveal Patterns of Diffusion of Sweet Potato in Oceania." *PNAS* 110.6 (2013): 2205–2210.

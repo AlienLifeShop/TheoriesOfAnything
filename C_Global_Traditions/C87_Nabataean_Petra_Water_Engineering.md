@@ -3,7 +3,7 @@
 > **Document ID:** C87
 > **Section:** C_Global_Traditions
 > **Keywords:** Nabataean, Petra, Al-Khazneh, Dushara, Al-Uzza, water engineering, qanat, cistern, incense trade, betyl, aniconic worship, rock-cut architecture, Arabia Felix, Hegra, Mada'in Saleh, Edomite, Aramaic, desert civilization, hydraulic engineering
-> **Cross-References:** [D22 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture.md) · [F03 — Bronze Age Trade](../F_Lost_Connections/F03_Bronze_Age_Trade.md) · [O07 — Sacred Water](../O_Earth_Anomalies/O07_Sacred_Water.md) · [C86 — Anatolian Mother Goddess](C86_Anatolian_Mother_Goddess_Catalhoyuk.md)
+> **Cross-References:** [D22 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) · [F03 — Bronze Age Trade](../F_Lost_Connections/F03_Bronze_Age_Trade_Networks.md) · [O07 — Sacred Water](../O_Earth_Anomalies/O07_Sacred_Water_Wells_Springs.md) · [C86 — Anatolian Mother Goddess](C86_Anatolian_Mother_Goddess_Catalhoyuk.md)
 > **Reliability Tier:** Tier 1–2 (archaeology and epigraphy well-established; religious practices partially reconstructed)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 10 scholarly sources | **Confidence:** High (archaeology, infrastructure), Medium (religious interpretation), Low (pre-4th century BCE origins)
 
@@ -169,9 +169,9 @@ The Nabataeans' **non-anthropomorphic** deity representation is distinctive:
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [D22 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture.md) | Petra as supreme example of rock-cut sacred architecture |
-| [F03 — Bronze Age Trade](../F_Lost_Connections/F03_Bronze_Age_Trade.md) | Incense trade route — continuity of ancient Near Eastern trade networks |
-| [O07 — Sacred Water](../O_Earth_Anomalies/O07_Sacred_Water.md) | Nabataean hydrology as simultaneously engineering and theology |
+| [D22 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) | Petra as supreme example of rock-cut sacred architecture |
+| [F03 — Bronze Age Trade](../F_Lost_Connections/F03_Bronze_Age_Trade_Networks.md) | Incense trade route — continuity of ancient Near Eastern trade networks |
+| [O07 — Sacred Water](../O_Earth_Anomalies/O07_Sacred_Water_Wells_Springs.md) | Nabataean hydrology as simultaneously engineering and theology |
 | [C86 — Anatolian Mother Goddess](C86_Anatolian_Mother_Goddess_Catalhoyuk.md) | Betyl/sacred stone tradition — meteorite worship parallel |
 | [C88 — Canaanite](C88_Canaanite_Religion_Beyond_Ugarit.md) | Shared betyl/maṣṣēbōt tradition; Al-Uzza/Astarte parallels |
 | [A17 — Ugaritic/Baal Cycle](../A_Foundations/A17_Ugaritic_Literature_Baal_Cycle.md) | Near Eastern religious context — sacred pillars, storm-god worship |

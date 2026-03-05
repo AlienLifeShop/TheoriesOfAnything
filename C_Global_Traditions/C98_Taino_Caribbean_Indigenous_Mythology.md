@@ -3,7 +3,7 @@
 > **Document ID:** C98
 > **Section:** C_Global_Traditions
 > **Keywords:** Taíno, Caribbean, Yúcahu, Atabey, Guabancex, cohoba, DMT, cemí, zemí, Coaybay, Deminán, areíto, batey, cacique, bohique, pre-Columbian Caribbean, Arawakan, behique
-> **Cross-References:** [C04](C04_Viracocha_South_American_Knowledge_Givers.md) · [C13](C13_Indigenous_Knowledge_Systems.md) · [K08](../K_Consciousness/K08_Psychedelics_Consciousness.md) · [C51](C51_Mesopotamian_Underworld_Ereshkigal.md) · [C67](C67_Amazonian_Traditions_Plant_Teachers.md) · [C36](C36_Aztec_Cosmology_Five_Suns.md)
+> **Cross-References:** [C04](C04_Viracocha_South_American_Knowledge_Givers.md) · [C13](C13_Indigenous_Knowledge_Systems.md) · [K08](../K_Consciousness/K02_Altered_States_Psychedelics.md) · [C51](C51_Mesopotamian_Underworld_Ereshkigal.md) · [C67](C67_Amazonian_Traditions_Plant_Teachers.md) · [C36](C36_Aztec_Cosmology_Five_Suns.md)
 > **Reliability Tier:** Tier 2-3 (primary documentation from Columbus-era Spanish chroniclers with significant colonial bias; archaeological record substantial but fragmentary; Taíno cultural revival ongoing but discontinuous with pre-contact traditions)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** Medium-High
 
@@ -173,7 +173,7 @@ The Taíno, an Arawakan-speaking people who inhabited the Greater Antilles (Hisp
 |-------------|-----------|
 | [C04 — Viracocha / South American Knowledge Givers](C04_Viracocha_South_American_Knowledge_Givers.md) | Arawakan linguistic and cultural heritage from South America |
 | [C13 — Indigenous Knowledge Systems](C13_Indigenous_Knowledge_Systems.md) | Taíno oral tradition, areíto, and knowledge preservation methods |
-| [K08 — Psychedelics & Consciousness](../K_Consciousness/K08_Psychedelics_Consciousness.md) | Cohoba (DMT-containing snuff) as primary vehicle of spiritual practice |
+| [K08 — Psychedelics & Consciousness](../K_Consciousness/K02_Altered_States_Psychedelics.md) | Cohoba (DMT-containing snuff) as primary vehicle of spiritual practice |
 | [C51 — Mesopotamian Underworld](C51_Mesopotamian_Underworld_Ereshkigal.md) | Coaybay underworld and cross-cultural afterlife geography |
 | [C67 — Amazonian Traditions / Plant Teachers](C67_Amazonian_Traditions_Plant_Teachers.md) | Shared Amazonian heritage of psychoactive plant use |
 | [C36 — Aztec Cosmology / Five Suns](C36_Aztec_Cosmology_Five_Suns.md) | Mesoamerican ballgame parallels; Caribbean-Mesoamerica trade |

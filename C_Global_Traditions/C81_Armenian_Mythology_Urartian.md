@@ -3,7 +3,7 @@
 > **Document ID:** C81
 > **Section:** C_Global_Traditions
 > **Keywords:** Armenia, Urartian, Hayk, Bel, Vahagn, Mount Ararat, Aramazd, Mesrop Mashtots, Araratian, fire temple, sacred springs, dragon-slayer, Anahit, Noah, Genesis, cuneiform, Tushpa, Van, Indo-European, Mithra, ancient alphabet
-> **Cross-References:** [C56 — Storm God](C56_Storm_God_Pattern.md) · [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction.md) · [C58 — Hittite/Hurrian](C58_Hittite_Hurrian_Mythology.md) · [E04 — Flood/Ararat](../E_Cataclysms_and_Chronology/E04_Noahs_Flood_Deluge.md) · [A02 — Bible](../A_Foundations/A02_Bible_Serpent_References.md) · [C66 — Fire Symbolism](C66_Fire_Symbolism_Prometheus.md)
+> **Cross-References:** [C56 — Storm God](C56_Storm_God_Pattern.md) · [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) · [C58 — Hittite/Hurrian](C58_Hittite_Hurrian_Mythology_Kumarbi.md) · [E04 — Flood/Ararat](../C_Global_Traditions/C02_Global_Flood_Stories.md) · [A02 — Bible](../A_Foundations/A02_Bible_Serpent_References.md) · [C66 — Fire Symbolism](C66_Fire_Symbolism_Sacred_Flame.md)
 > **Reliability Tier:** Tier 1–2 (Urartian archaeology well-documented; mythological claims debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 10 scholarly sources | **Confidence:** High (archaeology), Medium (pre-Christian mythology reconstruction)
 
@@ -167,11 +167,11 @@ Vahagn (*Vahagn Vishapakʿagh* — "Vahagn the Dragon-Reaper"):
 | Related Doc | Connection |
 |-------------|-----------|
 | [C56 — Storm God](C56_Storm_God_Pattern.md) | Vahagn as Armenian storm-god/dragon-slayer — IE *Chaoskampf* pattern |
-| [E04 — Flood/Deluge](../E_Cataclysms_and_Chronology/E04_Noahs_Flood_Deluge.md) | Mount Ararat as Noah's landing site — flood traditions |
-| [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction.md) | Armenian flood and cataclysm memory within cyclical patterns |
-| [C58 — Hittite/Hurrian](C58_Hittite_Hurrian_Mythology.md) | Urartian Teisheba cognate with Hurrian Teshub — shared cultural zone |
+| [E04 — Flood/Deluge](../C_Global_Traditions/C02_Global_Flood_Stories.md) | Mount Ararat as Noah's landing site — flood traditions |
+| [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) | Armenian flood and cataclysm memory within cyclical patterns |
+| [C58 — Hittite/Hurrian](C58_Hittite_Hurrian_Mythology_Kumarbi.md) | Urartian Teisheba cognate with Hurrian Teshub — shared cultural zone |
 | [A02 — Bible Serpent](../A_Foundations/A02_Bible_Serpent_References.md) | Genesis 8:4 Ararat reference; Armenia's biblical anchoring |
-| [C66 — Fire Symbolism](C66_Fire_Symbolism_Prometheus.md) | Armenian fire temples, Vahagn born from fire |
+| [C66 — Fire Symbolism](C66_Fire_Symbolism_Sacred_Flame.md) | Armenian fire temples, Vahagn born from fire |
 | [C84 — Slavic Mythology](C84_Slavic_Mythology_Perun_Veles.md) | Parallel IE storm-god/dragon-slayer patterns |
 | [C82 — Georgian/Caucasian](C82_Georgian_Caucasian_Prometheus.md) | Caucasian neighbour — shared cultural motifs |
 

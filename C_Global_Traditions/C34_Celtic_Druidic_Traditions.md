@@ -307,7 +307,7 @@ This mirrors the **oral restriction** patterns found in:
 | [C23](../C_Global_Traditions/C23_Mother_Goddess_Earth_Goddess.md) | Goddess traditions — Brigid, Danu, Morrigan |
 | [D05](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Megalithic sites — Newgrange, Avebury |
 | [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Sacred geometry — Celtic knotwork patterns |
-| [K08](../K_Consciousness/K08_Shamanic_Consciousness_Practices.md) | Shamanic practices — Druidic altered states |
+| [K08](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Shamanic practices — Druidic altered states |
 | [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Archaeoastronomy — Celtic calendar alignments |
 
 ---

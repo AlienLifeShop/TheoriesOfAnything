@@ -318,4 +318,8 @@ Curated India-focused image set saved in: `images/nagas/`
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Vogel, Jean Philippe. *Indian Serpent-Lore: or, The Nagas in Hindu Legend and Art*. Arthur Probsthain, 1926.
+2. Flood, Gavin. *An Introduction to Hinduism*. Cambridge University Press, 1996.
+3. Doniger, Wendy (trans.). *Hindu Myths: A Sourcebook*. Penguin, 1975.
+4. Dundas, Paul. *The Jains*. 2nd ed., Routledge, 2002.
+5. Taçon, Paul S.C. et al. "Identifying Ancient Sacred Landscapes in Australia." *World Archaeology* 45.3 (2013): 357–373.

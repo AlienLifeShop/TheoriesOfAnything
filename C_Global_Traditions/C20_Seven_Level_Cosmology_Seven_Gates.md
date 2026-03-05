@@ -285,6 +285,8 @@ The central debate: did ALL sevenfold cosmological systems originate from a sing
 
 **Probable synthesis:** The astronomical observation of seven moving celestial bodies provided a powerful organizing template in Mesopotamia. This template was transmitted to neighboring cultures through documented contact. However, the number seven also possesses intrinsic cognitive salience and mathematical interest, meaning some traditions may have converged on it independently, only to be reinforced upon contact with the Babylonian scheme.
 
+**Counter-Argument:** George A. Miller's research on cognitive processing limits ("The Magical Number Seven, Plus or Minus Two," 1956) suggests that seven's prevalence in cosmological systems may owe more to neural architecture than to historical diffusion — the human brain naturally segments complex information into approximately seven categories, meaning independent cultures could converge on this number without any shared ancient source.
+
 ### 2.2 Seven as Cognitive "Magic Number"
 
 In 1956, cognitive psychologist George A. Miller published "The Magical Number Seven, Plus or Minus Two," demonstrating that human short-term memory capacity averages approximately seven discrete items. This finding suggests that seven may represent a natural cognitive chunking limit.
@@ -509,4 +511,12 @@ The exceptions (Norse nine, Chinese five, Mesoamerican thirteen) prove that seve
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Kramer, Samuel Noah. *Inanna: Queen of Heaven and Earth: Her Stories and Hymns from Sumer*. Harper & Row, 1983.
+2. Horowitz, Wayne. *Mesopotamian Cosmic Geography*. Eisenbrauns, 1998.
+3. Miller, George A. "The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information." *Psychological Review* 63.2 (1956): 81–97.
+4. Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford University Press, 1989.
+5. White, David Gordon. *The Alchemical Body: Siddha Traditions in Medieval India*. University of Chicago Press, 1996.
+6. Scholem, Gershom. *Major Trends in Jewish Mysticism*. Schocken Books, 1941.
+7. Drower, E.S. *The Mandaeans of Iraq and Iran*. Brill, 1937 (reprinted 2002).
+8. Beck, Roger. *The Religion of the Mithras Cult in the Roman Empire: Mysteries of the Unconquered Sun*. Oxford University Press, 2006.
+9. *Electronic Text Corpus of Sumerian Literature (ETCSL)*. Oxford University, 1998–2006.

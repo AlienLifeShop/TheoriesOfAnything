@@ -193,13 +193,13 @@ Isaac Newton's alchemical manuscripts (released 1936; studied by Betty Jo Teeter
 | Document | Connection |
 |----------|------------|
 | [A08 — Hermetic Tradition](../A_Foundations/A08_Hermetic_Tradition.md) | Founding tradition — Emerald Tablet, Hermes Trismegistus |
-| [C19 — Zoroastrian](C19_Zoroastrian_Theology.md) | Iranian influences on Islamic alchemy |
-| [K01 — Consciousness](../K_Consciousness/K01_Consciousness_Theories.md) | Jungian interpretation; matter-consciousness unity |
-| [J09 — Ancient Metallurgy](../J_Ancient_Technology/J09_Ancient_Metallurgy_Alloys.md) | Metal-working as proto-alchemical practice |
-| [S06 — Transhumanism](../S_Future_Technology/S06_Transhumanism_Enhancement.md) | Alchemical quest for immortality as transhumanist precursor |
-| [N01 — Secret Societies](../N_Secret_Societies/N01_Secret_Societies_Overview.md) | Alchemical orders; Rosicrucians; esoteric transmission |
+| [C19 — Zoroastrian](C19_Zoroastrianism_Demonization_Pivot.md) | Iranian influences on Islamic alchemy |
+| [K01 — Consciousness](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Jungian interpretation; matter-consciousness unity |
+| [J09 — Ancient Metallurgy](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Metal-working as proto-alchemical practice |
+| [S06 — Transhumanism](../S_Future_Technology/S06_Bioethics_Human_Enhancement.md) | Alchemical quest for immortality as transhumanist precursor |
+| [N01 — Secret Societies](../N_Secret_Societies/N01_Mystery_Schools.md) | Alchemical orders; Rosicrucians; esoteric transmission |
 | [C57 — Sufi Mysticism](C57_Sufi_Mysticism_Islamic_Esotericism.md) | Islamic esoteric context; inner transformation parallels |
-| [Q02 — Cosmological Models](../Q_Cosmology_Physics/Q02_Cosmological_Models.md) | Alchemical cosmology; prima materia as cosmic substrate |
+| [Q02 — Cosmological Models](../Q_Cosmology_Physics/Q02_Big_Bang_Alternative_Cosmologies.md) | Alchemical cosmology; prima materia as cosmic substrate |
 
 ---
 

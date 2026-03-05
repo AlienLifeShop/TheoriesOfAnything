@@ -244,4 +244,8 @@ Recommended edit workflow:
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Sterckx, Roel. *The Animal and the Daemon in Early China*. State University of New York Press, 2002.
+2. Lewis, Mark Edward. *The Flood Myths of Early China*. State University of New York Press, 2006.
+3. Wu, Hung. *The Wu Liang Shrine: The Ideology of Early Chinese Pictorial Art*. Stanford University Press, 1989.
+4. Birrell, Anne. *Chinese Mythology: An Introduction*. Johns Hopkins University Press, 1993.
+5. Xu, J. et al. "Radiocarbon Dating of Sanxingdui." *Archaeological and Anthropological Sciences* 14 (2022).

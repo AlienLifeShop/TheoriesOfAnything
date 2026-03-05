@@ -3,7 +3,7 @@
 > **Document ID:** C99
 > **Section:** C_Global_Traditions
 > **Keywords:** Shinto, kami, torii, shimenawa, misogi, purification, matsuri, Ise Shrine, shinbutsu-shūgō, State Shinto, folk Shinto, chinju no mori, sacred grove, shrine architecture, ritual purity, harae, kagura
-> **Cross-References:** [A15](../A_Foundations/A15_Kojiki.md) · [C34](C34_Celtic_Druidic_Traditions.md) · [B24](../B_Beings_and_Entities/B24_Nature_Spirits.md) · [D32](../D_Sites_and_Artifacts/D32_Sacred_Architecture.md) · [C103](C103_Sacred_Pilgrimage_Traditions.md) · [C100](C100_Ainu_Mythology_Bear_Ceremonialism.md)
+> **Cross-References:** [A15](../A_Foundations/A15_Kojiki.md) · [C34](C34_Celtic_Druidic_Traditions.md) · [B24](../B_Beings_and_Entities/B24_Nature_Spirits_Elementals_Land_Wights.md) · [D32](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) · [C103](C103_Sacred_Pilgrimage_Traditions.md) · [C100](C100_Ainu_Mythology_Bear_Ceremonialism.md)
 > **Reliability Tier:** Tier 1-2 (extensive scholarly literature; living tradition with continuous practice; historical complexity of State Shinto period well-documented but politically sensitive)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
 
@@ -170,8 +170,8 @@ While A15 (Kojiki) covers the foundational mythological texts of Japanese religi
 |-------------|-----------|
 | [A15 — Kojiki](../A_Foundations/A15_Kojiki.md) | Foundational mythological text; Izanagi purification as origin of misogi |
 | [C34 — Celtic / Druidic Traditions](C34_Celtic_Druidic_Traditions.md) | Sacred grove traditions (nemeton / chinju no mori parallels) |
-| [B24 — Nature Spirits](../B_Beings_and_Entities/B24_Nature_Spirits.md) | Kami as nature spirits; animistic cosmology |
-| [D32 — Sacred Architecture](../D_Sites_and_Artifacts/D32_Sacred_Architecture.md) | Shrine architecture; Ise Shrine cyclical renewal system |
+| [B24 — Nature Spirits](../B_Beings_and_Entities/B24_Nature_Spirits_Elementals_Land_Wights.md) | Kami as nature spirits; animistic cosmology |
+| [D32 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) | Shrine architecture; Ise Shrine cyclical renewal system |
 | [C103 — Sacred Pilgrimage](C103_Sacred_Pilgrimage_Traditions.md) | Shikoku pilgrimage; Ise pilgrimage traditions |
 | [C100 — Ainu Mythology](C100_Ainu_Mythology_Bear_Ceremonialism.md) | Ainu/Shinto interactions; pre-Yamato religious substrata |
 | [C27 — Jōmon People](C27_Jomon_People_Pre_Yamato_Japan.md) | Prehistoric origins of kami veneration; Jōmon ritual continuities |

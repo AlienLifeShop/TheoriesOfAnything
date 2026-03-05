@@ -3,7 +3,7 @@
 > **Document ID:** C85
 > **Section:** C_Global_Traditions
 > **Keywords:** Baltic mythology, Lithuanian, Latvian, Perkūnas, Romuva, Dievas, Laima, Saulė, Mėnulis, dainos, vaidilutė, sacred grove, eternal fire, pagan, last pagan Europe, Christianization, Old Prussian, Indo-European, Deva, Vestal Virgins, Žemyna, Velnias
-> **Cross-References:** [C56 — Storm God](C56_Storm_God_Pattern.md) · [F09 — Pre-IE](../F_Lost_Connections/F09_Pre_Indo_European.md) · [C84 — Slavic Mythology](C84_Slavic_Mythology_Perun_Veles.md) · [C34 — Celtic/Druidic](C34_Celtic_Druid_Traditions.md) · [A20 — Rig Veda](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md)
+> **Cross-References:** [C56 — Storm God](C56_Storm_God_Pattern.md) · [F09 — Pre-IE](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) · [C84 — Slavic Mythology](C84_Slavic_Mythology_Perun_Veles.md) · [C34 — Celtic/Druidic](C34_Celtic_Druidic_Traditions.md) · [A20 — Rig Veda](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md)
 > **Reliability Tier:** Tier 1–2 (IE comparative linguistics well established; specific ritual reconstruction debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 11 scholarly sources | **Confidence:** High (linguistic/IE comparisons), Medium (pre-Christian ritual detail)
 
@@ -186,10 +186,10 @@ Baltic mythology preserves a distinctive **solar narrative**:
 | [C56 — Storm God](C56_Storm_God_Pattern.md) | Perkūnas as PIE storm-god reflex — direct cognate chain |
 | [C84 — Slavic Mythology](C84_Slavic_Mythology_Perun_Veles.md) | Proto-Balto-Slavic religious system — Perun/Perkūnas, Veles/Velnias |
 | [A20 — Rig Veda](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md) | Baltic-Vedic parallels — Dievas/Devá, Saulė/Sūrya, Aušrinė/Uṣas |
-| [C34 — Celtic/Druidic](C34_Celtic_Druid_Traditions.md) | Sacred grove and eternal fire traditions — Romuva/Druidic parallels |
-| [F09 — Pre-IE](../F_Lost_Connections/F09_Pre_Indo_European.md) | Žemyna earth-goddess as possible pre-IE substrate retention |
+| [C34 — Celtic/Druidic](C34_Celtic_Druidic_Traditions.md) | Sacred grove and eternal fire traditions — Romuva/Druidic parallels |
+| [F09 — Pre-IE](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) | Žemyna earth-goddess as possible pre-IE substrate retention |
 | [C83 — Finnish/Kalevala](C83_Finnish_Kalevala_Finno_Ugric.md) | Finno-Baltic contact zone; Ukko/Perkūnas thunder-god parallels |
-| [C53 — Axis Mundi](C53_Axis_Mundi_World_Tree.md) | Sacred oak of Romuva — cosmic tree / axis mundi |
+| [C53 — Axis Mundi](C53_Sacred_Trees_Axis_Mundi.md) | Sacred oak of Romuva — cosmic tree / axis mundi |
 | [C81 — Armenian](C81_Armenian_Mythology_Urartian.md) | IE comparative pantheon — storm-god/fire temple parallels |
 
 ---

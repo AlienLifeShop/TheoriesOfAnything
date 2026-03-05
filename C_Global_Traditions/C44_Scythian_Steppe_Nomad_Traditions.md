@@ -206,14 +206,14 @@ Ancient DNA studies have complicated and partially confirmed the Kurgan hypothes
 | Document | Connection |
 |----------|------------|
 | [C45 — Mongol Tengrism](C45_Mongol_Tengrism_Central_Asian.md) | Shared steppe spiritual traditions, sky-god worship |
-| [K15 — Shamanism](../K_Consciousness/K15_Shamanism_Consciousness.md) | Cannabis fumigation, Enaree, animal-form transformation |
-| [F09 — Pre-IE Substrate](../F_Lost_Connections/F09_Pre_IE_Substrate.md) | Kurgan hypothesis, IE migration waves |
-| [B12 — Animal Symbolism](../B_Beings_and_Entities/B12_Animal_Symbolism_Therianthropic_Traditions.md) | Animal Style art, zoomorphic representation |
+| [K15 — Shamanism](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Cannabis fumigation, Enaree, animal-form transformation |
+| [F09 — Pre-IE Substrate](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) | Kurgan hypothesis, IE migration waves |
+| [B12 — Animal Symbolism](../B_Beings_and_Entities/B12_Animal_Symbolism_Beyond_Serpents.md) | Animal Style art, zoomorphic representation |
 | [C46 — Siberian Shamanism](C46_Siberian_Shamanism_Origin.md) | Shared Altai tradition, drum-and-trance practices |
 | [C56 — Storm God Pattern](C56_Storm_God_Pattern.md) | Indo-European sky/storm god parallels |
-| [C61 — Persian Civilization](C61_Persian_Civilization_Achaemenid.md) | Iranian-speaking relatives, Saka-Persian interaction |
+| [C61 — Persian Civilization](C61_Persian_Civilization_Achaemenid_Magi.md) | Iranian-speaking relatives, Saka-Persian interaction |
 | [C31 — Women and Gender](C31_Women_Gender_Ancient_Knowledge_Traditions.md) | Amazon warrior women, gender fluidity (Enaree) |
-| [L02 — Ancient DNA](../L_Genetics_Origins/L02_Ancient_DNA_Migration.md) | Yamnaya aDNA, mixed eastern/western ancestry |
+| [L02 — Ancient DNA](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Yamnaya aDNA, mixed eastern/western ancestry |
 
 ---
 

@@ -481,4 +481,10 @@ Not all trickster figures function as knowledge-givers. Many trickster narrative
 
 ## Bibliography
 
-- Cauvin. *The Birth of the Gods and the Origins of Agriculture*. 2000.
+1. Hesiod. *Theogony*. c. 700 BCE. Trans. M.L. West, Oxford University Press, 1988.
+2. Hesiod. *Works and Days*. c. 700 BCE. Trans. M.L. West, Oxford University Press, 1988.
+3. Aeschylus. *Prometheus Bound*. c. 460–430 BCE. Trans. James Scully & C.J. Herington, Oxford University Press, 1975.
+4. Cauvin, Jacques. *The Birth of the Gods and the Origins of Agriculture*. Trans. Trevor Watkins. Cambridge University Press, 2000.
+5. Lincoln, Bruce. *Myth, Cosmos, and Society: Indo-European Themes of Creation and Destruction*. Harvard University Press, 1986.
+6. Lévi-Strauss, Claude. *Mythologiques*. 4 vols. Plon, 1964–1971.
+7. d'Huy, Julien. "A Phylogenetic Approach of Mythology and Its Archaeological Consequences." *Rock Art Research* 30.1 (2013): 115–118.

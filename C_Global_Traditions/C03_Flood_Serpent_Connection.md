@@ -495,3 +495,10 @@ In monotheistic traditions (Biblical, Islamic), the original dual-deity structur
 *Date: February 9, 2026*
 *Source: Claude (Doc 52)*
 *Approach: Neutral — presenting the pattern and counter-arguments without choosing a side*
+
+## Bibliography
+
+1. Fontenrose, Joseph, "Python: A Study of Delphic Myth and Its Origins" (University of California Press, 1959)
+2. Mundkur, Balaji, "The Cult of the Serpent: An Interdisciplinary Survey of Its Manifestations and Origins" (SUNY Press, 1983)
+3. Doniger, Wendy, "Hindu Myths: A Sourcebook" (Penguin Classics, 1975)
+4. Lewis, Mark Edward, "The Flood Myths of Early China" (SUNY Press, 2006)

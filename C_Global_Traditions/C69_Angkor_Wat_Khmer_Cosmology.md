@@ -166,14 +166,14 @@
 
 | Document | Connection |
 |----------|------------|
-| [C06 — Hindu Traditions](../C_Global_Traditions/C06_Hindu_Vedic_Traditions.md) | Hindu cosmological foundation of Khmer civilization |
-| [C11 — Buddhist Traditions](../C_Global_Traditions/C11_Buddhist_Traditions.md) | Mahayana → Theravada transition at Angkor |
-| [D05 — Megalithic Structures](../D_Sites_and_Artifacts/D05_Megalithic_Structures.md) | Angkor as megalithic construction achievement |
+| [C06 — Hindu Traditions](../C_Global_Traditions/C06_Indonesian_Naga_SE_Asian_Traditions.md) | Hindu cosmological foundation of Khmer civilization |
+| [C11 — Buddhist Traditions](../C_Global_Traditions/C11_India_Naga_Traditions.md) | Mahayana → Theravada transition at Angkor |
+| [D05 — Megalithic Structures](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Angkor as megalithic construction achievement |
 | [D22 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) | Temple-mountain as cosmic architecture |
-| [C53 — Axis Mundi](C53_Axis_Mundi_World_Tree_Cosmic_Pillar.md) | Mount Meru / temple-mountain as axis mundi |
-| [D06 — Ancient Astronomy](../D_Sites_and_Artifacts/D06_Ancient_Astronomy_Alignments.md) | Equinox/solstice alignments at Angkor |
+| [C53 — Axis Mundi](C53_Sacred_Trees_Axis_Mundi.md) | Mount Meru / temple-mountain as axis mundi |
+| [D06 — Ancient Astronomy](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Equinox/solstice alignments at Angkor |
 | [E09 — Civilizational Collapse](../E_Cataclysms_and_Chronology/E09_Rise_Fall_Civilizations.md) | Angkor decline in context of climate-driven collapse |
-| [J05 — Ancient Engineering](../J_Ancient_Technology/J05_Ancient_Engineering.md) | Hydraulic engineering sophistication |
+| [J05 — Ancient Engineering](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Hydraulic engineering sophistication |
 
 ---
 

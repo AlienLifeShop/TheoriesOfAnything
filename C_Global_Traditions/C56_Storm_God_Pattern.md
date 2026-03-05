@@ -172,12 +172,12 @@ Storm gods are fundamentally **weather controllers** — and in agricultural soc
 | Document | Connection |
 |----------|------------|
 | [A17 — Ugaritic / Baal Cycle](../A_Foundations/A17_Ugaritic_Literature_Baal_Cycle.md) | Baal vs. Yam/Mot — Near Eastern storm-god paradigm |
-| [A18 — Enuma Elish](../A_Foundations/A18_Enuma_Elish.md) | Marduk vs. Tiamat — Babylonian *Chaoskampf* |
+| [A18 — Enuma Elish](../A_Foundations/A18_Enuma_Elish_Babylonian_Creation.md) | Marduk vs. Tiamat — Babylonian *Chaoskampf* |
 | [A12 — Norse Eddas](../A_Foundations/A12_Norse_Eddas.md) | Thor vs. Jörmungandr; Ragnarök |
-| [H06 — Serpent Demonization](../H_Suppression_and_Thesis/H06_Serpent_Demonization.md) | Storm-god myths as vehicle of serpent demonization |
+| [H06 — Serpent Demonization](../H_Suppression_and_Thesis/H06_Demonization_Timeline.md) | Storm-god myths as vehicle of serpent demonization |
 | [B01 — Reptilian Beings](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) | Serpent/dragon as the defeated enemy |
 | [C08 — Cross-Cultural Patterns](C08_Cross_Cultural_Patterns.md) | Storm-god as one of most distributed patterns |
-| [C58 — Hittite/Hurrian](C58_Hittite_Hurrian_Mythology.md) | Teshub/Illuyanka — bridge between Near Eastern and IE traditions |
+| [C58 — Hittite/Hurrian](C58_Hittite_Hurrian_Mythology_Kumarbi.md) | Teshub/Illuyanka — bridge between Near Eastern and IE traditions |
 | [C55 — Twin Mythology](C55_Twin_Mythology_Duality.md) | Storm-god vs. serpent as cosmic twin-adversary pattern |
 | [C42 — Minoan](C42_Minoan_Civilization_Bull_Cult.md) | Bull/storm contrast — Minoan vs. Indo-European religious interface |
 | [C44 — Scythian](C44_Scythian_Steppe_Nomad_Traditions.md) | Steppe origins of IE storm-god mythology |

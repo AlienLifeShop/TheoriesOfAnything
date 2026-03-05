@@ -173,15 +173,15 @@ The **caduceus** (Hermes's staff with two entwined serpents) and the **DNA doubl
 | Document | Connection |
 |----------|------------|
 | [A13 — Popol Vuh](../A_Foundations/A13_Popol_Vuh.md) | Hero Twins Hunahpu & Xbalanque — most detailed twin quest narrative |
-| [H05 — Two Faction Theory](../H_Suppression_and_Thesis/H05_Two_Faction_Theory.md) | Cosmic dualism as factional conflict |
-| [C19 — Zoroastrianism](C19_Zoroastrianism.md) | Ahura Mazda vs. Angra Mainyu — purest cosmic twin opposition |
-| [L07 — Serpent DNA Symbolism](../L_Genetics_Origins/L07_Serpent_DNA_Symbolism.md) | Twin serpents → caduceus → double helix parallel |
-| [C28 — Dying-and-Rising God](C28_Dying_Rising_God.md) | One twin's death as cosmic creation mechanism |
+| [H05 — Two Faction Theory](../H_Suppression_and_Thesis/H05_Two_Factions_Dynamic.md) | Cosmic dualism as factional conflict |
+| [C19 — Zoroastrianism](C19_Zoroastrianism_Demonization_Pivot.md) | Ahura Mazda vs. Angra Mainyu — purest cosmic twin opposition |
+| [L07 — Serpent DNA Symbolism](../L_Genetics_Origins/L07_Caduceus_Twin_Serpent_DNA.md) | Twin serpents → caduceus → double helix parallel |
+| [C28 — Dying-and-Rising God](C28_Dying_Rising_Deity_Pattern.md) | One twin's death as cosmic creation mechanism |
 | [C56 — Storm God Pattern](C56_Storm_God_Pattern.md) | Storm god vs. chaos serpent as twin-adversary pattern |
 | [C22 — Trickster Archetype](C22_Trickster_Archetype.md) | Trickster as the "disruptive twin" in many traditions |
 | [A20 — Rig Veda](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md) | Ashvins, Yama/Yami, Purusha sacrifice |
 | [K06 — Kundalini](../K_Consciousness/K06_Kundalini_Serpent_Energy.md) | Ida/Pingala as twin serpent energy channels |
-| [P13 — Computational Phylogenetics](../P_Philosophy_Meaning/P13_Computational_Phylogenetics_Myth.md) | PIE twin reconstruction as test case |
+| [P13 — Computational Phylogenetics](../P_Philosophy_Meaning/P13_Computational_Phylogenetics_Mythology.md) | PIE twin reconstruction as test case |
 
 ---
 

@@ -238,7 +238,7 @@ The Five Suns cycle parallels catastrophe narratives worldwide:
 | **4 Jaguar** (predator attack) | Primordial chaos before civilization |
 | **4 Movement** (earthquake) | Earthquakes as world-ending force; seismic apocalypse traditions |
 
-The Fourth Sun's destruction by flood is most directly parallel to the global flood tradition documented in [C02](../C_Global_Traditions/C02_Global_Flood_Stories.md) and [E14](../E_Cataclysms_and_Chronology/E14_Younger_Dryas_Impact_Theory.md). The overlap raises the question: do these traditions preserve memory of actual Younger Dryas or earlier catastrophic events, or do they reflect universal human anxieties about natural disaster?
+The Fourth Sun's destruction by flood is most directly parallel to the global flood tradition documented in [C02](../C_Global_Traditions/C02_Global_Flood_Stories.md) and [E14](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md). The overlap raises the question: do these traditions preserve memory of actual Younger Dryas or earlier catastrophic events, or do they reflect universal human anxieties about natural disaster?
 
 ### 7.2 Cyclical Time vs. Linear Time [2/5 sources]
 
@@ -283,7 +283,7 @@ The Hopi parallel is particularly striking — a neighboring Mesoamerican/Southw
 | [C35](../C_Global_Traditions/C35_Olmec_Civilization_Serpent_Jaguar.md) | Olmec predecessors — origins of Mesoamerican cosmology |
 | [A13](../A_Foundations/A13_Popol_Vuh.md) | Popol Vuh — parallel creation cycle narrative |
 | [C02](../C_Global_Traditions/C02_Global_Flood_Stories.md) | Global flood — Fourth Sun parallel |
-| [E14](../E_Cataclysms_and_Chronology/E14_Younger_Dryas_Impact_Theory.md) | Younger Dryas — possible historical basis |
+| [E14](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Younger Dryas — possible historical basis |
 | [C20](../C_Global_Traditions/C20_Seven_Level_Cosmology_Seven_Gates.md) | Multi-level cosmology — thirteen heavens / nine underworlds |
 | [C28](../C_Global_Traditions/C28_Dying_Rising_Deity_Pattern.md) | Dying-rising deity — divine self-sacrifice |
 | [C21](../C_Global_Traditions/C21_Venus_Morning_Star.md) | Venus — Tlahuizcalpantecuhtli connection |

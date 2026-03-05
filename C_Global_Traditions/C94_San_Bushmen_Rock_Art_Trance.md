@@ -3,7 +3,7 @@
 > **Document ID:** C94
 > **Section:** C_Global_Traditions
 > **Keywords:** San, Bushmen, Khoisan, rock art, trance dance, n/um, n|om, entoptic, Lewis-Williams, neuropsychological, Drakensberg, healing dance, rain animal, therianthrope, oldest culture, mitochondrial DNA, haplogroup L0
-> **Cross-References:** [K16](../K_Consciousness/K16_Entoptic_Phenomena.md) · [J08](../J_Ancient_Technology/J08_Sacred_Caves.md) · [C30](C30_Aboriginal_Dreamtime.md) · [K15](../K_Consciousness/K15_Shamanism.md) · [L04](../L_Genetics_Origins/L04_Mitochondrial_Eve.md) · [P17](../P_Philosophy_Meaning/P17_Art_Knowledge_Encoding.md)
+> **Cross-References:** [K16](../K_Consciousness/K16_Entoptic_Phenomena_Phosphene_Patterns.md) · [J08](../J_Ancient_Technology/J08_Sacred_Caves_Ritual_Technology.md) · [C30](C30_Australian_Aboriginal_Dreamtime.md) · [K15](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) · [L04](../L_Genetics_Origins/L04_Mitochondrial_Eve_Y_Adam.md) · [P17](../P_Philosophy_Meaning/P17_Art_as_Knowledge_Encoding.md)
 > **Reliability Tier:** Tier 1-2 (extensive archaeological record; neuropsychological model well-supported but debated; ethnographic documentation thorough)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 16 scholarly sources | **Confidence:** High
 
@@ -138,13 +138,13 @@ The San (Bushmen) of southern Africa represent what may be the oldest continuous
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K16](../K_Consciousness/K16_Entoptic_Phenomena.md) | Entoptic form constants in San rock art — neurological basis of universal imagery |
-| [J08](../J_Ancient_Technology/J08_Sacred_Caves.md) | Rock art sites as sacred spaces — cave as portal to spirit world |
-| [C30](C30_Aboriginal_Dreamtime.md) | Aboriginal Australian parallels — oldest continuous cultures, spirit threads |
-| [K15](../K_Consciousness/K15_Shamanism.md) | San trance dance as possibly the oldest documented shamanic practice |
-| [L04](../L_Genetics_Origins/L04_Mitochondrial_Eve.md) | Haplogroup L0 — San as deepest branch of human maternal lineage |
-| [P17](../P_Philosophy_Meaning/P17_Art_Knowledge_Encoding.md) | Rock art as encoded spiritual knowledge rather than decorative art |
-| [K11](../K_Consciousness/K11_Kundalini.md) | N/um rising up spine — structural parallel to kundalini energy |
+| [K16](../K_Consciousness/K16_Entoptic_Phenomena_Phosphene_Patterns.md) | Entoptic form constants in San rock art — neurological basis of universal imagery |
+| [J08](../J_Ancient_Technology/J08_Sacred_Caves_Ritual_Technology.md) | Rock art sites as sacred spaces — cave as portal to spirit world |
+| [C30](C30_Australian_Aboriginal_Dreamtime.md) | Aboriginal Australian parallels — oldest continuous cultures, spirit threads |
+| [K15](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | San trance dance as possibly the oldest documented shamanic practice |
+| [L04](../L_Genetics_Origins/L04_Mitochondrial_Eve_Y_Adam.md) | Haplogroup L0 — San as deepest branch of human maternal lineage |
+| [P17](../P_Philosophy_Meaning/P17_Art_as_Knowledge_Encoding.md) | Rock art as encoded spiritual knowledge rather than decorative art |
+| [K11](../K_Consciousness/K06_Kundalini_Serpent_Energy.md) | N/um rising up spine — structural parallel to kundalini energy |
 
 ---
 

@@ -536,15 +536,17 @@ Some scholars (e.g., Sheldon Pollock, *The Language of the Gods in the World of 
 
 ## Bibliography
 
-- Coe. *Angkor and the Khmer Civilization*. 2003.
-- Frey. *The Kris: Mystic Weapon of the Malay World*. 2003.
-- Geertz. *The Religion of Java*. 1960.
-- Jocano. *Outline of Philippine Mythology*. 1969.
-- Lansing. *Perfect Order: Recognizing Complexity in Bali*. 2006.
-- Pollock. *The Language of the Gods in the World of Men*. 2006.
-- Scott. *Barangay: Sixteenth-Century Philippine Culture and Society*. 1994.
-- Solyom & Solyom. *The World of the Javanese Keris*. 1978.
-- Stadtner. *Sacred Sites of Burma: Myth and Folklore in an Evolving Spiritual Realm*. 2011.
-- Taylor. *The Birth of Vietnam*. 1983.
-- Tobing. *The Structure of the Toba-Batak Belief in the High God*. 1956.
-- Warneck. *Die Religion der Batak*. 1909.
+1. Coedès, George. *The Indianized States of Southeast Asia*. Trans. Susan Brown Cowing. University of Hawaii Press, 1968.
+2. Coe, Michael D. *Angkor and the Khmer Civilization*. Thames & Hudson, 2003.
+3. Geertz, Clifford. *The Religion of Java*. Free Press, 1960.
+4. Gonda, Jan. *The Indian Religions in Pre-Islamic Indonesia and Their Survival in Bali*. Indologica Taurinensia, 1975.
+5. Taylor, Keith Weller. *The Birth of Vietnam*. University of California Press, 1983.
+6. Lansing, J. Stephen. *Perfect Order: Recognizing Complexity in Bali*. Princeton University Press, 2006.
+7. Pollock, Sheldon. *The Language of the Gods in the World of Men*. University of California Press, 2006.
+8. Stadtner, Donald M. *Sacred Sites of Burma: Myth and Folklore in an Evolving Spiritual Realm*. River Books, 2011.
+9. Jocano, F. Landa. *Outline of Philippine Mythology*. Centro Escolar University, 1969.
+10. Scott, William Henry. *Barangay: Sixteenth-Century Philippine Culture and Society*. Ateneo de Manila University Press, 1994.
+11. Frey, Edward. *The Kris: Mystic Weapon of the Malay World*. Oxford University Press, 2003.
+12. Solyom, Garrett & Solyom, Bronwen. *The World of the Javanese Keris*. University of Hawaii Press, 1978.
+13. Tobing, P.O.L. *The Structure of the Toba-Batak Belief in the High God*. Cellar Book Shop, 1956.
+14. Warneck, J. *Die Religion der Batak*. Göttingen, 1909.

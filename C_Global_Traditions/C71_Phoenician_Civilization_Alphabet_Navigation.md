@@ -168,10 +168,10 @@ The **Phoenicians** — coastal Canaanites inhabiting a narrow strip of the east
 
 | Document | Connection |
 |----------|------------|
-| [D20 — Ancient Writing Systems](../D_Sites_and_Artifacts/D20_Ancient_Writing_Systems.md) | Phoenician alphabet in context of writing evolution |
-| [F05 — Trans-Oceanic Contact](../F_Lost_Connections/F05_Trans_Oceanic_Contact_Theories.md) | Phoenician exploration and contact claims |
-| [F02 — Ancient Navigation](../F_Lost_Connections/F02_Ancient_Maritime_Navigation.md) | Phoenician maritime technology |
-| [F03 — Trade Routes](../F_Lost_Connections/F03_Ancient_Trade_Routes.md) | Phoenician Mediterranean trade network |
+| [D20 — Ancient Writing Systems](../D_Sites_and_Artifacts/D20_Ancient_Writing_Systems_Compared.md) | Phoenician alphabet in context of writing evolution |
+| [F05 — Trans-Oceanic Contact](../F_Lost_Connections/F05_Ancient_Maritime_Technology.md) | Phoenician exploration and contact claims |
+| [F02 — Ancient Navigation](../F_Lost_Connections/F05_Ancient_Maritime_Technology.md) | Phoenician maritime technology |
+| [F03 — Trade Routes](../F_Lost_Connections/F03_Bronze_Age_Trade_Networks.md) | Phoenician Mediterranean trade network |
 | [A17 — Ugaritic Literature](../A_Foundations/A17_Ugaritic_Literature_Baal_Cycle.md) | Canaanite religious context for Phoenician religion |
 | [A02 — Bible Serpent References](../A_Foundations/A02_Bible_Serpent_References.md) | Biblical references to Tyre, Sidon; Molech worship |
 | [B04 — Solomon and Hiram](../B_Beings_and_Entities/B04_Solomon_and_the_Jinn.md) | Solomon-Hiram alliance; Temple construction |
@@ -191,7 +191,7 @@ The **Phoenicians** — coastal Canaanites inhabiting a narrow strip of the east
 8. Woolmer, M. (2017). *A Short History of the Phoenicians*. I.B. Tauris.
 9. Sass, B. (2005). *The Alphabet at the Turn of the Millennium*. Institute of Archaeology, Tel Aviv University.
 10. Lancel, S. (1995). *Carthage: A History*. Blackwell.
-11. Herodotus. *Histories*, Book 4.42 (Circumnavigation account). [Various modern translations]
+11. Herodotus. *Histories*, Book 4.42 (Circumnavigation account). c. 440 BCE. [Various modern translations]
 
 ---
 

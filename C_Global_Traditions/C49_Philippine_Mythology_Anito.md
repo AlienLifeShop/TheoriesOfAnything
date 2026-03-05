@@ -183,14 +183,14 @@ Transcribed by **F. Landa Jocano** (1960s–1970s) from the chanting of **Ulang 
 
 | Document | Connection |
 |----------|------------|
-| [C37 — Easter Island](C37_Easter_Island_Rapa_Nui.md) | Austronesian expansion; Polynesian connections |
+| [C37 — Easter Island](C37_Maya_Epigraphy_Astronomy.md) | Austronesian expansion; Polynesian connections |
 | [C46 — Siberian Shamanism](C46_Siberian_Shamanism_Origin.md) | Shamanic initiation parallels; spirit medium traditions |
-| [C32 — Aboriginal Dreamtime](C32_Aboriginal_Dreamtime_Cosmology.md) | Animist ontology; ancestral landscape |
+| [C32 — Aboriginal Dreamtime](C32_Daoism_Chinese_Alchemy.md) | Animist ontology; ancestral landscape |
 | [C47 — Māori Mythology](C47_Maori_Mythology_Whakapapa.md) | Polynesian cousin traditions; Austronesian links |
 | [B13 — Fairy Traditions](../B_Beings_and_Entities/B13_Fairy_Fae_Hidden_People.md) | Engkanto, duwende — hidden people parallels |
-| [P11 — Panpsychism/Animism](../P_Philosophy_Meaning/P11_Panpsychism_Animism_Comparison.md) | Animist ontology; all things have spirit |
+| [P11 — Panpsychism/Animism](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) | Animist ontology; all things have spirit |
 | [H07 — Indigenous Suppression](../H_Suppression_and_Thesis/H07_Indigenous_Knowledge_Suppression.md) | Spanish colonial destruction of babaylan tradition |
-| [K15 — Altered States](../K_Consciousness/K15_Altered_States_Consciousness.md) | Babaylan trance and spirit possession |
+| [K15 — Altered States](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Babaylan trance and spirit possession |
 
 ---
 

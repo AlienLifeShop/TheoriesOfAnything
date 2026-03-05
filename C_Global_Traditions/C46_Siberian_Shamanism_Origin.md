@@ -209,7 +209,7 @@ Tuva preserves a unique connection between **throat singing (khoomei)** and sham
 | Claim | Supporting Evidence | Counter-Evidence | Assessment |
 |-------|-------------------|------------------|------------|
 | Siberian shamanism is the "original" form of all religion | Antiquity of practice; the word itself comes from here; circumpolar distribution | Shamanism-like practices arise independently worldwide; "original religion" is unfalsifiable | **Tier 2** — Siberia is the etymological source but not necessarily the historical origin |
-| Shamanic trance is a genuine altered state | EEG studies show theta shift; consistent cross-cultural phenomenology | Skeptics argue "role-playing" or cultural performance; placebo effects | **Tier 1–2** — neurological correlates confirmed; "genuine" is definitionally complex |
+| Shamanic trance is a genuine altered state | EEG studies (Flor-Henry et al., 2017) show theta shift; consistent cross-cultural phenomenology | Skeptics argue "role-playing" or cultural performance; placebo effects | **Tier 1–2** — neurological correlates confirmed; "genuine" is definitionally complex |
 | Soviet persecution destroyed authentic shamanism | Last traditional shamans killed/imprisoned; oral lineages broken | Some traditions survived in hiding; elderly practitioners emerged post-1990 | **Tier 1** — severe damage documented, but not total elimination |
 | Modern Siberian shamanism is authentic continuation | Post-1990 revival draws on ethnographic records and surviving elders | Tourism, New Age imports, reinvention inevitable after 70-year suppression gap | **Tier 2** — mixed authentic/reconstructed |
 | Shamanic crisis = psychotic break | Similar symptoms (hallucinations, dissociation, bizarre behavior) | Resolution is functional (shaman becomes healer), not chronic; cultural context channels the experience | **Tier 2** — overlap in presentation, divergent in outcome |
@@ -220,16 +220,16 @@ Tuva preserves a unique connection between **throat singing (khoomei)** and sham
 
 | Document | Connection |
 |----------|------------|
-| [K15 — Shamanism & Consciousness](../K_Consciousness/K15_Shamanism_Consciousness.md) | Core consciousness mechanisms of trance and ecstasy |
+| [K15 — Shamanism & Consciousness](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Core consciousness mechanisms of trance and ecstasy |
 | [C45 — Mongol Tengrism](C45_Mongol_Tengrism_Central_Asian.md) | Southern branch of same shamanic tradition |
 | [C48 — Inuit Cosmology](C48_Inuit_Arctic_Cosmology.md) | Circumpolar shamanic continuum across Bering Strait |
 | [C44 — Scythian](C44_Scythian_Steppe_Nomad_Traditions.md) | Ancient steppe predecessors, Pazyryk cannabis rituals |
-| [G05 — Entheogens](../G_Modern_Frameworks/G05_Shamanism_Entheogens_Modern_Research.md) | Amanita muscaria and psychoactive plant use in Siberia |
-| [N06 — Pipeline](../N_Secret_Societies/N06_Pipeline_Shamanism_Organized_Religion.md) | Shamanism → organized religion transition |
+| [G05 — Entheogens](../G_Modern_Frameworks/G05_Shamanism_Entheogens_Serpent_Visions.md) | Amanita muscaria and psychoactive plant use in Siberia |
+| [N06 — Pipeline](../N_Secret_Societies/N06_Shamanic_Institutional_Pipeline.md) | Shamanism → organized religion transition |
 | [C53 — Sacred Trees / Axis Mundi](C53_Sacred_Trees_Axis_Mundi.md) | World Tree as central shamanic cosmological structure |
-| [C60 — Sami Shamanism](C60_Sami_Circumpolar_Traditions.md) | Western branch of circumpolar shamanic tradition |
+| [C60 — Sami Shamanism](C60_Dreamtime_Songlines_Aboriginal_Navigation.md) | Western branch of circumpolar shamanic tradition |
 | [B16 — Shape-Shifting](../B_Beings_and_Entities/B16_Shape_Shifting_Therianthropy.md) | Animal transformation in shamanic context |
-| [J06 — Sound and Creation](../J_Ancient_Technology/J06_Sound_Creation.md) | Throat singing, overtone series, sonic consciousness alteration |
+| [J06 — Sound and Creation](../J_Ancient_Technology/J06_Sound_Vibration_Creation.md) | Throat singing, overtone series, sonic consciousness alteration |
 
 ---
 

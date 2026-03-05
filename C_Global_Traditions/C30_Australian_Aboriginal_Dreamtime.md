@@ -440,4 +440,17 @@ If this multi-valent interpretation existed 10,000+ years ago in isolated Aborig
 
 ## Bibliography
 
-- Grauer. *Sounding the Depths*. 2015.
+1. Clarkson, Chris et al. "Human Occupation of Northern Australia by 65,000 Years Ago." *Nature* 547 (2017): 306–310.
+2. Stanner, W.E.H. *After the Dreaming*. ABC Boyer Lectures, 1969.
+3. Spencer, Baldwin & Gillen, F.J. *The Native Tribes of Central Australia*. Macmillan, 1899.
+4. Elkin, A.P. *Aboriginal Men of High Degree*. Australasian Publishing, 1945.
+5. Rose, Deborah Bird. *Dingo Makes Us Human: Life and Land in an Aboriginal Australian Culture*. Cambridge University Press, 1992.
+6. Berndt, Ronald M. & Berndt, Catherine H. *The World of the First Australians*. Ure Smith, 1964.
+7. Nunn, Patrick D. & Reid, Nicholas J. "Aboriginal Memories of Inundation of the Australian Coast Dating from More Than 7000 Years Ago." *Australian Geographer* 47.1 (2016): 11–47.
+8. Nunn, Patrick. *The Edge of Memory: Ancient Stories, Oral Tradition and the Post-Glacial World*. Bloomsbury, 2018.
+9. Chatwin, Bruce. *The Songlines*. Jonathan Cape, 1987.
+10. Kelly, Lynne. *The Memory Code*. Allen & Unwin, 2016.
+11. Chaloupka, George. *Journey in Time: The World's Longest Continuing Art Tradition*. Reed, 1993.
+12. Hamacher, Duane W. *The First Astronomers: How Indigenous Elders Read the Stars*. Allen & Unwin, 2022.
+13. Lewis-Williams, David & Dowson, Thomas. "The Signs of All Times: Entoptic Phenomena in Upper Palaeolithic Art." *Current Anthropology* 29.2 (1988): 201–245.
+14. Grauer, Victor. *Sounding the Depths: Tradition and the Voices of History*. CreateSpace, 2015.

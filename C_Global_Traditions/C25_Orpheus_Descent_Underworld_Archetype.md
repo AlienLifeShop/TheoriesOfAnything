@@ -539,5 +539,12 @@ These are extensively studied, multiply attested texts. The existence and conten
 
 ## Bibliography
 
-- Campbell. *The Hero with a Thousand Faces*. 1949.
-- Eliade. *Shamanism: Archaic Techniques of Ecstasy*. 1951.
+1. Campbell, Joseph. *The Hero with a Thousand Faces*. Pantheon, 1949.
+2. Eliade, Mircea. *Shamanism: Archaic Techniques of Ecstasy*. Trans. Willard R. Trask. Princeton University Press, 1964 (orig. 1951).
+3. Kramer, Samuel Noah. *Inanna, Queen of Heaven and Earth: Her Stories and Hymns from Sumer*. Harper & Row, 1983.
+4. Dalley, Stephanie. *Myths from Mesopotamia*. Oxford World's Classics, 1989.
+5. Foster, Benjamin R. *Before the Muses: An Anthology of Akkadian Literature*. CDL Press, 1993.
+6. Faulkner, Raymond O. (trans.). *The Ancient Egyptian Book of the Dead*. British Museum Publications, 1985.
+7. Hornung, Erik. *The Egyptian Amduat: The Book of the Hidden Chamber*. Living Human Heritage Publications, 2007.
+8. Tedlock, Dennis (trans.). *Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life*. Simon & Schuster, 1985.
+9. Sturluson, Snorri. *Prose Edda* (Gylfaginning). c. 1220 CE. Trans. Anthony Faulkes, Everyman, 1987.

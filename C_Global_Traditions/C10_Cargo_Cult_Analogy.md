@@ -415,4 +415,12 @@ If the cargo cult analogy holds, then:
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Worsley, Peter. *The Trumpet Shall Sound: A Study of "Cargo" Cults in Melanesia*. MacGibbon & Kee, 1957.
+2. Lindstrom, Lamont. *Cargo Cult: Strange Stories of Desire from Melanesia and Beyond*. University of Hawaii Press, 1993.
+3. Burridge, Kenelm. *Mambu: A Melanesian Millennium*. Methuen, 1960.
+4. Williams, F.E. *The Vailala Madness and the Destruction of Native Ceremonies in the Gulf Division*. Territory of Papua Anthropology Report 4, 1923.
+5. Harris, Marvin. *Cows, Pigs, Wars, and Witches: The Riddles of Culture*. Random House, 1974.
+6. Feynman, Richard P. "Cargo Cult Science." Caltech commencement address, 1974.
+7. Rice, Edward. *John Frum He Come: A Polemical Work About a Black Tragedy*. Doubleday, 1974.
+8. Hancock, Graham. *Fingerprints of the Gods*. Crown, 1995.
+9. Hancock, Graham. *Magicians of the Gods*. Coronet, 2015.

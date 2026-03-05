@@ -167,14 +167,14 @@ The **Great Plains** of North America — stretching from the Canadian prairies 
 
 | Document | Connection |
 |----------|------------|
-| [K15 — Shamanism](../K_Consciousness/K15_Shamanism_Global_Tradition.md) | Plains shamanism within global shamanic tradition |
-| [C13 — North American Indigenous](../C_Global_Traditions/C13_North_American_Indigenous.md) | Broader North American indigenous context |
-| [D06 — Ancient Astronomy](../D_Sites_and_Artifacts/D06_Ancient_Astronomy_Alignments.md) | Medicine Wheel alignments and star observation |
-| [B12 — Animal Symbolism](../B_Beings_and_Entities/B12_Animal_Symbolism_Sacred_Creatures.md) | Buffalo, eagle, bear symbolism in Plains culture |
+| [K15 — Shamanism](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Plains shamanism within global shamanic tradition |
+| [C13 — North American Indigenous](../C_Global_Traditions/C68_Native_American_Great_Plains_Vision_Quest.md) | Broader North American indigenous context |
+| [D06 — Ancient Astronomy](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Medicine Wheel alignments and star observation |
+| [B12 — Animal Symbolism](../B_Beings_and_Entities/B12_Animal_Symbolism_Beyond_Serpents.md) | Buffalo, eagle, bear symbolism in Plains culture |
 | [H07 — Indigenous Knowledge Suppression](../H_Suppression_and_Thesis/H07_Indigenous_Knowledge_Suppression.md) | Sun Dance ban; boarding schools; cultural genocide |
-| [K02 — Meditation and Consciousness](../K_Consciousness/K02_Meditation_Prayer_Consciousness.md) | Vision quest as consciousness technology |
+| [K02 — Meditation and Consciousness](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Vision quest as consciousness technology |
 | [C67 — Amazonian Traditions](C67_Amazonian_Traditions_Plant_Teachers.md) | Comparative indigenous plant/vision traditions |
-| [C53 — Axis Mundi](C53_Axis_Mundi_World_Tree_Cosmic_Pillar.md) | Sun Dance center pole as axis mundi |
+| [C53 — Axis Mundi](C53_Sacred_Trees_Axis_Mundi.md) | Sun Dance center pole as axis mundi |
 
 ---
 

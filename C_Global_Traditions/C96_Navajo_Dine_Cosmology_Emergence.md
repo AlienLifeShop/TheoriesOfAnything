@@ -3,7 +3,7 @@
 > **Document ID:** C96
 > **Section:** C_Global_Traditions
 > **Keywords:** Navajo, Diné, emergence mythology, Changing Woman, Hero Twins, Monster Slayer, Born for Water, hózhó, Night Chant, sand painting, Diné Bahane', four worlds, First Man, First Woman, Beautyway
-> **Cross-References:** [C04](C04_Viracocha_South_American_Knowledge_Givers.md) · [C97](C97_Cherokee_Cosmology_Great_Buzzard.md) · [C15](C15_Yoruba_Ogun_Divine_Smiths.md) · [B15](../B_Beings_and_Entities/B15_Psychopomp_Entities.md) · [C68](C68_Native_American_Great_Plains_Vision_Quest.md) · [C74](C74_Pueblo_Hopi_Ancestral_Puebloan.md)
+> **Cross-References:** [C04](C04_Viracocha_South_American_Knowledge_Givers.md) · [C97](C97_Cherokee_Cosmology_Great_Buzzard.md) · [C15](C15_Yoruba_Ogun_Divine_Smiths.md) · [B15](../B_Beings_and_Entities/B15_Psychopomp_Traditions_Guides_Dead.md) · [C68](C68_Native_American_Great_Plains_Vision_Quest.md) · [C74](C74_Pueblo_Hopi_Ancestral_Puebloan.md)
 > **Reliability Tier:** Tier 1-2 (ethnographic documentation extensive from 1890s onward; ceremonial knowledge partially restricted by Diné cultural protocols; archaeological context well-established)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High
 
@@ -175,7 +175,7 @@ Navajo (Diné) cosmology is structured around a multi-world emergence narrative 
 | [C97 — Cherokee Cosmology](C97_Cherokee_Cosmology_Great_Buzzard.md) | Parallel Southeastern/Southwestern emergence narratives; horned serpent motifs |
 | [C74 — Pueblo / Hopi / Ancestral Puebloan](C74_Pueblo_Hopi_Ancestral_Puebloan.md) | Shared emergence mythology; ceremonial borrowing after 1680 Pueblo Revolt |
 | [C68 — Native American Great Plains Vision Quest](C68_Native_American_Great_Plains_Vision_Quest.md) | Comparative Indigenous spiritual practice; warrior initiation parallels |
-| [B15 — Psychopomp Entities](../B_Beings_and_Entities/B15_Psychopomp_Entities.md) | Holy People as guides between worlds; emergence as psychopomp journey |
+| [B15 — Psychopomp Entities](../B_Beings_and_Entities/B15_Psychopomp_Traditions_Guides_Dead.md) | Holy People as guides between worlds; emergence as psychopomp journey |
 | [C15 — Yoruba / Ogun Divine Smiths](C15_Yoruba_Ogun_Divine_Smiths.md) | Cross-cultural star being traditions; divine craftsman archetypes |
 | [C55 — Twin Mythology / Duality](C55_Twin_Mythology_Duality.md) | Hero Twins as exemplary twin-hero narrative |
 

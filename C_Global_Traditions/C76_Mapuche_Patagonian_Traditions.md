@@ -3,7 +3,7 @@
 > **Document ID:** C76
 > **Section:** C_Global_Traditions
 > **Keywords:** Mapuche, Araucanians, Patagonia, Pillan, Ngünechen, Wekufe, Machi, Treng Treng Kai Kai, serpent flood myth, Chile, Argentina, indigenous resistance, Arauco, seven-level universe, rewe, kultrun
-> **Cross-References:** [C04 — Viracocha](C04_Viracocha.md) · [C41 — Andean Civilizations](C41_Andean_Civilizations.md) · [C56 — Storm God Pattern](C56_Storm_God_Pattern.md) · [E04 — Flood Myths](../E_Cataclysms_and_Chronology/E04_Flood_Myths.md) · [K15 — Shamanism](../K_Consciousness/K15_Shamanism.md)
+> **Cross-References:** [C04 — Viracocha](C04_Viracocha_South_American_Knowledge_Givers.md) · [C41 — Andean Civilizations](C41_Andean_Civilizations.md) · [C56 — Storm God Pattern](C56_Storm_God_Pattern.md) · [E04 — Flood Myths](../C_Global_Traditions/C02_Global_Flood_Stories.md) · [K15 — Shamanism](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md)
 > **Reliability Tier:** Tier 1-3 (ethnohistorical record strong from 16th century; precontact archaeology limited; cosmological claims from oral tradition)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 14 scholarly sources | **Confidence:** Medium-High
 

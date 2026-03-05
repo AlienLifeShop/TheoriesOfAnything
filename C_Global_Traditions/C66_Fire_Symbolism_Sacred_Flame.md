@@ -131,16 +131,16 @@ Across cultures, **perpetual fires** maintained without interruption carry profo
 
 | Document | Connection |
 |----------|------------|
-| [C06 — Hindu Traditions](C06_Hindu_Vedic_Traditions.md) | Agni; yajna fire sacrifice |
-| [C13 — North American Indigenous](C13_North_American_Indigenous.md) | Fire theft myths (Coyote, Raven) |
+| [C06 — Hindu Traditions](C06_Indonesian_Naga_SE_Asian_Traditions.md) | Agni; yajna fire sacrifice |
+| [C13 — North American Indigenous](C13_Indigenous_Knowledge_Systems.md) | Fire theft myths (Coyote, Raven) |
 | [A08 — Hermetic Tradition](../A_Foundations/A08_Hermetic_Tradition.md) | Promethean fire in Hermetic-alchemical tradition |
 | [K22 — Anomalous Abilities](../K_Consciousness/K22_Anomalous_Human_Abilities_Siddhis.md) | Firewalking |
 | [C63 — Initiation Rites](C63_Initiation_Rites_Coming_of_Age.md) | Fire in initiation ordeals |
-| [C53 — Axis Mundi](C53_Axis_Mundi_World_Tree_Cosmic_Pillar.md) | Fire/smoke as vertical axis to heaven |
+| [C53 — Axis Mundi](C53_Sacred_Trees_Axis_Mundi.md) | Fire/smoke as vertical axis to heaven |
 | [A12 — Norse Eddas](../A_Foundations/A12_Norse_Eddas.md) | Muspelheim (fire realm); Ragnarök fire |
 | [A04 — Book of Enoch](../A_Foundations/A04_Book_of_Enoch_and_Watchers.md) | Forbidden knowledge motif parallel to fire theft |
-| [C34 — Paleolithic Religion](C34_Paleolithic_Religion_Cave_Art.md) | Aboriginal fire management; earliest fire use |
-| [R06 — Human Evolution](../R_Biology_Evolution/R06_Human_Evolution_Speciation.md) | Cooking hypothesis and brain evolution |
+| [C34 — Paleolithic Religion](C34_Celtic_Druidic_Traditions.md) | Aboriginal fire management; earliest fire use |
+| [R06 — Human Evolution](../R_Biology_Evolution/R06_Gaia_Theory.md) | Cooking hypothesis and brain evolution |
 
 ---
 

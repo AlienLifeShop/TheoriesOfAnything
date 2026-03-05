@@ -209,13 +209,13 @@ One of archaeology's most politically charged questions:
 | Document | Connection |
 |----------|------------|
 | [F03 — Bronze Age Trade](../F_Lost_Connections/F03_Bronze_Age_Trade_Networks.md) | Meluhha-Dilmun-Mesopotamia trade networks |
-| [D20 — Writing Systems](../D_Sites_and_Artifacts/D20_Ancient_Writing_Systems.md) | Indus script in comparative context |
-| [C11 — Indian Naga Traditions](C11_Indian_Naga_Traditions.md) | Proto-Shiva / Pashupati → later Hindu continuity |
-| [D05 — Megalithic Engineering](../D_Sites_and_Artifacts/D05_Megalithic_Engineering.md) | Urban planning precision, standardized construction |
+| [D20 — Writing Systems](../D_Sites_and_Artifacts/D20_Ancient_Writing_Systems_Compared.md) | Indus script in comparative context |
+| [C11 — Indian Naga Traditions](C11_India_Naga_Traditions.md) | Proto-Shiva / Pashupati → later Hindu continuity |
+| [D05 — Megalithic Engineering](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Urban planning precision, standardized construction |
 | [A20 — Rig Veda](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md) | Aryan migration timing, Vedic-Harappan relationship |
-| [L02 — Ancient DNA](../L_Genetics_Origins/L02_Ancient_DNA_Migration.md) | Rakhigarhi aDNA — steppe ancestry absent in Harappans |
-| [M03 — Impossible Precision](../M_Forbidden_Archaeology/M03_Impossible_Precision.md) | Standardized weights, measurements, brick ratios |
-| [E05 — Ancient Chronology](../E_Cataclysms_and_Chronology/E05_Ancient_Chronology_Debates.md) | 4.2 kiloyear event, Bronze Age dating |
+| [L02 — Ancient DNA](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Rakhigarhi aDNA — steppe ancestry absent in Harappans |
+| [M03 — Impossible Precision](../M_Forbidden_Archaeology/M03_Impossible_Precision_Ancient.md) | Standardized weights, measurements, brick ratios |
+| [E05 — Ancient Chronology](../E_Cataclysms_and_Chronology/E05_Radiocarbon_Calibration.md) | 4.2 kiloyear event, Bronze Age dating |
 
 ---
 

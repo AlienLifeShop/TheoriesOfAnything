@@ -3,7 +3,7 @@
 > **Document ID:** C95
 > **Section:** C_Global_Traditions
 > **Keywords:** Hawaiian mythology, Pele, Maui, Kanaloa, Tangaroa, kapu, Kumulipo, kahuna, huna, mana, luakini heiau, Polynesian, genealogical cosmos, creation chant, Hawaiian religion
-> **Cross-References:** [C38](C38_Polynesian_Navigation_Rapa_Nui.md) · [C70](C70_Sacred_Mountains_Cosmic_Mountain.md) · [C07](C07_Pacific_Island_Traditions.md) · [D35](../D_Sites_and_Artifacts/D35_Megalithic_Temples.md) · [C47](C47_Maori_Mythology_Whakapapa.md) · [C17](C17_Sacred_Kingship_Divine_Rulership.md)
+> **Cross-References:** [C38](C38_Polynesian_Navigation_Rapa_Nui.md) · [C70](C70_Sacred_Mountains_Cosmic_Mountain.md) · [C07](C07_Pacific_Island_Traditions.md) · [D35](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [C47](C47_Maori_Mythology_Whakapapa.md) · [C17](C17_Sacred_Kingship_Divine_Rulership.md)
 > **Reliability Tier:** Tier 1-2 (strong ethnographic record from 18th-19th century documentation; archaeological record of temple complexes well-established; kahuna traditions partially obscured by Christianization)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High
 
@@ -171,7 +171,7 @@ Hawaiian mythology represents one of the most elaborately preserved Polynesian c
 | [C38 — Polynesian Navigation & Rapa Nui](C38_Polynesian_Navigation_Rapa_Nui.md) | Shared Polynesian voyaging heritage; Kanaloa/Tangaroa as ocean deity |
 | [C70 — Sacred Mountains / Cosmic Mountain](C70_Sacred_Mountains_Cosmic_Mountain.md) | Mauna Kea as axis mundi; Haleakalā as Maui's solar observatory |
 | [C07 — Pacific Island Traditions](C07_Pacific_Island_Traditions.md) | Broader Oceanic mythological parallels; oral tradition networks |
-| [D35 — Megalithic Temples](../D_Sites_and_Artifacts/D35_Megalithic_Temples.md) | Luakini heiau monumental stone construction |
+| [D35 — Megalithic Temples](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Luakini heiau monumental stone construction |
 | [C47 — Maori Mythology & Whakapapa](C47_Maori_Mythology_Whakapapa.md) | Cognate deities (Tangaroa/Kanaloa, Tāne/Kāne); parallel genealogical cosmos |
 | [C17 — Sacred Kingship](C17_Sacred_Kingship_Divine_Rulership.md) | Divine aliʻi lineage; kapu system as sacred governance |
 | [C22 — Trickster Archetype](C22_Trickster_Archetype.md) | Maui as pan-Polynesian trickster-hero |

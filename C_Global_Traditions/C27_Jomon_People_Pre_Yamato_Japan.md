@@ -538,4 +538,11 @@ From a project perspective (F03, F07), the Jōmon → Yayoi transition represent
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Habu, Junko. *Ancient Jōmon of Japan*. Cambridge University Press, 2004.
+2. Kobayashi, Tatsuo. *Jōmon Reflections: Forager Life and Culture in the Prehistoric Japanese Archipelago*. Oxbow Books, 2004.
+3. Imamura, Keiji. *Prehistoric Japan: New Perspectives on Insular East Asia*. University of Hawaii Press, 1996.
+4. Kaner, Simon (ed.). *The Power of Dogu: Ceramic Figures from Ancient Japan*. British Museum Press, 2009.
+5. Craig, Oliver E. et al. "Earliest Evidence for the Use of Pottery." *Nature* 496 (2013): 351–354.
+6. Kanzawa-Kiriyama, Hideaki et al. "A Partial Nuclear Genome of the Jomons Who Lived 3000 Years Ago in Fukushima, Japan." *Journal of Human Genetics* 62 (2017): 213–221.
+7. Cooke, Niall P. et al. "Ancient Genomics Reveals Tripartite Origins of Japanese Populations." *Science Advances* 7.38 (2021).
+8. Morse, Edward S. "Shell Mounds of Omori." *Memoirs of the Science Department, University of Tokio* 1.1 (1879).

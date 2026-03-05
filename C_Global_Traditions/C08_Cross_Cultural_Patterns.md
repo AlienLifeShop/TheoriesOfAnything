@@ -447,3 +447,11 @@ Based on the cross-cultural analysis, the following narrative is supported by th
 
 *Consolidated from Claude, Gemini, GPT5.2, Master, and Raptor research folders*
 *Last Updated: February 9, 2026*
+
+## Bibliography
+
+1. Campbell, Joseph, "The Hero with a Thousand Faces" (Pantheon Books, 1949)
+2. Eliade, Mircea, "The Myth of the Eternal Return" (Pantheon Books, 1954)
+3. Levi-Strauss, Claude, "Structural Anthropology" (Basic Books, 1963)
+4. Witzel, E.J. Michael, "The Origins of the World's Mythologies" (Oxford University Press, 2012)
+5. Csapo, Eric, "Theories of Mythology" (Blackwell, 2005)

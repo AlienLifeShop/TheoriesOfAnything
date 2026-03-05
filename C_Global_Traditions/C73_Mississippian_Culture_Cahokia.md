@@ -3,7 +3,7 @@
 > **Document ID:** C73
 > **Section:** C_Global_Traditions
 > **Keywords:** Cahokia, Mississippian culture, mound builders, Monks Mound, Southeastern Ceremonial Complex, SECC, Woodhenge, Birdman, chunkey, platform mounds, Black Drink, pre-Columbian, North America
-> **Cross-References:** [M08 — Forbidden Archaeology of the Americas](../M_Forbidden_Archaeology/M08_Forbidden_Archaeology_Americas.md) · [D06 — Serpent Mound](../D_Sites_and_Artifacts/D06_Serpent_Mound.md) · [D11 — Pyramid Catalog](../D_Sites_and_Artifacts/D11_Pyramid_Catalog.md) · [D19 — Archaeoastronomy](../D_Sites_and_Artifacts/D19_Archaeoastronomy.md) · [C68 — Native American Traditions](C68_Native_American_Traditions.md)
+> **Cross-References:** [M08 — Forbidden Archaeology of the Americas](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) · [D06 — Serpent Mound](../D_Sites_and_Artifacts/D06_Serpent_Mound_Effigy_Mounds.md) · [D11 — Pyramid Catalog](../D_Sites_and_Artifacts/D11_Complete_Pyramid_Catalog.md) · [D19 — Archaeoastronomy](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [C68 — Native American Traditions](C68_Native_American_Great_Plains_Vision_Quest.md)
 > **Reliability Tier:** Tier 1-2 (extensive archaeological record; some interpretive debate on political organization and decline)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** High
 

@@ -3,7 +3,7 @@
 > **Document ID:** C93
 > **Section:** C_Global_Traditions
 > **Keywords:** Madagascar, Malagasy, Austronesian, Famadihana, Razana, fady, taboo, ancestor worship, vintana, Borneo, Bantu, dual-origin, aye-aye, lemur, African-Asian fusion
-> **Cross-References:** [C40](C40_Bantu_Migration.md) · [C38](C38_Polynesian.md) · [C65](C65_Death_Rituals.md) · [P07](../P_Philosophy_Meaning/P07_Death_Afterlife.md)
+> **Cross-References:** [C40](C40_Bantu_Cosmology_Migration_Iron.md) · [C38](C38_Polynesian_Navigation_Rapa_Nui.md) · [C65](C65_Death_Rituals_Funerary_Architecture.md) · [P07](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md)
 > **Reliability Tier:** Tier 1-2 (linguistic and genetic evidence strong; ethnographic documentation extensive; prehistoric settlement timing debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 14 scholarly sources | **Confidence:** High
 
@@ -131,13 +131,13 @@ Madagascar presents one of the most extraordinary cultural puzzles on Earth: an 
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C40](C40_Bantu_Migration.md) | East African genetic and cultural contribution to Malagasy civilization |
-| [C38](C38_Polynesian.md) | Austronesian maritime expansion — Madagascar as westernmost extension |
-| [C65](C65_Death_Rituals.md) | Famadihana as extreme expression of global ancestor communion practices |
-| [P07](../P_Philosophy_Meaning/P07_Death_Afterlife.md) | Razana ideology — the dead as active participants in life |
+| [C40](C40_Bantu_Cosmology_Migration_Iron.md) | East African genetic and cultural contribution to Malagasy civilization |
+| [C38](C38_Polynesian_Navigation_Rapa_Nui.md) | Austronesian maritime expansion — Madagascar as westernmost extension |
+| [C65](C65_Death_Rituals_Funerary_Architecture.md) | Famadihana as extreme expression of global ancestor communion practices |
+| [P07](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) | Razana ideology — the dead as active participants in life |
 | [C92](C92_Indonesian_Megalithic_Living_Traditions.md) | Shared Austronesian ancestor veneration and architectural traditions |
 | [A21](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md) | Arabic-Islamic influence on vintana astrology system |
-| [R01](../R_Biology_Evolution/R01_Evolution.md) | Megafaunal extinction — elephant birds, giant lemurs, human impact |
+| [R01](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) | Megafaunal extinction — elephant birds, giant lemurs, human impact |
 
 ---
 

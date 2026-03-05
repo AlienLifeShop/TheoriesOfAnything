@@ -140,15 +140,15 @@ Recent research (Nestor, 2020, *Breath*) has highlighted the significance of **n
 
 | Document | Connection |
 |----------|------------|
-| [K02 — Meditation/Consciousness](../K_Consciousness/K02_Meditation_Prayer_Consciousness.md) | Breath as meditation tool |
-| [C06 — Hindu Traditions](C06_Hindu_Vedic_Traditions.md) | Pranayama; prana doctrine |
+| [K02 — Meditation/Consciousness](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Breath as meditation tool |
+| [C06 — Hindu Traditions](C06_Indonesian_Naga_SE_Asian_Traditions.md) | Pranayama; prana doctrine |
 | [K22 — Anomalous Abilities](../K_Consciousness/K22_Anomalous_Human_Abilities_Siddhis.md) | Tummo and Wim Hof verified abilities |
 | [A08 — Hermetic Tradition](../A_Foundations/A08_Hermetic_Tradition.md) | Pneuma in Stoic-Hermetic cosmology |
-| [C11 — Buddhist Traditions](C11_Buddhist_Traditions.md) | Anapanasati (mindfulness of breathing) |
-| [C08 — Daoist/Chinese](C08_Chinese_Daoist_Traditions.md) | Qi cultivation; qigong; TCM |
+| [C11 — Buddhist Traditions](C11_India_Naga_Traditions.md) | Anapanasati (mindfulness of breathing) |
+| [C08 — Daoist/Chinese](C08_Cross_Cultural_Patterns.md) | Qi cultivation; qigong; TCM |
 | [A12 — Norse Eddas](../A_Foundations/A12_Norse_Eddas.md) | Önd (breath/spirit) given to first humans |
-| [C34 — Paleolithic Religion](C34_Paleolithic_Religion_Cave_Art.md) | Aboriginal breath-of-life and Dreaming |
-| [K25 — Psychedelics and Consciousness](../K_Consciousness/K25_Psychedelic_Research_Renaissance.md) | Holotropic breathwork as non-pharmacological altered state |
+| [C34 — Paleolithic Religion](C34_Celtic_Druidic_Traditions.md) | Aboriginal breath-of-life and Dreaming |
+| [K25 — Psychedelics and Consciousness](../K_Consciousness/K02_Altered_States_Psychedelics.md) | Holotropic breathwork as non-pharmacological altered state |
 
 ---
 

@@ -155,6 +155,8 @@ Venus, the brightest object in the sky after the Sun and Moon, plays a central r
 - **Distinct from Velikovsky:** Clube and Napier are professional astronomers whose hypothesis addresses the Taurid meteor complex and is taken seriously (though not universally accepted) in the astronomical community. Their work is speculative but not pseudoscientific.
 - **Connection to this project:** The hypothesis offers a naturalistic mechanism for the widespread "destructive morning star" motif (Tlahuizcalpantecuhtli's harmful darts, Venus warfare, etc.) — if a bright cometary object near Venus regularly produced visible fireballs or impacts.
 
+**Counter-Argument:** Mainstream planetary scientists note that Venus's orbital parameters and geological record (billions of years of surface evolution confirmed by Soviet Venera landers) are inconsistent with any recent cometary interaction. While Clube and Napier's Taurid hypothesis is more respectable than Velikovsky's, the specific identification of Venus mythology with cometary memories remains unproven and contested even among catastrophist researchers.
+
 ---
 
 ## 4. DEBUNKED (Tier 4)
@@ -361,4 +363,13 @@ Both use the same astronomical observation (Venus as morning star) but apply it 
 
 ## Bibliography
 
-- In. *Worlds in Collision*. 1950.
+1. Aveni, Anthony F. *Skywatchers of Ancient Mexico*. University of Texas Press, 1980 (revised 2001).
+2. Reiner, Erica & Pingree, David. *Babylonian Planetary Omens, Part 3: Venus Tablet of Ammisaduqa*. Undena Publications, 1975.
+3. Kelley, David H. & Milone, Eugene F. *Exploring Ancient Skies: A Survey of Ancient and Cultural Astronomy*. 2nd ed., Springer, 2011.
+4. Wolkstein, Diane & Kramer, Samuel Noah. *Inanna, Queen of Heaven and Earth: Her Stories and Hymns from Sumer*. Harper & Row, 1983.
+5. Schele, Linda & Freidel, David. *A Forest of Kings: The Untold Story of the Ancient Maya*. William Morrow, 1990.
+6. Hostetter, Clyde. *Star Trek to Hawa-i'i*. San Diego State University Press, 1991.
+7. Coomaraswamy, Ananda K. "The Darker Side of Dawn." *Smithsonian Miscellaneous Collections* 94.1 (1935).
+8. Clube, Victor & Napier, Bill. *The Cosmic Serpent*. Faber & Faber, 1982.
+9. Clube, Victor & Napier, Bill. *The Cosmic Winter*. Blackwell, 1990.
+10. Velikovsky, Immanuel. *Worlds in Collision*. Macmillan, 1950. [Note: Velikovsky's catastrophist Venus thesis is rejected by mainstream planetary science — see Tier 4 discussion in document body.]

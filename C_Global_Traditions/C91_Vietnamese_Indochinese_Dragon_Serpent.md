@@ -3,7 +3,7 @@
 > **Document ID:** C91
 > **Section:** C_Global_Traditions
 > **Keywords:** Vietnam, dragon, rồng, Lạc Long Quân, Âu Cơ, Champa, Naga, Khmer, Angkor, Lao, Thai, Mekong, Co Loa, serpent, Indochina, Southeast Asia
-> **Cross-References:** [C06](C06_Indonesian_SE_Asian_Naga.md) · [C12](C12_Chinese_Dragon.md) · [B01](../B_Beings_and_Entities/B01_Reptilian.md) · [C69](C69_Angkor_Wat.md) · [C11](C11_India_Naga_Traditions.md)
+> **Cross-References:** [C06](C06_Indonesian_Naga_SE_Asian_Traditions.md) · [C12](C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) · [B01](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) · [C69](C69_Angkor_Wat_Khmer_Cosmology.md) · [C11](C11_India_Naga_Traditions.md)
 > **Reliability Tier:** Tier 1-3 (archaeological record strong for sites; mythological traditions well-documented but origin narratives unverifiable)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 13 scholarly sources | **Confidence:** Medium-High
 
@@ -124,13 +124,13 @@ The dragon-serpent traditions of Vietnam, Cambodia, Laos, and Thailand represent
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C06](C06_Indonesian_SE_Asian_Naga.md) | Broader Southeast Asian Naga worship complex — Austronesian maritime connections |
-| [C12](C12_Chinese_Dragon.md) | Chinese dragon influence on Vietnamese rồng — Sinicization and resistance |
-| [B01](../B_Beings_and_Entities/B01_Reptilian.md) | Dragon-ancestor myths as case study in human-reptilian mythological contact |
-| [C69](C69_Angkor_Wat.md) | Angkor as the supreme architectural expression of Naga symbolism |
+| [C06](C06_Indonesian_Naga_SE_Asian_Traditions.md) | Broader Southeast Asian Naga worship complex — Austronesian maritime connections |
+| [C12](C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) | Chinese dragon influence on Vietnamese rồng — Sinicization and resistance |
+| [B01](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) | Dragon-ancestor myths as case study in human-reptilian mythological contact |
+| [C69](C69_Angkor_Wat_Khmer_Cosmology.md) | Angkor as the supreme architectural expression of Naga symbolism |
 | [C11](C11_India_Naga_Traditions.md) | Indian Naga tradition transmitted to Champa and Khmer via Hindu-Buddhist contact |
-| [C38](C38_Polynesian.md) | Austronesian cultural connections — Đông Sơn drums distributed across maritime networks |
-| [E03](../E_Cataclysms_and_Chronology/E03_Flood_Myths.md) | Water serpent myths as possible encoding of post-glacial sea level rise |
+| [C38](C38_Polynesian_Navigation_Rapa_Nui.md) | Austronesian cultural connections — Đông Sơn drums distributed across maritime networks |
+| [E03](../C_Global_Traditions/C02_Global_Flood_Stories.md) | Water serpent myths as possible encoding of post-glacial sea level rise |
 
 ---
 

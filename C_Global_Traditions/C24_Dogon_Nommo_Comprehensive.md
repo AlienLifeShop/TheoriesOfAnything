@@ -393,4 +393,11 @@ This document synthesizes published ethnographic, astronomical, and critical sou
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Griaule, Marcel. *Dieu d'Eau: Entretiens avec Ogotemmêli* (Conversations with Ogotemmêli). Fayard, 1948. Trans. Oxford University Press, 1965.
+2. Griaule, Marcel & Dieterlen, Germaine. "A Sudanese Sirius System." *Journal de la Société des Africanistes* 20 (1950): 273–294.
+3. Griaule, Marcel & Dieterlen, Germaine. *Le Renard Pâle*. Institut d'Éthnologie, 1965.
+4. Temple, Robert K.G. *The Sirius Mystery*. St. Martin's Press, 1976 (revised 1998).
+5. Van Beek, Walter E.A. "Dogon Restudied: A Field Evaluation of the Work of Marcel Griaule." *Current Anthropology* 32.2 (1991): 139–167.
+6. Sagan, Carl. *Broca's Brain: Reflections on the Romance of Science*. Random House, 1979.
+7. Ridpath, Ian. "Investigating the Sirius Mystery." *Skeptical Inquirer* 3.1 (1978): 56–62.
+8. Berossus. *Babyloniaca*. c. 281 BCE (fragments via Alexander Polyhistor / Eusebius).

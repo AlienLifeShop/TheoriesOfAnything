@@ -161,9 +161,9 @@ Etruscan **painted tombs** (Tarquinia, Cerveteri) provide the richest visual evi
 | Document | Connection |
 |----------|------------|
 | [C42 — Minoan Civilization](C42_Minoan_Civilization_Bull_Cult.md) | Aegean-Italian connections; pre-IE religious substrates |
-| [C62 — Orphic and Dionysian Mysteries](C62_Orphic_Dionysian_Mysteries.md) | Mystery tradition parallels in tomb art |
+| [C62 — Orphic and Dionysian Mysteries](C62_Cosmic_Egg_Cosmogonic_Egg.md) | Mystery tradition parallels in tomb art |
 | [A08 — Hermetic Tradition](../A_Foundations/A08_Hermetic_Tradition.md) | Divination, microcosm-macrocosm (liver as sky map) |
-| [N01 — Secret Societies Overview](../N_Secret_Societies/N01_Secret_Societies_Overview.md) | Mystery initiation; esoteric knowledge transmission |
+| [N01 — Secret Societies Overview](../N_Secret_Societies/N01_Mystery_Schools.md) | Mystery initiation; esoteric knowledge transmission |
 | [A16 — Divine Council](../A_Foundations/A16_Divine_Council_Assembly_of_Gods.md) | Etruscan pantheon and divine hierarchy |
 | [C54 — Hero's Journey](C54_Heros_Journey_Monomyth.md) | Afterlife journey as heroic descent |
 

@@ -258,7 +258,7 @@ These networks demonstrate interregional organization and knowledge-sharing over
 | [D05](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Megalithic transport — colossal head logistics |
 | [D07](../D_Sites_and_Artifacts/D07_Elongated_Skulls.md) | Cranial modification — Olmec cleft head motif |
 | [B01](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) | Serpent beings — Olmec serpent-dragon |
-| [J05](../J_Ancient_Technology/J05_Metallurgy_Alloys.md) | Mirror technology — magnetite polishing |
+| [J05](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Mirror technology — magnetite polishing |
 | [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Calendar systems — Long Count origins |
 
 ---

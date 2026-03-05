@@ -185,13 +185,13 @@ Campbell grounded the monomyth in Jungian psychology:
 
 | Document | Connection |
 |----------|------------|
-| [C25 — Descent Mythology](C25_Descent_Mythology.md) | "Belly of the whale" stage; Inanna's descent as hero's journey |
+| [C25 — Descent Mythology](C25_Orpheus_Descent_Underworld_Archetype.md) | "Belly of the whale" stage; Inanna's descent as hero's journey |
 | [C22 — Trickster Archetype](C22_Trickster_Archetype.md) | Counter-pattern to the hero's journey |
-| [C28 — Dying-and-Rising God](C28_Dying_Rising_God.md) | The death-rebirth phase = hero's initiatory death |
-| [C18 — Prometheus/Forbidden Knowledge](C18_Prometheus_Forbidden_Knowledge.md) | Fire-theft as hero's boon |
-| [P13 — Computational Phylogenetics](../P_Philosophy_Meaning/P13_Computational_Phylogenetics_Myth.md) | Quantitative testing of narrative pattern distribution |
+| [C28 — Dying-and-Rising God](C28_Dying_Rising_Deity_Pattern.md) | The death-rebirth phase = hero's initiatory death |
+| [C18 — Prometheus/Forbidden Knowledge](C18_Prometheus_Forbidden_Knowledge_Archetype.md) | Fire-theft as hero's boon |
+| [P13 — Computational Phylogenetics](../P_Philosophy_Meaning/P13_Computational_Phylogenetics_Mythology.md) | Quantitative testing of narrative pattern distribution |
 | [C08 — Cross-Cultural Patterns](C08_Cross_Cultural_Patterns.md) | Hero's journey as the primary inter-tradition pattern |
-| [C63 — Initiation Rites](C63_Initiation_Rites_Ritual_Transformation.md) | Hero's journey as encoded initiation sequence |
+| [C63 — Initiation Rites](C63_Initiation_Rites_Coming_of_Age.md) | Hero's journey as encoded initiation sequence |
 | [A11 — Mahabharata](../A_Foundations/A11_Mahabharata.md) | Arjuna's journey as exemplary hero path |
 | [A01 — Sumerian Texts](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) | Gilgamesh as prototypical hero's journey |
 | [P10 — Perennial Philosophy](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) | Monomyth as evidence for universal spiritual truth |

@@ -564,17 +564,18 @@ The textual evidence for the dying-and-rising deity pattern is among the most ex
 
 ## Bibliography
 
-- Alster. *Dumuzi's Dream*. 1972.
-- Atallah. *Adonis dans la littérature et l'art grecs*. 1966.
-- Bonnet. *Melqart: Cultes et mythes de l'Héraclès tyrien en Méditerranée*. 1988.
-- Eliade. *Shamanism: Archaic Techniques of Ecstasy*. 1951.
-- Frazer. *The Golden Bough*. 1890.
-- Griffiths. *The Origins of Osiris and His Cult*. 1980.
-- Guthrie. *Orpheus and Greek Religion*. 1935.
-- Kern. *Orphicorum Fragmenta*. 1922.
-- Niehr. *Religionen in der Umwelt des Alten Testaments II*. 2010.
-- Pardee. *Ritual and Cult at Ugarit*. 2002.
-- Roller. *In Search of God the Mother*. 1999.
-- Smith. *The Ugaritic Baal Cycle*. 1994.
-- Vermaseren. *Cybele and Attis: The Myth and the Cult*. 1977.
-- Wyatt. *Religious Texts from Ugarit*. 1998.
+1. Frazer, James George. *The Golden Bough: A Study in Magic and Religion*. Macmillan, 1890 (abridged ed. 1922).
+2. Smith, Jonathan Z. "Dying and Rising Gods." In Eliade, Mircea (ed.), *The Encyclopedia of Religion*. Macmillan, 1987.
+3. Mettinger, Tryggve N.D. *The Riddle of Resurrection: "Dying and Rising Gods" in the Ancient Near East*. Almqvist & Wiksell, 2001.
+4. Lincoln, Bruce. *Myth, Cosmos, and Society*. Harvard University Press, 1986.
+5. Eliade, Mircea. *Shamanism: Archaic Techniques of Ecstasy*. Princeton University Press, 1964 (orig. 1951).
+6. Guthrie, W.K.C. *Orpheus and Greek Religion*. Methuen, 1935.
+7. Smith, Mark S. *The Ugaritic Baal Cycle*. Vol. I. Brill, 1994.
+8. Griffiths, J. Gwyn. *The Origins of Osiris and His Cult*. Brill, 1980.
+9. Vermaseren, Maarten J. *Cybele and Attis: The Myth and the Cult*. Thames & Hudson, 1977.
+10. Bonnet, Corinne. *Melqart: Cultes et mythes de l'Héraclès tyrien en Méditerranée*. Presses Universitaires de Namur, 1988.
+11. Pardee, Dennis. *Ritual and Cult at Ugarit*. Society of Biblical Literature, 2002.
+12. Wyatt, Nicolas. *Religious Texts from Ugarit*. Sheffield Academic Press, 1998.
+13. Alster, Bendt. *Dumuzi's Dream: Aspects of Oral Poetry in a Sumerian Myth*. Akademisk Forlag, 1972.
+14. Roller, Lynn E. *In Search of God the Mother: The Cult of Anatolian Cybele*. University of California Press, 1999.
+15. Kern, Otto. *Orphicorum Fragmenta*. Weidmann, 1922.

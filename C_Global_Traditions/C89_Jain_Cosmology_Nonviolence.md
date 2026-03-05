@@ -3,7 +3,7 @@
 > **Document ID:** C89
 > **Section:** C_Global_Traditions
 > **Keywords:** Jain, Jainism, cosmology, ahimsa, non-violence, Tirthankaras, Mahavira, Rishabhanatha, anekantavada, syadvada, Loka, Digambara, Svetambara, Ranakpur, Dilwara, Parsvanatha, Naga
-> **Cross-References:** [C11](C11_India_Naga_Traditions.md) · [C20](C20_Seven_Levels.md) · [D22](../D_Sites_and_Artifacts/D22_Sacred_Architecture.md) · [P03](../P_Philosophy_Meaning/P03_Ethics.md) · [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md)
+> **Cross-References:** [C11](C11_India_Naga_Traditions.md) · [C20](C20_Seven_Level_Cosmology_Seven_Gates.md) · [D22](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) · [P03](../P_Philosophy_Meaning/P03_Ethics_Across_Civilizations.md) · [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md)
 > **Reliability Tier:** Tier 1-2 (well-documented historical religion with extensive textual and archaeological record)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 14 scholarly sources | **Confidence:** High
 
@@ -120,9 +120,9 @@ Jainism is one of the world's oldest living religions, with roots extending to a
 | Related Doc | Connection |
 |-------------|-----------|
 | [C11](C11_India_Naga_Traditions.md) | Naga hoods protecting Parsvanatha — serpent-wisdom-protector motif |
-| [C20](C20_Seven_Levels.md) | Tripartite cosmic structure (upper/middle/lower) parallels seven-level models |
-| [D22](../D_Sites_and_Artifacts/D22_Sacred_Architecture.md) | Ranakpur and Dilwara temples as pinnacles of sacred architecture |
-| [P03](../P_Philosophy_Meaning/P03_Ethics.md) | Ahimsa as foundational ethical system — radical non-violence |
+| [C20](C20_Seven_Level_Cosmology_Seven_Gates.md) | Tripartite cosmic structure (upper/middle/lower) parallels seven-level models |
+| [D22](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) | Ranakpur and Dilwara temples as pinnacles of sacred architecture |
+| [P03](../P_Philosophy_Meaning/P03_Ethics_Across_Civilizations.md) | Ahimsa as foundational ethical system — radical non-violence |
 | [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) | Anekantavada as epistemological parallel to perennial philosophy pluralism |
 | [A20](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md) | Shramana vs Vedic tradition — competing/complementary Indian spiritual streams |
 | [A24](../A_Foundations/A24_Bhagavata_Purana_Naga_Avatar.md) | Shared Naga symbolism across Indian traditions |

@@ -186,8 +186,8 @@ Māui's failure to defeat death is the **complementary narrative** to Hine-tīta
 
 | Document | Connection |
 |----------|------------|
-| [C37 — Easter Island](C37_Easter_Island_Rapa_Nui.md) | Polynesian navigation; shared cultural roots |
-| [C32 — Aboriginal Dreamtime](C32_Aboriginal_Dreamtime_Cosmology.md) | Comparable land-as-ancestor ontology |
+| [C37 — Easter Island](C37_Maya_Epigraphy_Astronomy.md) | Polynesian navigation; shared cultural roots |
+| [C32 — Aboriginal Dreamtime](C32_Daoism_Chinese_Alchemy.md) | Comparable land-as-ancestor ontology |
 | [C48 — Inuit Cosmology](C48_Inuit_Arctic_Cosmology.md) | Indigenous cosmology comparison; environmental knowledge |
 | [C53 — Sacred Trees](C53_Sacred_Trees_Axis_Mundi.md) | Tāne as tree pushing sky — axis mundi |
 | [C55 — Twin Mythology](C55_Twin_Mythology_Duality.md) | Dual principles (sky/earth, tapu/noa) |

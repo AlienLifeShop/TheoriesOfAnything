@@ -215,12 +215,12 @@ The **Haitian Revolution** — the only successful large-scale slave revolt in h
 
 | Document | Connection |
 |----------|------------|
-| [C05 — Yoruba Cosmology](C05_Yoruba_Cosmology.md) | Source tradition for Santería and Candomblé orixás |
-| [C15 — Voodoo and Hoodoo](C15_Voodoo_Hoodoo_Traditions.md) | Louisiana Voodoo and American folk magic context |
+| [C05 — Yoruba Cosmology](C05_Credo_Mutwa_African_Traditions.md) | Source tradition for Santería and Candomblé orixás |
+| [C15 — Voodoo and Hoodoo](C15_Yoruba_Ogun_Divine_Smiths.md) | Louisiana Voodoo and American folk magic context |
 | [B11 — Mami Wata](../B_Beings_and_Entities/B11_Mami_Wata_Pan_African_Water_Spirits.md) | Damballa, La Sirène — water spirit connections |
 | [H07 — Suppression](../H_Suppression_and_Thesis/H07_Indigenous_Knowledge_Suppression.md) | Colonial demonization of African religions |
-| [K15 — Altered States](../K_Consciousness/K15_Altered_States_Consciousness.md) | Spirit possession as consciousness phenomenon |
-| [K02 — Psychedelics](../K_Consciousness/K02_Psychedelics_Sacred_Plants.md) | Ritual plant use in some Afro-Diasporic contexts |
+| [K15 — Altered States](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Spirit possession as consciousness phenomenon |
+| [K02 — Psychedelics](../K_Consciousness/K02_Altered_States_Psychedelics.md) | Ritual plant use in some Afro-Diasporic contexts |
 | [C46 — Siberian Shamanism](C46_Siberian_Shamanism_Origin.md) | Cross-cultural possession/trance parallels |
 | [C53 — Sacred Trees](C53_Sacred_Trees_Axis_Mundi.md) | Potomitan as axis mundi |
 

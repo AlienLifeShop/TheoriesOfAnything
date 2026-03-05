@@ -153,14 +153,14 @@ The **Amazon Basin** — the world's largest tropical rainforest — is home to 
 
 | Document | Connection |
 |----------|------------|
-| [K02 — Meditation and Altered States](../K_Consciousness/K02_Meditation_Prayer_Consciousness.md) | Ayahuasca as technology of consciousness |
-| [G05 — Entheogen Theory](../G_Modern_Frameworks/G05_Entheogen_Theory.md) | Plant-based visionary experiences and religion origins |
-| [G03 — Graham Hancock](../G_Modern_Frameworks/G03_Graham_Hancock_Fingerprints.md) | Supernatural (2005) — Hancock's exploration of ayahuasca and entity contact |
+| [K02 — Meditation and Altered States](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Ayahuasca as technology of consciousness |
+| [G05 — Entheogen Theory](../G_Modern_Frameworks/G05_Shamanism_Entheogens_Serpent_Visions.md) | Plant-based visionary experiences and religion origins |
+| [G03 — Graham Hancock](../G_Modern_Frameworks/G03_Mycelium_Network.md) | Supernatural (2005) — Hancock's exploration of ayahuasca and entity contact |
 | [R16 — Plant Intelligence](../R_Biology_Evolution/R16_Plant_Intelligence_Botanical_Communication.md) | Scientific research on plant cognition and communication |
-| [C13 — North American Indigenous](../C_Global_Traditions/C13_North_American_Indigenous.md) | Comparative indigenous plant traditions |
-| [K15 — Shamanism](../K_Consciousness/K15_Shamanism_Global_Tradition.md) | Amazonian shamanism within global context |
+| [C13 — North American Indigenous](../C_Global_Traditions/C68_Native_American_Great_Plains_Vision_Quest.md) | Comparative indigenous plant traditions |
+| [K15 — Shamanism](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Amazonian shamanism within global context |
 | [B16 — Shape-Shifting](../B_Beings_and_Entities/B16_Shape_Shifting_Therianthropy.md) | Jaguar transformation in Amazonian shamanism |
-| [C42 — Polynesian Navigation](../C_Global_Traditions/C42_Polynesian_Navigation_Wayfinding.md) | Comparative indigenous knowledge systems |
+| [C42 — Polynesian Navigation](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md) | Comparative indigenous knowledge systems |
 
 ---
 

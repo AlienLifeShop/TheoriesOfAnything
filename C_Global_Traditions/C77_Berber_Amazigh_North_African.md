@@ -3,7 +3,7 @@
 > **Document ID:** C77
 > **Section:** C_Global_Traditions
 > **Keywords:** Berber, Amazigh, Tamazight, North Africa, Tassili n'Ajjer, rock art, Tuareg, Agadez cross, Atlas, Antaeus, Agurzil, Ifri, Anzar, matrilineal, Tifinagh, Saharan, pre-Islamic, cultural renaissance
-> **Cross-References:** [C16 — Tuareg and Saharan Traditions](C16_Tuareg_Saharan_Traditions.md) · [C61 — Persian Connections](C61_Persian_Connections.md) · [D33 — Rock Art](../D_Sites_and_Artifacts/D33_Rock_Art.md) · [C05 — African Traditions](C05_African_Traditions.md)
+> **Cross-References:** [C16 — Tuareg and Saharan Traditions](C16_Tuareg_Saharan_Traditions.md) · [C61 — Persian Connections](C61_Persian_Civilization_Achaemenid_Magi.md) · [D33 — Rock Art](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md) · [C05 — African Traditions](C05_Credo_Mutwa_African_Traditions.md)
 > **Reliability Tier:** Tier 1-3 (linguistic and archaeological record well-established; pre-Islamic religious reconstruction partial; rock art interpretation debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 15 scholarly sources | **Confidence:** Medium
 

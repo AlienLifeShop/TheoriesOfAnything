@@ -3,7 +3,7 @@
 > **Document ID:** C79
 > **Section:** C_Global_Traditions
 > **Keywords:** Great Zimbabwe, Mapungubwe, dry-stone architecture, Zimbabwe Birds, soapstone, Great Enclosure, Shona, gold trade, Swahili coast, colonial denial, suppression, sub-Saharan Africa, Iron Age, Rozvi, Mutapa, Torwa
-> **Cross-References:** [C40 — Bantu Traditions](C40_Bantu_Traditions.md) · [F03 — Bronze Age Trade Networks](../F_Lost_Connections/F03_Bronze_Age_Trade_Networks.md) · [C05 — African Traditions](C05_African_Traditions.md) · [H01 — Suppression](../H_Suppression_and_Thesis/H01_Suppression.md) · [D05 — Megalithic Structures](../D_Sites_and_Artifacts/D05_Megalithic_Structures.md)
+> **Cross-References:** [C40 — Bantu Traditions](C40_Bantu_Cosmology_Migration_Iron.md) · [F03 — Bronze Age Trade Networks](../F_Lost_Connections/F03_Bronze_Age_Trade_Networks.md) · [C05 — African Traditions](C05_Credo_Mutwa_African_Traditions.md) · [H01 — Suppression](../H_Suppression_and_Thesis/H01_Suppression_of_Ancient_Knowledge.md) · [D05 — Megalithic Structures](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md)
 > **Reliability Tier:** Tier 1-2 (archaeological record well-established; trade network extent debated; colonial-era distortion documented as suppression case)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 16 scholarly sources | **Confidence:** High
 

@@ -147,14 +147,14 @@ The Chinese version is equally rich in detail and philosophical resonance:
 
 | Document | Connection |
 |----------|------------|
-| [C06 — Hindu Traditions](C06_Hindu_Vedic_Traditions.md) | Hiranyagarbha in Vedic cosmology |
+| [C06 — Hindu Traditions](C06_Indonesian_Naga_SE_Asian_Traditions.md) | Hiranyagarbha in Vedic cosmology |
 | [A12 — Norse Eddas](../A_Foundations/A12_Norse_Eddas.md) | Ginnungagap parallel |
 | [A18 — Enuma Elish](../A_Foundations/A18_Enuma_Elish_Babylonian_Creation.md) | Babylonian creation for comparison |
-| [Q02 — Big Bang](../Q_Cosmology_Physics/Q02_Big_Bang_Cosmic_Origins.md) | Structural parallel with modern cosmology |
-| [C53 — Axis Mundi](C53_Axis_Mundi_World_Tree_Cosmic_Pillar.md) | Egg splits into cosmic structures |
+| [Q02 — Big Bang](../Q_Cosmology_Physics/Q02_Big_Bang_Alternative_Cosmologies.md) | Structural parallel with modern cosmology |
+| [C53 — Axis Mundi](C53_Sacred_Trees_Axis_Mundi.md) | Egg splits into cosmic structures |
 | [A14 — Pyramid Texts](../A_Foundations/A14_Pyramid_Texts.md) | Egyptian cosmic egg at Hermopolis |
-| [C42 — West African Traditions](C42_West_African_Traditions_Yoruba_Dogon.md) | Dogon cosmic egg (Amma's egg) |
-| [C13 — North American Indigenous](C13_North_American_Indigenous.md) | Earth-diver myths as alternative cosmogony |
+| [C42 — West African Traditions](C42_Minoan_Civilization_Bull_Cult.md) | Dogon cosmic egg (Amma's egg) |
+| [C13 — North American Indigenous](C13_Indigenous_Knowledge_Systems.md) | Earth-diver myths as alternative cosmogony |
 
 ---
 
@@ -167,7 +167,7 @@ The Chinese version is equally rich in detail and philosophical resonance:
 5. West, M. L. (1983). *The Orphic Poems*. Oxford University Press.
 6. Birrell, A. (1993). *Chinese Mythology: An Introduction*. Johns Hopkins University Press.
 7. Griaule, M., & Dieterlen, G. (1986). *The Pale Fox* [Le Renard Pâle]. Continuum.
-8. Lönnrot, E. (compiled). *Kalevala* (various modern translations). [Runo 1: Creation]
+8. Lönnrot, E. (compiled, 1835). *Kalevala* (various modern translations). [Runo 1: Creation]
 9. Allen, J. P. (2015). *Middle Egyptian: An Introduction to the Language and Culture of Hieroglyphs*, 3rd ed. Cambridge University Press.
 10. Sproul, B. C. (1979). *Primal Myths: Creation Myths Around the World*. Harper & Row.
 11. Eliade, M. (1958). *Patterns in Comparative Religion*. Sheed & Ward. [Cosmic egg as hierophany]

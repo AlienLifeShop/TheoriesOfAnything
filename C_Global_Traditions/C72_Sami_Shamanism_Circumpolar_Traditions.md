@@ -172,14 +172,14 @@ The **circumpolar world** — the vast band of Arctic and subarctic territory st
 
 | Document | Connection |
 |----------|------------|
-| [C46 — Siberian Shamanism](C46_Siberian_Shamanism_Turkic_Tungusic.md) | Core comparative tradition; Evenki origin of "shaman" |
-| [C48 — Inuit Cosmology](C48_Inuit_Cosmology_Sedna_Myth.md) | Circumpolar comparative; Sedna mythology |
-| [C34 — Paleolithic Religion](C34_Paleolithic_Religion_Cave_Art.md) | Ancient roots of circumpolar spirituality |
-| [K15 — Shamanism Global](../K_Consciousness/K15_Shamanism_Global_Tradition.md) | Sami/circumpolar within global shamanism |
-| [F09 — Cultural Parallels](../F_Lost_Connections/F09_Unexplained_Cultural_Parallels.md) | Circumpolar bear cult as cross-cultural parallel |
+| [C46 — Siberian Shamanism](C46_Siberian_Shamanism_Origin.md) | Core comparative tradition; Evenki origin of "shaman" |
+| [C48 — Inuit Cosmology](C48_Inuit_Arctic_Cosmology.md) | Circumpolar comparative; Sedna mythology |
+| [C34 — Paleolithic Religion](C34_Celtic_Druidic_Traditions.md) | Ancient roots of circumpolar spirituality |
+| [K15 — Shamanism Global](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Sami/circumpolar within global shamanism |
+| [F09 — Cultural Parallels](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) | Circumpolar bear cult as cross-cultural parallel |
 | [B16 — Shape-Shifting](../B_Beings_and_Entities/B16_Shape_Shifting_Therianthropy.md) | Shamanic animal transformation |
 | [C68 — Great Plains](C68_Native_American_Great_Plains_Vision_Quest.md) | Comparative indigenous spirituality; vision quest parallels |
-| [B12 — Animal Symbolism](../B_Beings_and_Entities/B12_Animal_Symbolism_Sacred_Creatures.md) | Bear as sacred animal across cultures |
+| [B12 — Animal Symbolism](../B_Beings_and_Entities/B12_Animal_Symbolism_Beyond_Serpents.md) | Bear as sacred animal across cultures |
 
 ---
 

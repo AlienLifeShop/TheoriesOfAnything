@@ -3,7 +3,7 @@
 > **Document ID:** C83
 > **Section:** C_Global_Traditions
 > **Keywords:** Kalevala, Väinämöinen, Sampo, Lönnrot, Finnish mythology, Finno-Ugric, Sámi, noaidi, cosmic egg, Ukko, Tuonela, Louhi, Ilmarinen, Lemminkäinen, world-mill, shamanism, joik, drum divination, Pohjola, kantele, rune-singing
-> **Cross-References:** [C62 — Cosmic Egg](C62_Cosmic_Egg_World_Egg.md) · [K15 — Shamanism](../K_Consciousness/K15_Shamanism_Altered_States.md) · [Q03 — Ancient Cosmologies](../Q_Cosmology_Physics/Q03_Dark_Matter_Dark_Energy.md) · [C56 — Storm God](C56_Storm_God_Pattern.md) · [A12 — Norse Eddas](../A_Foundations/A12_Norse_Eddas.md) · [C53 — Axis Mundi](C53_Axis_Mundi_World_Tree.md)
+> **Cross-References:** [C62 — Cosmic Egg](C62_Cosmic_Egg_Cosmogonic_Egg.md) · [K15 — Shamanism](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) · [Q03 — Ancient Cosmologies](../Q_Cosmology_Physics/Q03_Ancient_Cosmologies_Compared.md) · [C56 — Storm God](C56_Storm_God_Pattern.md) · [A12 — Norse Eddas](../A_Foundations/A12_Norse_Eddas.md) · [C53 — Axis Mundi](C53_Sacred_Trees_Axis_Mundi.md)
 > **Reliability Tier:** Tier 1–2 (Kalevala textually established; shamanistic interpretations debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 11 scholarly sources | **Confidence:** High (textual/folklore), Medium (pre-Christian reconstruction, Sampo theories)
 
@@ -176,11 +176,11 @@ Interpretive theories:
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C62 — Cosmic Egg](C62_Cosmic_Egg_World_Egg.md) | Finnish cosmic egg creation — goldeneye on Ilmatar's knee |
-| [K15 — Shamanism](../K_Consciousness/K15_Shamanism_Altered_States.md) | Sámi noaidi, Väinämöinen's Tuonela descent, drum divination |
+| [C62 — Cosmic Egg](C62_Cosmic_Egg_Cosmogonic_Egg.md) | Finnish cosmic egg creation — goldeneye on Ilmatar's knee |
+| [K15 — Shamanism](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Sámi noaidi, Väinämöinen's Tuonela descent, drum divination |
 | [C56 — Storm God](C56_Storm_God_Pattern.md) | Ukko as Finnish thunder god — possible IE borrowing |
 | [A12 — Norse Eddas](../A_Foundations/A12_Norse_Eddas.md) | Finnish-Norse cultural interface; Odin-Väinämöinen parallels |
-| [C53 — Axis Mundi](C53_Axis_Mundi_World_Tree.md) | Sampo as cosmic pillar/world-mill; three-layered Sámi cosmology |
+| [C53 — Axis Mundi](C53_Sacred_Trees_Axis_Mundi.md) | Sampo as cosmic pillar/world-mill; three-layered Sámi cosmology |
 | [C84 — Slavic Mythology](C84_Slavic_Mythology_Perun_Veles.md) | Northern European mythological interface — Finno-Slavic contact |
 | [C85 — Baltic Mythology](C85_Baltic_Mythology_Lithuanian_Latvian.md) | Finno-Baltic religious contact zone; Ukko–Perkūnas parallels |
 

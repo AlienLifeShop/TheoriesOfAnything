@@ -3,7 +3,7 @@
 > **Document ID:** C90
 > **Section:** C_Global_Traditions
 > **Keywords:** Sikhism, Guru Nanak, Adi Granth, Guru Granth Sahib, Khalsa, langar, Ik Onkar, Naam, hukam, Five Ks, Gobind Singh, Punjab, caste rejection, universal brotherhood
-> **Cross-References:** [C13](C13_Indigenous_Knowledge.md) · [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) · [P03](../P_Philosophy_Meaning/P03_Ethics.md) · [K08](../K_Consciousness/K08_Meditation.md) · [P18](../P_Philosophy_Meaning/P18_Ritual_Symbol.md)
+> **Cross-References:** [C13](C13_Indigenous_Knowledge_Systems.md) · [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) · [P03](../P_Philosophy_Meaning/P03_Ethics_Across_Civilizations.md) · [K08](../K_Consciousness/K08_Meditation_Neuroplasticity.md) · [P18](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred.md)
 > **Reliability Tier:** Tier 1-2 (well-documented historical religion with preserved primary texts and continuous institutional history)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 15 scholarly sources | **Confidence:** High
 
@@ -118,10 +118,10 @@ Sikhism, founded by Guru Nanak (1469–1539 CE) in the Punjab region, is the you
 | Related Doc | Connection |
 |-------------|-----------|
 | [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) | Ik Onkar as expression of universal monotheism / perennial philosophy |
-| [P03](../P_Philosophy_Meaning/P03_Ethics.md) | Radical ethical framework: caste rejection, gender equality, seva |
-| [K08](../K_Consciousness/K08_Meditation.md) | Naam Simran as meditation practice — divine name repetition |
-| [P18](../P_Philosophy_Meaning/P18_Ritual_Symbol.md) | Five Ks as ritual symbols encoding warrior-saint identity |
-| [C13](C13_Indigenous_Knowledge.md) | Living oral-textual knowledge tradition with continuous lineage |
+| [P03](../P_Philosophy_Meaning/P03_Ethics_Across_Civilizations.md) | Radical ethical framework: caste rejection, gender equality, seva |
+| [K08](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Naam Simran as meditation practice — divine name repetition |
+| [P18](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred.md) | Five Ks as ritual symbols encoding warrior-saint identity |
+| [C13](C13_Indigenous_Knowledge_Systems.md) | Living oral-textual knowledge tradition with continuous lineage |
 | [C89](C89_Jain_Cosmology_Nonviolence.md) | Both Indian traditions rejecting Vedic orthodoxy (Shramana stream) |
 | [A21](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md) | Sufi-Sikh theological dialogue and shared mystical vocabulary |
 

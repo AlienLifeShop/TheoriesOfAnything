@@ -459,5 +459,14 @@ Archetypes predict GENERIC serpent imagery. They do NOT predict:
 
 ## Bibliography
 
-- Campbell. *The Hero with a Thousand Faces*. 1949.
-- Isbell. *The Fruit, the Tree, and the Serpent*. 2009.
+1. Isbell, Lynne A. *The Fruit, the Tree, and the Serpent: Why We See So Well*. Harvard University Press, 2009.
+2. Campbell, Joseph. *The Hero with a Thousand Faces*. Pantheon, 1949.
+3. Jung, Carl G. *The Archetypes and the Collective Unconscious*. Routledge, 1959.
+4. Sagan, Carl. *The Dragons of Eden: Speculations on the Evolution of Human Intelligence*. Random House, 1977.
+5. Boyer, Pascal. *Religion Explained: The Evolutionary Origins of Religious Thought*. Basic Books, 2001.
+6. Lewis-Williams, David. *The Mind in the Cave: Consciousness and the Origins of Art*. Thames & Hudson, 2002.
+7. Witzel, Michael. *The Origins of the World's Mythologies*. Oxford University Press, 2012.
+8. Narby, Jeremy. *The Cosmic Serpent: DNA and the Origins of Knowledge*. Tarcher/Putnam, 1998.
+9. Öhman, Arne & Mineka, Susan. "The Malicious Serpent: Snakes as a Prototypical Stimulus for an Evolved Module of Fear." *Current Directions in Psychological Science* 12.1 (2003): 5–9.
+10. Van Le, Quan et al. "Pulvinar Neurons Reveal Neurobiological Evidence of Past Selection for Rapid Detection of Snakes." *PNAS* 110.47 (2013): 19000–19005.
+11. Striedter, Georg Friedrich. *Principles of Brain Evolution*. Sinauer Associates, 2005.

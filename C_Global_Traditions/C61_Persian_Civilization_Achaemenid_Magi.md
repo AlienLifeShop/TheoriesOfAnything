@@ -172,10 +172,10 @@ Persepolis (Takht-e Jamshid = "Throne of Jamshid") was not a residential capital
 
 | Document | Connection |
 |----------|------------|
-| [C19 — Zoroastrianism](C19_Zoroastrianism_Cosmic_Dualism.md) | Zoroastrian foundation of Persian cosmic theology |
-| [C17 — Sacred Kingship](C17_Sacred_Kingship_Bloodlines.md) | Xvarnah / Mandate of Heaven parallels |
-| [N01 — Mystery Schools](../N_Secret_Societies/N01_Mystery_Schools_Initiatory_Traditions.md) | Magi as esoteric priesthood |
-| [H01 — Suppression](../H_Suppression_and_Thesis/H01_Knowledge_Suppression_Timeline.md) | Destruction of Persepolis; loss of Avestan texts |
+| [C19 — Zoroastrianism](C19_Zoroastrianism_Demonization_Pivot.md) | Zoroastrian foundation of Persian cosmic theology |
+| [C17 — Sacred Kingship](C17_Sacred_Kingship_Divine_Rulership.md) | Xvarnah / Mandate of Heaven parallels |
+| [N01 — Mystery Schools](../N_Secret_Societies/N01_Mystery_Schools.md) | Magi as esoteric priesthood |
+| [H01 — Suppression](../H_Suppression_and_Thesis/H01_Suppression_of_Ancient_Knowledge.md) | Destruction of Persepolis; loss of Avestan texts |
 | [A18 — Enuma Elish](../A_Foundations/A18_Enuma_Elish_Babylonian_Creation.md) | Babylonian-Persian cultural exchange |
 | [D20 — Writing Systems](../D_Sites_and_Artifacts/D20_Ancient_Writing_Systems_Compared.md) | Behistun and cuneiform decipherment |
 | [F11 — Silk Road](../F_Lost_Connections/F11_Silk_Road_Knowledge_Exchange.md) | Persian position at crossroads of Eurasian exchange |

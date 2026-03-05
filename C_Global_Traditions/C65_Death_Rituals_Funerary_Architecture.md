@@ -130,11 +130,11 @@ Cross-cultural research on **near-death experiences** (NDEs) reveals remarkably 
 |----------|------------|
 | [B15 — Psychopomp Traditions](../B_Beings_and_Entities/B15_Psychopomp_Traditions_Guides_Dead.md) | Guides of the dead across cultures |
 | [A14 — Pyramid Texts](../A_Foundations/A14_Pyramid_Texts.md) | Egyptian funerary literature |
-| [D05 — Megalithic Structures](../D_Sites_and_Artifacts/D05_Megalithic_Structures.md) | Pyramids, passage tombs as funerary architecture |
-| [C11 — Buddhist Traditions](C11_Buddhist_Traditions.md) | Bardo Thodol; Buddhist death practices |
-| [C06 — Hindu Traditions](C06_Hindu_Vedic_Traditions.md) | Cremation; Varanasi; transmigration |
-| [K02 — Meditation/Consciousness](../K_Consciousness/K02_Meditation_Prayer_Consciousness.md) | NDE parallels; consciousness at death |
-| [E09 — Younger Dryas](../E_Cataclysms_and_Chronology/E09_Younger_Dryas.md) | Mass death events and cultural memory |
+| [D05 — Megalithic Structures](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Pyramids, passage tombs as funerary architecture |
+| [C11 — Buddhist Traditions](C11_India_Naga_Traditions.md) | Bardo Thodol; Buddhist death practices |
+| [C06 — Hindu Traditions](C06_Indonesian_Naga_SE_Asian_Traditions.md) | Cremation; Varanasi; transmigration |
+| [K02 — Meditation/Consciousness](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | NDE parallels; consciousness at death |
+| [E09 — Younger Dryas](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Mass death events and cultural memory |
 | [C63 — Initiation Rites](C63_Initiation_Rites_Coming_of_Age.md) | Death-and-rebirth symbolism in initiation |
 
 ---

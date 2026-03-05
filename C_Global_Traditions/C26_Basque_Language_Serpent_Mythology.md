@@ -476,5 +476,14 @@ For this project, the Basque material provides:
 
 ## Bibliography
 
-- Chaho. *Aitor, légende cantabre*. 1845.
-- Published. *Tableau de l'inconstance des mauvais anges et démons*. 1612.
+1. Trask, R.L. *The History of Basque*. Routledge, 1997.
+2. Hualde, José Ignacio & Ortiz de Urbina, Jon. *A Grammar of Basque*. Mouton de Gruyter, 2003.
+3. Günther, Torsten et al. "Ancient Genomes Link Early Farmers from Atapuerca in Spain to Modern-Day Basques." *PNAS* 112.38 (2015): 11917–11922.
+4. Olalde, Iñigo et al. "The Genomic History of the Iberian Peninsula over the Past 8000 Years." *Science* 363.6432 (2019): 1230–1234.
+5. Barandiarán, José Miguel de. *Mitología vasca*. Minotauro, 1960.
+6. Barandiarán, José Miguel de. *Diccionario de mitología vasca*. Txertoa, 1970.
+7. Henningsen, Gustav. *The Witches' Advocate: Basque Witchcraft and the Spanish Inquisition (1609–1614)*. University of Nevada Press, 1980.
+8. de Lancre, Pierre. *Tableau de l'inconstance des mauvais anges et démons* (1612). Ed. Nicole Jacques-Chaquin. Aubier, 1982.
+9. Caro Baroja, Julio. *The World of the Witches*. Trans. O.N.V. Glendinning. University of Chicago Press, 1964 (orig. 1961).
+10. Chaho, Augustin. *Aitor, légende cantabre*. 1845.
+11. Vennemann, Theo. *Europa Vasconica — Europa Semitica*. Mouton de Gruyter, 2003.

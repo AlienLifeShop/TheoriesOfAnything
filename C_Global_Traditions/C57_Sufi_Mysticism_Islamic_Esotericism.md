@@ -178,11 +178,11 @@
 |----------|------------|
 | [B04 — Solomon and the Jinn](../B_Beings_and_Entities/B04_Solomon_and_the_Jinn.md) | Islamic cosmology; jinn in Sufi practice |
 | [A08 — Hermetic Tradition](../A_Foundations/A08_Hermetic_Tradition.md) | Parallels: divine names, cosmic human, esoteric knowledge |
-| [K01 — Consciousness](../K_Consciousness/K01_Consciousness_Theories.md) | Non-dual consciousness; fana as ego-dissolution |
-| [K15 — Altered States](../K_Consciousness/K15_Altered_States_Consciousness.md) | Dhikr, sama, whirling as consciousness-altering practices |
-| [C19 — Zoroastrian Theology](C19_Zoroastrian_Theology.md) | Persian cultural matrix; Iranian mystical traditions |
-| [N01 — Secret Societies](../N_Secret_Societies/N01_Secret_Societies_Overview.md) | Sufi orders as initiatory brotherhoods |
-| [P07 — Philosophy of Death](../P_Philosophy_Meaning/P07_Philosophy_Death_Afterlife.md) | Fana as spiritual death; Sufi attitudes toward mortality |
+| [K01 — Consciousness](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Non-dual consciousness; fana as ego-dissolution |
+| [K15 — Altered States](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Dhikr, sama, whirling as consciousness-altering practices |
+| [C19 — Zoroastrian Theology](C19_Zoroastrianism_Demonization_Pivot.md) | Persian cultural matrix; Iranian mystical traditions |
+| [N01 — Secret Societies](../N_Secret_Societies/N01_Mystery_Schools.md) | Sufi orders as initiatory brotherhoods |
+| [P07 — Philosophy of Death](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) | Fana as spiritual death; Sufi attitudes toward mortality |
 
 ---
 

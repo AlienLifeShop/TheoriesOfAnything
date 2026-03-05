@@ -3,7 +3,7 @@
 > **Document ID:** C80
 > **Section:** C_Global_Traditions
 > **Keywords:** Swahili, Kilwa, Zanzibar, Mombasa, Lamu, Indian Ocean trade, Bantu, Arabic, maritime civilization, Great Mosque, Husuni Kubwa, Chinese porcelain, Zheng He, monsoon, dhow, Wessel Islands, coral architecture, Swahili language
-> **Cross-References:** [C40 — Bantu Traditions](C40_Bantu_Traditions.md) · [F03 — Bronze Age Trade Networks](../F_Lost_Connections/F03_Bronze_Age_Trade_Networks.md) · [F05 — Maritime Technology](../F_Lost_Connections/F05_Maritime_Technology.md) · [C79 — Great Zimbabwe](C79_Great_Zimbabwe_Southern_African.md) · [F17 — Sub-Saharan Trade](../F_Lost_Connections/F17_Sub_Saharan_Trade.md)
+> **Cross-References:** [C40 — Bantu Traditions](C40_Bantu_Cosmology_Migration_Iron.md) · [F03 — Bronze Age Trade Networks](../F_Lost_Connections/F03_Bronze_Age_Trade_Networks.md) · [F05 — Maritime Technology](../F_Lost_Connections/F05_Ancient_Maritime_Technology.md) · [C79 — Great Zimbabwe](C79_Great_Zimbabwe_Southern_African.md) · [F17 — Sub-Saharan Trade](../F_Lost_Connections/F17_Sub_Saharan_African_Trade_Networks.md)
 > **Reliability Tier:** Tier 1-2 (archaeological and documentary record strong for medieval period; pre-10th century origins debated; Wessel Islands coin find controversial)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 16 scholarly sources | **Confidence:** High
 

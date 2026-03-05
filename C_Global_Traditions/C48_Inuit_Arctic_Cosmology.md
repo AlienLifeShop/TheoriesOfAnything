@@ -202,15 +202,15 @@ Inuit ecological ethics rest on **reciprocal obligations**:
 | Document | Connection |
 |----------|------------|
 | [C46 — Siberian Shamanism](C46_Siberian_Shamanism_Origin.md) | Eastern source of circumpolar shamanic tradition |
-| [K15 — Shamanism & Consciousness](../K_Consciousness/K15_Shamanism_Consciousness.md) | Angakkuq trance, spirit flight, drum technique |
+| [K15 — Shamanism & Consciousness](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Angakkuq trance, spirit flight, drum technique |
 | [C13 — Indigenous Knowledge Systems](C13_Indigenous_Knowledge_Systems.md) | Inuit TEK as elite environmental knowledge |
 | [C53 — Sacred Trees / Axis Mundi](C53_Sacred_Trees_Axis_Mundi.md) | Inuit axis mundi = passage to upper/lower worlds |
-| [C49 — Native American Plains](C49_Native_American_Plains_Vision_Quest.md) | North American indigenous parallels |
-| [C60 — Sami Shamanism](C60_Sami_Circumpolar_Traditions.md) | Western circumpolar equivalent |
+| [C49 — Native American Plains](C49_Philippine_Mythology_Anito.md) | North American indigenous parallels |
+| [C60 — Sami Shamanism](C60_Dreamtime_Songlines_Aboriginal_Navigation.md) | Western circumpolar equivalent |
 | [B16 — Shape-Shifting](../B_Beings_and_Entities/B16_Shape_Shifting_Therianthropy.md) | Inuit human-animal transformation myths |
-| [E18 — Ice Age Civilizations](../E_Cataclysms_and_Chronology/E18_Ice_Age_Civilizations.md) | Beringia crossing, Arctic deep-time habitation |
-| [P07 — Death and Afterlife](../P_Philosophy_Meaning/P07_Death_Afterlife_Concepts.md) | Non-punitive dual afterlife system |
-| [K21 — Reincarnation Research](../K_Consciousness/K21_Reincarnation_Research.md) | Name-soul reincarnation practice |
+| [E18 — Ice Age Civilizations](../E_Cataclysms_and_Chronology/E18_Ice_Age_Civilizations_LGM.md) | Beringia crossing, Arctic deep-time habitation |
+| [P07 — Death and Afterlife](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) | Non-punitive dual afterlife system |
+| [K21 — Reincarnation Research](../K_Consciousness/K21_Reincarnation_Research_Stevenson_Tucker.md) | Name-soul reincarnation practice |
 
 ---
 

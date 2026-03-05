@@ -136,10 +136,10 @@ Modern neuroscience and psychology have begun to illuminate **why** initiation r
 | Document | Connection |
 |----------|------------|
 | [C68 — Great Plains](C68_Native_American_Great_Plains_Vision_Quest.md) | Vision quest and Sun Dance as initiation |
-| [K15 — Shamanism](../K_Consciousness/K15_Shamanism_Global_Tradition.md) | Shamanic initiation (dismemberment vision) |
-| [C34 — Paleolithic Religion](C34_Paleolithic_Religion_Cave_Art.md) | Possible Paleolithic initiation contexts in caves |
-| [N01 — Secret Societies](../N_Secret_Societies/N01_Secret_Societies_Overview.md) | Degree-based initiation systems |
-| [G05 — Entheogen Theory](../G_Modern_Frameworks/G05_Entheogen_Theory.md) | Eleusinian kykeon and initiatory psychedelic use |
+| [K15 — Shamanism](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Shamanic initiation (dismemberment vision) |
+| [C34 — Paleolithic Religion](C34_Celtic_Druidic_Traditions.md) | Possible Paleolithic initiation contexts in caves |
+| [N01 — Secret Societies](../N_Secret_Societies/N01_Mystery_Schools.md) | Degree-based initiation systems |
+| [G05 — Entheogen Theory](../G_Modern_Frameworks/G05_Shamanism_Entheogens_Serpent_Visions.md) | Eleusinian kykeon and initiatory psychedelic use |
 | [P18 — Ritual and Symbol](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred.md) | Theory of ritual experience |
 | [C65 — Death Rituals](C65_Death_Rituals_Funerary_Architecture.md) | Death-and-rebirth symbolism; funeral as final initiation |
 | [B16 — Shape-Shifting](../B_Beings_and_Entities/B16_Shape_Shifting_Therianthropy.md) | Animal transformation in initiatory contexts |

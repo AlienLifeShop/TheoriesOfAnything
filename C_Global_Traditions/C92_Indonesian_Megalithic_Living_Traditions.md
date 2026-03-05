@@ -3,7 +3,7 @@
 > **Document ID:** C92
 > **Section:** C_Global_Traditions
 > **Keywords:** Indonesia, megalithic, living tradition, Nias, Sumba, Toraja, Sulawesi, Flores, stone monuments, death rituals, tau tau, fahombo, Austronesian, Homo floresiensis, Ebu Gogo
-> **Cross-References:** [C06](C06_Indonesian_SE_Asian_Naga.md) · [D05](../D_Sites_and_Artifacts/D05_Megalithic_Engineering.md) · [C65](C65_Death_Rituals.md) · [C38](C38_Polynesian.md) · [L06](../L_Genetics_Origins/L06_Archaic_Human_Species.md)
+> **Cross-References:** [C06](C06_Indonesian_Naga_SE_Asian_Traditions.md) · [D05](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [C65](C65_Death_Rituals_Funerary_Architecture.md) · [C38](C38_Polynesian_Navigation_Rapa_Nui.md) · [L06](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md)
 > **Reliability Tier:** Tier 1-2 (active living traditions documented by ethnographers; archaeological record well-established)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 14 scholarly sources | **Confidence:** High
 
@@ -124,13 +124,13 @@ Indonesia harbors what may be the world's most significant collection of living 
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [D05](../D_Sites_and_Artifacts/D05_Megalithic_Engineering.md) | Living megalithic transport methods as analogues for prehistoric engineering |
-| [C06](C06_Indonesian_SE_Asian_Naga.md) | Indonesian Naga traditions overlapping with megalithic cultures |
-| [C65](C65_Death_Rituals.md) | Toraja and Sumba death rituals as extreme expressions of global ancestor veneration |
-| [C38](C38_Polynesian.md) | Austronesian megalithic complex linking Indonesia to Polynesia |
-| [L06](../L_Genetics_Origins/L06_Archaic_Human_Species.md) | Homo floresiensis and Ebu Gogo — archaic hominin folk memory |
-| [E05](../E_Cataclysms_and_Chronology/E05_Younger_Dryas.md) | Sundaland submersion and post-glacial cultural disruption |
-| [P18](../P_Philosophy_Meaning/P18_Ritual_Symbol.md) | Ritual as engineering coordination — sacrifice and monument building |
+| [D05](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Living megalithic transport methods as analogues for prehistoric engineering |
+| [C06](C06_Indonesian_Naga_SE_Asian_Traditions.md) | Indonesian Naga traditions overlapping with megalithic cultures |
+| [C65](C65_Death_Rituals_Funerary_Architecture.md) | Toraja and Sumba death rituals as extreme expressions of global ancestor veneration |
+| [C38](C38_Polynesian_Navigation_Rapa_Nui.md) | Austronesian megalithic complex linking Indonesia to Polynesia |
+| [L06](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) | Homo floresiensis and Ebu Gogo — archaic hominin folk memory |
+| [E05](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Sundaland submersion and post-glacial cultural disruption |
+| [P18](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred.md) | Ritual as engineering coordination — sacrifice and monument building |
 
 ---
 

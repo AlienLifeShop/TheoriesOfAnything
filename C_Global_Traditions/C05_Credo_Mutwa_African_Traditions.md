@@ -516,5 +516,13 @@ Cross-references: → B01, B02, C01
 
 ## Bibliography
 
-- Dieterlen. *Le Renard Pâle*. 1965.
-- Griaule. *Conversations with Ogotemmêli*. 1948.
+1. Mutwa, Credo Vusa'mazulu. *Indaba, My Children*. Blue Crane Books, 1964.
+2. Mutwa, Credo Vusa'mazulu. *Song of the Stars: The Lore of a Zulu Shaman*. Station Hill Press, 1996.
+3. Mutwa, Credo Vusa'mazulu. *My People: The Incredible Writings of Credo Vusa'mazulu Mutwa*. Penguin, 1969.
+4. Griaule, Marcel. *Conversations with Ogotemmêli*. Oxford University Press, 1965 (orig. 1948).
+5. Griaule, Marcel & Dieterlen, Germaine. *Le Renard Pâle*. Institut d'Éthnologie, 1965.
+6. Temple, Robert K.G. *The Sirius Mystery*. St. Martin's Press, 1976.
+7. Van Beek, Walter E.A. "Dogon Restudied: A Field Evaluation of the Work of Marcel Griaule." *Current Anthropology* 32.2 (1991): 139–167.
+8. Berglund, Axel-Ivar. *Zulu Thought-Patterns and Symbolism*. Hurst, 1976.
+9. Callaway, Henry. *The Religious System of the Amazulu*. Trübner, 1870.
+10. Blier, Suzanne Preston. *African Vodun: Art, Psychology, and Power*. University of Chicago Press, 1995.
