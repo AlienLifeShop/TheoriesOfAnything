@@ -3,7 +3,7 @@
 > **Document ID:** O09
 > **Section:** O_Earth_Anomalies
 > **Keywords:** caves, Movile Cave, Lechuguilla, Mammoth Cave, Sipapu, cave art, speleothems, olm, troglobites, chemosynthesis, cave mythology, underworld
-> **Cross-References:** [J08](../J_Ancient_Technology/J08_Sacred_Caves.md) · [B03](../B_Beings_and_Entities/B03_Underground_Creatures.md) · [R07](../R_Biology_Evolution/R07_Extremophiles.md) · [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels.md) · [D33](../D_Sites_and_Artifacts/D33_Cave_Art.md) · [C74](../C_Global_Traditions/C74_Hopi_Sipapu.md)
+> **Cross-References:** [J08](../J_Ancient_Technology/J08_Sacred_Caves_Ritual_Technology.md) · [B03](../B_Beings_and_Entities/B03_Underground_Creatures_and_Myths.md) · [R07](../R_Biology_Evolution/R07_Extremophile_Biology.md) · [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels_Subterranean_Networks.md) · [D33](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md) · [C74](../C_Global_Traditions/C74_Pueblo_Hopi_Ancestral_Puebloan.md)
 > **Reliability Tier:** Tier 1-3 (verified geological and biological data through speculative ancient tunnel claims)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 28 scholarly sources | **Confidence:** Moderate-High
 
@@ -144,15 +144,15 @@ Caves represent some of Earth's most extraordinary environments — sealed ecosy
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [J08](../J_Ancient_Technology/J08_Sacred_Caves.md) | Sacred caves — ritual and ceremonial use |
-| [B03](../B_Beings_and_Entities/B03_Underground_Creatures.md) | Underground beings in mythological traditions |
-| [R07](../R_Biology_Evolution/R07_Extremophiles.md) | Extremophile biology — chemosynthesis, ancient bacteria |
-| [R08](../R_Biology_Evolution/R08_Convergent_Evolution.md) | Convergent evolution in cave-adapted species |
-| [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels.md) | Ancient tunnel networks — Derinkuyu and claims |
-| [D33](../D_Sites_and_Artifacts/D33_Cave_Art.md) | Cave art traditions across continents |
-| [C74](../C_Global_Traditions/C74_Hopi_Sipapu.md) | Hopi emergence mythology — Sipapu |
-| [L04](../L_Genetics_Origins/L04_Denisovans.md) | Denisova Cave — multi-species occupation |
-| [K08](../K_Consciousness/K08_Meditation.md) | Altered states in sensory deprivation environments |
+| [J08](../J_Ancient_Technology/J08_Sacred_Caves_Ritual_Technology.md) | Sacred caves — ritual and ceremonial use |
+| [B03](../B_Beings_and_Entities/B03_Underground_Creatures_and_Myths.md) | Underground beings in mythological traditions |
+| [R07](../R_Biology_Evolution/R07_Extremophile_Biology.md) | Extremophile biology — chemosynthesis, ancient bacteria |
+| [R08](../R_Biology_Evolution/R08_Convergent_Evolution_Aquatic_Ape.md) | Convergent evolution in cave-adapted species |
+| [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels_Subterranean_Networks.md) | Ancient tunnel networks — Derinkuyu and claims |
+| [D33](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md) | Cave art traditions across continents |
+| [C74](../C_Global_Traditions/C74_Pueblo_Hopi_Ancestral_Puebloan.md) | Hopi emergence mythology — Sipapu |
+| [L04](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) | Denisova Cave — multi-species occupation |
+| [K08](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Altered states in sensory deprivation environments |
 
 ---
 

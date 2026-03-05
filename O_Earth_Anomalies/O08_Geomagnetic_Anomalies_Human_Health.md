@@ -3,7 +3,7 @@
 > **Document ID:** O08
 > **Section:** O_Earth_Anomalies
 > **Keywords:** geomagnetism, South Atlantic Anomaly, God Helmet, Persinger, geomagnetic storms, magnetoreception, Schumann resonance, cardiac events, cryptochrome, Van Allen belt
-> **Cross-References:** [E06](../E_Cataclysms_and_Chronology/E06_Paleomagnetism_Pole_Reversals.md) · [O04](O04_Magnetosphere_Radiation_Belts.md) · [G11](../G_Modern_Frameworks/G11_Schumann_Resonance.md) · [E25](../E_Cataclysms_and_Chronology/E25_Laschamp_Excursion.md) · [K13](../K_Consciousness/K13_Pineal_Gland.md)
+> **Cross-References:** [E06](../E_Cataclysms_and_Chronology/E06_Paleomagnetism_Geomagnetic_Excursions.md) · [O04](O04_Magnetosphere_Solar_Activity.md) · [G11](../G_Modern_Frameworks/G11_Schumann_Resonance.md) · [E25](../E_Cataclysms_and_Chronology/E25_Magnetic_Pole_Reversals_Laschamp.md) · [K13](../K_Consciousness/K13_Pineal_Gland_Third_Eye.md)
 > **Reliability Tier:** Tier 1-3 (verified satellite data and clinical studies through speculative sacred-site correlations)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 24 scholarly sources | **Confidence:** Moderate-High
 
@@ -138,13 +138,13 @@ Earth's geomagnetic field is not uniform — dramatic anomalies like the South A
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [E06](../E_Cataclysms_and_Chronology/E06_Paleomagnetism_Pole_Reversals.md) | Paleomagnetic reversals — geological record of field changes |
-| [O04](O04_Magnetosphere_Radiation_Belts.md) | Magnetosphere structure and Van Allen belts |
+| [E06](../E_Cataclysms_and_Chronology/E06_Paleomagnetism_Geomagnetic_Excursions.md) | Paleomagnetic reversals — geological record of field changes |
+| [O04](O04_Magnetosphere_Solar_Activity.md) | Magnetosphere structure and Van Allen belts |
 | [G11](../G_Modern_Frameworks/G11_Schumann_Resonance.md) | Schumann resonance — 7.83 Hz Earth cavity resonance |
-| [E25](../E_Cataclysms_and_Chronology/E25_Laschamp_Excursion.md) | Laschamp geomagnetic excursion ~41 ka |
-| [K13](../K_Consciousness/K13_Pineal_Gland.md) | Pineal gland magnetite and melatonin-geomagnetic link |
-| [K08](../K_Consciousness/K08_Meditation.md) | Meditation, altered states, temporal lobe stimulation |
-| [R07](../R_Biology_Evolution/R07_Extremophiles.md) | Magnetotactic bacteria as extremophile model |
+| [E25](../E_Cataclysms_and_Chronology/E25_Magnetic_Pole_Reversals_Laschamp.md) | Laschamp geomagnetic excursion ~41 ka |
+| [K13](../K_Consciousness/K13_Pineal_Gland_Third_Eye.md) | Pineal gland magnetite and melatonin-geomagnetic link |
+| [K08](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Meditation, altered states, temporal lobe stimulation |
+| [R07](../R_Biology_Evolution/R07_Extremophile_Biology.md) | Magnetotactic bacteria as extremophile model |
 | [Q14](../Q_Cosmology_Physics/Q14_Fate_of_Universe.md) | Solar physics, cosmic radiation context |
 
 ---

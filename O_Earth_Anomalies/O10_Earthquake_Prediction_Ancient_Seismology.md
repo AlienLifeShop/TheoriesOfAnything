@@ -3,7 +3,7 @@
 > **Document ID:** O10
 > **Section:** O_Earth_Anomalies
 > **Keywords:** earthquake prediction, Zhang Heng, seismoscope, animal precursors, radon, earthquake lights, piezoelectric, induced seismicity, fracking, Poseidon, Namazu, Ring of Fire
-> **Cross-References:** [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Earthquake_Lights.md) · [O06](O06_Volcanism.md) · [J15](../J_Ancient_Technology/J15_Chinese_Tech_Zhang_Heng.md) · [D21](../D_Sites_and_Artifacts/D21_Crystal_Piezoelectric.md)
+> **Cross-References:** [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) · [O06](O06_Volcanism_Supervolcanoes.md) · [J15](../J_Ancient_Technology/J15_Chinese_Ancient_Technology.md) · [D21](../D_Sites_and_Artifacts/D21_Crystal_Stone_Piezoelectric_Technology.md)
 > **Reliability Tier:** Tier 1-3 (verified seismological science through debated prediction methods)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 26 scholarly sources | **Confidence:** Moderate
 
@@ -130,7 +130,7 @@ Earthquake prediction remains one of the great unsolved problems of geoscience �
 8. Reid, H. F. (1910). *The Mechanics of the Earthquake, The California Earthquake of April 18, 1906*. Carnegie Institution of Washington.
 9. Thériault, R., et al. (2014). Prevalence of earthquake lights associated with rift environments. *Seismological Research Letters*, 85(1), 159-178.
 10. Tributsch, H. (1982). *When the Snakes Awake: Animals and Earthquake Prediction*. MIT Press.
-11. USGS. (2024). Earthquake Hazards Program — Can we predict earthquakes? https://www.usgs.gov/faqs/can-you-predict-earthquakes
+11. USGS. (2024). "Can We Predict Earthquakes?" *Earthquake Hazards Program FAQ*. https://www.usgs.gov/faqs/can-you-predict-earthquakes
 12. Wikelski, M., et al. (2020). Potential short-term earthquake forecasting by farm animal monitoring. *Ethology*, 126(9), 931-941.
 
 ---
@@ -139,13 +139,13 @@ Earthquake prediction remains one of the great unsolved problems of geoscience �
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Earthquake_Lights.md) | Earthquake lights — luminous phenomena and piezoelectric effects |
-| [O06](O06_Volcanism.md) | Volcanism — related tectonic hazard |
-| [J15](../J_Ancient_Technology/J15_Chinese_Tech_Zhang_Heng.md) | Zhang Heng's seismoscope — ancient Chinese technology |
-| [D21](../D_Sites_and_Artifacts/D21_Crystal_Piezoelectric.md) | Crystal and piezoelectric properties in ancient contexts |
-| [O04](O04_Magnetosphere_Radiation_Belts.md) | Electromagnetic precursors and geomagnetic context |
-| [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction.md) | Catastrophism and cyclical geological events |
-| [C74](../C_Global_Traditions/C74_Hopi_Sipapu.md) | Ring of Fire cultural awareness in Pacific traditions |
+| [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) | Earthquake lights — luminous phenomena and piezoelectric effects |
+| [O06](O06_Volcanism_Supervolcanoes.md) | Volcanism — related tectonic hazard |
+| [J15](../J_Ancient_Technology/J15_Chinese_Ancient_Technology.md) | Zhang Heng's seismoscope — ancient Chinese technology |
+| [D21](../D_Sites_and_Artifacts/D21_Crystal_Stone_Piezoelectric_Technology.md) | Crystal and piezoelectric properties in ancient contexts |
+| [O04](O04_Magnetosphere_Solar_Activity.md) | Electromagnetic precursors and geomagnetic context |
+| [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) | Catastrophism and cyclical geological events |
+| [C74](../C_Global_Traditions/C74_Pueblo_Hopi_Ancestral_Puebloan.md) | Ring of Fire cultural awareness in Pacific traditions |
 
 ---
 

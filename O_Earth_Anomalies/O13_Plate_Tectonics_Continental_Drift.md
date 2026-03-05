@@ -3,7 +3,7 @@
 > **Document ID:** O13
 > **Section:** O_Earth_Anomalies
 > **Keywords:** plate tectonics, continental drift, Wegener, Hess, seafloor spreading, magnetic stripes, mantle convection, Pangaea, Rodinia, supercontinent cycle, Expanding Earth, LLSVP, core-mantle boundary, subduction, mid-ocean ridge
-> **Cross-References:** [O01](../O_Earth_Anomalies/O01_Ley_Lines_Earth_Grid.md) · [E01](../E_Cataclysms_and_Chronology/E01_Catastrophism.md) · [H15](../H_Suppression_and_Thesis/H15_Scientific_Censorship.md) · [Q22](../Q_Cosmology_Physics/Q22_Symmetry_Noether.md) · [R30](../R_Biology_Evolution/R30_Photosynthesis.md)
+> **Cross-References:** [O01](../O_Earth_Anomalies/O01_Ley_Lines_Earth_Grid.md) · [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [H15](../H_Suppression_and_Thesis/H15_Scientific_Censorship_Paradigm_Defense.md) · [Q22](../Q_Cosmology_Physics/Q22_General_Special_Relativity.md) · [R30](../R_Biology_Evolution/R31_Photosynthesis.md)
 > **Reliability Tier:** Tier 1-2 (core theory is bedrock geoscience; deep Earth dynamics remain active research)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Very High (plate tectonics); Moderate (deep Earth)
 
@@ -160,18 +160,18 @@ Plate tectonics — the theory that Earth's outer shell (lithosphere) is divided
 | Topic | Document | Relationship |
 |---|---|---|
 | Earth Grid | [O01](../O_Earth_Anomalies/O01_Ley_Lines_Earth_Grid.md) | Fringe geometric overlay on plate boundaries |
-| Catastrophism | [E01](../E_Cataclysms_and_Chronology/E01_Catastrophism.md) | Rapid vs. gradualist change |
-| Scientific Censorship | [H15](../H_Suppression_and_Thesis/H15_Scientific_Censorship.md) | Wegener's 50-year rejection |
-| Symmetry | [Q22](../Q_Cosmology_Physics/Q22_Symmetry_Noether.md) | Magnetic stripe symmetry |
-| Photosynthesis/Oxygen | [R30](../R_Biology_Evolution/R30_Photosynthesis.md) | Carbon cycle and habitability |
+| Catastrophism | [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Rapid vs. gradualist change |
+| Scientific Censorship | [H15](../H_Suppression_and_Thesis/H15_Scientific_Censorship_Paradigm_Defense.md) | Wegener's 50-year rejection |
+| Symmetry | [Q22](../Q_Cosmology_Physics/Q22_General_Special_Relativity.md) | Magnetic stripe symmetry |
+| Photosynthesis/Oxygen | [R30](../R_Biology_Evolution/R31_Photosynthesis.md) | Carbon cycle and habitability |
 | Volcanism | [O06](../O_Earth_Anomalies/O06_Volcanism_Supervolcanoes.md) | Subduction zone volcanism |
 | Earthquake Prediction | [O10](../O_Earth_Anomalies/O10_Earthquake_Prediction_Ancient_Seismology.md) | Seismicity at plate boundaries |
 | Geomagnetic Anomalies | [O08](../O_Earth_Anomalies/O08_Geomagnetic_Anomalies_Human_Health.md) | Magnetic striping and field reversals |
-| Biodiversity | [R12](../R_Biology_Evolution/R12_Biodiversity.md) | Continental configuration and speciation |
+| Biodiversity | [R12](../R_Biology_Evolution/R12_Horizontal_Gene_Transfer.md) | Continental configuration and speciation |
 | Atmospheric Anomalies | [O14](../O_Earth_Anomalies/O14_Atmospheric_Anomalies_Ball_Lightning.md) | Rift zone luminous phenomena |
 | Sacred Hydrology | [O15](../O_Earth_Anomalies/O15_Rivers_Arteries_Sacred_Hydrology.md) | Tectonic river capture |
 | Permafrost | [O16](../O_Earth_Anomalies/O16_Permafrost_Cryosphere_Frozen_Time_Capsules.md) | Ice ages and continental positioning |
-| Cosmology | [Q01](../Q_Cosmology_Physics/Q01_Cosmology.md) | Planetary habitability conditions |
+| Cosmology | [Q01](../Q_Cosmology_Physics/Q01_Anthropic_Principle_Fine_Tuning.md) | Planetary habitability conditions |
 | Megafauna Extinction | [E28](../E_Cataclysms_and_Chronology/E28_Megafauna_Extinction.md) | Continental configuration and migration |
 
 ---

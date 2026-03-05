@@ -3,7 +3,7 @@
 > **Document ID:** O15
 > **Section:** O_Earth_Anomalies
 > **Keywords:** rivers, sacred hydrology, Ganges, Nile, Jordan, Amazon, Yellow River, watershed, dendritic drainage, aquifer depletion, Schauberger, vortex, baptism, river goddess, freshwater ecology, dam impact
-> **Cross-References:** [R06](../R_Biology_Evolution/R06_Gaia_Theory.md) · [C70](../C_Global_Traditions/C70_Sacred_Mountains.md) · [C103](../C_Global_Traditions/C103_Pilgrimage.md) · [O12](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md) · [S25](../S_Future_Technology/S25_Food_Security.md)
+> **Cross-References:** [R06](../R_Biology_Evolution/R06_Gaia_Theory.md) · [C70](../C_Global_Traditions/C70_Sacred_Mountains_Cosmic_Mountain.md) · [C103](../C_Global_Traditions/C103_Sacred_Pilgrimage_Traditions.md) · [O12](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md) · [S25](../S_Future_Technology/S25_Food_Security_Agricultural_Technology.md)
 > **Reliability Tier:** Tier 1-3 (hydrological science is well-established; sacred ecology interpretations range from documented practice to speculative analogy)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Moderate-High
 
@@ -150,7 +150,7 @@ Rivers have served as the circulatory system of human civilization since the ear
 17. Wohl, Ellen. *Disconnected Rivers: Linking Rivers to Landscapes*. New Haven: Yale University Press, 2004.
 18. O'Bryan, Christopher J., et al. "The Contribution of Predators and Scavengers to Human Well-Being." *Nature Ecology & Evolution* 2 (2018): 229-236.
 19. Rinaldo, Andrea, et al. "River Networks as Ecological Corridors." *PLoS ONE* 3, no. 6 (2008): e2507.
-20. Te Awa Tupua (Whanganui River Claims Settlement) Act 2017. New Zealand Legislation.
+20. *Te Awa Tupua (Whanganui River Claims Settlement) Act 2017*. New Zealand Legislation.
 21. Bartholomew, Alick. *Hidden Nature: The Startling Insights of Viktor Schauberger*. Edinburgh: Floris Books, 2003.
 22. Haberman, David L. *River of Love in an Age of Pollution: The Yamuna River of Northern India*. Berkeley: University of California Press, 2006.
 
@@ -161,18 +161,18 @@ Rivers have served as the circulatory system of human civilization since the ear
 | Topic | Document | Relationship |
 |---|---|---|
 | Gaia Theory | [R06](../R_Biology_Evolution/R06_Gaia_Theory.md) | Planetary circulatory analogy |
-| Sacred Mountains | [C70](../C_Global_Traditions/C70_Sacred_Mountains.md) | River source mythology |
-| Pilgrimage | [C103](../C_Global_Traditions/C103_Pilgrimage.md) | Sacred river pilgrimage |
+| Sacred Mountains | [C70](../C_Global_Traditions/C70_Sacred_Mountains_Cosmic_Mountain.md) | River source mythology |
+| Pilgrimage | [C103](../C_Global_Traditions/C103_Sacred_Pilgrimage_Traditions.md) | Sacred river pilgrimage |
 | Cenotes / Sacred Water | [O12](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md) | Freshwater sacrality |
-| Food Security | [S25](../S_Future_Technology/S25_Food_Security.md) | Aquifer depletion / irrigation |
+| Food Security | [S25](../S_Future_Technology/S25_Food_Security_Agricultural_Technology.md) | Aquifer depletion / irrigation |
 | Sacred Water | [O07](../O_Earth_Anomalies/O07_Sacred_Water_Wells_Springs.md) | Freshwater veneration |
 | Climate History | [O12](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md) | Hydrological change |
 | Sumerian Texts | [A01](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) | Tigris-Euphrates in Mesopotamian cosmology |
 | Egyptian Mythology | [A19](../A_Foundations/A19_Egyptian_Book_of_the_Dead.md) | Nile as Osiris body |
 | Vedic Cosmology | [A20](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md) | Sarasvati / sacred river tradition |
-| Biodiversity | [R12](../R_Biology_Evolution/R12_Biodiversity.md) | Riparian and fluvial biodiversity |
+| Biodiversity | [R12](../R_Biology_Evolution/R12_Horizontal_Gene_Transfer.md) | Riparian and fluvial biodiversity |
 | Plate Tectonics | [O13](../O_Earth_Anomalies/O13_Plate_Tectonics_Continental_Drift.md) | Tectonic river capture (Sarasvati) |
-| Dam Engineering | [J05](../J_Ancient_Technology/J05_Ancient_Engineering.md) | Ancient and modern hydraulic engineering |
+| Dam Engineering | [J05](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Ancient and modern hydraulic engineering |
 
 ---
 

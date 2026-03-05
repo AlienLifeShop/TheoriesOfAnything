@@ -3,7 +3,7 @@
 > **Document ID:** O12
 > **Section:** O_Earth_Anomalies
 > **Keywords:** cenotes, sinkholes, Maya, Chicxulub, Chaac, Xibalba, karst, blue holes, Sacred Cenote, Chichén Itzá, aquifer, limestone, dolomite, Thompson
-> **Cross-References:** [O07](O07_Sacred_Water.md) · [C37](../C_Global_Traditions/C37_Maya_Astronomy.md) · [C69](../C_Global_Traditions/C69_Angkor_Wat.md) · [E20](../E_Cataclysms_and_Chronology/E20_Chicxulub.md) · [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels.md)
+> **Cross-References:** [O07](O07_Sacred_Water_Wells_Springs.md) · [C37](../C_Global_Traditions/C37_Maya_Epigraphy_Astronomy.md) · [C69](../C_Global_Traditions/C69_Angkor_Wat_Khmer_Cosmology.md) · [E20](../E_Cataclysms_and_Chronology/E20_Chicxulub_Impact_KPg_Boundary.md) · [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels_Subterranean_Networks.md)
 > **Reliability Tier:** Tier 1-3 (verified geology and archaeology through speculative ritual interpretations)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** Moderate-High
 
@@ -148,14 +148,14 @@ Cenotes — natural sinkholes exposing groundwater in the limestone bedrock of t
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [O07](O07_Sacred_Water.md) | Sacred water traditions across cultures |
-| [C37](../C_Global_Traditions/C37_Maya_Astronomy.md) | Maya astronomy and Xibalba cosmology |
-| [C69](../C_Global_Traditions/C69_Angkor_Wat.md) | Angkor Wat — ancient water infrastructure |
-| [E20](../E_Cataclysms_and_Chronology/E20_Chicxulub.md) | Chicxulub asteroid impact — cenote ring |
-| [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels.md) | Underground tunnels and passage networks |
-| [L04](../L_Genetics_Origins/L04_Denisovans.md) | Hoyo Negro — Paleoamerican skeletal finds |
-| [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction.md) | Catastrophic events and civilizational collapse |
-| [R07](../R_Biology_Evolution/R07_Extremophiles.md) | Cave extremophile organisms |
+| [O07](O07_Sacred_Water_Wells_Springs.md) | Sacred water traditions across cultures |
+| [C37](../C_Global_Traditions/C37_Maya_Epigraphy_Astronomy.md) | Maya astronomy and Xibalba cosmology |
+| [C69](../C_Global_Traditions/C69_Angkor_Wat_Khmer_Cosmology.md) | Angkor Wat — ancient water infrastructure |
+| [E20](../E_Cataclysms_and_Chronology/E20_Chicxulub_Impact_KPg_Boundary.md) | Chicxulub asteroid impact — cenote ring |
+| [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels_Subterranean_Networks.md) | Underground tunnels and passage networks |
+| [L04](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) | Hoyo Negro — Paleoamerican skeletal finds |
+| [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) | Catastrophic events and civilizational collapse |
+| [R07](../R_Biology_Evolution/R07_Extremophile_Biology.md) | Cave extremophile organisms |
 
 ---
 

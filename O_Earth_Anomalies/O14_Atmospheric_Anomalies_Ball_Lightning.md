@@ -3,7 +3,7 @@
 > **Document ID:** O14
 > **Section:** O_Earth_Anomalies
 > **Keywords:** ball lightning, Hessdalen lights, earthquake lights, St. Elmo's fire, sprites, jets, ELVES, piezoelectric, Freund, brown mountain lights, noctilucent clouds, atmospheric phenomena, luminous anomalies, transient luminous events
-> **Cross-References:** [I01](../I_UAP_Disclosure/I01_UAP_Overview.md) · [G32](../G_Modern_Frameworks/G32_Biofield_Science.md) · [O01](../O_Earth_Anomalies/O01_Ley_Lines_Earth_Grid.md) · [Q04](../Q_Cosmology_Physics/Q04_Electromagnetism.md) · [E01](../E_Cataclysms_and_Chronology/E01_Catastrophism.md)
+> **Cross-References:** [I01](../I_UAP_Disclosure/I01_UAP_Government_Disclosure_Timeline.md) · [G32](../G_Modern_Frameworks/G32_Biofield_Science_Electromagnetic_Subtle_Energy.md) · [O01](../O_Earth_Anomalies/O01_Ley_Lines_Earth_Grid.md) · [Q04](../Q_Cosmology_Physics/Q04_Fermi_Paradox_Drake_Equation.md) · [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md)
 > **Reliability Tier:** Tier 1-3 (documented phenomena through debated explanatory models)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** Moderate
 
@@ -160,19 +160,19 @@ The atmosphere produces a range of luminous phenomena that, despite centuries of
 
 | Topic | Document | Relationship |
 |---|---|---|
-| UAP Overview | [I01](../I_UAP_Disclosure/I01_UAP_Overview.md) | Misidentification / natural explanation |
-| Biofield Science | [G32](../G_Modern_Frameworks/G32_Biofield_Science.md) | Plasma / energy phenomena |
+| UAP Overview | [I01](../I_UAP_Disclosure/I01_UAP_Government_Disclosure_Timeline.md) | Misidentification / natural explanation |
+| Biofield Science | [G32](../G_Modern_Frameworks/G32_Biofield_Science_Electromagnetic_Subtle_Energy.md) | Plasma / energy phenomena |
 | Earth Grid | [O01](../O_Earth_Anomalies/O01_Ley_Lines_Earth_Grid.md) | Geological luminosity at grid nodes |
-| Electromagnetism | [Q04](../Q_Cosmology_Physics/Q04_Electromagnetism.md) | Physical mechanisms |
-| Catastrophism | [E01](../E_Cataclysms_and_Chronology/E01_Catastrophism.md) | Seismic triggers |
+| Electromagnetism | [Q04](../Q_Cosmology_Physics/Q04_Fermi_Paradox_Drake_Equation.md) | Physical mechanisms |
+| Catastrophism | [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Seismic triggers |
 | Geomagnetic Anomalies | [O08](../O_Earth_Anomalies/O08_Geomagnetic_Anomalies_Human_Health.md) | Magnetic field coupling |
 | Earthquake Prediction | [O10](../O_Earth_Anomalies/O10_Earthquake_Prediction_Ancient_Seismology.md) | EQL / seismic precursor phenomena |
 | Plate Tectonics | [O13](../O_Earth_Anomalies/O13_Plate_Tectonics_Continental_Drift.md) | Rift zone correlation with EQLs |
-| Scientific Censorship | [H15](../H_Suppression_and_Thesis/H15_Scientific_Censorship.md) | Historical dismissal of atmospheric anomalies |
+| Scientific Censorship | [H15](../H_Suppression_and_Thesis/H15_Scientific_Censorship_Paradigm_Defense.md) | Historical dismissal of atmospheric anomalies |
 | Volcanism | [O06](../O_Earth_Anomalies/O06_Volcanism_Supervolcanoes.md) | Volcanic lightning / atmospheric effects |
-| Consciousness Studies | [K01](../K_Consciousness/K01_Consciousness_Overview.md) | Persinger's temporal lobe stimulation |
+| Consciousness Studies | [K01](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Persinger's temporal lobe stimulation |
 | Permafrost | [O16](../O_Earth_Anomalies/O16_Permafrost_Cryosphere_Frozen_Time_Capsules.md) | Methane release / atmospheric effects |
-| Noctilucent Clouds | [Q04](../Q_Cosmology_Physics/Q04_Electromagnetism.md) | Mesospheric physics |
+| Noctilucent Clouds | [Q04](../Q_Cosmology_Physics/Q04_Fermi_Paradox_Drake_Equation.md) | Mesospheric physics |
 
 ---
 

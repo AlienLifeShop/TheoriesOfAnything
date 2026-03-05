@@ -3,7 +3,7 @@
 > **Document ID:** O11
 > **Section:** O_Earth_Anomalies
 > **Keywords:** bioluminescence, luciferin, luciferase, deep sea, firefly synchrony, dinoflagellates, GFP, anglerfish, foxfire, will-o-the-wisp, convergent evolution, immortal jellyfish
-> **Cross-References:** [O03](O03_Ocean_Mysteries.md) · [R07](../R_Biology_Evolution/R07_Extremophiles.md) · [R16](../R_Biology_Evolution/R16_Plant_Intelligence.md) · [G15](../G_Modern_Frameworks/G15_Self_Organization.md) · [R08](../R_Biology_Evolution/R08_Convergent_Evolution.md) · [R22](../R_Biology_Evolution/R22_Immortal_Jellyfish.md)
+> **Cross-References:** [O03](O03_Ocean_Mysteries_Deep_Sea.md) · [R07](../R_Biology_Evolution/R07_Extremophile_Biology.md) · [R16](../R_Biology_Evolution/R16_Plant_Intelligence_Botanical_Communication.md) · [G15](../G_Modern_Frameworks/G15_Self_Organization_Emergence.md) · [R08](../R_Biology_Evolution/R08_Convergent_Evolution_Aquatic_Ape.md) · [R22](../R_Biology_Evolution/R22_Aging_Longevity_Biology_of_Death.md)
 > **Reliability Tier:** Tier 1-2 (well-established biochemistry and marine biology with some debated cultural interpretations)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
 
@@ -141,13 +141,13 @@ Bioluminescence — the production of light by living organisms — is among the
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [O03](O03_Ocean_Mysteries.md) | Deep ocean — unexplored ecosystems and phenomena |
-| [R07](../R_Biology_Evolution/R07_Extremophiles.md) | Extremophile organisms in deep-sea environments |
-| [R08](../R_Biology_Evolution/R08_Convergent_Evolution.md) | Convergent evolution — bioluminescence evolved 40+ times independently |
-| [R16](../R_Biology_Evolution/R16_Plant_Intelligence.md) | Plant intelligence — engineered bioluminescent plants |
-| [G15](../G_Modern_Frameworks/G15_Self_Organization.md) | Self-organization — firefly synchronization as emergence |
-| [R22](../R_Biology_Evolution/R22_Immortal_Jellyfish.md) | Biological immortality — Turritopsis dohrnii |
-| [D21](../D_Sites_and_Artifacts/D21_Crystal_Piezoelectric.md) | Dendera light — fringe reinterpretation |
+| [O03](O03_Ocean_Mysteries_Deep_Sea.md) | Deep ocean — unexplored ecosystems and phenomena |
+| [R07](../R_Biology_Evolution/R07_Extremophile_Biology.md) | Extremophile organisms in deep-sea environments |
+| [R08](../R_Biology_Evolution/R08_Convergent_Evolution_Aquatic_Ape.md) | Convergent evolution — bioluminescence evolved 40+ times independently |
+| [R16](../R_Biology_Evolution/R16_Plant_Intelligence_Botanical_Communication.md) | Plant intelligence — engineered bioluminescent plants |
+| [G15](../G_Modern_Frameworks/G15_Self_Organization_Emergence.md) | Self-organization — firefly synchronization as emergence |
+| [R22](../R_Biology_Evolution/R22_Aging_Longevity_Biology_of_Death.md) | Biological immortality — Turritopsis dohrnii |
+| [D21](../D_Sites_and_Artifacts/D21_Crystal_Stone_Piezoelectric_Technology.md) | Dendera light — fringe reinterpretation |
 
 ---
 

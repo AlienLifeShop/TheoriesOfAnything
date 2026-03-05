@@ -3,7 +3,7 @@
 > **Document ID:** O16
 > **Section:** O_Earth_Anomalies
 > **Keywords:** permafrost, cryosphere, ice core, paleoclimatology, ancient virus, Pithovirus, mammoth genome, thermokarst, methane, carbon bomb, Siberian craters, Greenland, Antarctic, frozen time capsule, EPICA, Vostok
-> **Cross-References:** [O12](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md) · [E28](../E_Cataclysms_and_Chronology/E28_Megafauna_Extinction.md) · [R12](../R_Biology_Evolution/R12_Biodiversity.md) · [S22](../S_Future_Technology/S22_Geoengineering.md) · [L06](../L_Genetics_Origins/L06_Archaic_Humans.md)
+> **Cross-References:** [O12](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md) · [E28](../E_Cataclysms_and_Chronology/E28_Megafauna_Extinction.md) · [R12](../R_Biology_Evolution/R12_Horizontal_Gene_Transfer.md) · [S22](../S_Future_Technology/S22_Internet_Digital_Civilization.md) · [L06](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md)
 > **Reliability Tier:** Tier 1-2 (cryospheric science is mature; implications for climate, biology, and ancient DNA are active research frontiers)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 24 scholarly sources | **Confidence:** High
 
@@ -164,15 +164,15 @@ Permafrost — permanently frozen ground covering approximately 25% of the North
 |---|---|---|
 | Climate History | [O12](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md) | Paleoclimate records |
 | Megafauna Extinction | [E28](../E_Cataclysms_and_Chronology/E28_Megafauna_Extinction.md) | Mammoth preservation and genomics |
-| Biodiversity | [R12](../R_Biology_Evolution/R12_Biodiversity.md) | Cryospheric ecosystems and loss |
-| Geoengineering | [S22](../S_Future_Technology/S22_Geoengineering.md) | Carbon feedback and intervention |
-| Archaic Humans | [L06](../L_Genetics_Origins/L06_Archaic_Humans.md) | Ancient DNA from permafrost |
+| Biodiversity | [R12](../R_Biology_Evolution/R12_Horizontal_Gene_Transfer.md) | Cryospheric ecosystems and loss |
+| Geoengineering | [S22](../S_Future_Technology/S22_Internet_Digital_Civilization.md) | Carbon feedback and intervention |
+| Archaic Humans | [L06](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) | Ancient DNA from permafrost |
 | Volcanism | [O06](../O_Earth_Anomalies/O06_Volcanism_Supervolcanoes.md) | Ice-core volcanic records |
 | Plate Tectonics | [O13](../O_Earth_Anomalies/O13_Plate_Tectonics_Continental_Drift.md) | Continental positioning and ice ages |
 | Atmospheric Anomalies | [O14](../O_Earth_Anomalies/O14_Atmospheric_Anomalies_Ball_Lightning.md) | Methane release / atmospheric chemistry |
 | Sacred Hydrology | [O15](../O_Earth_Anomalies/O15_Rivers_Arteries_Sacred_Hydrology.md) | Glacial meltwater / river systems |
-| Genetics | [L01](../L_Genetics_Origins/L01_Human_Genome.md) | Ancient DNA recovery techniques |
-| Biology / Evolution | [R01](../R_Biology_Evolution/R01_Evolution_Overview.md) | De-extinction ethical debate |
+| Genetics | [L01](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Ancient DNA recovery techniques |
+| Biology / Evolution | [R01](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) | De-extinction ethical debate |
 
 ---
 
