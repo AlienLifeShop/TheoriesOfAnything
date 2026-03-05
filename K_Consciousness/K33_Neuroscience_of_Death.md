@@ -3,7 +3,7 @@
 > **Document ID:** K33
 > **Section:** K_Consciousness
 > **Keywords:** terminal lucidity, dying brain, gamma wave surge, cortical spreading depolarization, near-death experience, DMT hypothesis, AWARE study, Sam Parnia, deathbed visions, hospice, Borjigin, EEG, Nahm, Greyson
-> **Cross-References:** [K01](K01_NDEs_OBEs.md) · [K30](K30_Mystical_Experience_Neuroscience.md) · [P17](../P_Philosophy_Meaning/P17_Afterlife_Beliefs.md) · [K08](K08_Psychedelics_Consciousness.md) · [T08](../T_Psychology_Social/T08_Grief_Bereavement.md)
+> **Cross-References:** [K01](K01_NDEs_OBEs_Consciousness.md) · [K30](K30_Mystical_Experience_Neuroscience.md) · [P17](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) · [K08](K08_Meditation_Neuroplasticity.md) · [T08](../T_Psychology_Social/T08_Psychology_Grief_Loss_Death.md)
 > **Reliability Tier:** Tier 1-3 (peer-reviewed neuroscience through contested interpretive frameworks)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High for physiological data, Moderate for phenomenological accounts, Low for ontological interpretations
 
@@ -167,11 +167,11 @@ The neuroscience of death has emerged as a legitimate research frontier, reveali
 
 | Document | Relation | Relevance |
 |----------|----------|-----------|
-| [K01](K01_NDEs_OBEs.md) | Parent topic | Near-death and out-of-body experiences |
+| [K01](K01_NDEs_OBEs_Consciousness.md) | Parent topic | Near-death and out-of-body experiences |
 | [K30](K30_Mystical_Experience_Neuroscience.md) | Direct link | Mystical phenomenology of dying experiences |
-| [P17](../P_Philosophy_Meaning/P17_Afterlife_Beliefs.md) | Philosophical | Afterlife beliefs and scientific evidence |
-| [K08](K08_Psychedelics_Consciousness.md) | Neurochemical | DMT hypothesis and psychedelic parallels |
-| [T08](../T_Psychology_Social/T08_Grief_Bereavement.md) | Clinical | Deathbed visions and bereavement |
+| [P17](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) | Philosophical | Afterlife beliefs and scientific evidence |
+| [K08](K08_Meditation_Neuroplasticity.md) | Neurochemical | DMT hypothesis and psychedelic parallels |
+| [T08](../T_Psychology_Social/T08_Psychology_Grief_Loss_Death.md) | Clinical | Deathbed visions and bereavement |
 | [K32](K32_Psychedelic_Renaissance_Clinical.md) | Related | DMT research and consciousness |
 | [K34](K34_Split_Brain_Divided_Consciousness.md) | Theoretical | Unity of consciousness at death |
 

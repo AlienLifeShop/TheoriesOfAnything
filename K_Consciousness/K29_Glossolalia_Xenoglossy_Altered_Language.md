@@ -3,7 +3,7 @@
 > **Document ID:** K29
 > **Section:** K_Consciousness
 > **Keywords:** glossolalia, speaking in tongues, xenoglossy, Pentecostal, Pythia, Delphi, oracle, Vodou, Sufi dhikr, fMRI, frontal lobe, Ian Stevenson, spirit language, phonemic inventory, interpretation of tongues, Sibylline
-> **Cross-References:** [C50](../C_Global_Traditions/C50_Vodou.md) · [K15](K15_Shamanic_Practices.md) · [K02](K02_Altered_States.md) · [K25](K25_Hypnosis_History_Neuroscience.md) · [P18](../P_Philosophy_Meaning/P18_Ritual_Symbol.md)
+> **Cross-References:** [C50](../C_Global_Traditions/C50_Haitian_Vodou_Afro_Diasporic.md) · [K15](K15_Shamanic_Practices_Altered_States.md) · [K02](K02_Altered_States_Psychedelics.md) · [K25](K25_Hypnosis_History_Neuroscience.md) · [P18](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred.md)
 > **Reliability Tier:** Tier 1-3 (neuroscience of glossolalia peer-reviewed; xenoglossy claims unverified; cross-cultural documentation extensive)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** Moderate
 
@@ -90,7 +90,7 @@ Glossolalia — commonly known as "speaking in tongues" — is a cross-cultural 
 - Multiple shamanic traditions worldwide involve singing or speaking in what practitioners describe as a "spirit language" during trance — distinct from normal speech and from known languages
 - Michael Winkelman (2010) proposes these represent a common altered-state phenomenon rooted in temporal lobe activation
 - Hypothesis that glossolalia, shamanic spirit language, and ecstatic oracle speech all represent the same underlying neurological phenomenon expressed in different cultural frameworks — plausible but formally untested across traditions
-- Some researchers suggest that rhythmic vocalization during trance serves to deepen and maintain the altered state — potentially through vagal nerve stimulation and respiratory modulation
+- Rouget (1985) suggests that rhythmic vocalization during trance serves to deepen and maintain the altered state — potentially through vagal nerve stimulation and respiratory modulation
 
 ### Neural Substrate Hypothesis
 - Proposal that glossolalia represents activation of pre-linguistic vocalization circuits (possibly subcortical, shared with other primates) while higher-order language centers are suppressed
@@ -106,7 +106,7 @@ Glossolalia — commonly known as "speaking in tongues" — is a cross-cultural 
 - Assertions that all glossolalia is "fake" or exclusively the product of social pressure — neuroscience clearly shows measurable brain changes during genuine glossolalia distinct from voluntary speech
 - Claims that xenoglossy proves reincarnation — even if verified, alternative explanations (telepathic access, genetic memory) would need to be excluded, and verification itself remains elusive
 - Internet claims that specific glossolalia recordings, when played backward, contain intelligible messages — pareidolia (pattern perception in random stimuli) is the established explanation
-- Assertions that glossolalia can be "learned" from YouTube tutorials represent normal language — studies show that taught glossolalia differs neurologically from spontaneous glossolalia (reduced prefrontal suppression in learned versions)
+- Assertions that glossolalia can be "learned" from YouTube tutorials represent normal language — studies (Newberg et al., 2006) show that taught glossolalia differs neurologically from spontaneous glossolalia (reduced prefrontal suppression in learned versions)
 
 ---
 
@@ -140,13 +140,13 @@ Glossolalia — commonly known as "speaking in tongues" — is a cross-cultural 
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C50 — Vodou Traditions](../C_Global_Traditions/C50_Vodou.md) | Possession speech and lwa communication during trance |
-| [K15 — Shamanic Practices](K15_Shamanic_Practices.md) | Spirit language and sacred chanting in trance traditions |
-| [K02 — Altered States of Consciousness](K02_Altered_States.md) | Glossolalia as a specific category of altered conscious expression |
+| [C50 — Vodou Traditions](../C_Global_Traditions/C50_Haitian_Vodou_Afro_Diasporic.md) | Possession speech and lwa communication during trance |
+| [K15 — Shamanic Practices](K15_Shamanic_Practices_Altered_States.md) | Spirit language and sacred chanting in trance traditions |
+| [K02 — Altered States of Consciousness](K02_Altered_States_Psychedelics.md) | Glossolalia as a specific category of altered conscious expression |
 | [K25 — Hypnosis](K25_Hypnosis_History_Neuroscience.md) | Shared frontal lobe deactivation pattern; hypnotic regression in xenoglossy cases |
-| [P18 — Ritual and Symbol](../P_Philosophy_Meaning/P18_Ritual_Symbol.md) | Glossolalia as ritual performance and communal bonding mechanism |
+| [P18 — Ritual and Symbol](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred.md) | Glossolalia as ritual performance and communal bonding mechanism |
 | [K26 — Flow States](K26_Flow_States_Peak_Performance.md) | Prefrontal bypass phenomena across different altered states |
-| [N08 — Sufi Orders](../N_Secret_Societies/N08_Sufi_Orders.md) | Ecstatic dhikr and altered vocalization in Sufi practice |
+| [N08 — Sufi Orders](../N_Secret_Societies/N08_Sufi_Orders_Islamic_Esotericism.md) | Ecstatic dhikr and altered vocalization in Sufi practice |
 
 ---
 

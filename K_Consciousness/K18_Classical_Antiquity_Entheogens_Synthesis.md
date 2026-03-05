@@ -428,4 +428,13 @@ The field is rapidly developing. New archaeochemical analyses of ancient vessels
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Wasson, R. Gordon, Hofmann, Albert & Ruck, Carl A.P. *The Road to Eleusis: Unveiling the Secret of the Mysteries*. Harcourt Brace Jovanovich, 1978.
+2. Muraresku, Brian C. *The Immortality Key: The Secret History of the Religion with No Name*. St. Martin's Press, 2020.
+3. Arie, Eran, Rosen, Baruch & Namdar, Dvory. "Cannabis and Frankincense at the Judahite Shrine of Arad." *Tel Aviv* 47.1 (2020): 5–28.
+4. McGovern, Patrick E. *Ancient Wine: The Search for the Origins of Viniculture*. Princeton University Press, 2003.
+5. McGovern, Patrick E. *Uncorking the Past: The Quest for Wine, Beer, and Other Alcoholic Beverages*. University of California Press, 2009.
+6. Griffiths, Roland R. et al. "Psilocybin Can Occasion Mystical-Type Experiences Having Substantial and Sustained Personal Meaning and Spiritual Significance." *Psychopharmacology* 187.3 (2006): 268–283.
+7. Russo, Ethan. "History of Cannabis and Its Preparations in Saga, Science, and Sobriquet." *Chemistry & Biodiversity* 4.8 (2007): 1614–1648.
+8. Clinton, Kevin. *The Sacred Officials of the Eleusinian Mysteries*. American Philosophical Society, 1974.
+9. Mylonas, George E. *Eleusis and the Eleusinian Mysteries*. Princeton University Press, 1961.
+10. Rinella, Michael A. *Pharmakon: Plato, Drug Culture, and Identity in Ancient Athens*. Lexington Books, 2010.

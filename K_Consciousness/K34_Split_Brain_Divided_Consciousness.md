@@ -3,7 +3,7 @@
 > **Document ID:** K34
 > **Section:** K_Consciousness
 > **Keywords:** split-brain, Roger Sperry, Michael Gazzaniga, corpus callosotomy, hemispheric specialization, left-brain interpreter, dual consciousness, Iain McGilchrist, personal identity, lateralization, commissurotomy
-> **Cross-References:** [K04](K04_Quantum_Consciousness.md) · [P11](../P_Philosophy_Meaning/P11_Personal_Identity.md) · [K31](K31_Machine_Consciousness_AI_Awareness.md) · [T10](../T_Psychology_Social/T10_Neurodiversity.md) · [R25](../R_Biology_Evolution/R25_Brain_Evolution.md)
+> **Cross-References:** [K04](K04_Quantum_Consciousness.md) · [P11](../P_Philosophy_Meaning/P11_Personal_Identity_Continuity.md) · [K31](K31_Machine_Consciousness_AI_Awareness.md) · [T10](../T_Psychology_Social/T10_Neurodiversity.md) · [R25](../R_Biology_Evolution/R02_Human_Brain_Evolution.md)
 > **Reliability Tier:** Tier 1-2 (Nobel Prize-winning research through debated philosophical interpretations)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High for experimental findings, Moderate for philosophical implications
 
@@ -168,10 +168,10 @@ Split-brain research — the study of patients whose corpus callosum has been su
 | Document | Relation | Relevance |
 |----------|----------|-----------|
 | [K04](K04_Quantum_Consciousness.md) | Theoretical | Unity of consciousness and quantum binding problem |
-| [P11](../P_Philosophy_Meaning/P11_Personal_Identity.md) | Philosophical | Personal identity and split-brain cases |
+| [P11](../P_Philosophy_Meaning/P11_Personal_Identity_Continuity.md) | Philosophical | Personal identity and split-brain cases |
 | [K31](K31_Machine_Consciousness_AI_Awareness.md) | Conceptual | Unified vs. divided consciousness in machines |
 | [T10](../T_Psychology_Social/T10_Neurodiversity.md) | Clinical | Hemispheric differences and neurodevelopment |
-| [R25](../R_Biology_Evolution/R25_Brain_Evolution.md) | Evolutionary | Evolution of lateralization |
+| [R25](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) | Evolutionary | Evolution of lateralization |
 | [K30](K30_Mystical_Experience_Neuroscience.md) | Related | Hemispheric contributions to mystical experience |
 | [K35](K35_Phantom_Limb_Body_Schema.md) | Related | Body representation and consciousness |
 

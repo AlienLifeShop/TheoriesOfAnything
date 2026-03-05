@@ -3,7 +3,7 @@
 > **Document ID:** K28
 > **Section:** K_Consciousness
 > **Keywords:** sensory deprivation, float tank, isolation tank, REST, John Lilly, Epsom salt, theta brainwave, dark retreat, yangti, thogal, Kogi mamos, Michel Siffre, cave isolation, circadian rhythm, phosphenes, flotation therapy
-> **Cross-References:** [K05](K05_Gateway_Process.md) · [J08](../J_Ancient_Technology/J08_Sacred_Caves.md) · [K15](K15_Shamanic_Practices.md) · [K02](K02_Altered_States.md) · [K13](K13_Pineal_Gland.md)
+> **Cross-References:** [K05](K05_CIA_Gateway_Process_Monroe_Institute.md) · [J08](../J_Ancient_Technology/J08_Sacred_Caves_Ritual_Technology.md) · [K15](K15_Shamanic_Practices_Altered_States.md) · [K02](K02_Altered_States_Psychedelics.md) · [K13](K13_Pineal_Gland_Third_Eye.md)
 > **Reliability Tier:** Tier 1-3 (flotation research peer-reviewed; dark retreat and traditional practices range from documented to speculative)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Moderate-High
 
@@ -122,11 +122,11 @@ Sensory deprivation research — the systematic reduction or elimination of sens
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K05 — Gateway Process](K05_Gateway_Process.md) | Altered state induction through sensory modification |
-| [J08 — Sacred Caves](../J_Ancient_Technology/J08_Sacred_Caves.md) | Caves as natural sensory deprivation environments |
-| [K15 — Shamanic Practices](K15_Shamanic_Practices.md) | Darkness and isolation in initiatory practices |
-| [K02 — Altered States](K02_Altered_States.md) | Sensory deprivation as a category of altered consciousness |
-| [K13 — Pineal Gland](K13_Pineal_Gland.md) | Melatonin and proposed DMT production in darkness |
+| [K05 — Gateway Process](K05_CIA_Gateway_Process_Monroe_Institute.md) | Altered state induction through sensory modification |
+| [J08 — Sacred Caves](../J_Ancient_Technology/J08_Sacred_Caves_Ritual_Technology.md) | Caves as natural sensory deprivation environments |
+| [K15 — Shamanic Practices](K15_Shamanic_Practices_Altered_States.md) | Darkness and isolation in initiatory practices |
+| [K02 — Altered States](K02_Altered_States_Psychedelics.md) | Sensory deprivation as a category of altered consciousness |
+| [K13 — Pineal Gland](K13_Pineal_Gland_Third_Eye.md) | Melatonin and proposed DMT production in darkness |
 | [K27 — Sleep Science](K27_Sleep_Science_Ancient_Practices.md) | Theta brainwave overlap between float states and sleep |
 | [K09 — Lucid Dreaming](K09_Lucid_Dreaming.md) | Hypnagogic states facilitated by floatation REST |
 

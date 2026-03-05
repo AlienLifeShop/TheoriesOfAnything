@@ -3,7 +3,7 @@
 > **Document ID:** K27
 > **Section:** K_Consciousness
 > **Keywords:** sleep, REM, NREM, glymphatic system, slow-wave sleep, dreams, sleep architecture, polyphasic, biphasic, Asklepion, yoga nidra, melatonin, circadian rhythm, sleep deprivation, amyloid beta, Randy Gardner
-> **Cross-References:** [K09](K09_Lucid_Dreaming.md) · [K20](K20_Dreams_Incubation.md) · [R02](../R_Biology_Evolution/R02_Brain_Evolution.md) · [K13](K13_Pineal_Gland.md) · [E15](../E_Cataclysms_and_Chronology/E15_Calendar_Systems.md)
+> **Cross-References:** [K09](K09_Lucid_Dreaming.md) · [K20](K20_Dreams_Incubation_Oneiric.md) · [R02](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) · [K13](K13_Pineal_Gland_Third_Eye.md) · [E15](../E_Cataclysms_and_Chronology/E15_Calendar_Systems_Ancient_Timekeeping.md)
 > **Reliability Tier:** Tier 1-2 (modern sleep science well-established; ancient practice connections are interpretive)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** High
 
@@ -78,8 +78,8 @@ Sleep science has undergone a revolution in the 21st century, fundamentally alte
 - Hypothesis that the glymphatic system's evolutionary significance explains why all animals with complex nervous systems require sleep — plausible framework but not proven as the sole or primary evolutionary driver of sleep
 - Proposals that ancient biphasic sleep practices may have facilitated enhanced creativity, memory consolidation, or mystical experiences during the midnight waking period — intriguing but difficult to test experimentally
 - Suggestion that the Asklepion incubation process deliberately targeted hypnagogic states (N1 sleep transition) where visual and auditory hallucinations are most common — consistent but direct evidence limited
-- Some researchers propose that NREM slow-wave sleep facilitates a form of "synaptic democracy" — resetting neural hierarchies established during waking — with implications for how sleep affects social cognition
-- Hypothesis that polyphasic sleep schedules (e.g., Uberman, Everyman) can be sustained long-term without cognitive cost — limited evidence; most studies show chronic sleep restriction impairs cognition regardless of schedule
+- Tononi and Cirelli (2003) propose that NREM slow-wave sleep facilitates a form of "synaptic democracy" — resetting neural hierarchies established during waking — with implications for how sleep affects social cognition
+- Hypothesis that polyphasic sleep schedules (e.g., Uberman, Everyman) can be sustained long-term without cognitive cost — limited evidence; most studies (Van Dongen et al., 2003) show chronic sleep restriction impairs cognition regardless of schedule
 
 ---
 
@@ -126,10 +126,10 @@ Sleep science has undergone a revolution in the 21st century, fundamentally alte
 | Related Doc | Connection |
 |-------------|-----------|
 | [K09 — Lucid Dreaming](K09_Lucid_Dreaming.md) | REM sleep as substrate for lucid dreaming practices |
-| [K20 — Dreams and Incubation](K20_Dreams_Incubation.md) | Asklepion temple incubation and therapeutic dreaming |
-| [R02 — Brain Evolution](../R_Biology_Evolution/R02_Brain_Evolution.md) | Evolutionary origins and functions of sleep stages |
-| [K13 — Pineal Gland](K13_Pineal_Gland.md) | Melatonin production and circadian rhythm regulation |
-| [E15 — Calendar Systems](../E_Cataclysms_and_Chronology/E15_Calendar_Systems.md) | Circadian rhythm and ancient timekeeping |
+| [K20 — Dreams and Incubation](K20_Dreams_Incubation_Oneiric.md) | Asklepion temple incubation and therapeutic dreaming |
+| [R02 — Brain Evolution](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) | Evolutionary origins and functions of sleep stages |
+| [K13 — Pineal Gland](K13_Pineal_Gland_Third_Eye.md) | Melatonin production and circadian rhythm regulation |
+| [E15 — Calendar Systems](../E_Cataclysms_and_Chronology/E15_Calendar_Systems_Ancient_Timekeeping.md) | Circadian rhythm and ancient timekeeping |
 | [K25 — Hypnosis](K25_Hypnosis_History_Neuroscience.md) | Hypnagogic states and suggestion during sleep transitions |
 | [K28 — Sensory Deprivation](K28_Sensory_Deprivation_Float_Tanks.md) | Theta brainwave states shared between sleep onset and floatation |
 

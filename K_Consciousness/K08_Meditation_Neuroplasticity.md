@@ -2,7 +2,7 @@
 
 > **Source Agreement:** 1 AI source contributed (Claude) | **Primary Tier:** 1–2 | **Last Updated:** Feb 27, 2026
 > **Keywords:** meditation, neuroplasticity, mindfulness, MBSR, default mode network, DMN, gamma waves, theta, alpha, EEG, fMRI, cortical thickness, telomere, amygdala, prefrontal cortex, insula, compassion meditation, vipassana, zen, TM, transcendental meditation, contemplative science, Kabat-Zinn, Ricard, Davidson, long-term meditators, Buddhist monks, altered traits, Lazar 2005, Fox 2014, Goleman, Killingsworth Gilbert, Hesychasm, Sufi dhikr
-> **Cross-References:** [K01 — Consciousness Overview](K01_Consciousness_Overview.md) · [K05 — Altered States](K05_Altered_States.md) · [K06 — Kundalini](K06_Kundalini_Serpent_Energy.md) · [P01 — Hard Problem](../P_Philosophy_Meaning/P01_Hard_Problem_of_Consciousness.md) · [R02 — Human Brain Evolution](../R_Biology_Evolution/R02_Human_Brain_Evolution.md)
+> **Cross-References:** [K01 — Consciousness Overview](K01_NDEs_OBEs_Consciousness.md) · [K05 — Altered States](K05_CIA_Gateway_Process_Monroe_Institute.md) · [K06 — Kundalini](K06_Kundalini_Serpent_Energy.md) · [P01 — Hard Problem](../P_Philosophy_Meaning/P01_Hard_Problem_of_Consciousness.md) · [R02 — Human Brain Evolution](../R_Biology_Evolution/R02_Human_Brain_Evolution.md)
 
 ---
 
@@ -155,8 +155,8 @@ Meditation — the systematic training of attention and awareness — has been p
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K01 — Consciousness](K01_Consciousness_Overview.md) | Meditation as consciousness training |
-| [K05 — Altered States](K05_Altered_States.md) | Meditation-induced altered states |
+| [K01 — Consciousness](K01_NDEs_OBEs_Consciousness.md) | Meditation as consciousness training |
+| [K05 — Altered States](K05_CIA_Gateway_Process_Monroe_Institute.md) | Meditation-induced altered states |
 | [K06 — Kundalini](K06_Kundalini_Serpent_Energy.md) | Kundalini awakening through meditation |
 | [R02 — Brain Evolution](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) | Neuroplasticity as continuation of brain development |
 | [R04 — Epigenetics](../R_Biology_Evolution/R04_Epigenetics_Ancestral_Memory.md) | Meditation's epigenetic effects |

@@ -3,7 +3,7 @@
 > **Document ID:** K23
 > **Section:** K_Consciousness
 > **Keywords:** synesthesia, cross-modal perception, chromesthesia, grapheme-color, sound-color, mirror-touch, lexical-gustatory, entoptic phenomena, neural binding, multisensory integration, Cytowic, Ramachandran, superior parietal lobule, hyperconnectivity, savant syndrome, creativity, psychedelics, mescaline, DMT visuals, form constants
-> **Cross-References:** [K16 — Entoptic Phenomena](K16_Entoptic_Phenomena_Phosphene_Patterns.md) · [K10 — Savant Syndrome](K10_Savant_Syndrome.md) · [R02 — Brain Evolution](../R_Biology_Evolution/R02_Brain_Evolution_Consciousness.md) · [K02 — Altered States](K02_Altered_States_Psychedelics.md) · [K17 — Ergot Sacred Pharmacology](K17_Ergot_Sacred_Pharmacology_History.md) · [P17 — Art as Knowledge Encoding](../P_Philosophy_Meaning/P17_Art_Knowledge_Encoding.md)
+> **Cross-References:** [K16 — Entoptic Phenomena](K16_Entoptic_Phenomena_Phosphene_Patterns.md) · [K10 — Savant Syndrome](K10_Savant_Syndrome.md) · [R02 — Brain Evolution](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) · [K02 — Altered States](K02_Altered_States_Psychedelics.md) · [K17 — Ergot Sacred Pharmacology](K17_Ergot_Sacred_Pharmacology_History.md) · [P17 — Art as Knowledge Encoding](../P_Philosophy_Meaning/P17_Art_as_Knowledge_Encoding.md)
 > **Reliability Tier:** Tier 1–2 (neuroscience well-established; evolutionary and consciousness implications debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 12 scholarly sources | **Confidence:** High
 
@@ -174,13 +174,13 @@ Multiple unrelated cultures associate **specific sounds with specific colors and
 |----------|------------|
 | [K16 — Entoptic Phenomena](K16_Entoptic_Phenomena_Phosphene_Patterns.md) | Shared geometric form constants; overlapping neural substrate in V1/V2 |
 | [K10 — Savant Syndrome](K10_Savant_Syndrome.md) | Synesthesia disproportionately common among savants; cross-modal binding underlies extraordinary memory |
-| [R02 — Brain Evolution](../R_Biology_Evolution/R02_Brain_Evolution_Consciousness.md) | Evolutionary trajectory of sensory specialization vs. cross-modal integration |
+| [R02 — Brain Evolution](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) | Evolutionary trajectory of sensory specialization vs. cross-modal integration |
 | [K02 — Altered States](K02_Altered_States_Psychedelics.md) | Psychedelic-induced synesthesia; serotonergic mechanisms |
 | [K17 — Ergot Sacred Pharmacology](K17_Ergot_Sacred_Pharmacology_History.md) | Historical entheogen use producing synesthetic experiences |
-| [K12 — Brain Filter](K12_Brain_Filter_Transmission_Theory.md) | Synesthesia as disinhibition of normally filtered cross-modal connections |
+| [K12 — Brain Filter](K12_Brain_Filter_vs_Generator.md) | Synesthesia as disinhibition of normally filtered cross-modal connections |
 | [K14 — Limitation of Consciousness](K14_Limitation_of_Consciousness_Motif.md) | Jaynes' bicameral mind and sensory separation as recent development |
 | [K22 — Anomalous Abilities](K22_Anomalous_Human_Abilities_Siddhis.md) | Shereshevsky's synesthetic memory; savant overlap |
-| [P17 — Art as Knowledge Encoding](../P_Philosophy_Meaning/P17_Art_Knowledge_Encoding.md) | Synesthetic artists encoding cross-modal knowledge in visual/musical works |
+| [P17 — Art as Knowledge Encoding](../P_Philosophy_Meaning/P17_Art_as_Knowledge_Encoding.md) | Synesthetic artists encoding cross-modal knowledge in visual/musical works |
 
 ---
 

@@ -234,14 +234,14 @@ If even one case is genuine, it would demonstrate that **consciousness can exist
 
 | Document | Connection |
 |----------|------------|
-| [K01 — Consciousness](K01_Consciousness_Theories.md) | Hard problem of consciousness; mind-brain relationship |
-| [K19 — Near-Death Experiences](K19_Near_Death_Experiences.md) | Another line of evidence for consciousness survival |
-| [P07 — Philosophy of Death](../P_Philosophy_Meaning/P07_Philosophy_Death_Afterlife.md) | Philosophical frameworks for post-mortem existence |
-| [P11 — Panpsychism](../P_Philosophy_Meaning/P11_Panpsychism_Animism_Comparison.md) | If consciousness is fundamental, survival may be expected |
-| [C39 — Tibetan Buddhism](../C_Global_Traditions/C39_Tibetan_Buddhism_Bon_Shamanism.md) | Tulku system — institutionalized reincarnation recognition |
+| [K01 — Consciousness](K01_NDEs_OBEs_Consciousness.md) | Hard problem of consciousness; mind-brain relationship |
+| [K19 — Near-Death Experiences](K19_Terminal_Lucidity.md) | Another line of evidence for consciousness survival |
+| [P07 — Philosophy of Death](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) | Philosophical frameworks for post-mortem existence |
+| [P11 — Panpsychism](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) | If consciousness is fundamental, survival may be expected |
+| [C39 — Tibetan Buddhism](../C_Global_Traditions/C39_Tibetan_Buddhism_Bon_Terma.md) | Tulku system — institutionalized reincarnation recognition |
 | [C48 — Inuit Cosmology](../C_Global_Traditions/C48_Inuit_Arctic_Cosmology.md) | Name-soul reincarnation within families |
 | [C54 — Hero's Journey](../C_Global_Traditions/C54_Heros_Journey_Monomyth.md) | Death-rebirth as universal narrative structure |
-| [C11 — Indian Naga](../C_Global_Traditions/C11_Indian_Naga_Traditions.md) | Hindu/Buddhist reincarnation context |
+| [C11 — Indian Naga](../C_Global_Traditions/C11_India_Naga_Traditions.md) | Hindu/Buddhist reincarnation context |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Source Agreement:** 1 AI source contributed (Claude) | **Primary Tier:** 1–2 | **Last Updated:** Feb 27, 2026
 > **Keywords:** lucid dreaming, dream consciousness, REM sleep, sleeping brain, metacognition, prefrontal cortex, Stephen LaBerge, Keith Hearne, eye signaling, MILD, WILD, reality testing, dream yoga, tibetan, oneirology, sleep lab, gamma, consciousness states, two-way communication, Konkoly 2021, Voss 2009, tACS, 40 Hz, galantamine, dream incubation, Asclepius
-> **Cross-References:** [K01 — Consciousness Overview](K01_Consciousness_Overview.md) · [K05 — Altered States](K05_Altered_States.md) · [K08 — Meditation Neuroplasticity](K08_Meditation_Neuroplasticity.md) · [P07 — Death Afterlife](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md)
+> **Cross-References:** [K01 — Consciousness Overview](K01_NDEs_OBEs_Consciousness.md) · [K05 — Altered States](K05_CIA_Gateway_Process_Monroe_Institute.md) · [K08 — Meditation Neuroplasticity](K08_Meditation_Neuroplasticity.md) · [P07 — Death Afterlife](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md)
 
 ---
 
@@ -150,8 +150,8 @@ Lucid dreaming — being consciously aware that you are dreaming WHILE dreaming,
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K01 — Consciousness](K01_Consciousness_Overview.md) | Lucid dreaming as distinct consciousness state |
-| [K05 — Altered States](K05_Altered_States.md) | Dreaming as altered state continuum |
+| [K01 — Consciousness](K01_NDEs_OBEs_Consciousness.md) | Lucid dreaming as distinct consciousness state |
+| [K05 — Altered States](K05_CIA_Gateway_Process_Monroe_Institute.md) | Dreaming as altered state continuum |
 | [K08 — Meditation](K08_Meditation_Neuroplasticity.md) | Meditation enhances lucid dreaming ability (metacognition link) |
 | [P07 — Death Afterlife](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) | Bardo/dream as death-state model |
 | [K07 — Biocentrism](K07_Biocentrism.md) | Dream world as observer-dependent reality |

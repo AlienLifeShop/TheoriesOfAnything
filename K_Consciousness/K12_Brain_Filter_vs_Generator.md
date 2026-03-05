@@ -218,7 +218,7 @@ The Carhart-Harris psilocybin findings (reduced brain activity → enhanced expe
 **Against filter interpretation:**
 - Reduced activity in *some* networks may allow increased activity in *other* networks (disinhibition within a materialist framework)
 - The "entropic brain hypothesis" (Carhart-Harris 2014) explains expanded experience as increased neural entropy — more disorganized brain states creating the subjective illusion of richer experience
-- Subsequent studies have shown that while DMN activity decreases, *connectivity between previously segregated networks increases* — the brain is not simply doing less; it is doing something different
+- Subsequent studies (Tagliazucchi et al., 2016) have shown that while DMN activity decreases, *connectivity between previously segregated networks increases* — the brain is not simply doing less; it is doing something different
 - The distinction between "doing less" and "doing differently" is critical and unresolved
 
 ### 2.5 Dreams as Evidence
@@ -392,6 +392,13 @@ The production model is **challenged** by the anomalies described in this docume
 
 ## Bibliography
 
-- In. *Matter and Memory*. 1896.
-- In. *The Doors of Perception*. 1954.
-- In. *The Mind and Its Place in Nature*. 1925.
+1. Bergson, Henri. *Matter and Memory*. 1896. Trans. N.M. Paul & W.S. Palmer. Zone Books, 1991.
+2. Huxley, Aldous. *The Doors of Perception*. Chatto & Windus, 1954.
+3. Broad, C.D. *The Mind and Its Place in Nature*. Kegan Paul, 1925.
+4. James, William. *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin, 1898.
+5. Myers, Frederic W.H. *Human Personality and Its Survival of Bodily Death*. Longmans, Green, 1903.
+6. Carhart-Harris, Robin L. et al. "Neural Correlates of the Psychedelic State as Determined by fMRI Studies with Psilocybin." *PNAS* 109.6 (2012): 2138–2143.
+7. van Lommel, Pim et al. "Near-Death Experience in Survivors of Cardiac Arrest: A Prospective Study in the Netherlands." *The Lancet* 358 (2001): 2039–2045.
+8. Kelly, Edward F. et al. *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield, 2007.
+9. Kastrup, Bernardo. *The Idea of the World: A Multi-Disciplinary Argument for the Mental Nature of Reality*. iff Books, 2019.
+10. Borjigin, Jimo et al. "Surge of Neurophysiological Coherence and Connectivity in the Dying Brain." *PNAS* 110.35 (2013): 14432–14437.

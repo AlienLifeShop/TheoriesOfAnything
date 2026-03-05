@@ -3,7 +3,7 @@
 > **Document ID:** K32
 > **Section:** K_Consciousness
 > **Keywords:** psychedelic renaissance, psilocybin, MDMA therapy, ketamine, DMT, ayahuasca, LSD microdosing, Johns Hopkins, MAPS, default mode network, mystical experience questionnaire, MEQ30, clinical trials, depression, PTSD
-> **Cross-References:** [K08](K08_Psychedelics_Consciousness.md) · [K30](K30_Mystical_Experience_Neuroscience.md) · [K10](K10_Meditation_Neuroscience.md) · [T05](../T_Psychology_Social/T05_Cult_Psychology.md) · [P21](../P_Philosophy_Meaning/P21_Buddhist_Philosophy.md)
+> **Cross-References:** [K08](K08_Meditation_Neuroplasticity.md) · [K30](K30_Mystical_Experience_Neuroscience.md) · [K10](K10_Savant_Syndrome.md) · [T05](../T_Psychology_Social/T05_Cult_Psychology.md) · [P21](../P_Philosophy_Meaning/P21_Buddhist_Philosophy_Dependent_Origination.md)
 > **Reliability Tier:** Tier 1-3 (FDA-reviewed clinical data through preliminary/speculative findings)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 24 scholarly sources | **Confidence:** High for clinical trials, Moderate for mechanistic theories, Low for consciousness ontology
 
@@ -168,11 +168,11 @@ The psychedelic renaissance — a resurgence of rigorous scientific research on 
 
 | Document | Relation | Relevance |
 |----------|----------|-----------|
-| [K08](K08_Psychedelics_Consciousness.md) | Parent topic | Broader psychedelic consciousness context |
+| [K08](K08_Meditation_Neuroplasticity.md) | Parent topic | Broader psychedelic consciousness context |
 | [K30](K30_Mystical_Experience_Neuroscience.md) | Direct link | Mystical experience as clinical mediator |
-| [K10](K10_Meditation_Neuroscience.md) | Convergent | DMN suppression in meditation and psychedelics |
+| [K10](K10_Savant_Syndrome.md) | Convergent | DMN suppression in meditation and psychedelics |
 | [T05](../T_Psychology_Social/T05_Cult_Psychology.md) | Contextual | Therapeutic vs. exploitative psychedelic use |
-| [P21](../P_Philosophy_Meaning/P21_Buddhist_Philosophy.md) | Philosophical | Buddhist concepts of ego and emptiness |
+| [P21](../P_Philosophy_Meaning/P21_Buddhist_Philosophy_Dependent_Origination.md) | Philosophical | Buddhist concepts of ego and emptiness |
 | [K33](K33_Neuroscience_of_Death.md) | Related | DMT and near-death experience overlap |
 | [K31](K31_Machine_Consciousness_AI_Awareness.md) | Theoretical | Consciousness substrates and pharmacology |
 

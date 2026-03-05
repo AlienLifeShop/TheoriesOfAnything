@@ -161,12 +161,12 @@ Human cultures have long documented individuals who demonstrate **extraordinary 
 
 | Document | Connection |
 |----------|------------|
-| [K08 — Meditation Neuroscience](K08_Meditation_Neuroscience.md) | Scientific study of advanced meditation |
-| [C39 — Tibetan Buddhism](../C_Global_Traditions/C39_Tibetan_Buddhism_Bon_Bardo.md) | Tummo, Six Yogas, and Buddhist framework |
-| [K06 — Kundalini/Chakra](K06_Kundalini_Chakra_Systems.md) | Yogic framework for energy cultivation |
-| [G13 — Stigmata](../G_Modern_Frameworks/G13_Stigmata_Psychosomatic_Phenomena.md) | Mind-body phenomena producing physical effects |
-| [K12 — Brain Filter](K12_Brain_Filter_Transmission_Theory.md) | Acquired savant supports filter model |
-| [K15 — Altered States](K15_Altered_States_Consciousness.md) | Trance, shamanic states enabling extraordinary performance |
+| [K08 — Meditation Neuroscience](K08_Meditation_Neuroplasticity.md) | Scientific study of advanced meditation |
+| [C39 — Tibetan Buddhism](../C_Global_Traditions/C39_Tibetan_Buddhism_Bon_Terma.md) | Tummo, Six Yogas, and Buddhist framework |
+| [K06 — Kundalini/Chakra](K06_Kundalini_Serpent_Energy.md) | Yogic framework for energy cultivation |
+| [G13 — Stigmata](../G_Modern_Frameworks/G13_Stigmata_Faith_Healing_Psychosomatic.md) | Mind-body phenomena producing physical effects |
+| [K12 — Brain Filter](K12_Brain_Filter_vs_Generator.md) | Acquired savant supports filter model |
+| [K15 — Altered States](K15_Shamanic_Practices_Altered_States.md) | Trance, shamanic states enabling extraordinary performance |
 | [C46 — Siberian Shamanism](../C_Global_Traditions/C46_Siberian_Shamanism_Origin.md) | Shamanic demonstrations of pain tolerance and endurance |
 | [C48 — Inuit Cosmology](../C_Global_Traditions/C48_Inuit_Arctic_Cosmology.md) | Arctic survival abilities and shamanic practices |
 

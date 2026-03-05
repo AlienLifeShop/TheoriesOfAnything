@@ -1,7 +1,7 @@
 # K01 — NDEs, OBEs & Consciousness Studies
 
-> **Source Agreement:** [5] AI sources contributed | **Primary Tier:** 1–2 | **Last Updated:** Feb 26, 2026
-> **Keywords:** NDE, OBE, near-death experience, out-of-body, AWARE study, Parnia, UVA DOPS, Stevenson, Tucker, DMT, Strassman, entity encounters, reptilian, reincarnation, past lives, cardiac arrest, consciousness, afterlife, Bardo, Amduat, merkabah, Enoch ascent, van Lommel, Lancet, Greyson Scale, Borjigin, gamma surge, AWARE II
+> **Source Agreement:** [5] AI sources contributed | **Primary Tier:** 1–2 | **Last Updated:** Feb 2026
+> **Keywords:** NDE, OBE, near-death experience, out-of-body, AWARE study, Parnia, UVA DOPS, Stevenson, Tucker, DMT, Strassman, entity encounters, reptilian, reincarnation, past lives, cardiac arrest, consciousness, afterlife, Bardo, Amduat, merkabah, Enoch ascent
 > **Cross-References:** [K02 — Altered States](K02_Altered_States_Psychedelics.md) · [K04 — Quantum Consciousness](K04_Quantum_Consciousness.md) · [B01 — Reptilian Beings](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) · [A04 — Enoch/Watchers](../A_Foundations/A04_Book_of_Enoch_and_Watchers.md) · [A08 — Hermetic Tradition](../A_Foundations/A08_Hermetic_Tradition.md) · [N01 — Mystery Schools](../N_Secret_Societies/N01_Mystery_Schools.md)
 
 ---
@@ -12,9 +12,9 @@ Modern consciousness research — NDEs in cardiac arrest patients, children's pa
 
 ---
 
-## 1. VERIFIED CLAIMS (Tier 1 — Peer-Reviewed / Archaeological Record)
+## 1. Verified Claims — Tier 1
 
-### 1.1 AWARE Study — Consciousness During Clinical Death [5/5 sources]
+### 1.1 AWARE Study — Consciousness During Clinical Death
 
 - **Source:** Parnia, Sam et al. "AWARE — AWAreness during REsuscitation — A Prospective Study." *Resuscitation* 85(12), 2014.
 - **Design:** Largest prospective NDE study; 2,060 cardiac arrest patients across 15 hospitals (UK, US, Austria)
@@ -26,7 +26,7 @@ Modern consciousness research — NDEs in cardiac arrest patients, children's pa
 - **AWARE II:** Ongoing; expanded protocol; preliminary results suggest consciousness features persist during dying process
 - **Status:** The STUDY is Tier 1 (published in top resuscitation journal). The INTERPRETATION of what causes NDE-like awareness is debated.
 
-### 1.2 UVA Division of Perceptual Studies — DOPS [5/5 sources]
+### 1.2 UVA Division of Perceptual Studies — DOPS
 
 - **Source:** Established 1967 by Ian Stevenson; now directed by Jim Tucker; University of Virginia School of Medicine
 - **Dataset:** 2,500+ cases of children reporting past-life memories
@@ -37,7 +37,7 @@ Modern consciousness research — NDEs in cardiac arrest patients, children's pa
 - **Status:** Published in peer-reviewed journals including *JAMA*, *Lancet*, and *Explore*
 - **Critique:** Selection bias — failed cases not equally published; cultural expectations may shape reports
 
-### 1.3 DMT Entity Encounters — Controlled Studies [4/5 sources]
+### 1.3 DMT Entity Encounters — Controlled Studies
 
 - **Source:** Strassman, Rick. *DMT: The Spirit Molecule*. Park Street Press, 2001; Davis, Alan K. et al. "Survey of Entity Encounter Experiences Occasioned by Inhaled N,N-Dimethyltryptamine." *J Psychopharmacology* 34(9), 2020.
 - **Davis et al. (2020):** Largest survey of DMT entity encounters:
@@ -51,9 +51,9 @@ Modern consciousness research — NDEs in cardiac arrest patients, children's pa
 
 ---
 
-## 2. CREDIBLE CLAIMS (Tier 2 — Academic / Debated but Supported)
+## 2. Credible Claims — Tier 2
 
-### 2.1 Cross-Cultural NDE Pattern Consistency [4/5 sources]
+### 2.1 Cross-Cultural NDE Pattern Consistency
 
 - **Source:** Greyson, Bruce. *After: A Doctor Explores What Near-Death Experiences Reveal About Life and Beyond*. St. Martin's, 2021; Kellehear, Allan. "Census of Non-Western Near-Death Experiences to 2005." *J Near-Death Studies* 26, 2009.
 - NDE features appear consistently across cultures, religions, and ages:
@@ -72,7 +72,7 @@ Modern consciousness research — NDEs in cardiac arrest patients, children's pa
   - **Enoch's Ascent** (1 Enoch 14–36) — Journey through heavenly realms, beings of light
   - **Virgil's Aeneid, Book VI** — Aeneas's underworld journey
 
-### 2.2 Pim van Lommel — Dutch Prospective NDE Study (Lancet, 2001) [3/5 sources]
+### 2.2 Pim van Lommel — Dutch Prospective NDE Study (Lancet, 2001)
 
 - **Source:** van Lommel, Pim et al. "Near-Death Experience in Survivors of Cardiac Arrest: A Prospective Study in the Netherlands." *The Lancet* 358(9298), Dec 15, 2001.
 - **Design:** Prospective study of 344 consecutive cardiac arrest patients across 10 Dutch hospitals over 4 years
@@ -87,7 +87,7 @@ Modern consciousness research — NDEs in cardiac arrest patients, children's pa
 - **Van Lommel's interpretation:** Consciousness may not be produced BY the brain but rather filtered/received by it — a "transmission" model.
 - **Criticism:** The study does not prove consciousness is non-local; it shows correlated experiences during cardiac arrest. The exact timing of NDEs within the arrest period is unknown — they may occur during the transition to or from full arrest, not during the period of zero brain activity.
 
-### 2.3 Greyson NDE Scale — Standard Research Instrument [3/5 sources]
+### 2.3 Greyson NDE Scale — Standard Research Instrument
 
 - **Source:** Greyson, Bruce. "The Near-Death Experience Scale: Construction, Reliability, and Validity." *Journal of Nervous and Mental Disease* 171(6), 1983.
 - **Design:** 16-item questionnaire assessing depth and quality of NDE
@@ -101,7 +101,7 @@ Modern consciousness research — NDEs in cardiac arrest patients, children's pa
 - **Usage:** Standard instrument in virtually ALL subsequent NDE research, including AWARE, van Lommel's study, and UVA DOPS investigations
 - **Significance:** Provided the field with a standardized, validated measurement tool, enabling cross-study comparison and meta-analysis. Without the Greyson Scale, NDE research would remain subjective anecdote collection.
 
-### 2.4 Brain Activity During Clinical Death [3/5 sources]
+### 2.4 Brain Activity During Clinical Death
 
 - **Source:** Borjigin, Jimo et al. "Surge of Neurophysiological Coherence and Connectivity in the Dying Brain." *PNAS* 120(10), 2023.
 - Surge of gamma oscillations detected in dying patients after cardiac arrest
@@ -109,17 +109,11 @@ Modern consciousness research — NDEs in cardiac arrest patients, children's pa
 - Suggests brains may generate intense conscious experience DURING death
 - **Both supporters and skeptics** can use this: it MAY explain NDEs as brain-generated, OR it may represent the neural correlate of genuine consciousness transition
 
-### 2.5 Recalled Experience of Death (RED) and AWARE II Updates (2025–2026) [5/5 sources]
-
-- **Recalled Experience of Death (RED):** Recent research (2025-2026) has increasingly adopted the standardized terminology "Recalled Experience of Death" (RED) to describe NDEs, particularly in clinical settings like cardiac arrest survival. This shift aims to separate the physiological and cognitive events from the cultural baggage associated with the term "NDE."
-- **AWARE II and Gamma Wave Evidence:** Multi-site prospective studies, including the ongoing analysis of AWARE II data, continue to focus on the detection of gamma wave activity in the dying brain. This research accelerates the debate over whether these brain waves represent the physiological mechanism of the experience or the neural correlate of a consciousness that persists despite clinical death.
-- **Physiological Explanatory Hypotheses:** A major 2025 review article by a multinational team (Martial et al.) attempted to collate diverse physiological explanatory hypotheses for NDEs into one overarching theory. However, this model was quickly challenged by researchers from the Division of Perceptual Studies (DOPS) at UVA (e.g., Drs. Pehlivanova and Greyson in early 2026), who argue that purely neuroscientific models fail to account for the veridical (verified) aspects of out-of-body perception during cardiac arrest.
-
 ---
 
-## 3. SPECULATIVE CLAIMS (Tier 3 — Possible but Unverified)
+## 3. Speculative Claims — Tier 3
 
-### 3.1 DMT Entity Encounters ↔ Ancient Reptilian/Being Traditions [3/5 sources]
+### 3.1 DMT Entity Encounters ↔ Ancient Reptilian/Being Traditions
 
 - 35% insectoid/reptilian entity descriptions in DMT encounters map to:
   - B01 (Reptilian Beings): Ancient serpent/reptilian beings across cultures
@@ -129,7 +123,7 @@ Modern consciousness research — NDEs in cardiac arrest patients, children's pa
 - **Hypothesis (Narby):** Endogenous DMT may provide access to non-ordinary states of consciousness that ancient shamans accessed routinely
 - **Counter:** Endogenous DMT in brain has NOT been measured at psychoactive concentrations in living humans. The pineal gland DMT hypothesis (Strassman) remains unverified.
 
-### 3.2 Consciousness as Fundamental — Implications [2/5 sources]
+### 3.2 Consciousness as Fundamental — Implications
 
 - If consciousness survives death (NDE data suggests possibility):
   - Ancient ancestor worship / spirit communication may be empirically grounded
@@ -139,31 +133,18 @@ Modern consciousness research — NDEs in cardiac arrest patients, children's pa
 
 ---
 
-## 4. DUBIOUS CLAIMS (Tier 4 — No Credible Source / Contradicted by Evidence)
+## 4. CONNECTIONS TO EXISTING DATABASE
 
-### 4.1 NDEs Fully Explained by Dying Brain Activity [5/5 sources]
-
-- **Claim:** The Borjigin gamma-surge finding provides a complete physiological mechanism for NDE-like experiences without requiring "soul departure." This is the strongest skeptical argument.
-- **Assessment:** While gamma surges during death have been documented (Borjigin et al., PNAS, 2023), this finding does not fully explain all NDE features, particularly veridical out-of-body perceptions. Incomplete as a total explanation.
-
-### 4.2 Past-Life Memories Entirely Due to Cryptomnesia [5/5 sources]
-
-- **Claim:** Children may absorb information from TV, overheard conversations, or family stories and present them as "memories" of past lives.
-- **Assessment:** Tucker and the DOPS team acknowledge this possibility and screen for it, but elimination is imperfect. However, cases like James Leininger involve details highly unlikely to be acquired through normal channels. Cryptomnesia cannot account for all verified cases.
-
-### 4.3 DMT Entities Are Purely Brain-Generated Hallucinations [5/5 sources]
-
-- **Claim:** The brain on DMT produces internally generated hallucinations. The reptilian/insectoid archetypes may reflect deep evolutionary neural templates (snake detection module, predator schemas) rather than external entities.
-- **Assessment:** While the brain-generated hypothesis is parsimonious, it does not explain the consistency of entity descriptions across independent subjects, the reported autonomy and intelligence of entities, or why 75%+ of experiencers rate encounters as "more real than everyday reality."
-
-### 4.4 NDE Experiences Are Solely Products of Cultural Contamination [5/5 sources]
-
-- **Claim:** In cultures with strong afterlife expectations, NDEs tend to conform to expectations (Hindu NDEs include Yamraj; Christian NDEs include tunnels of light). This suggests cultural shaping rather than genuine experience.
-- **Assessment:** Cultural shaping of NDE content is documented, but core structural elements persist cross-culturally, including in children with minimal cultural exposure. Cultural contamination explains some variation but not the universal pattern.
+- **B01 (Reptilian Beings):** DMT entity encounters — 35% reptilian — directly parallels ancient traditions
+- **K02 (Altered States):** NDEs and DMT both access non-ordinary states; Eleusinian and Soma traditions may have been intentional access methods
+- **K04 (Quantum Consciousness):** Orch-OR theory suggests consciousness may be fundamental to physics
+- **A04 (Enoch):** Enoch's heavenly ascent structurally parallels NDE journey narratives
+- **N01 (Mystery Schools):** Death-rebirth initiation as central mystery school experience; NDEs as natural version
+- **A08 (Hermetic):** "Mind is all" resonates with consciousness-first models
 
 ---
 
-## IMAGES
+## 5. IMAGES
 
 | # | Description | License | Filename | Tier |
 |---|------------|---------|----------|------|
@@ -175,7 +156,7 @@ Modern consciousness research — NDEs in cardiac arrest patients, children's pa
 
 ---
 
-## GAPS REMAINING
+## 6. GAPS REMAINING
 
 - [ ] AWARE II: full results awaited — larger sample with improved target protocol
 - [ ] Endogenous DMT: definitive measurement in living human brain during NDE
@@ -185,7 +166,16 @@ Modern consciousness research — NDEs in cardiac arrest patients, children's pa
 
 ---
 
-## BIBLIOGRAPHY
+## 7. DEBUNKING NOTES
+
+- **NDEs = dying brain:** The Borjigin gamma-surge finding provides a physiological mechanism for NDE-like experiences without requiring "soul departure." This is the strongest skeptical argument.
+- **Past lives = cryptomnesia:** Children may absorb information from TV, overheard conversations, or family stories and present them as "memories." Tucker acknowledges this possibility and screens for it, but elimination is imperfect.
+- **DMT entities = brain-generated:** The brain on DMT produces internally generated hallucinations. The reptilian/insectoid archetypes may reflect deep evolutionary neural templates (snake detection module, predator schemas) rather than external entities.
+- **NDE cultural contamination:** In cultures with strong afterlife expectations, NDEs tend to conform to expectations (Hindu NDEs include Yamraj; Christian NDEs include tunnels of light). This suggests cultural shaping, though core elements persist cross-culturally.
+
+---
+
+## MASTER BIBLIOGRAPHY — K01
 
 1. Parnia, Sam et al. "AWARE — AWAreness during REsuscitation." *Resuscitation* 85(12), 2014.
 2. Tucker, Jim B. *Return to Life: Extraordinary Cases of Children Who Remember Previous Lives*. St. Martin's, 2013.
@@ -198,16 +188,12 @@ Modern consciousness research — NDEs in cardiac arrest patients, children's pa
 
 ---
 
-## CROSS-REFERENCE INDEX
+## 8. [RECENT] 2024–2026 Addendum
 
-| Related Doc | Connection |
-|---|---|
-| B01 (Reptilian Beings) | DMT entity encounters — 35% reptilian — directly parallels ancient traditions |
-| K02 (Altered States) | NDEs and DMT both access non-ordinary states; Eleusinian and Soma traditions may have been intentional access methods |
-| K04 (Quantum Consciousness) | Orch-OR theory suggests consciousness may be fundamental to physics |
-| A04 (Enoch) | Enoch's heavenly ascent structurally parallels NDE journey narratives |
-| N01 (Mystery Schools) | Death-rebirth initiation as central mystery school experience; NDEs as natural version |
-| A08 (Hermetic) | "Mind is all" resonates with consciousness-first models |
+### 8.1 Standardized Terminology and AWARE II Updates (2025–2026)
+- **Recalled Experience of Death (RED):** Recent research (2025-2026) has increasingly adopted the standardized terminology "Recalled Experience of Death" (RED) to describe NDEs, particularly in clinical settings like cardiac arrest survival. This shift aims to separate the physiological and cognitive events from the cultural baggage associated with the term "NDE."
+- **AWARE II and Gamma Wave Evidence:** Multi-site prospective studies, including the ongoing analysis of AWARE II data, continue to focus on the detection of gamma wave activity in the dying brain. This research accelerates the debate over whether these brain waves represent the physiological mechanism of the experience or the neural correlate of a consciousness that persists despite clinical death.
+- **Physiological Explanatory Hypotheses:** A major 2025 review article by a multinational team (Martial et al.) attempted to collate diverse physiological explanatory hypotheses for NDEs into one overarching theory. However, this model was quickly challenged by researchers from the Division of Perceptual Studies (DOPS) at UVA (e.g., Drs. Pehlivanova and Greyson in early 2026), who argue that purely neuroscientific models fail to account for the veridical (verified) aspects of out-of-body perception during cardiac arrest.
 
 ---
-*Consolidated from 5 AI sources. Last Updated: Feb 26, 2026*
+*[K01 COMPLETE — AWARE study, van Lommel prospective study, Greyson Scale, DOPS, DMT entities, ancient parallels, 4 images, plus 2025-2026 Addendum]*

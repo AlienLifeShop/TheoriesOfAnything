@@ -3,7 +3,7 @@
 > **Document ID:** K25
 > **Section:** K_Consciousness
 > **Keywords:** hypnosis, mesmerism, Mesmer, James Braid, James Esdaile, Milton Erickson, suggestibility, trance, fMRI, default mode network, anterior cingulate cortex, hypnotic anesthesia, pain management, PTSD
-> **Cross-References:** [K15](K15_Shamanic_Practices.md) · [G04](../G_Modern_Frameworks/G04_Telepathy.md) · [K05](K05_Gateway_Process.md) · [K02](K02_Altered_States.md) · [R02](../R_Biology_Evolution/R02_Brain_Evolution.md)
+> **Cross-References:** [K15](K15_Shamanic_Practices_Altered_States.md) · [G04](../G_Modern_Frameworks/G04_Telepathy_Research.md) · [K05](K05_CIA_Gateway_Process_Monroe_Institute.md) · [K02](K02_Altered_States_Psychedelics.md) · [R02](../R_Biology_Evolution/R02_Human_Brain_Evolution.md)
 > **Reliability Tier:** Tier 1-3 (neuroscience of hypnosis well-established; historical claims range from documented to speculative)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Moderate-High
 
@@ -23,7 +23,7 @@ Hypnosis has evolved from Franz Mesmer's "animal magnetism" theory (1770s) throu
   - Altered functional connectivity in the anterior cingulate cortex (ACC) — diminished conflict monitoring, explaining reduced critical evaluation during suggestion (Jiang et al., 2017)
   - Increased connectivity between dorsolateral prefrontal cortex and insula during hypnosis — associated with enhanced mind-body connection (Raz et al., 2005)
 - Hypnotic analgesia produces measurable reductions in both sensory (somatosensory cortex) and emotional (ACC) components of pain — distinct from placebo, which primarily affects emotional component (Rainville et al., 1997)
-- EEG studies show increased theta activity (4-8 Hz) during deep hypnosis, similar to meditation and REM sleep patterns
+- EEG studies (De Pascalis, 1999) show increased theta activity (4-8 Hz) during deep hypnosis, similar to meditation and REM sleep patterns
 - Hypnotic suggestion can alter Stroop task performance — highly hypnotizable individuals can override automatic reading responses under suggestion (Raz et al., 2002, *PNAS*)
 
 ### Suggestibility Distribution
@@ -116,11 +116,11 @@ Hypnosis has evolved from Franz Mesmer's "animal magnetism" theory (1770s) throu
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K15 — Shamanic Practices](K15_Shamanic_Practices.md) | Shared neural substrates between shamanic trance and hypnosis |
-| [G04 — Telepathy Research](../G_Modern_Frameworks/G04_Telepathy.md) | Historical claims linking hypnosis to telepathic suggestion |
-| [K05 — Gateway Process](K05_Gateway_Process.md) | Altered state induction through focused attention techniques |
-| [K02 — Altered States of Consciousness](K02_Altered_States.md) | Hypnosis as one of multiple documented altered states |
-| [R02 — Brain Evolution](../R_Biology_Evolution/R02_Brain_Evolution.md) | Evolutionary basis for hypnotic suggestibility |
+| [K15 — Shamanic Practices](K15_Shamanic_Practices_Altered_States.md) | Shared neural substrates between shamanic trance and hypnosis |
+| [G04 — Telepathy Research](../G_Modern_Frameworks/G04_Telepathy_Research.md) | Historical claims linking hypnosis to telepathic suggestion |
+| [K05 — Gateway Process](K05_CIA_Gateway_Process_Monroe_Institute.md) | Altered state induction through focused attention techniques |
+| [K02 — Altered States of Consciousness](K02_Altered_States_Psychedelics.md) | Hypnosis as one of multiple documented altered states |
+| [R02 — Brain Evolution](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) | Evolutionary basis for hypnotic suggestibility |
 | [K29 — Glossolalia](K29_Glossolalia_Xenoglossy_Altered_Language.md) | Altered language production under trance/hypnotic states |
 | [K08 — Meditation and Neuroplasticity](K08_Meditation_Neuroplasticity.md) | Comparative neural effects of focused attention techniques |
 

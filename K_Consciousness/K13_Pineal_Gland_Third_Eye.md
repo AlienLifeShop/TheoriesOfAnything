@@ -419,4 +419,13 @@ Pineal tumors (50–70% germinomas) cause precocious puberty in children (strong
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Strassman, Rick. *DMT: The Spirit Molecule*. Park Street Press, 2001.
+2. Borjigin, Jimo et al. "Surge of Neurophysiological Coherence and Connectivity in the Dying Brain." *PNAS* 110.35 (2013): 14432–14437.
+3. Dean, Jon G. et al. "Biosynthesis and Extracellular Concentrations of N,N-Dimethyltryptamine (DMT) in Mammalian Brain." *Scientific Reports* 9 (2019): 9333.
+4. Nichols, David E. "N,N-Dimethyltryptamine and the Pineal Gland." *Journal of Psychopharmacology* 32.1 (2018): 30–37.
+5. Fontanilla, Dominique et al. "The Hallucinogen N,N-Dimethyltryptamine (DMT) Is an Endogenous Sigma-1 Receptor Regulator." *Science* 323.5916 (2009): 934–937.
+6. Luke, Jennifer A. "Fluoride Deposition in the Aged Human Pineal Gland." *Caries Research* 35.2 (2001): 125–128.
+7. Baconnier, Simon et al. "Calcite Microcrystals in the Pineal Gland of the Human Brain." *Bioelectromagnetics* 23.7 (2002): 488–495.
+8. Descartes, René. *Les passions de l'âme*. 1649.
+9. Wasson, R. Gordon et al. *Persephone's Quest: Entheogens and the Origins of Religion*. Yale University Press, 1986.
+10. Hancock, Graham. *Supernatural: Meetings with the Ancient Teachers of Mankind*. Century, 2005.

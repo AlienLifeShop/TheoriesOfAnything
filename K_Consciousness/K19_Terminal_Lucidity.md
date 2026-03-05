@@ -473,4 +473,13 @@ This document presents the evidence fairly and does not overclaim. The strength 
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Nahm, Michael. "Terminal Lucidity in People with Mental Illness and Other Mental Disability: An Overview and Implications for Possible Explanatory Models." *Journal of Near-Death Studies* 28.2 (2009): 87–106.
+2. Nahm, Michael & Greyson, Bruce. "Terminal Lucidity in Patients with Chronic Schizophrenia and Dementia." *Archives of Gerontology and Geriatrics* 48.3 (2009): 396–399.
+3. Nahm, Michael et al. "Terminal Lucidity: A Review and a Case Collection." *Archives of Gerontology and Geriatrics* 55.1 (2012): 138–142.
+4. Mashour, George A. et al. "Paradoxical Lucidity: A Potential Paradigm Shift for the Neurobiology and Treatment of Severe Dementias." *Alzheimer's & Dementia* 15.8 (2019): 1107–1114.
+5. Kelly, Edward F. et al. *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield, 2007.
+6. Borjigin, Jimo et al. "Surge of Neurophysiological Coherence and Connectivity in the Dying Brain." *PNAS* 110.35 (2013): 14432–14437.
+7. James, William. *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin, 1898.
+8. Myers, Frederic W.H. *Human Personality and Its Survival of Bodily Death*. Longmans, Green, 1903.
+9. Osis, Karlis & Haraldsson, Erlendur. *At the Hour of Death*. Avon Books, 1977 (revised 2012).
+10. Chalmers, David J. "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2.3 (1995): 200–219.

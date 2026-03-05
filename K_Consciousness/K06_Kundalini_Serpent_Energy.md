@@ -2,7 +2,7 @@
 
 > **Source Agreement:** 1 AI source contributed (Claude) | **Primary Tier:** 1–3 | **Last Updated:** Feb 27, 2026
 > **Keywords:** kundalini, serpent energy, chakras, nadis, subtle body, yoga, tantra, vagus nerve, endocrine system, pineal gland, spinal cord, caduceus, ida, pingala, sushumna, shakti, shiva, tantric, pranayama, kundalini syndrome, transpersonal psychology, DSM, spiritual emergency, Grof, serpent symbolism, DNA double helix, sacred geometry, Polyvagal theory, Porges, qi, meridians, Yggdrasil, Gopi Krishna, Sannella, biophotons
-> **Cross-References:** [K01 — Consciousness Overview](K01_Consciousness_Overview.md) · [K05 — Altered States](K05_Altered_States.md) · [B01 — Reptilian Beings](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) · [A08 — Hermetic Tradition](../A_Foundations/A08_Hermetic_Tradition.md) · [C01 — World Religions Serpent](../C_Global_Traditions/C01_World_Religions_Serpent_Connections.md) · [D10 — Sacred Geometry](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md)
+> **Cross-References:** [K01 — Consciousness Overview](K01_NDEs_OBEs_Consciousness.md) · [K05 — Altered States](K05_CIA_Gateway_Process_Monroe_Institute.md) · [B01 — Reptilian Beings](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) · [A08 — Hermetic Tradition](../A_Foundations/A08_Hermetic_Tradition.md) · [C01 — World Religions Serpent](../C_Global_Traditions/C01_World_Religions_Serpent_Connections.md) · [D10 — Sacred Geometry](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md)
 
 ---
 
@@ -163,8 +163,8 @@ Kundalini ("coiled one" in Sanskrit) describes a dormant serpent-like energy sai
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K01 — Consciousness Overview](K01_Consciousness_Overview.md) | Kundalini as consciousness expansion model |
-| [K05 — Altered States](K05_Altered_States.md) | Kundalini awakening as altered state |
+| [K01 — Consciousness Overview](K01_NDEs_OBEs_Consciousness.md) | Kundalini as consciousness expansion model |
+| [K05 — Altered States](K05_CIA_Gateway_Process_Monroe_Institute.md) | Kundalini awakening as altered state |
 | [C01 — World Religions Serpent](../C_Global_Traditions/C01_World_Religions_Serpent_Connections.md) | Serpent symbolism across traditions |
 | [A08 — Hermetic Tradition](../A_Foundations/A08_Hermetic_Tradition.md) | Caduceus of Hermes, "as above so below" |
 | [B01 — Reptilian Beings](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) | Serpent/reptilian symbolism at biological level |

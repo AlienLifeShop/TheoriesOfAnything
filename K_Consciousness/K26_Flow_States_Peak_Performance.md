@@ -3,7 +3,7 @@
 > **Document ID:** K26
 > **Section:** K_Consciousness
 > **Keywords:** flow state, Csikszentmihalyi, peak performance, transient hypofrontality, optimal experience, mushin, wu wei, autotelic, dopamine, norepinephrine, endorphins, zone, deep work
-> **Cross-References:** [K08](K08_Meditation_Neuroplasticity.md) · [K15](K15_Shamanic_Practices.md) · [R02](../R_Biology_Evolution/R02_Brain_Evolution.md) · [A23](../A_Foundations/A23_Tao_Te_Ching_Daoist_Primary_Texts.md)
+> **Cross-References:** [K08](K08_Meditation_Neuroplasticity.md) · [K15](K15_Shamanic_Practices_Altered_States.md) · [R02](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) · [A23](../A_Foundations/A23_Tao_Te_Ching_Daoist_Primary_Texts.md)
 > **Reliability Tier:** Tier 1-2 (well-established psychological construct with growing neuroscience confirmation; ancient parallels are interpretive)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High
 
@@ -132,12 +132,12 @@ Flow — the state of complete absorption in an activity where self-awareness di
 | Related Doc | Connection |
 |-------------|-----------|
 | [K08 — Meditation and Neuroplasticity](K08_Meditation_Neuroplasticity.md) | Comparative neural effects of sustained focused attention |
-| [K15 — Shamanic Practices](K15_Shamanic_Practices.md) | Trance states as potential flow analogs in ritual contexts |
-| [R02 — Brain Evolution](../R_Biology_Evolution/R02_Brain_Evolution.md) | Evolutionary basis for flow as survival mechanism |
+| [K15 — Shamanic Practices](K15_Shamanic_Practices_Altered_States.md) | Trance states as potential flow analogs in ritual contexts |
+| [R02 — Brain Evolution](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) | Evolutionary basis for flow as survival mechanism |
 | [A23 — Tao Te Ching / Daoist Texts](../A_Foundations/A23_Tao_Te_Ching_Daoist_Primary_Texts.md) | Wu wei as ancient philosophical description of flow |
-| [K02 — Altered States](K02_Altered_States.md) | Flow as a specific category of altered consciousness |
+| [K02 — Altered States](K02_Altered_States_Psychedelics.md) | Flow as a specific category of altered consciousness |
 | [K25 — Hypnosis](K25_Hypnosis_History_Neuroscience.md) | Shared prefrontal deactivation with hypnotic trance |
-| [K05 — Gateway Process](K05_Gateway_Process.md) | Hemispheric synchronization and focused attention techniques |
+| [K05 — Gateway Process](K05_CIA_Gateway_Process_Monroe_Institute.md) | Hemispheric synchronization and focused attention techniques |
 
 ---
 

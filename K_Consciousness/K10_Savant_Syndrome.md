@@ -2,7 +2,7 @@
 
 > **Source Agreement:** 1 AI source contributed (Claude) | **Primary Tier:** 1–2 | **Last Updated:** Feb 27, 2026
 > **Keywords:** savant syndrome, acquired savant, traumatic brain injury, autistic savant, Kim Peek, Daniel Tammet, Stephen Wiltshire, Orlando Serrell, Jason Padgett, Derek Amato, calendar calculation, eidetic memory, genius, latent abilities, island of genius, Treffert, left hemisphere, right hemisphere, brain damage, paradoxical functional facilitation, Leslie Lemke, Tony Cicoria, Miller FTD, Snyder TMS, genetic memory
-> **Cross-References:** [K01 — Consciousness Overview](K01_Consciousness_Overview.md) · [R02 — Human Brain Evolution](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) · [P01 — Hard Problem](../P_Philosophy_Meaning/P01_Hard_Problem_of_Consciousness.md) · [K08 — Meditation Neuroplasticity](K08_Meditation_Neuroplasticity.md)
+> **Cross-References:** [K01 — Consciousness Overview](K01_NDEs_OBEs_Consciousness.md) · [R02 — Human Brain Evolution](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) · [P01 — Hard Problem](../P_Philosophy_Meaning/P01_Hard_Problem_of_Consciousness.md) · [K08 — Meditation Neuroplasticity](K08_Meditation_Neuroplasticity.md)
 
 ---
 
@@ -156,7 +156,7 @@ Savant syndrome — extraordinary ability coexisting with significant cognitive 
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K01 — Consciousness](K01_Consciousness_Overview.md) | Savant syndrome challenges standard consciousness models |
+| [K01 — Consciousness](K01_NDEs_OBEs_Consciousness.md) | Savant syndrome challenges standard consciousness models |
 | [R02 — Brain Evolution](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) | What savants reveal about brain capacity |
 | [R04 — Epigenetics](../R_Biology_Evolution/R04_Epigenetics_Ancestral_Memory.md) | Genetic memory hypothesis for unlearned skills |
 | [K08 — Meditation](K08_Meditation_Neuroplasticity.md) | Neuroplasticity enabling new brain states |

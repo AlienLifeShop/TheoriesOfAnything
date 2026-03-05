@@ -1,8 +1,8 @@
 # K03 — Remote Viewing & Psychic Programs
 
-> **Source Agreement:** [4] AI sources contributed | **Primary Tier:** 1–2 | **Last Updated:** Feb 26, 2026
-> **Keywords:** remote viewing, Stargate, SRI, CIA, DIA, Targ, Puthoff, Ingo Swann, Pat Price, Joe McMoneagle, psychic spy, controlled remote viewing, coordinate remote viewing, Grill Flame, Sun Streak, Center Lane, extrasensory perception, psi, meta-analysis, PEAR lab, Hella Hammid, Mel Riley, Nolan, psi genetics
-> **Cross-References:** [K01 — Consciousness](K01_NDEs_OBEs_Consciousness.md) · [K04 — Quantum Consciousness](K04_Quantum_Consciousness.md) · [I01 — Disclosure Timeline](../I_UAP_Disclosure/I01_UAP_Government_Disclosure_Timeline.md) · [H01 — Suppression](../H_Suppression_and_Thesis/H01_Suppression_of_Ancient_Knowledge.md)
+> **Source Agreement:** [4] AI sources contributed | **Primary Tier:** 1–2 | **Last Updated:** Feb 2026
+> **Keywords:** remote viewing, Stargate, SRI, CIA, DIA, Targ, Puthoff, Ingo Swann, Pat Price, Joe McMoneagle, psychic spy, controlled remote viewing, coordinate remote viewing, Grill Flame, Sun Streak, Center Lane, extrasensory perception, psi, meta-analysis
+> **Cross-References:** [K01 — Consciousness](K01_NDEs_OBEs_Consciousness.md) · [K04 — Quantum Consciousness](K04_Quantum_Consciousness.md) · [I01 — Disclosure Timeline](../I_UAP_Disclosure/I01_UAP_Government_Disclosure_Timeline.md) · [H01 — Suppression](../H_Suppression_and_Thesis/H01_Knowledge_Suppression_Evidence.md)
 
 ---
 
@@ -12,9 +12,9 @@ The U.S. government spent $20M+ over 23 years (1972–1995) investigating psychi
 
 ---
 
-## 1. VERIFIED CLAIMS (Tier 1 — Peer-Reviewed / Archaeological Record)
+## 1. Verified Claims — Tier 1
 
-### 1.1 CIA/DIA Stargate Program — Existence Confirmed [4/5 sources]
+### 1.1 CIA/DIA Stargate Program — Existence Confirmed
 
 - **Source:** CIA FOIA release (1995+); ~90,000 pages declassified; Targ, Russell & Harold Puthoff. "Information Transmission Under Conditions of Sensory Shielding." *Nature* 251, 1974.
 - **Program names (chronological):**
@@ -28,7 +28,7 @@ The U.S. government spent $20M+ over 23 years (1972–1995) investigating psychi
 - **Published in:** *Nature* 251 (1974), *Proceedings of the IEEE* 64(3) (1976) — top-tier scientific journals
 - **Status:** The program's EXISTENCE is indisputable (declassified documents). Its RESULTS remain debated.
 
-### 1.2 Final Assessment — AIR Report (1995) [3/5 sources]
+### 1.2 Final Assessment — AIR Report (1995)
 
 - **Source:** American Institutes for Research. *An Evaluation of Remote Viewing: Research and Applications*. 1995.
 - Two evaluators:
@@ -39,9 +39,9 @@ The U.S. government spent $20M+ over 23 years (1972–1995) investigating psychi
 
 ---
 
-## 2. CREDIBLE CLAIMS (Tier 2 — Academic / Debated but Supported)
+## 2. Credible Claims — Tier 2
 
-### 2.1 Key Remote Viewers — Operational Results [4/5 sources]
+### 2.1 Key Remote Viewers — Operational Results
 
 | Viewer | Background | Notable Results | Assessment |
 |--------|-----------|----------------|-----------|
@@ -51,7 +51,7 @@ The U.S. government spent $20M+ over 23 years (1972–1995) investigating psychi
 | **Mel Riley** | Army specialist | Operational sessions; terrain descriptions | DIA records |
 | **Hella Hammid** | Photographer; SRI subject | Contributed to *Nature* 1974 paper; accurate geographic RV descriptions; one of Targ & Puthoff's most consistent subjects | Published results |
 
-### 2.2 Ingo Swann — Jupiter Pre-Discovery (1973) [3/5 sources]
+### 2.2 Ingo Swann — Jupiter Pre-Discovery (1973)
 
 - Swann conducted remote viewing session targeting Jupiter under controlled conditions at SRI
 - Described: rings around Jupiter, multi-colored atmospheric bands, specific storm features
@@ -60,7 +60,52 @@ The U.S. government spent $20M+ over 23 years (1972–1995) investigating psychi
 - **Critique:** Description also included some inaccurate details; pattern matching from partial hits is possible
 - **However:** The rings prediction is specific, documented, and precedes discovery by 6 years
 
-### 2.3 PEAR Lab — Princeton Engineering Anomalies Research (1979–2007) [3/5 sources]
+---
+
+## 3. Speculative Claims — Tier 3
+
+### 3.1 International Programs
+
+| Country | Program | Period | Key Details |
+|---------|---------|--------|-------------|
+| **USSR/Russia** | GRU/KGB-funded | 1960s–1990s+ | Psychokinesis, telepathy, bio-energy research; larger budget than US program |
+| **China** | PLA/ASSTC | 1980s–present | "Exceptional Human Functions" (特异功能); Qian Xuesen (father of Chinese rocketry) supported research |
+| **UK** | MOD Study | 2001–2002 | Concluded "no value" in 18-month assessment; methods criticized as too brief |
+| **Israel** | Mossad (alleged) | 1970s–? | RV reportedly used operationally; extremely limited documentation |
+
+### 3.2 Mechanism — How Would RV Work?
+
+- **Non-local consciousness:** Consciousness is not confined to the brain; can access information at distance (Radin, Dean, *Entangled Minds*)
+- **Quantum entanglement:** Hypothetical; entanglement doesn't transmit information (no-communication theorem)
+- **Retrocausality:** Some RV successes involved future events (precognitive remote viewing) — temporal anomaly
+- **Status:** No accepted physical mechanism; the PHENOMENON may be real without a THEORY to explain it
+
+---
+
+## 4. CONNECTIONS TO EXISTING DATABASE
+
+- **K01 (NDEs/OBEs):** OBE perception during cardiac arrest parallels RV claims of perception without physical senses
+- **K04 (Quantum Consciousness):** If consciousness is quantum (Orch-OR), non-local perception becomes theoretically possible
+- **I01 (Disclosure):** Stargate declassification parallels UAP declassification — both government programs studying anomalous phenomena, both suppressed, both eventually acknowledged
+- **H01 (Suppression):** "Giggle factor" suppression of psi research mirrors UFO stigma (Robertson Panel effect)
+
+---
+
+## 5. IMAGES
+
+| # | Description | License | Filename | Tier |
+|---|------------|---------|----------|------|
+| 1 | CIA Stargate declassified document (cover page) | Public Domain (CIA) | T1_K03_psychic_001_cia_stargate_declassified.jpg | 1 |
+| 2 | SRI remote viewing experimental setup diagram | Fair Use | T2_K03_psychic_002_sri_remote_viewing_setup.png | 2 |
+| 3 | Ingo Swann Jupiter sketch (1973, pre-Voyager) | Fair Use | T2_K03_psychic_003_swann_jupiter_sketch.jpg | 2 |
+| 4 | Clairvoyance | Public Domain / CC | T1_K03_clairvoyance.gif | 1 |
+| 5 | Remote viewing | Public Domain / CC | T1_K03_remote_viewing.jpg | 1 |
+
+---
+
+## 5B. EXPERIMENTAL PSI RESEARCH BEYOND STARGATE — Gap Priority Expansion
+
+### 5B.1 PEAR Lab — Princeton Engineering Anomalies Research (1979–2007) (Tier 2)
 
 - **Source:** Jahn, Robert G. & Brenda J. Dunne. *Margins of Reality: The Role of Consciousness in the Physical World*. Harcourt, 1987; Nelson, Roger D. et al. "Correlations of Continuous Random Data with Major World Events." *Foundations of Physics Letters* 15(6), 2002; Jahn, R.G. et al. "Correlations of Random Binary Sequences with Pre-Stated Operator Intention." *JSPR* 61(842), 1997.
 - **The lab:**
@@ -79,8 +124,9 @@ The U.S. government spent $20M+ over 23 years (1972–1995) investigating psychi
   - Results: statistically significant correlations reported; critics argue for multiple-testing artifacts
 - **Assessment:** TIER 2. The data exists, was collected over decades by credentialed researchers at a top institution using well-characterized equipment. The EFFECT is real (statistically). The INTERPRETATION (human consciousness influences physical systems) is contested. The effect size is too small for practical application.
 - **Critical note:** Robert G. Jahn is the SAME researcher who co-authored the foundational acoustic measurements at ancient structures (J04 bibliography ref 1). The connection between PEAR's consciousness research and archaeoacoustics represents an underexplored cross-reference.
+- **Cross-References:** J04 (Jahn's acoustic research), K04 (quantum consciousness — mechanism), K05 (Gateway Process — claimed consciousness effects)
 
-### 2.4 Ganzfeld Experiments — The Replication Debate [3/5 sources]
+### 5B.2 Ganzfeld Experiments — The Replication Debate (Tier 2)
 
 - **Source:** Bem, Daryl J. & Charles Honorton. "Does Psi Exist? Replicable Evidence for an Anomalous Process of Information Transfer." *Psychological Bulletin* 115(1), 1994; Milton, Julie & Richard Wiseman. "Does Psi Exist?" *Psychological Bulletin* 125(4), 1999 (rebuttal); Storm, Lance, Patrizio Tressoldi & Lorenzo Di Risio. "Meta-Analysis of Free-Response Studies, 1992–2008." *Psychological Bulletin* 136(4), 2010.
 - **The procedure:**
@@ -96,9 +142,9 @@ The U.S. government spent $20M+ over 23 years (1972–1995) investigating psychi
   - **Ongoing:** The ganzfeld debate continues to oscillate between positive replications and null results, with no clear resolution
 - **Assessment:** TIER 2. The most replicated experimental paradigm in parapsychology. Effect sizes are small but consistent across positive replications. The debate centers on methodological adequacy (sensory leakage, randomization quality, file-drawer problem) and statistical interpretation.
 
-### 2.5 Dean Radin — Meta-Analytic Evidence for Psi [3/5 sources]
+### 5B.3 Dean Radin — Meta-Analytic Evidence for Psi (Tier 2–3)
 
-- **Source:** Radin, Dean. *The Conscious Universe: The Scientific Truth of Psychic Phenomena*. HarperOne, 1997; Radin, Dean. *Entangled Minds*. Paraview, 2006; Radin, Dean. "Electrocortical Activity Prior to Unpredictable Stimuli in Meditators and Non-Meditators." *Explore* 7(5), 2011.
+- **Source:** Radin, Dean. *The Conscious Universe: The Scientific Truth of Psychic Phenomena*. HarperOne, 1997; Radin, Dean. *Entangled Minds*. Paraview, 2006 (already cited §3.2); Radin, Dean. "Electrocortical Activity Prior to Unpredictable Stimuli in Meditators and Non-Meditators." *Explore* 7(5), 2011.
 - **Radin's contribution:**
   - Senior scientist at the Institute of Noetic Sciences (IONS); formerly at Princeton, University of Edinburgh, AT&T Bell Labs
   - Systematic meta-analyst of psi research across multiple domains:
@@ -109,76 +155,9 @@ The U.S. government spent $20M+ over 23 years (1972–1995) investigating psychi
   - **Counter-argument:** Extraordinary claims require extraordinary evidence; small effect sizes are vulnerable to publication bias, p-hacking, and methodological artifacts.
 - **Assessment:** TIER 2 for the meta-analytic methodology (Radin's statistical work is technically competent). TIER 3 for the interpretive framework ("consciousness is non-local" lacks a demonstrated mechanism). The presentiment data is the most intriguing because it involves PHYSIOLOGICAL measurements, not subjective reports.
 
-### 2.6 Ongoing Government Interest and Genetic Research (2025–2026) [2/5 sources]
-
-- **Current Remote Viewing Programs:** In recent interviews (late 2025/early 2026), prominent parapsychologist Dr. Dean Radin has publicly stated that unclassified government remote viewing programs are currently active, suggesting that institutional interest in psi phenomena did not entirely end with the closure of STARGATE in 1995.
-- **Psi Genetics and UAP Overlap:** Emerging research directions are increasingly linking psi abilities to genetics. Radin has discussed ongoing genetic research into psychic abilities, including studies inspired by researchers like Dr. Garry Nolan, which attempt to find genetic markers linking high-functioning psi individuals to those who report UAP contact experiences.
-
 ---
 
-## 3. SPECULATIVE CLAIMS (Tier 3 — Possible but Unverified)
-
-### 3.1 International Programs [2/5 sources]
-
-| Country | Program | Period | Key Details |
-|---------|---------|--------|-------------|
-| **USSR/Russia** | GRU/KGB-funded | 1960s–1990s+ | Psychokinesis, telepathy, bio-energy research; larger budget than US program |
-| **China** | PLA/ASSTC | 1980s–present | "Exceptional Human Functions" (特异功能); Qian Xuesen (father of Chinese rocketry) supported research |
-| **UK** | MOD Study | 2001–2002 | Concluded "no value" in 18-month assessment; methods criticized as too brief |
-| **Israel** | Mossad (alleged) | 1970s–? | RV reportedly used operationally; extremely limited documentation |
-
-### 3.2 Mechanism — How Would RV Work? [2/5 sources]
-
-- **Non-local consciousness:** Consciousness is not confined to the brain; can access information at distance (Radin, Dean, *Entangled Minds*)
-- **Quantum entanglement:** Hypothetical; entanglement doesn't transmit information (no-communication theorem)
-- **Retrocausality:** Some RV successes involved future events (precognitive remote viewing) — temporal anomaly
-- **Status:** No accepted physical mechanism; the PHENOMENON may be real without a THEORY to explain it
-
-### 3.3 The "Science of Magic" Framework (2025) [1/5 sources]
-
-- **Source:** Radin, Dean. *The Science of Magic*. 2025.
-- Radin's recent work attempts to reframe psi phenomena using the nomenclature of traditional esoteric practices, arguing that ancient traditions provide a ready-made framework for understanding how consciousness interacts with the fabric of reality, further blurring the lines between parapsychology, quantum mechanics, and historical mysticism.
-
----
-
-## 4. DUBIOUS CLAIMS (Tier 4 — No Credible Source / Contradicted by Evidence)
-
-### 4.1 Reliable Predictive Applications of Remote Viewing [1/5 sources]
-
-- **Claim:** Remote viewing can be used to reliably predict specific outcomes such as lottery numbers, stock market movements, or other high-value targets.
-- **Evidence against:** No remote viewer has demonstrably predicted lottery numbers or stock markets consistently — the most obvious test of precognitive ability. The Stargate program itself was terminated partly because results were "not useful enough for intelligence operations."
-- **Status:** CONTRADICTED. If RV worked reliably for prediction, its practical applications would be self-evident and self-funding.
-
-### 4.2 Universal Success Rate in Operational Remote Viewing [1/5 sources]
-
-- **Claim:** Operational remote viewing sessions consistently produced accurate intelligence.
-- **Evidence against:** Published successes represent selective reporting; unpublished failures remain undocumented. The hit rate in operational RV may be much lower than reported highlights suggest. The file drawer problem means an unknown number of sessions producing no results were never documented.
-- **Status:** MISLEADING. Highlight reels of successful sessions create a distorted picture of overall operational accuracy.
-
-### 4.3 RV Results Free of Methodological Concerns [2/5 sources]
-
-- **Claim:** Remote viewing results have been independently verified without significant methodological issues.
-- **Evidence against:**
-  - **Subjective judging:** RV transcripts are often vague enough that multiple targets could "match." Independent blind judging protocols improved this but were not always used.
-  - **UK MOD conclusion:** The 2001–02 MOD study found ZERO operational value. However, the study was criticized as too short and methodologically limited.
-  - **Ray Hyman's assessment:** Even while acknowledging statistical significance, Hyman attributed results to "subtle methodological problems" rather than psi.
-- **Status:** CONTESTED. Methodological concerns remain unresolved even in the strongest positive studies.
-
----
-
-## IMAGES
-
-| # | Description | License | Filename | Tier |
-|---|------------|---------|----------|------|
-| 1 | CIA Stargate declassified document (cover page) | Public Domain (CIA) | T1_K03_psychic_001_cia_stargate_declassified.jpg | 1 |
-| 2 | SRI remote viewing experimental setup diagram | Fair Use | T2_K03_psychic_002_sri_remote_viewing_setup.png | 2 |
-| 3 | Ingo Swann Jupiter sketch (1973, pre-Voyager) | Fair Use | T2_K03_psychic_003_swann_jupiter_sketch.jpg | 2 |
-| 4 | Clairvoyance | Public Domain / CC | T1_K03_clairvoyance.gif | 1 |
-| 5 | Remote viewing | Public Domain / CC | T1_K03_remote_viewing.jpg | 1 |
-
----
-
-## GAPS REMAINING
+## 6. GAPS REMAINING
 
 - [ ] Full analysis of 90,000+ declassified Stargate pages (mostly not systematically analyzed)
 - [ ] Soviet/Russian program documentation: post-Cold War release incomplete
@@ -189,7 +168,17 @@ The U.S. government spent $20M+ over 23 years (1972–1995) investigating psychi
 
 ---
 
-## BIBLIOGRAPHY
+## 7. DEBUNKING NOTES
+
+- **Selective reporting:** Published successes; unpublished failures. The hit rate in operational RV may be much lower than reported highlights suggest.
+- **Subjective judging:** RV transcripts are often vague enough that multiple targets could "match." Independent blind judging protocols improved this but were not always used.
+- **File drawer problem:** Unknown number of sessions producing no results were never documented.
+- **UK conclusion:** The 2001–02 MOD study found ZERO operational value. However, the study was criticized as too short and methodologically limited.
+- **Lotto test:** No remote viewer has demonstrably predicted lottery numbers or stock markets consistently — the most obvious test of precognitive ability.
+
+---
+
+## MASTER BIBLIOGRAPHY — K03
 
 1. Targ, Russell & Harold Puthoff. "Information Transmission Under Conditions of Sensory Shielding." *Nature* 251, 1974.
 2. Puthoff, Harold E. & Russell Targ. "A Perceptual Channel for Information Transfer Over Kilometer Distances." *IEEE* 64(3), 1976.
@@ -202,24 +191,15 @@ The U.S. government spent $20M+ over 23 years (1972–1995) investigating psychi
 9. Milton, Julie & Richard Wiseman. "Does Psi Exist?" *Psychological Bulletin* 125(4), 1999.
 10. Storm, Lance et al. "Meta-Analysis of Free-Response Studies." *Psychological Bulletin* 136(4), 2010.
 11. Radin, Dean. *The Conscious Universe*. HarperOne, 1997.
-12. Nelson, Roger D. et al. "Correlations of Continuous Random Data with Major World Events." *Foundations of Physics Letters* 15(6), 2002.
-13. Jahn, R.G. et al. "Correlations of Random Binary Sequences with Pre-Stated Operator Intention." *JSPR* 61(842), 1997.
-14. Radin, Dean. "Electrocortical Activity Prior to Unpredictable Stimuli in Meditators and Non-Meditators." *Explore* 7(5), 2011.
-15. Radin, Dean. *The Science of Magic*. 2025.
 
 ---
 
-## CROSS-REFERENCE INDEX
+## 8. [RECENT] 2024–2026 Addendum
 
-| Related Doc | Connection |
-|------------|------------|
-| K01 (NDEs/OBEs) | OBE perception during cardiac arrest parallels RV claims of perception without physical senses |
-| K04 (Quantum Consciousness) | If consciousness is quantum (Orch-OR), non-local perception becomes theoretically possible |
-| K05 (Gateway Process) | PEAR's consciousness effects research relates to Gateway Process claimed consciousness effects |
-| I01 (Disclosure) | Stargate declassification parallels UAP declassification — both government programs studying anomalous phenomena, both suppressed, both eventually acknowledged |
-| H01 (Suppression) | "Giggle factor" suppression of psi research mirrors UFO stigma (Robertson Panel effect) |
-| J04 (Archaeoacoustics) | Robert G. Jahn's PEAR lab consciousness research connects to his foundational acoustic measurements at ancient structures |
+### 8.1 Ongoing Government Interest and Genetic Research (2025–2026)
+- **Current Remote Viewing Programs:** In recent interviews (late 2025/early 2026), prominent parapsychologist Dr. Dean Radin has publicly stated that unclassified government remote viewing programs are currently active, suggesting that institutional interest in psi phenomena did not entirely end with the closure of STARGATE in 1995.
+- **Psi Genetics and UAP Overlap:** Emerging research directions are increasingly linking psi abilities to genetics. Radin has discussed ongoing genetic research into psychic abilities, including studies inspired by researchers like Dr. Garry Nolan, which attempt to find genetic markers linking high-functioning psi individuals to those who report UAP contact experiences.
+- **The "Science of Magic" Framework:** Radin's recent work (e.g., *The Science of Magic*, 2025) attempts to reframe psi phenomena using the nomenclature of traditional esoteric practices, arguing that ancient traditions provide a ready-made framework for understanding how consciousness interacts with the fabric of reality, further blurring the lines between parapsychology, quantum mechanics, and historical mysticism.
 
 ---
-
-*Consolidated from 4 AI sources. Last Updated: Feb 26, 2026*
+*[K03 COMPLETE — Stargate program, 5 key viewers, PEAR lab, ganzfeld, Radin meta-analyses, international programs, 3 images, plus 2025-2026 Addendum]*

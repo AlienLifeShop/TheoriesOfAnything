@@ -3,7 +3,7 @@
 > **Document ID:** K31
 > **Section:** K_Consciousness
 > **Keywords:** machine consciousness, Chinese Room, Turing Test, Integrated Information Theory, IIT, Phi, Global Workspace Theory, LaMDA, hard problem, artificial general intelligence, robot rights, digital sentience, Searle, Tononi
-> **Cross-References:** [S01](../S_Future_Technology/S01_AGI_Existential_Risk.md) · [K04](K04_Quantum_Consciousness.md) · [P05](../P_Philosophy_Meaning/P05_Panpsychism.md) · [G28](../G_Modern_Frameworks/G28_Artificial_Life.md) · [P11](../P_Philosophy_Meaning/P11_Personal_Identity.md)
+> **Cross-References:** [S01](../S_Future_Technology/S01_AGI_Existential_Risk.md) · [K04](K04_Quantum_Consciousness.md) · [P05](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) · [G28](../G_Modern_Frameworks/G28_Artificial_Life_Emergence_Digital_Evolution.md) · [P11](../P_Philosophy_Meaning/P11_Personal_Identity_Continuity.md)
 > **Reliability Tier:** Tier 1-3 (established philosophy and neuroscience through speculative AI claims)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** High for philosophical arguments, Moderate for neuroscience theories, Low for current AI sentience claims
 
@@ -169,9 +169,9 @@ The question of machine consciousness — whether artificial systems can be genu
 |----------|----------|-----------|
 | [S01](../S_Future_Technology/S01_AGI_Existential_Risk.md) | Direct link | AGI risk and consciousness implications |
 | [K04](K04_Quantum_Consciousness.md) | Theoretical | Quantum requirements for consciousness |
-| [P05](../P_Philosophy_Meaning/P05_Panpsychism.md) | Philosophical | Panpsychism and machine consciousness |
-| [G28](../G_Modern_Frameworks/G28_Artificial_Life.md) | Related | Artificial life and emergent properties |
-| [P11](../P_Philosophy_Meaning/P11_Personal_Identity.md) | Philosophical | Identity, continuity, and digital minds |
+| [P05](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) | Philosophical | Panpsychism and machine consciousness |
+| [G28](../G_Modern_Frameworks/G28_Artificial_Life_Emergence_Digital_Evolution.md) | Related | Artificial life and emergent properties |
+| [P11](../P_Philosophy_Meaning/P11_Personal_Identity_Continuity.md) | Philosophical | Identity, continuity, and digital minds |
 | [K34](K34_Split_Brain_Divided_Consciousness.md) | Empirical | Divided consciousness and unity questions |
 | [K30](K30_Mystical_Experience_Neuroscience.md) | Related | Can machines have mystical experiences? |
 

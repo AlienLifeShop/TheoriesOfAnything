@@ -620,4 +620,15 @@ This project documents patterns without committing to either position. The pharm
 
 ## Bibliography
 
-- Hofmann. *LSD: My Problem Child*. 1979.
+1. Hofmann, Albert. *LSD: My Problem Child*. McGraw-Hill, 1980 (orig. German 1979).
+2. Wasson, R. Gordon, Hofmann, Albert & Ruck, Carl A.P. *The Road to Eleusis: Unveiling the Secret of the Mysteries*. Harcourt Brace Jovanovich, 1978.
+3. Muraresku, Brian C. *The Immortality Key: The Secret History of the Religion with No Name*. St. Martin's Press, 2020.
+4. Wasson, R. Gordon. "Seeking the Magic Mushroom." *Life* magazine, May 13, 1957.
+5. Wasson, R. Gordon. *Soma: Divine Mushroom of Immortality*. Harcourt Brace Jovanovich, 1968.
+6. Schultes, Richard Evans & Hofmann, Albert. *Plants of the Gods: Their Sacred, Healing, and Hallucinogenic Powers*. Healing Arts Press, 1979 (revised 2001).
+7. Caporael, Linnda R. "Ergotism: The Satan Loosed in Salem?" *Science* 192.4234 (1976): 21–26.
+8. Spanos, Nicholas P. & Gottlieb, Jack. "Ergotism and the Salem Village Witch Trials." *Science* 194.4272 (1976): 1390–1394.
+9. Matossian, Mary Kilbourne. *Poisons of the Past: Molds, Epidemics, and History*. Yale University Press, 1989.
+10. Clinton, Kevin. *The Sacred Officials of the Eleusinian Mysteries*. American Philosophical Society, 1974.
+11. McKenna, Terence. *Food of the Gods: The Search for the Original Tree of Knowledge*. Bantam Books, 1992.
+12. Flattery, David S. & Schwartz, Martin. *Haoma and Harmaline*. University of California Press, 1989.

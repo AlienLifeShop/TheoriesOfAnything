@@ -117,10 +117,10 @@ The transition from communicative to cultural memory is a **critical threshold**
 
 | Document | Connection |
 |----------|------------|
-| [K01 — Consciousness Theories](K01_Consciousness_Theories.md) | Embodied cognition and trauma |
-| [R06 — Epigenetics](../R_Biology_Evolution/R06_Epigenetics.md) | Epigenetic mechanisms of inheritance |
-| [L01 — Human Origins DNA](../L_Genetics_Origins/L01_Human_Origins_DNA.md) | Population genetics and bottleneck effects |
-| [E01 — Flood Myths / Cataclysms](../E_Cataclysms_and_Chronology/E01_Flood_Myths_Cataclysms.md) | Catastrophic events and collective memory |
+| [K01 — Consciousness Theories](K01_NDEs_OBEs_Consciousness.md) | Embodied cognition and trauma |
+| [R06 — Epigenetics](../R_Biology_Evolution/R04_Epigenetics_Ancestral_Memory.md) | Epigenetic mechanisms of inheritance |
+| [L01 — Human Origins DNA](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Population genetics and bottleneck effects |
+| [E01 — Flood Myths / Cataclysms](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Catastrophic events and collective memory |
 | [C65 — Death Rituals](../C_Global_Traditions/C65_Death_Rituals_Funerary_Architecture.md) | Rituals of mourning and collective grief |
 | [P18 — Ritual, Symbol, Sacred](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred.md) | Ritual as memory maintenance technology |
 

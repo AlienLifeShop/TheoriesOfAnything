@@ -3,7 +3,7 @@
 > **Document ID:** K35
 > **Section:** K_Consciousness
 > **Keywords:** phantom limb, body schema, V.S. Ramachandran, mirror box therapy, rubber hand illusion, proprioception, cortical remapping, body image, phantom pain, congenital phantom limb, full-body illusion, Henrik Ehrsson, Silas Weir Mitchell, embodied consciousness
-> **Cross-References:** [K01](K01_NDEs_OBEs.md) · [K34](K34_Split_Brain_Divided_Consciousness.md) · [P11](../P_Philosophy_Meaning/P11_Personal_Identity.md) · [K04](K04_Quantum_Consciousness.md) · [G32](../G_Modern_Frameworks/G32_Biofield_Science.md)
+> **Cross-References:** [K01](K01_NDEs_OBEs_Consciousness.md) · [K34](K34_Split_Brain_Divided_Consciousness.md) · [P11](../P_Philosophy_Meaning/P11_Personal_Identity_Continuity.md) · [K04](K04_Quantum_Consciousness.md) · [G32](../G_Modern_Frameworks/G32_Biofield_Science_Electromagnetic_Subtle_Energy.md)
 > **Reliability Tier:** Tier 1-2 (well-established neuroscience through debated theoretical implications)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High for clinical/experimental findings, Moderate for consciousness implications
 
@@ -167,11 +167,11 @@ Phantom limb phenomena — the vivid perception of a limb that has been amputate
 
 | Document | Relation | Relevance |
 |----------|----------|-----------|
-| [K01](K01_NDEs_OBEs.md) | Direct link | OBE mechanisms and body disownership |
+| [K01](K01_NDEs_OBEs_Consciousness.md) | Direct link | OBE mechanisms and body disownership |
 | [K34](K34_Split_Brain_Divided_Consciousness.md) | Related | Divided vs. unified body consciousness |
-| [P11](../P_Philosophy_Meaning/P11_Personal_Identity.md) | Philosophical | Embodiment and personal identity boundaries |
+| [P11](../P_Philosophy_Meaning/P11_Personal_Identity_Continuity.md) | Philosophical | Embodiment and personal identity boundaries |
 | [K04](K04_Quantum_Consciousness.md) | Theoretical | Consciousness and physical substrate |
-| [G32](../G_Modern_Frameworks/G32_Biofield_Science.md) | Contrasting | Biofield claims vs. neuroscience explanations |
+| [G32](../G_Modern_Frameworks/G32_Biofield_Science_Electromagnetic_Subtle_Energy.md) | Contrasting | Biofield claims vs. neuroscience explanations |
 | [K30](K30_Mystical_Experience_Neuroscience.md) | Related | Embodied vs. disembodied experience |
 | [K31](K31_Machine_Consciousness_AI_Awareness.md) | Speculative | Prosthetic embodiment and machine consciousness |
 

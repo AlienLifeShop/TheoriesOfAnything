@@ -3,7 +3,7 @@
 > **Document ID:** K30
 > **Section:** K_Consciousness
 > **Keywords:** mystical experience, numinous, William James, Rudolf Otto, peak experience, neurotheology, Andrew Newberg, temporal lobe epilepsy, Geschwind syndrome, psilocybin, God Helmet, Persinger, SPECT imaging, Maslow
-> **Cross-References:** [K10](K10_Meditation_Neuroscience.md) · [K08](K08_Psychedelics_Consciousness.md) · [K06](K06_Kundalini_Energy.md) · [G33](../G_Modern_Frameworks/G33_Parapsychology_Psi_Research.md) · [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md)
+> **Cross-References:** [K10](K10_Savant_Syndrome.md) · [K08](K08_Meditation_Neuroplasticity.md) · [K06](K06_Kundalini_Serpent_Energy.md) · [G33](../G_Modern_Frameworks/G33_Parapsychology_Experimental_Psi.md) · [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md)
 > **Reliability Tier:** Tier 1-3 (established neuroscience through debated interpretations)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** High for phenomenology, Moderate for neural correlates, Low for ontological claims
 
@@ -167,10 +167,10 @@ Mystical experiences — characterized by unity consciousness, noetic quality, i
 
 | Document | Relation | Relevance |
 |----------|----------|-----------|
-| [K10](K10_Meditation_Neuroscience.md) | Direct link | Meditation as pathway to mystical experience |
-| [K08](K08_Psychedelics_Consciousness.md) | Direct link | Pharmacological induction of mystical states |
-| [K06](K06_Kundalini_Energy.md) | Related | Kundalini as mystical experience framework |
-| [G33](../G_Modern_Frameworks/G33_Parapsychology_Psi_Research.md) | Overlap | Psi phenomena and mystical states |
+| [K10](K10_Savant_Syndrome.md) | Direct link | Meditation as pathway to mystical experience |
+| [K08](K08_Meditation_Neuroplasticity.md) | Direct link | Pharmacological induction of mystical states |
+| [K06](K06_Kundalini_Serpent_Energy.md) | Related | Kundalini as mystical experience framework |
+| [G33](../G_Modern_Frameworks/G33_Parapsychology_Experimental_Psi.md) | Overlap | Psi phenomena and mystical states |
 | [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) | Philosophical | Perennial philosophy debate |
 | [K32](K32_Psychedelic_Renaissance_Clinical.md) | Direct link | Clinical psilocybin and mystical experience |
 | [K33](K33_Neuroscience_of_Death.md) | Related | Near-death mystical experiences |

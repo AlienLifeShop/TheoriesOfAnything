@@ -2,7 +2,7 @@
 
 > **Source Agreement:** 1 AI source contributed (Claude) | **Primary Tier:** 1–3 | **Last Updated:** Feb 27, 2026
 > **Keywords:** biocentrism, Robert Lanza, observer effect, measurement problem, quantum consciousness, double slit experiment, delayed choice, Wheeler, participatory universe, Copenhagen interpretation, consciousness creates reality, anthropic principle, idealism, panpsychism, Wigner, von Neumann, decoherence, wave function collapse, Jacques 2007, Schopenhauer, Berkeley, Kant, Advaita Vedanta, Kastrup
-> **Cross-References:** [K01 — Consciousness Overview](K01_Consciousness_Overview.md) · [P01 — Hard Problem of Consciousness](../P_Philosophy_Meaning/P01_Hard_Problem_of_Consciousness.md) · [P05 — Panpsychism](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) · [Q06 — Holographic Principle](../Q_Cosmology_Physics/Q06_Holographic_Principle.md) · [Q05 — Multiverse Theories](../Q_Cosmology_Physics/Q05_Multiverse_Theories.md)
+> **Cross-References:** [K01 — Consciousness Overview](K01_NDEs_OBEs_Consciousness.md) · [P01 — Hard Problem of Consciousness](../P_Philosophy_Meaning/P01_Hard_Problem_of_Consciousness.md) · [P05 — Panpsychism](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) · [Q06 — Holographic Principle](../Q_Cosmology_Physics/Q06_Holographic_Principle.md) · [Q05 — Multiverse Theories](../Q_Cosmology_Physics/Q05_Multiverse_Theories.md)
 
 ---
 
@@ -138,7 +138,7 @@ Biocentrism, proposed by Robert Lanza (stem cell biologist) and Bob Berman (astr
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K01 — Consciousness](K01_Consciousness_Overview.md) | Consciousness as fundamental vs. emergent |
+| [K01 — Consciousness](K01_NDEs_OBEs_Consciousness.md) | Consciousness as fundamental vs. emergent |
 | [P01 — Hard Problem](../P_Philosophy_Meaning/P01_Hard_Problem_of_Consciousness.md) | Why consciousness cannot be reduced to matter |
 | [P05 — Panpsychism](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) | Consciousness as a fundamental feature of reality |
 | [Q01 — Anthropic Principle](../Q_Cosmology_Physics/Q01_Anthropic_Principle_Fine_Tuning.md) | Fine-tuning as evidence for observer-dependent universe |

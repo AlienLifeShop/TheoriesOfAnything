@@ -385,4 +385,14 @@ The **archaeological application** (Lewis-Williams model) is more contested:
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Klüver, Heinrich. *Mescal and Mechanisms of Hallucinations*. University of Chicago Press, 1966 (orig. 1928).
+2. Lewis-Williams, J. David & Dowson, Thomas A. "The Signs of All Times: Entoptic Phenomena in Upper Palaeolithic Art." *Current Anthropology* 29.2 (1988): 201–245.
+3. Bressloff, Paul C. et al. "What Geometric Visual Hallucinations Tell Us about the Visual Cortex." *Neural Computation* 14.3 (2002): 473–491.
+4. Lewis-Williams, David. *The Mind in the Cave: Consciousness and the Origins of Art*. Thames & Hudson, 2002.
+5. Clottes, Jean & Lewis-Williams, David. *The Shamans of Prehistory*. Harry N. Abrams, 1998.
+6. Reichel-Dolmatoff, Gerardo. *The Shaman and the Jaguar: A Study of Narcotic Drugs among the Indians of Colombia*. Temple University Press, 1975.
+7. Bahn, Paul & Helvenston, Patricia. "Testing the 'Three Stages of Trance' Model." *Cambridge Archaeological Journal* 15.2 (2005).
+8. Luna, Luis Eduardo & Amaringo, Pablo. *Ayahuasca Visions: The Religious Iconography of a Peruvian Shaman*. North Atlantic Books, 1991.
+9. Narby, Jeremy. *The Cosmic Serpent: DNA and the Origins of Knowledge*. Jeremy P. Tarcher, 1998.
+10. Isbell, Lynne A. *The Fruit, the Tree, and the Serpent: Why We See So Well*. Harvard University Press, 2009.
+11. Whitley, David S. *Cave Paintings and the Human Spirit*. Prometheus Books, 2009.
