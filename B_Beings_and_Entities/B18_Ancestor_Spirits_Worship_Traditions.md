@@ -3,7 +3,7 @@
 > **Document ID:** B18
 > **Section:** B_Beings_and_Entities
 > **Keywords:** ancestor worship, ancestor spirits, veneration, Obon, Egungun, Vodou, lwa, Guédé, amadlozi, Día de Muertos, Lares, Manes, hero cult, kami, atua, jesa, ancestor tablets, necromancy, ancestral communication
-> **Cross-References:** [P07 — Death and Afterlife](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Traditions.md) · [C50 — Vodou Traditions](../C_Global_Traditions/C50_Vodou_Haitian_Spiritual_System.md) · [C40 — Bantu Traditions](../C_Global_Traditions/C40_Bantu_Cosmology_Southern_African.md) · [C65 — Death Rituals](../C_Global_Traditions/C65_Death_Rituals_Funerary_Practices.md) · [B14 — Angels and Celestial Hierarchies](B14_Angels_Celestial_Hierarchies.md) · [P18 — Ritual and Symbol](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred_Practice.md)
+> **Cross-References:** [P07 — Death and Afterlife](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) · [C50 — Vodou Traditions](../C_Global_Traditions/C50_Haitian_Vodou_Afro_Diasporic.md) · [C40 — Bantu Traditions](../C_Global_Traditions/C40_Bantu_Cosmology_Migration_Iron.md) · [C65 — Death Rituals](../C_Global_Traditions/C65_Death_Rituals_Funerary_Architecture.md) · [B14 — Angels and Celestial Hierarchies](B14_Angels_Celestial_Hierarchies.md) · [P18 — Ritual and Symbol](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred.md)
 > **Reliability Tier:** Tier 1-2 (practices widely documented archaeologically and ethnographically; theological interpretations vary)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 13 scholarly sources | **Confidence:** High
 
@@ -78,7 +78,7 @@ Ancestor veneration is arguably the most universal religious practice in human h
 - Baron Samedi is characterized by dark humor, sexuality, and irreverence — death as the great equalizer and liberator
 - The *bizango* and *sanpwèl* societies manage relations with the dead and enforce community justice in Baron Samedi's name
 - The Guédé lwa are simultaneously feared and beloved — they protect children, guard cemeteries, and ensure that the dead rest properly
-- See [C50 — Vodou Traditions](../C_Global_Traditions/C50_Vodou_Haitian_Spiritual_System.md) for detailed analysis
+- See [C50 — Vodou Traditions](../C_Global_Traditions/C50_Haitian_Vodou_Afro_Diasporic.md) for detailed analysis
 
 ### 2.3 Japanese Obon and Shinto Ancestor Kami [4/5 sources]
 - **Obon** (盆, mid-August) — three-day festival welcoming ancestral spirits home; bonfires (*mukaebi*) lit to guide them; *toro nagashi* (floating lanterns) sent downriver to escort them back
@@ -118,7 +118,7 @@ Ancestor veneration is arguably the most universal religious practice in human h
 - Communication via *sangoma* (diviner) or *inyanga* (herbalist) who mediates between worlds
 - Ancestors signal displeasure through illness, misfortune, or dreams; sacrifice (*ukuhlabela*) restores balance
 - The *ukubuyisa* ceremony formally "brings home" the spirit of a recently deceased person after approximately one year
-- See [C40 — Bantu Traditions](../C_Global_Traditions/C40_Bantu_Cosmology_Southern_African.md)
+- See [C40 — Bantu Traditions](../C_Global_Traditions/C40_Bantu_Cosmology_Migration_Iron.md)
 
 ### 2.7 Día de Muertos — Mesoamerican-Christian Synthesis [3/5 sources]
 - **Día de Muertos** (November 1-2) — Mexican festival combining pre-Columbian Aztec death rituals with Catholic All Saints/All Souls observances
@@ -199,12 +199,12 @@ Ancestor veneration is arguably the most universal religious practice in human h
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [P07 — Death and Afterlife](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Traditions.md) | Afterlife cosmologies that underpin ancestor beliefs |
-| [C50 — Vodou Traditions](../C_Global_Traditions/C50_Vodou_Haitian_Spiritual_System.md) | Guédé spirits; lwa service; African-diaspora ancestor practice |
-| [C40 — Bantu Traditions](../C_Global_Traditions/C40_Bantu_Cosmology_Southern_African.md) | Amadlozi; Southern African ancestor cosmology |
-| [C65 — Death Rituals](../C_Global_Traditions/C65_Death_Rituals_Funerary_Practices.md) | Funerary practices that establish ancestor status |
+| [P07 — Death and Afterlife](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) | Afterlife cosmologies that underpin ancestor beliefs |
+| [C50 — Vodou Traditions](../C_Global_Traditions/C50_Haitian_Vodou_Afro_Diasporic.md) | Guédé spirits; lwa service; African-diaspora ancestor practice |
+| [C40 — Bantu Traditions](../C_Global_Traditions/C40_Bantu_Cosmology_Migration_Iron.md) | Amadlozi; Southern African ancestor cosmology |
+| [C65 — Death Rituals](../C_Global_Traditions/C65_Death_Rituals_Funerary_Architecture.md) | Funerary practices that establish ancestor status |
 | [B14 — Angels and Celestial Hierarchies](B14_Angels_Celestial_Hierarchies.md) | Contrast: celestial beings vs. ancestral spirits |
-| [P18 — Ritual and Symbol](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred_Practice.md) | Ritual structures of veneration and communication |
+| [P18 — Ritual and Symbol](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred.md) | Ritual structures of veneration and communication |
 | [B15 — Psychopomp Traditions](B15_Psychopomp_Traditions_Guides_Dead.md) | Guides who escort the dead to ancestral realm |
 | [A15 — Kojiki](../A_Foundations/A15_Kojiki.md) | Japanese imperial ancestor mythology |
 

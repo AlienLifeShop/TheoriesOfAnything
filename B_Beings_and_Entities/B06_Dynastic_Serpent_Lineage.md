@@ -353,5 +353,15 @@ The claim that serpent/dragon ancestor claims are literally true — that a non-
 
 ## Bibliography
 
-- Daguan. *Zhenla Fengtu Ji*. 1297.
-- Isbell. *The Fruit, the Tree, and the Serpent*. 2009.
+1. Zhou Daguan. *Zhenla Fengtu Ji* (A Record of the Customs of Cambodia). 1297 CE.
+2. Sima Qian. *Shiji* (Records of the Grand Historian). c. 94 BCE.
+3. Plutarch. *Life of Alexander*. c. 100 CE.
+4. Apollodorus. *Bibliotheca*. c. 1st–2nd century CE.
+5. Pausanias. *Description of Greece*. c. 150 CE.
+6. Fredegar. *Chronica*. 7th century CE.
+7. Gregory of Tours. *Historia Francorum*. 6th century CE.
+8. Ō no Yasumaro (compiler). *Kojiki* (712 CE). Trans. Gustav Heldt. Columbia University Press, 2014.
+9. Prince Toneri (compiler). *Nihon Shoki*. 720 CE.
+10. Trần Thế Pháp / Vũ Quỳnh. *Lĩnh Nam chích quái*. 14th–15th century CE.
+11. Isbell, Lynne A. *The Fruit, the Tree, and the Serpent: Why We See So Well*. Harvard University Press, 2009.
+12. Faulkner, R. O. *The Ancient Egyptian Pyramid Texts* (c. 2400–2300 BCE). Oxford University Press, 1969.

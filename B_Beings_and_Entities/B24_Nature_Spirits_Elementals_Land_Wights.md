@@ -3,7 +3,7 @@
 > **Document ID:** B24
 > **Section:** B_Beings_and_Entities
 > **Keywords:** nature spirits, elementals, Paracelsus, gnomes, sylphs, undines, salamanders, kami, landvættir, domovoi, leshy, orisha, sidhe, animism, land wights, genius loci, deva, fairy, Shinto, Slavic, Yoruba, Celtic, Nordic
-> **Cross-References:** [B13 — Fairy/Fae](B13_Fairy_Fae_Hidden_People.md) · [C99 — Shinto](../C_Global_Traditions/C99_Shinto_Japanese_Animism.md) · [C84 — Slavic Mythology](../C_Global_Traditions/C84_Slavic_Mythology_Cosmology.md) · [C34 — Celtic Traditions](../C_Global_Traditions/C34_Celtic_Tradition_Druids.md) · [R06 — Gaia Theory](../R_Biology_Evolution/R06_Gaia_Theory_Earth_Systems.md)
+> **Cross-References:** [B13 — Fairy/Fae](B13_Fairy_Fae_Hidden_People.md) · [C99 — Shinto](../C_Global_Traditions/C99_Shinto_Lived_Religion_Ritual_Purity.md) · [C84 — Slavic Mythology](../C_Global_Traditions/C84_Slavic_Mythology_Perun_Veles.md) · [C34 — Celtic Traditions](../C_Global_Traditions/C34_Celtic_Druidic_Traditions.md) · [R06 — Gaia Theory](../R_Biology_Evolution/R06_Gaia_Theory.md)
 > **Reliability Tier:** Tier 2–4 (cross-cultural traditions well-documented; ontological claims unverified)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 19 scholarly sources | **Confidence:** Medium
 
@@ -157,10 +157,10 @@ Across every inhabited continent, human cultures have independently developed tr
 | Related Doc | Connection |
 |-------------|-----------|
 | [B13 — Fairy/Fae](B13_Fairy_Fae_Hidden_People.md) | Overlapping category; B13 focuses on "hidden peoples" with social organization; B24 on landscape-bound elemental spirits |
-| [C99 — Shinto](../C_Global_Traditions/C99_Shinto_Japanese_Animism.md) | Kami as the most systematized nature spirit tradition; shrine culture |
-| [C84 — Slavic Mythology](../C_Global_Traditions/C84_Slavic_Mythology_Cosmology.md) | Slavic nature spirit taxonomy as one of the most detailed surviving systems |
-| [C34 — Celtic Traditions](../C_Global_Traditions/C34_Celtic_Tradition_Druids.md) | Sidhe, fairy mounds, and the Tuatha Dé Danann as landscape-spirit complex |
-| [R06 — Gaia Theory](../R_Biology_Evolution/R06_Gaia_Theory_Earth_Systems.md) | Scientific framework partially validating animistic intuitions about a living Earth |
+| [C99 — Shinto](../C_Global_Traditions/C99_Shinto_Lived_Religion_Ritual_Purity.md) | Kami as the most systematized nature spirit tradition; shrine culture |
+| [C84 — Slavic Mythology](../C_Global_Traditions/C84_Slavic_Mythology_Perun_Veles.md) | Slavic nature spirit taxonomy as one of the most detailed surviving systems |
+| [C34 — Celtic Traditions](../C_Global_Traditions/C34_Celtic_Druidic_Traditions.md) | Sidhe, fairy mounds, and the Tuatha Dé Danann as landscape-spirit complex |
+| [R06 — Gaia Theory](../R_Biology_Evolution/R06_Gaia_Theory.md) | Scientific framework partially validating animistic intuitions about a living Earth |
 | [B18 — Ancestor Spirits](B18_Ancestor_Spirits_Worship_Traditions.md) | Nature spirits vs. ancestor spirits: overlapping but distinct entity categories |
 
 ---

@@ -451,6 +451,22 @@ Suggested search keywords for further research:
 
 ---
 
+## Bibliography
+
+1. Sitchin, Z. *The Twelfth Planet.* New York: Stein and Day, 1976.
+2. Icke, D. *The Biggest Secret.* Ryde: Bridge of Love, 1999.
+3. Narby, J. *The Cosmic Serpent: DNA and the Origins of Knowledge.* New York: Jeremy P. Tarcher/Putnam, 1998.
+4. Hancock, G. *Fingerprints of the Gods.* London: William Heinemann, 1995.
+5. Temple, R. *The Sirius Mystery.* New York: St. Martin's Press, 1976.
+6. Davis, W. *The Serpent and the Rainbow.* New York: Simon & Schuster, 1985.
+7. Leeming, D.A. *The Oxford Companion to World Mythology.* Oxford: Oxford University Press, 2005.
+8. Black, J. & Green, A. *Gods, Demons and Symbols of Ancient Mesopotamia: An Illustrated Dictionary.* Austin: University of Texas Press, 1992.
+9. Blavatsky, H.P. *The Secret Doctrine.* 2 vols. London: The Theosophical Publishing Company, 1888.
+10. von Däniken, E. *Chariots of the Gods?* London: Souvenir Press, 1968.
+11. Bramley, W. *The Gods of Eden.* San Jose: Dahlin Family Press, 1989.
+
+---
+
 ## CHANGE LOG
 
 | Date | Change | Author/Source |

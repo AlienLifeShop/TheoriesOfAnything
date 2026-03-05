@@ -3,7 +3,7 @@
 > **Document ID:** B27
 > **Section:** B_Beings_and_Entities
 > **Keywords:** wild man, Sasquatch, Bigfoot, yeti, Enkidu, Grendel, yeren, almas, orang pendek, Gigantopithecus, Patterson-Gimlin, cryptozoology, hominid, relict species, hairy man, woodwose, Meldrum, Krantz, footprint, primate
-> **Cross-References:** [A31 — Epic of Gilgamesh](../A_Foundations/A31_Epic_of_Gilgamesh_Oldest_Literary_Work.md) · [R10 — Homo Floresiensis](../R_Biology_Evolution/R10_Homo_Floresiensis_Island_Dwarfism.md) · [L06 — Archaic Humans](../L_Genetics_Origins/L06_Archaic_Human_Admixture.md) · [B03 — Underground Creatures](B03_Underground_Creatures_and_Myths.md) · [C27 — Jomon Culture](../C_Global_Traditions/C27_Jomon_Culture_Japan.md)
+> **Cross-References:** [A31 — Epic of Gilgamesh](../A_Foundations/A31_Epic_of_Gilgamesh_Oldest_Literary_Work.md) · [R10 — Homo Floresiensis](../R_Biology_Evolution/R10_Homo_Floresiensis.md) · [L06 — Archaic Humans](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) · [B03 — Underground Creatures](B03_Underground_Creatures_and_Myths.md) · [C27 — Jomon Culture](../C_Global_Traditions/C27_Jomon_People_Pre_Yamato_Japan.md)
 > **Reliability Tier:** Tier 1–4 (literary/mythological traditions = Tier 1; folkloric accounts = Tier 2; cryptid reports = Tier 3–4)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** Medium-Low
 
@@ -157,10 +157,10 @@ The figure of the "wild man" — a large, hairy, human-like being dwelling in wi
 | Related Doc | Connection |
 |-------------|-----------|
 | [A31 — Epic of Gilgamesh](../A_Foundations/A31_Epic_of_Gilgamesh_Oldest_Literary_Work.md) | Enkidu as the oldest literary wild man — civilization vs. nature archetype |
-| [R10 — Homo Floresiensis](../R_Biology_Evolution/R10_Homo_Floresiensis_Island_Dwarfism.md) | Demonstrated survival of archaic hominins into recent past; orang pendek connection |
-| [L06 — Archaic Humans](../L_Genetics_Origins/L06_Archaic_Human_Admixture.md) | Denisovan and Neanderthal coexistence with modern humans; almas hypothesis |
+| [R10 — Homo Floresiensis](../R_Biology_Evolution/R10_Homo_Floresiensis.md) | Demonstrated survival of archaic hominins into recent past; orang pendek connection |
+| [L06 — Archaic Humans](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) | Denisovan and Neanderthal coexistence with modern humans; almas hypothesis |
 | [B03 — Underground Creatures](B03_Underground_Creatures_and_Myths.md) | Some wild man traditions intersect with subterranean being traditions |
-| [C27 — Jomon Culture](../C_Global_Traditions/C27_Jomon_Culture_Japan.md) | Japanese yamabito (mountain people) and pre-Yayoi forest-dwelling traditions |
+| [C27 — Jomon Culture](../C_Global_Traditions/C27_Jomon_People_Pre_Yamato_Japan.md) | Japanese yamabito (mountain people) and pre-Yayoi forest-dwelling traditions |
 | [B20 — Chimeric Beings](B20_Chimeric_Beings_Composite_Entities.md) | Wild man as boundary between human and animal categories |
 
 ---

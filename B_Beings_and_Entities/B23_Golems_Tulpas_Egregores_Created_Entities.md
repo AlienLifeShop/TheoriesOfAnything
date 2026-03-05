@@ -3,7 +3,7 @@
 > **Document ID:** B23
 > **Section:** B_Beings_and_Entities
 > **Keywords:** golem, tulpa, egregore, thought-form, Rabbi Judah Loew, Prague, Sefer Yetzirah, homunculus, Paracelsus, Alexandra David-Néel, Dion Fortune, artificial entity, created being, servitor, chaos magick, AI, clay animation, Jewish mysticism
-> **Cross-References:** [J11 — Ancient Automata](../J_Ancient_Technology/J11_Ancient_Automata_Mechanical_Devices.md) · [N09 — Kabbalah](../N_Secret_Societies/N09_Kabbalah_Mystical_Tradition.md) · [K04 — Quantum Consciousness](../K_Consciousness/K04_Quantum_Consciousness_Debate.md) · [S01 — AGI Risk](../S_Future_Technology/S01_AGI_Artificial_General_Intelligence.md) · [A22 — Zohar](../A_Foundations/A22_Zohar_Merkabah_Hekhalot.md)
+> **Cross-References:** [J11 — Ancient Automata](../J_Ancient_Technology/J11_Ancient_Automata_Proto_Robotics.md) · [N09 — Kabbalah](../N_Secret_Societies/N09_Kabbalah_Jewish_Mysticism.md) · [K04 — Quantum Consciousness](../K_Consciousness/K04_Quantum_Consciousness.md) · [S01 — AGI Risk](../S_Future_Technology/S01_AGI_Existential_Risk.md) · [A22 — Zohar](../A_Foundations/A22_Zohar_Merkabah_Hekhalot.md)
 > **Reliability Tier:** Tier 2–4 (literary/religious traditions well-documented; efficacy claims unverified)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** Medium
 
@@ -139,10 +139,10 @@ Across cultures, traditions describe the creation of animate beings through ritu
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [J11 — Ancient Automata](../J_Ancient_Technology/J11_Ancient_Automata_Mechanical_Devices.md) | Physical automata (Hero of Alexandria, al-Jazari) as the technological counterpart to magical creation |
-| [N09 — Kabbalah](../N_Secret_Societies/N09_Kabbalah_Mystical_Tradition.md) | Sefer Yetzirah and letter-permutation mysticism as the theoretical foundation for golem creation |
-| [K04 — Quantum Consciousness](../K_Consciousness/K04_Quantum_Consciousness_Debate.md) | Tulpa phenomenon as test case for consciousness-matter relationship theories |
-| [S01 — AGI Risk](../S_Future_Technology/S01_AGI_Artificial_General_Intelligence.md) | Golem narrative as the oldest cautionary tale about created intelligence |
+| [J11 — Ancient Automata](../J_Ancient_Technology/J11_Ancient_Automata_Proto_Robotics.md) | Physical automata (Hero of Alexandria, al-Jazari) as the technological counterpart to magical creation |
+| [N09 — Kabbalah](../N_Secret_Societies/N09_Kabbalah_Jewish_Mysticism.md) | Sefer Yetzirah and letter-permutation mysticism as the theoretical foundation for golem creation |
+| [K04 — Quantum Consciousness](../K_Consciousness/K04_Quantum_Consciousness.md) | Tulpa phenomenon as test case for consciousness-matter relationship theories |
+| [S01 — AGI Risk](../S_Future_Technology/S01_AGI_Existential_Risk.md) | Golem narrative as the oldest cautionary tale about created intelligence |
 | [A22 — Zohar](../A_Foundations/A22_Zohar_Merkabah_Hekhalot.md) | Kabbalistic cosmology and the divine creative act that golem creation attempts to replicate |
 | [A04 — Book of Enoch](../A_Foundations/A04_Book_of_Enoch_and_Watchers.md) | Egregore etymology from the Enochic "Watchers" (egrḗgoroi) |
 

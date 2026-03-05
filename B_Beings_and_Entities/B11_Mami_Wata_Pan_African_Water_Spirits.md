@@ -395,5 +395,10 @@ This document synthesizes material from established academic sources in African 
 
 ## Bibliography
 
-- Bahlsen. *The Water Goddess in Igbo Cosmology: Ogbuide of Oguta Lake*. 2008.
-- Taussig. *The Devil and Commodity Fetishism in South America*. 1980.
+1. Drewal, Henry John (ed.). *Sacred Waters: Arts for Mami Wata and Other Divinities in Africa and the Diaspora*. Indiana University Press, 2008.
+2. Jell-Bahlsen, Sabine. *The Water Goddess in Igbo Cosmology: Ogbuide of Oguta Lake*. Africa World Press, 2008.
+3. Meyer, Birgit. *Translating the Devil: Religion and Modernity Among the Ewe in Ghana*. Edinburgh University Press, 1999.
+4. Taussig, Michael. *The Devil and Commodity Fetishism in South America*. University of North Carolina Press, 1980.
+5. Bastian, Misty L. "Married in the Water: Spirit Kin and Other Afflictions of Modernity in Southeastern Nigeria." *Journal of Religion in Africa* 27.2 (1997): 116–134.
+6. de Marees, Pieter. *Description and Historical Account of the Gold Kingdom of Guinea*. 1602. Trans. Albert van Dantzig & Adam Jones, Oxford University Press, 1987.
+7. Barbot, Jean. *A Description of the Coasts of North and South Guinea*. 1688–1702.

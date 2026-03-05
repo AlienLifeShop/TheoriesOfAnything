@@ -3,7 +3,7 @@
 > **Document ID:** B21
 > **Section:** B_Beings_and_Entities
 > **Keywords:** Thunderbird, Garuda, Simurgh, Phoenix, Bennu, Fenghuang, Huma, Roc, Piasa Bird, Quetzal, Raven, Anzu, Imdugud, avian, raptor, storm bird, mythic bird, supernatural bird, eagle symbolism
-> **Cross-References:** [C68 — Native American Traditions](../C_Global_Traditions/C68_Native_American_Star_Knowledge.md) · [C56 — Storm God Traditions](../C_Global_Traditions/C56_Storm_God_Traditions.md) · [B12 — Animal Symbolism](B12_Animal_Symbolism_Beyond_Serpents.md) · [C62 — Cosmic Egg](../C_Global_Traditions/C62_Cosmic_Egg_World_Egg_Traditions.md) · [A18 — Enuma Elish](../A_Foundations/A18_Enuma_Elish_Babylonian_Creation.md)
+> **Cross-References:** [C68 — Native American Traditions](../C_Global_Traditions/C68_Native_American_Great_Plains_Vision_Quest.md) · [C56 — Storm God Traditions](../C_Global_Traditions/C56_Storm_God_Pattern.md) · [B12 — Animal Symbolism](B12_Animal_Symbolism_Beyond_Serpents.md) · [C62 — Cosmic Egg](../C_Global_Traditions/C62_Cosmic_Egg_Cosmogonic_Egg.md) · [A18 — Enuma Elish](../A_Foundations/A18_Enuma_Elish_Babylonian_Creation.md)
 > **Reliability Tier:** Tier 1-3 (textual and archaeological sources strong; cross-cultural pattern analysis involves interpretive scholarship)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 13 scholarly sources | **Confidence:** High
 
@@ -191,10 +191,10 @@ Supernatural avian beings — enormous, powerful, and frequently storm-associate
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C68 — Native American Star Knowledge](../C_Global_Traditions/C68_Native_American_Star_Knowledge.md) | Thunderbird traditions; Piasa Bird; cosmological sky/water duality |
-| [C56 — Storm God Traditions](../C_Global_Traditions/C56_Storm_God_Traditions.md) | Thunder/storm associations; Anzu vs. Ninurta |
+| [C68 — Native American Star Knowledge](../C_Global_Traditions/C68_Native_American_Great_Plains_Vision_Quest.md) | Thunderbird traditions; Piasa Bird; cosmological sky/water duality |
+| [C56 — Storm God Traditions](../C_Global_Traditions/C56_Storm_God_Pattern.md) | Thunder/storm associations; Anzu vs. Ninurta |
 | [B12 — Animal Symbolism](B12_Animal_Symbolism_Beyond_Serpents.md) | Eagle, raven, and raptor as power symbols |
-| [C62 — Cosmic Egg](../C_Global_Traditions/C62_Cosmic_Egg_World_Egg_Traditions.md) | Phoenix/Bennu and creation; Simurgh and world renewal |
+| [C62 — Cosmic Egg](../C_Global_Traditions/C62_Cosmic_Egg_Cosmogonic_Egg.md) | Phoenix/Bennu and creation; Simurgh and world renewal |
 | [A18 — Enuma Elish](../A_Foundations/A18_Enuma_Elish_Babylonian_Creation.md) | Anzu storm-bird; Tablet of Destinies |
 | [B20 — Chimeric Beings](B20_Chimeric_Beings_Composite_Entities.md) | Avian composites — Garuda, Piasa, Huma |
 | [B16 — Shape-Shifting/Therianthropy](B16_Shape_Shifting_Therianthropy.md) | Shamanic bird transformation; eagle-man imagery |

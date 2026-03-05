@@ -378,4 +378,13 @@ The square-cube law definitively rules out humanoid beings of this scale:
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Heiser, Michael S. *The Unseen Realm: Recovering the Supernatural Worldview of the Bible*. Lexham Press, 2015.
+2. Heiser, Michael S. *Reversing Hermon: Enoch, the Watchers, and the Forgotten Mission of Jesus Christ*. Defender Publishing, 2017.
+3. Wright, Archie T. *The Origin of Evil Spirits*. 2nd ed., Fortress Press, 2015.
+4. Stuckenbruck, Loren T. *The Book of Giants from Qumran*. Mohr Siebeck, 1997.
+5. Reed, Annette Yoshiko. *Fallen Angels and the History of Judaism and Christianity*. Cambridge University Press, 2005.
+6. Reeves, John C. *Jewish Lore in Manichaean Cosmogony*. Hebrew Union College Press, 1992.
+7. Milik, Józef T. *The Books of Enoch: Aramaic Fragments from Qumran Cave 4*. Oxford University Press, 1976.
+8. Nickelsburg, George W.E. *1 Enoch: A Commentary on the Book of 1 Enoch*. Hermeneia. Fortress Press, 2001.
+9. Knibb, Michael A. *The Ethiopic Book of Enoch*. 2 vols. Oxford University Press, 1978.
+10. Hendel, Ronald S. "Of Demigods and the Deluge: Toward an Interpretation of Genesis 6:1–4." *Journal of Biblical Literature* 106.1 (1987): 13–26.

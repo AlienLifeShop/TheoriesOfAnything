@@ -42,6 +42,8 @@ Multiple ancient civilizations — Sumerian, Biblical, Egyptian, Chinese, Japane
 
 Then: **"The Flood swept over."** [5/5 sources]
 
+**Counter-Argument:** Mainstream Assyriologists, including Jacobsen (1939) and Hallo (1963), interpret these reign lengths as symbolic or based on mathematical properties of the sexagesimal (base-60) number system rather than literal biological lifespans. All pre-flood reign values in the WB 444 are expressible as products of 60² (= 3,600), suggesting they functioned as schematic chronological markers for dynastic prestige rather than records of actual lifespans.
+
 ### Post-Flood Kings (First Dynasty of Kish) [4/5 sources — Claude, GPT5.2, Master, Raptor]
 
 | # | King | Reign Length |
@@ -152,6 +154,8 @@ Then Menes/Narmer establishes the 1st human dynasty (~3100 BCE). [5/5 sources]
 | **Japanese** | 126–168 years | Declining | Normal |
 
 `[KEY FINDING]` **EVERY tradition shows the same trajectory** — from superhuman/divine lifespans to normal human durations, often with a catastrophic event (flood) as the inflection point. [5/5 sources]
+
+**Counter-Argument:** Comparative mythology scholars argue the "decline pattern" is a universal narrative convention — nearly every civilization idealizes a past "golden age" from which humanity has fallen (Eliade, *The Myth of the Eternal Return*, 1954). This convergence may reflect cultural psychology (nostalgia for origins) rather than historical or biological reality, representing independent deployment of a common literary trope rather than memory of actual lifespan decline.
 
 **Common Elements Across All Traditions:** [4/5 sources — Claude, GPT5.2, Master, Raptor]
 1. A period of non-human or semi-divine rulers with extraordinary lifespans
@@ -435,4 +439,12 @@ Raptor identifies three analytical vectors requiring further investigation:
 
 ## Bibliography
 
-- Campbell. *The Masks of God: Oriental Mythology*. 1962.
+1. Jacobsen, Thorkild. *The Sumerian King List*. Assyriological Studies 11, University of Chicago Press, 1939.
+2. Hallo, William W. "Beginning and End of the Sumerian King List in the Nippur Recension." *Journal of Cuneiform Studies* 17 (1963): 52–57.
+3. Verbrugghe, Gerald P. & Wickersham, John M. *Berossos and Manetho: Native Traditions in Ancient Mesopotamia and Egypt*. University of Michigan Press, 1996.
+4. Campbell, Joseph. *The Masks of God: Oriental Mythology*. Viking Press, 1962.
+5. Black, Jeremy A. et al. *The Literature of Ancient Sumer*. Oxford University Press, 2004.
+6. Walton, John H. *Ancient Near Eastern Thought and the Old Testament*. Baker Academic, 2006.
+7. Hendel, Ronald. *The Book of Genesis: A Biography*. Princeton University Press, 2013.
+8. Young, Rodger C. "When Did Solomon Die?" *Journal of the Evangelical Theological Society* 46.4 (2003): 589–603.
+9. Leichty, Erle. "The Colophon." In *Studies Presented to A. Leo Oppenheim*. University of Chicago Press, 1964.

@@ -529,3 +529,11 @@ Suggested search keywords:
 | — | Raptor's entry template and search keywords preserved | Raptor |
 | — | All named creatures from ALL traditions preserved in full | All sources |
 | — | All open questions merged and deduplicated | All sources |
+
+## Bibliography
+
+1. Thompson, Stith, "Motif-Index of Folk-Literature" (Indiana University Press, 1955)
+2. Eliade, Mircea, "Patterns in Comparative Religion" (Sheed and Ward, 1958)
+3. Leeming, David, "The Oxford Companion to World Mythology" (Oxford University Press, 2005)
+4. Couliano, Ioan P., "Out of This World: Otherworldly Journeys from Gilgamesh to Albert Einstein" (Shambhala, 1991)
+5. Turner, Patricia and Coulter, Charles Russell, "Dictionary of Ancient Deities" (Oxford University Press, 2000)

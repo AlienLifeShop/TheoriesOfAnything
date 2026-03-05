@@ -3,7 +3,7 @@
 > **Document ID:** B20
 > **Section:** B_Beings_and_Entities
 > **Keywords:** chimera, centaur, sphinx, minotaur, manticore, Garuda, Kinnaree, Ammit, Lamassu, Shedu, Naga, Quetzalcoatl, Anubis, Ganesh, composite being, hybrid entity, therianthrope, archetype, Jung
-> **Cross-References:** [C42 — Minoan Civilization](../C_Global_Traditions/C42_Minoan_Civilization_Bull_Cult.md) · [B16 — Shape-Shifting/Therianthropy](B16_Shape_Shifting_Therianthropy.md) · [D03 — Sphinx](../D_Sites_and_Artifacts/D03_Sphinx_Geological_Dating.md) · [B12 — Animal Symbolism](B12_Animal_Symbolism_Beyond_Serpents.md) · [B01 — Reptilian Beings](B01_Reptilian_Beings_Overview.md)
+> **Cross-References:** [C42 — Minoan Civilization](../C_Global_Traditions/C42_Minoan_Civilization_Bull_Cult.md) · [B16 — Shape-Shifting/Therianthropy](B16_Shape_Shifting_Therianthropy.md) · [D03 — Sphinx](../D_Sites_and_Artifacts/D03_Sphinx_Water_Erosion.md) · [B12 — Animal Symbolism](B12_Animal_Symbolism_Beyond_Serpents.md) · [B01 — Reptilian Beings](B01_Reptilian_Beings_Overview.md)
 > **Reliability Tier:** Tier 1-3 (archaeological attestation strong; interpretive frameworks range from mainstream to speculative)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 14 scholarly sources | **Confidence:** High
 
@@ -32,7 +32,7 @@ Composite beings — entities combining human and animal features — appear in 
 - Egyptian sphinxes (*shesep-ankh*, "living image") are typically male and benevolent — royal guardians
 - Avenues of sphinxes (criosphinxes — ram-headed) connect temple complexes at Karnak and Luxor
 - The **Greek Sphinx** reverses the Egyptian function: a female monster who poses riddles and kills those who fail (Oedipus mythos)
-- See [D03 — Sphinx](../D_Sites_and_Artifacts/D03_Sphinx_Geological_Dating.md) for geological dating controversies
+- See [D03 — Sphinx](../D_Sites_and_Artifacts/D03_Sphinx_Water_Erosion.md) for geological dating controversies
 
 ### 1.3 Therianthropic Cave Art Represents Humanity's Earliest Composite Figures [5/5 sources]
 - **Lion-Man of Hohlenstein-Stadel** (Löwenmensch) — mammoth ivory, c. 40,000 BCE; a human body with a lion's head; oldest known figurative sculpture
@@ -187,7 +187,7 @@ Composite beings — entities combining human and animal features — appear in 
 |-------------|-----------|
 | [C42 — Minoan Civilization](../C_Global_Traditions/C42_Minoan_Civilization_Bull_Cult.md) | Minotaur origins; bull cult; labyrinth |
 | [B16 — Shape-Shifting/Therianthropy](B16_Shape_Shifting_Therianthropy.md) | Transformation traditions; shamanic animal-merging |
-| [D03 — Sphinx](../D_Sites_and_Artifacts/D03_Sphinx_Geological_Dating.md) | Sphinx geological dating controversy |
+| [D03 — Sphinx](../D_Sites_and_Artifacts/D03_Sphinx_Water_Erosion.md) | Sphinx geological dating controversy |
 | [B12 — Animal Symbolism](B12_Animal_Symbolism_Beyond_Serpents.md) | Symbolic meaning of component animals |
 | [B01 — Reptilian Beings](B01_Reptilian_Beings_Overview.md) | Serpent-human composites; Naga tradition |
 | [B17 — Demon Taxonomy](B17_Demon_Taxonomy_Across_Cultures.md) | Composite demons (Pazuzu, Ammit) |

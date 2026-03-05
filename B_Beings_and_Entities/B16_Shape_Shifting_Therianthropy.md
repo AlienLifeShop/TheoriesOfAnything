@@ -134,16 +134,16 @@ The Navajo **skinwalker** tradition is among the most sensitive and misunderstoo
 
 | Document | Connection |
 |----------|------------|
-| [K15 — Shamanism Global](../K_Consciousness/K15_Shamanism_Global_Tradition.md) | Shamanic transformation as core practice |
-| [B12 — Animal Symbolism](B12_Animal_Symbolism_Sacred_Creatures.md) | Sacred animals underlying transformation |
+| [K15 — Shamanism Global](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Shamanic transformation as core practice |
+| [B12 — Animal Symbolism](B12_Animal_Symbolism_Beyond_Serpents.md) | Sacred animals underlying transformation |
 | [C67 — Amazonian Traditions](../C_Global_Traditions/C67_Amazonian_Traditions_Plant_Teachers.md) | Jaguar transformation; perspectivism |
 | [C72 — Sami/Circumpolar](../C_Global_Traditions/C72_Sami_Shamanism_Circumpolar_Traditions.md) | Bear transformation; noaidi spirit flight |
-| [C34 — Paleolithic Religion](../C_Global_Traditions/C34_Paleolithic_Religion_Cave_Art.md) | Lion-Man; cave art therianthropes |
+| [C34 — Paleolithic Religion](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md) | Lion-Man; cave art therianthropes |
 | [A12 — Norse Eddas](../A_Foundations/A12_Norse_Eddas.md) | Berserkers; Odin's shape-shifting |
 | [C63 — Initiation Rites](../C_Global_Traditions/C63_Initiation_Rites_Coming_of_Age.md) | Transformation through initiation |
-| [G05 — Entheogen Theory](../G_Modern_Frameworks/G05_Entheogen_Theory.md) | Entheogens and animal transformation experiences |
+| [G05 — Entheogen Theory](../G_Modern_Frameworks/G05_Shamanism_Entheogens_Serpent_Visions.md) | Entheogens and animal transformation experiences |
 | [A15 — Kojiki](../A_Foundations/A15_Kojiki.md) | Kitsune and tanuki in Japanese tradition |
-| [B12 — Animal Symbolism](B12_Animal_Symbolism_Sacred_Creatures.md) | Sacred animals underlying transformation beliefs |
+| [B12 — Animal Symbolism](B12_Animal_Symbolism_Beyond_Serpents.md) | Sacred animals underlying transformation beliefs |
 
 ---
 

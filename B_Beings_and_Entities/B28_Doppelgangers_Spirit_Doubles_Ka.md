@@ -3,7 +3,7 @@
 > **Document ID:** B28
 > **Section:** B_Beings_and_Entities
 > **Keywords:** doppelgänger, spirit double, Ka, Egyptian soul, Norse fylgja, Finnish etiäinen, fetch, autoscopy, heautoscopy, bilocation, Padre Pio, astral body, double, wraith, vardøger, out-of-body, temporal-parietal junction, neurological double
-> **Cross-References:** [K01 — NDEs/OBEs](../K_Consciousness/K01_NDEs_OBEs_Clinical_Studies.md) · [P11 — Personal Identity](../P_Philosophy_Meaning/P11_Personal_Identity_Consciousness.md) · [B15 — Psychopomp](B15_Psychopomp_Traditions_Guides_Dead.md) · [K22 — Anomalous Abilities](../K_Consciousness/K22_Anomalous_Abilities_Psi_Research.md) · [T02 — Archetypal Psychology](../T_Psychology_Social/T02_Archetypal_Psychology_Jung.md)
+> **Cross-References:** [K01 — NDEs/OBEs](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) · [P11 — Personal Identity](../P_Philosophy_Meaning/P11_Personal_Identity_Continuity.md) · [B15 — Psychopomp](B15_Psychopomp_Traditions_Guides_Dead.md) · [K22 — Anomalous Abilities](../K_Consciousness/K22_Anomalous_Human_Abilities_Siddhis.md) · [T02 — Archetypal Psychology](../T_Psychology_Social/T02_Jungian_Archetypes_Collective_Unconscious.md)
 > **Reliability Tier:** Tier 1–3 (neuroscience of autoscopy = Tier 1; cultural traditions = Tier 2; bilocation claims = Tier 3)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** Medium
 
@@ -159,11 +159,11 @@ The experience of encountering one's own double — or a spectral duplicate of a
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K01 — NDEs/OBEs](../K_Consciousness/K01_NDEs_OBEs_Clinical_Studies.md) | Autoscopic experiences during NDEs; TPJ disruption producing OBE |
-| [P11 — Personal Identity](../P_Philosophy_Meaning/P11_Personal_Identity_Consciousness.md) | The double as philosophically challenging personal identity (what makes "you" you?) |
+| [K01 — NDEs/OBEs](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Autoscopic experiences during NDEs; TPJ disruption producing OBE |
+| [P11 — Personal Identity](../P_Philosophy_Meaning/P11_Personal_Identity_Continuity.md) | The double as philosophically challenging personal identity (what makes "you" you?) |
 | [B15 — Psychopomp](B15_Psychopomp_Traditions_Guides_Dead.md) | Fylgja as guide at death; Ka as component surviving death requiring funerary care |
-| [K22 — Anomalous Abilities](../K_Consciousness/K22_Anomalous_Abilities_Psi_Research.md) | Bilocation as claimed paranormal ability; crisis apparitions |
-| [T02 — Archetypal Psychology](../T_Psychology_Social/T02_Archetypal_Psychology_Jung.md) | The Shadow archetype and psychological doubling |
+| [K22 — Anomalous Abilities](../K_Consciousness/K22_Anomalous_Human_Abilities_Siddhis.md) | Bilocation as claimed paranormal ability; crisis apparitions |
+| [T02 — Archetypal Psychology](../T_Psychology_Social/T02_Jungian_Archetypes_Collective_Unconscious.md) | The Shadow archetype and psychological doubling |
 | [B23 — Golems/Tulpas](B23_Golems_Tulpas_Egregores_Created_Entities.md) | Tulpa as deliberately created double; emanation body traditions |
 
 ---

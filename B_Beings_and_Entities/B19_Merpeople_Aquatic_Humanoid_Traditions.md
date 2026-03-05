@@ -3,7 +3,7 @@
 > **Document ID:** B19
 > **Section:** B_Beings_and_Entities
 > **Keywords:** mermaid, merman, merpeople, selkie, ningyo, jengu, Rusalka, Oannes, Apkallu, Mami Wata, Sedna, Yemoja, Melusine, aquatic humanoid, water spirit, amphibious being, Manannán mac Lir, Aycayía, USO
-> **Cross-References:** [B11 — Mami Wata](B11_Mami_Wata_Pan_African_Water_Spirits.md) · [A07 — Oannes/Apkallu](../A_Foundations/A07_Apkallu_Oannes_Seven_Sages.md) · [I07 — USOs](../I_UAP_Disclosure/I07_USO_Unidentified_Submerged_Objects.md) · [O03 — Ocean Mysteries](../O_Earth_Anomalies/O03_Ocean_Anomalies_Deep_Sea.md) · [C34 — Celtic Traditions](../C_Global_Traditions/C34_Celtic_Mythology_Comprehensive.md)
+> **Cross-References:** [B11 — Mami Wata](B11_Mami_Wata_Pan_African_Water_Spirits.md) · [A07 — Oannes/Apkallu](../A_Foundations/A07_Apkallu_Oannes_Seven_Sages.md) · [I07 — USOs](../I_UAP_Disclosure/I07_USO_Trans_Medium.md) · [O03 — Ocean Mysteries](../O_Earth_Anomalies/O03_Ocean_Mysteries_Deep_Sea.md) · [C34 — Celtic Traditions](../C_Global_Traditions/C34_Celtic_Druidic_Traditions.md)
 > **Reliability Tier:** Tier 1-3 (literary and archaeological sources verified; interpretive connections are scholarly debate)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 12 scholarly sources | **Confidence:** Medium
 
@@ -153,7 +153,7 @@ Aquatic humanoid beings — mermaids, mermen, and amphibious entities — appear
 ### 3.2 USO (Unidentified Submerged Object) Reports and Aquatic Beings [2/5 sources]
 - Some researchers connect modern USO sighting reports with ancient aquatic humanoid traditions
 - The Oannes narrative — an intelligent being emerging from the sea — superficially parallels USO encounter reports
-- See [I07 — USOs](../I_UAP_Disclosure/I07_USO_Unidentified_Submerged_Objects.md) for UAP/USO analysis
+- See [I07 — USOs](../I_UAP_Disclosure/I07_USO_Trans_Medium.md) for UAP/USO analysis
 - No rigorous methodology connects these disparate phenomena
 
 ### 3.3 Manatees, Dugongs, and Misidentification Theories [3/5 sources]
@@ -195,9 +195,9 @@ Aquatic humanoid beings — mermaids, mermen, and amphibious entities — appear
 |-------------|-----------|
 | [A07 — Oannes/Apkallu](../A_Foundations/A07_Apkallu_Oannes_Seven_Sages.md) | Amphibious civilization-bringer; cuneiform evidence |
 | [B11 — Mami Wata](B11_Mami_Wata_Pan_African_Water_Spirits.md) | Pan-African water spirit tradition; diaspora continuity |
-| [I07 — USOs](../I_UAP_Disclosure/I07_USO_Unidentified_Submerged_Objects.md) | Modern underwater anomaly sightings |
-| [O03 — Ocean Mysteries](../O_Earth_Anomalies/O03_Ocean_Anomalies_Deep_Sea.md) | Unexplained oceanic phenomena |
-| [C34 — Celtic Traditions](../C_Global_Traditions/C34_Celtic_Mythology_Comprehensive.md) | Selkies, Manannán mac Lir, merrow |
+| [I07 — USOs](../I_UAP_Disclosure/I07_USO_Trans_Medium.md) | Modern underwater anomaly sightings |
+| [O03 — Ocean Mysteries](../O_Earth_Anomalies/O03_Ocean_Mysteries_Deep_Sea.md) | Unexplained oceanic phenomena |
+| [C34 — Celtic Traditions](../C_Global_Traditions/C34_Celtic_Druidic_Traditions.md) | Selkies, Manannán mac Lir, merrow |
 | [B16 — Shape-Shifting](B16_Shape_Shifting_Therianthropy.md) | Selkie skin-shedding; transformation motifs |
 | [B12 — Animal Symbolism](B12_Animal_Symbolism_Beyond_Serpents.md) | Fish and serpent as liminal animal symbols |
 

@@ -3,7 +3,7 @@
 > **Document ID:** B17
 > **Section:** B_Beings_and_Entities
 > **Keywords:** demon, taxonomy, Asura, Rakshasa, Oni, Ifrit, Daeva, Mara, Pazuzu, demonization, adversarial entities, fallen angels, Utukku, Lamashtu, daimon, Tengu, Pishacha, Marid, Ghul
-> **Cross-References:** [B04 — Solomon and the Jinn](B04_Solomon_and_the_Jinn.md) · [C19 — Zoroastrian Traditions](../C_Global_Traditions/C19_Zoroastrian_Dualism_Cosmic_Conflict.md) · [A02 — Bible Serpent References](../A_Foundations/A02_Bible_Serpent_References.md) · [H06 — Demonization Timeline](../H_Suppression_and_Thesis/H06_Demonization_Timeline.md) · [B22 — Djinn Ecology](B22_Djinn_Ecology_Classification.md) · [A21 — Quranic Cosmology](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md)
+> **Cross-References:** [B04 — Solomon and the Jinn](B04_Solomon_and_the_Jinn.md) · [C19 — Zoroastrian Traditions](../C_Global_Traditions/C19_Zoroastrianism_Demonization_Pivot.md) · [A02 — Bible Serpent References](../A_Foundations/A02_Bible_Serpent_References.md) · [H06 — Demonization Timeline](../H_Suppression_and_Thesis/H06_Demonization_Timeline.md) · [B22 — Djinn Ecology](B22_Djinn_Ecology_Classification.md) · [A21 — Quranic Cosmology](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md)
 > **Reliability Tier:** Tier 1-3 (textual traditions verified; comparative demonology involves interpretive scholarship)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 14 scholarly sources | **Confidence:** High
 
@@ -202,7 +202,7 @@ Every known civilization has developed taxonomies of malevolent or adversarial s
 | [B22 — Djinn Ecology](B22_Djinn_Ecology_Classification.md) | Full Islamic jinn taxonomy — Ifrit, Marid, Ghul |
 | [A02 — Bible Serpent References](../A_Foundations/A02_Bible_Serpent_References.md) | Satan/serpent identification; Christian demonology origins |
 | [A21 — Quranic Cosmology](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md) | Quranic jinn theology; Iblis narrative |
-| [C19 — Zoroastrian Traditions](../C_Global_Traditions/C19_Zoroastrian_Dualism_Cosmic_Conflict.md) | Daeva reversal; Angra Mainyu; cosmic dualism |
+| [C19 — Zoroastrian Traditions](../C_Global_Traditions/C19_Zoroastrianism_Demonization_Pivot.md) | Daeva reversal; Angra Mainyu; cosmic dualism |
 | [H06 — Demonization Timeline](../H_Suppression_and_Thesis/H06_Demonization_Timeline.md) | Historical process of entity reclassification |
 | [B14 — Angels and Celestial Hierarchies](B14_Angels_Celestial_Hierarchies.md) | Angelic-demonic mirror structure; fallen angel doctrine |
 | [B13 — Fairy/Fae Traditions](B13_Fairy_Fae_Hidden_People.md) | Demonization of Celtic/Germanic spirit beings |

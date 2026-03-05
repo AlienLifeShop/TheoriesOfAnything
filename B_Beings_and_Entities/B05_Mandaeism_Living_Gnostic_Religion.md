@@ -371,3 +371,10 @@ Mandaeism is one of the oldest continuously practiced Gnostic religions in the w
 | — | All cosmology, sacred texts, rituals, parallels tables, and persecution history preserved in full | Claude |
 | — | Tier ratings applied to all claims | New analysis |
 | — | Cross-references updated to new B-series and A-series numbering | New |
+
+## Bibliography
+
+1. Buckley, Jorunn Jacobsen, "The Mandaeans: Ancient Texts and Modern People" (Oxford University Press, 2002)
+2. Drower, E.S., "The Mandaeans of Iraq and Iran" (Oxford University Press, 1937)
+3. Lupieri, Edmondo, "The Mandaeans: The Last Gnostics" (Eerdmans, 2002)
+4. Rudolph, Kurt, "Gnosis: The Nature and History of Gnosticism" (Harper & Row, 1977)

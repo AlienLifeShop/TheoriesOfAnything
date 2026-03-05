@@ -3,7 +3,7 @@
 > **Document ID:** B22
 > **Section:** B_Beings_and_Entities
 > **Keywords:** djinn, jinn, Marid, Ifrit, Si'la, Ghul, Qareen, Hinn, Nasnas, smokeless fire, pre-Islamic jinn, Quranic jinn, Solomonic, iron, salt, Bismillah, Ayat al-Kursi, habitat, ecology, crossroads, ruins
-> **Cross-References:** [B04 — Solomon and the Jinn](B04_Solomon_and_the_Jinn.md) · [A21 — Quranic Cosmology](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md) · [B13 — Fairy/Fae Traditions](B13_Fairy_Fae_Hidden_People.md) · [B17 — Demon Taxonomy](B17_Demon_Taxonomy_Across_Cultures.md) · [N08 — Sufi Orders](../N_Secret_Societies/N08_Sufi_Orders_Esoteric_Islam.md)
+> **Cross-References:** [B04 — Solomon and the Jinn](B04_Solomon_and_the_Jinn.md) · [A21 — Quranic Cosmology](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md) · [B13 — Fairy/Fae Traditions](B13_Fairy_Fae_Hidden_People.md) · [B17 — Demon Taxonomy](B17_Demon_Taxonomy_Across_Cultures.md) · [N08 — Sufi Orders](../N_Secret_Societies/N08_Sufi_Orders_Islamic_Esotericism.md)
 > **Reliability Tier:** Tier 1-3 (Quranic texts verified; folk taxonomy and interaction protocols rely on ethnographic and hadith sources of varying authority)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 12 scholarly sources | **Confidence:** High
 
@@ -159,11 +159,11 @@ The following classification is drawn from hadith, classical Islamic scholarship
 4. Henninger, Joseph. "Pre-Islamic Bedouin Religion." In *Studies on Islam*, edited by Merlin Swartz. Oxford University Press, 1981.
 5. Ibn Taymiyyah, Ahmad. *Essay on the Jinn* (from *Majmu' al-Fatawa*). Translated by Abu Ameenah Bilal Philips, 1989.
 6. Lebling, Robert. *Legends of the Fire Spirits: Jinn and Genies from Arabia to Zanzibar*. I.B. Tauris, 2010.
-7. MacDonald, D.B. "Djinn." In *Encyclopaedia of Islam*, 2nd ed. Brill.
+7. MacDonald, D.B. "Djinn." In *Encyclopaedia of Islam*, 2nd ed. Brill, 1960–2005.
 8. Matar, Nabil. "Arab Views of Europeans, 1578-1727." In *Britain and Barbary, 1589-1689*. University Press of Florida, 2005.
 9. Perho, Irmeli. "Jinn in the Quran." *Orientalia Suecana* 55 (2006): 131-139.
-10. Sahih al-Bukhari. Trans. Muhsin Khan. Darussalam, 1997.
-11. Sahih Muslim. Trans. Abdul Hamid Siddiqui. Kitab Bhavan, 2000.
+10. *Sahih al-Bukhari*. Trans. Muhsin Khan. Darussalam, 1997.
+11. *Sahih Muslim*. Trans. Abdul Hamid Siddiqui. Kitab Bhavan, 2000.
 12. Zbinden, Ernst. *Die Djinn des Islam und der altorientalische Geisterglaube*. Paul Haupt, 1953.
 
 ## CROSS-REFERENCE INDEX
@@ -174,7 +174,7 @@ The following classification is drawn from hadith, classical Islamic scholarship
 | [A21 — Quranic Cosmology](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md) | Quranic jinn theology; three creation types; Iblis |
 | [B13 — Fairy/Fae Traditions](B13_Fairy_Fae_Hidden_People.md) | Iron aversion parallel; invisible cohabitants; liminal spaces |
 | [B17 — Demon Taxonomy](B17_Demon_Taxonomy_Across_Cultures.md) | Jinn vs. demon distinction; Shayatin as moral category |
-| [N08 — Sufi Orders](../N_Secret_Societies/N08_Sufi_Orders_Esoteric_Islam.md) | Sufi jinn interactions; mystical encounters |
+| [N08 — Sufi Orders](../N_Secret_Societies/N08_Sufi_Orders_Islamic_Esotericism.md) | Sufi jinn interactions; mystical encounters |
 | [B16 — Shape-Shifting](B16_Shape_Shifting_Therianthropy.md) | Si'la shapeshifting; jinn appearing as snakes/dogs |
 | [B15 — Psychopomp Traditions](B15_Psychopomp_Traditions_Guides_Dead.md) | Ghul at graveyards; death-boundary entities |
 | [A02 — Bible Serpent References](../A_Foundations/A02_Bible_Serpent_References.md) | Serpent-jinn identification in Islamic tradition |

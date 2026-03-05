@@ -406,3 +406,10 @@ The Islamic tradition preserves one of the most detailed and theologically devel
 | — | All Quranic references, jinn taxonomy, Harut/Marut analysis, and parallels tables preserved in full | Claude |
 | — | Tier ratings applied to all claims | New analysis |
 | — | Cross-references updated to new B-series numbering | New |
+
+## Bibliography
+
+1. El-Zein, Amira, "Islam, Arabs, and the Intelligent World of the Jinn" (Syracuse University Press, 2009)
+2. Lebling, Robert, "Legends of the Fire Spirits: Jinn and Genies from Arabia to Zanzibar" (I.B. Tauris, 2010)
+3. Duling, Dennis C., "Testament of Solomon: A New Translation and Introduction" (Doubleday, 1983)
+4. Al-Ashqar, Umar Sulaiman, "The World of the Jinn and Devils" (International Islamic Publishing House, 1998)

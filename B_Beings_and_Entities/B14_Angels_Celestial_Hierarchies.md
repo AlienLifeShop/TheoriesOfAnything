@@ -163,11 +163,11 @@ The most influential angelic hierarchy, from *De Coelesti Hierarchia* (~5th cent
 | [A04 — Book of Enoch / Watchers](../A_Foundations/A04_Book_of_Enoch_and_Watchers.md) | Fallen angels / Watcher tradition |
 | [A16 — Divine Council](../A_Foundations/A16_Divine_Council_Assembly_of_Gods.md) | Angels as divine court attendants |
 | [A21 — Quranic Cosmology](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md) | Islamic angelology detailed treatment |
-| [C19 — Zoroastrianism](../C_Global_Traditions/C19_Zoroastrianism_Cosmic_Dualism.md) | Amesha Spentas and yazatas |
-| [P06 — Theodicy](../P_Philosophy_Meaning/P06_Theodicy_Problem_of_Evil.md) | Angelology as framework for understanding good/evil |
+| [C19 — Zoroastrianism](../C_Global_Traditions/C19_Zoroastrianism_Demonization_Pivot.md) | Amesha Spentas and yazatas |
+| [P06 — Theodicy](../P_Philosophy_Meaning/P06_Problem_of_Evil_Theodicy.md) | Angelology as framework for understanding good/evil |
 | [B09 — Alien Races](B09_Alien_Races_Origins.md) | UAP beings-of-light parallels |
 | [A02 — Bible Serpent](../A_Foundations/A02_Bible_Serpent_References.md) | Serpent-angel identification (seraphim = fiery serpents) |
-| [K01 — NDEs](../K_Consciousness/K01_Near_Death_Experiences.md) | "Beings of light" in NDE accounts |
+| [K01 — NDEs](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | "Beings of light" in NDE accounts |
 
 ---
 

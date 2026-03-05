@@ -445,3 +445,11 @@ Multiple royal lineages claim descent from serpent/reptilian/divine beings:
 | — | Master's consensus table and verified/not-verified summary preserved in §9 | Master |
 | — | All counterarguments to Sitchin consolidated in §3.3 | All sources |
 | — | All open questions merged and deduplicated | All sources |
+
+## Bibliography
+
+1. Kramer, Samuel Noah, "The Sumerians: Their History, Culture, and Character" (University of Chicago Press, 1963)
+2. Jacobsen, Thorkild, "The Treasures of Darkness: A History of Mesopotamian Religion" (Yale University Press, 1976)
+3. Heiser, Michael S., "The Myth That Is True: A Scholar Examines the Evidence for Zecharia Sitchin's Claims" (Logos Press, 2004)
+4. Lambert, W.G. and Millard, A.R., "Atra-hasis: The Babylonian Story of the Flood" (Oxford University Press, 1969)
+5. Black, Jeremy and Green, Anthony, "Gods, Demons and Symbols of Ancient Mesopotamia" (British Museum Press, 1992)

@@ -3,7 +3,7 @@
 > **Document ID:** B29
 > **Section:** B_Beings_and_Entities
 > **Keywords:** succubus, incubus, Lilith, supernatural sexual encounter, sleep paralysis, night visitor, churel, pontianak, encantado, Malleus Maleficarum, old hag syndrome, David Hufford, night-mare, demon lover, erotic paranormal, Mara, kanashibari
-> **Cross-References:** [B25 — Shadow People/Sleep Paralysis](B25_Shadow_People_Sleep_Paralysis_Dark_Figures.md) · [K27 — Sleep Science](../K_Consciousness/K27_Sleep_Science_Dreaming.md) · [B17 — Demons](B17_Demons_Demonology_Classification.md) · [C105 — Sacred Sexuality](../C_Global_Traditions/C105_Sacred_Sexuality_Hieros_Gamos.md) · [I09 — Alien Abduction](../I_UAP_Disclosure/I09_Alien_Abduction_Narratives.md)
+> **Cross-References:** [B25 — Shadow People/Sleep Paralysis](B25_Shadow_People_Sleep_Paralysis_Dark_Figures.md) · [K27 — Sleep Science](../K_Consciousness/K27_Sleep_Science_Ancient_Practices.md) · [B17 — Demons](B17_Demon_Taxonomy_Across_Cultures.md) · [C105 — Sacred Sexuality](../C_Global_Traditions/C105_Sacred_Sexuality_Hieros_Gamos_Fertility_Cults.md) · [I09 — Alien Abduction](../I_UAP_Disclosure/I09_Alien_Abduction_Phenomenon.md)
 > **Reliability Tier:** Tier 1–3 (sleep paralysis neuroscience = Tier 1; cultural documentation = Tier 2; entity-realist interpretations = Tier 3)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** Medium
 
@@ -166,10 +166,10 @@ Reports of nocturnal supernatural sexual encounters constitute one of the most g
 | Related Doc | Connection |
 |-------------|-----------|
 | [B25 — Shadow People/Sleep Paralysis](B25_Shadow_People_Sleep_Paralysis_Dark_Figures.md) | Sleep paralysis as shared neurological substrate for shadow people and incubus experiences |
-| [K27 — Sleep Science](../K_Consciousness/K27_Sleep_Science_Dreaming.md) | REM atonia, hypnagogic hallucinations, and the neuroscience of sleep paralysis |
-| [B17 — Demons](B17_Demons_Demonology_Classification.md) | Incubi/succubi within medieval demonological classification systems |
-| [C105 — Sacred Sexuality](../C_Global_Traditions/C105_Sacred_Sexuality_Hieros_Gamos.md) | Hieros gamos and sacred sexual encounter as positive counterpart to demonic sexual assault |
-| [I09 — Alien Abduction](../I_UAP_Disclosure/I09_Alien_Abduction_Narratives.md) | Structural parallels between abduction narratives and incubus/succubus experiences |
+| [K27 — Sleep Science](../K_Consciousness/K27_Sleep_Science_Ancient_Practices.md) | REM atonia, hypnagogic hallucinations, and the neuroscience of sleep paralysis |
+| [B17 — Demons](B17_Demon_Taxonomy_Across_Cultures.md) | Incubi/succubi within medieval demonological classification systems |
+| [C105 — Sacred Sexuality](../C_Global_Traditions/C105_Sacred_Sexuality_Hieros_Gamos_Fertility_Cults.md) | Hieros gamos and sacred sexual encounter as positive counterpart to demonic sexual assault |
+| [I09 — Alien Abduction](../I_UAP_Disclosure/I09_Alien_Abduction_Phenomenon.md) | Structural parallels between abduction narratives and incubus/succubus experiences |
 | [B23 — Golems/Tulpas](B23_Golems_Tulpas_Egregores_Created_Entities.md) | Thought-form entity creation; tulpa tradition as framework for understanding succubus as generated entity |
 
 ---

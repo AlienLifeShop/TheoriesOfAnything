@@ -3,7 +3,7 @@
 > **Document ID:** B25
 > **Section:** B_Beings_and_Entities
 > **Keywords:** shadow people, sleep paralysis, Hatman, Old Hag, night terrors, mare, nightmare, kanashibari, Pisadeira, hypnagogia, REM atonia, temporal-parietal junction, intruder hallucination, incubus phenomenon, dark figure, night visitor, hypnopompic
-> **Cross-References:** [K27 — Sleep Science](../K_Consciousness/K27_Sleep_Dreams_Consciousness.md) · [K01 — NDEs/OBEs](../K_Consciousness/K01_NDEs_OBEs_Clinical_Studies.md) · [B17 — Demons](B17_Demon_Taxonomy_Across_Cultures.md) · [T02 — Archetypal Psychology](../T_Psychology_Social/T02_Archetypal_Psychology_Jung.md) · [K09 — Lucid Dreaming](../K_Consciousness/K09_Lucid_Dreaming_Research.md)
+> **Cross-References:** [K27 — Sleep Science](../K_Consciousness/K27_Sleep_Science_Ancient_Practices.md) · [K01 — NDEs/OBEs](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) · [B17 — Demons](B17_Demon_Taxonomy_Across_Cultures.md) · [T02 — Archetypal Psychology](../T_Psychology_Social/T02_Jungian_Archetypes_Collective_Unconscious.md) · [K09 — Lucid Dreaming](../K_Consciousness/K09_Lucid_Dreaming.md)
 > **Reliability Tier:** Tier 1–3 (neuroscience of sleep paralysis is Tier 1; entity encounters are experiential/phenomenological)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** Medium-High
 
@@ -152,12 +152,12 @@ Shadow people, dark figures, and night-visiting entities represent one of the mo
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K27 — Sleep Science](../K_Consciousness/K27_Sleep_Dreams_Consciousness.md) | REM atonia, sleep architecture, and the neuroscience of parasomnias |
-| [K01 — NDEs/OBEs](../K_Consciousness/K01_NDEs_OBEs_Clinical_Studies.md) | Vestibular-motor hallucinations during sleep paralysis producing OBE-type experiences |
+| [K27 — Sleep Science](../K_Consciousness/K27_Sleep_Science_Ancient_Practices.md) | REM atonia, sleep architecture, and the neuroscience of parasomnias |
+| [K01 — NDEs/OBEs](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Vestibular-motor hallucinations during sleep paralysis producing OBE-type experiences |
 | [B17 — Demons](B17_Demon_Taxonomy_Across_Cultures.md) | Cross-cultural interpretation of sleep paralysis entities as demonic attack |
-| [T02 — Archetypal Psychology](../T_Psychology_Social/T02_Archetypal_Psychology_Jung.md) | Shadow archetype and the Hatman as archetypal dark figure |
-| [K09 — Lucid Dreaming](../K_Consciousness/K09_Lucid_Dreaming_Research.md) | Sleep paralysis as potential gateway to lucid dreaming; WILD technique |
-| [I09 — Alien Abduction](../I_UAP_Disclosure/I09_Alien_Abduction_Contact_Claims.md) | Overlap between sleep paralysis entity reports and alien abduction narratives |
+| [T02 — Archetypal Psychology](../T_Psychology_Social/T02_Jungian_Archetypes_Collective_Unconscious.md) | Shadow archetype and the Hatman as archetypal dark figure |
+| [K09 — Lucid Dreaming](../K_Consciousness/K09_Lucid_Dreaming.md) | Sleep paralysis as potential gateway to lucid dreaming; WILD technique |
+| [I09 — Alien Abduction](../I_UAP_Disclosure/I09_Alien_Abduction_Phenomenon.md) | Overlap between sleep paralysis entity reports and alien abduction narratives |
 
 ---
 *Consolidated from 20 sources. Last Updated: Feb 28, 2026*

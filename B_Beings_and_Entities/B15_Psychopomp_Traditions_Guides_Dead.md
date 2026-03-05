@@ -192,12 +192,12 @@ Cross-cultural reasons for psychopomp necessity:
 
 | Document | Connection |
 |----------|------------|
-| [P07 — Death and Afterlife](../P_Philosophy_Meaning/P07_Death_Afterlife_Concepts.md) | Afterlife concepts requiring guides |
-| [C25 — Descent to Underworld](../C_Global_Traditions/C25_Orpheus_Descent_Myths.md) | Mythic descent narratives |
-| [C28 — Dying-Rising Gods](../C_Global_Traditions/C28_Dying_Rising_Gods.md) | Return from death motif |
-| [N07 — Orphic Tablets](../N_Secret_Societies/N07_Orphic_Pythagorean_Mystery.md) | Instructions for navigating afterlife |
+| [P07 — Death and Afterlife](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) | Afterlife concepts requiring guides |
+| [C25 — Descent to Underworld](../C_Global_Traditions/C25_Orpheus_Descent_Underworld_Archetype.md) | Mythic descent narratives |
+| [C28 — Dying-Rising Gods](../C_Global_Traditions/C28_Dying_Rising_Deity_Pattern.md) | Return from death motif |
+| [N07 — Orphic Tablets](../N_Secret_Societies/N07_Orphic_Tradition_Gold_Tablets.md) | Instructions for navigating afterlife |
 | [A19 — Book of the Dead](../A_Foundations/A19_Egyptian_Book_of_the_Dead.md) | Egyptian guided afterlife navigation |
-| [K01 — Near-Death Experiences](../K_Consciousness/K01_Near_Death_Experiences.md) | Modern "guide" encounters in NDEs |
+| [K01 — Near-Death Experiences](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Modern "guide" encounters in NDEs |
 | [B14 — Angels](B14_Angels_Celestial_Hierarchies.md) | Angels as messenger-guides of God |
 | [C43 — Etruscan Religion](../C_Global_Traditions/C43_Etruscan_Religion_Mystery_Traditions.md) | Vanth and Charun psychopomps |
 

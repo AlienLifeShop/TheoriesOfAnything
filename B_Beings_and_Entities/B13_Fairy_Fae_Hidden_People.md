@@ -246,11 +246,11 @@ Maori traditions describe the **patupaiarehe** — fair-skinned, red/blonde-hair
 |----------|------------|
 | [B03 — Underground Creatures](B03_Underground_Creatures_and_Myths.md) | Subterranean dwelling beings; fairy mounds as underground realms |
 | [B04 — Solomon and the Jinn](B04_Solomon_and_the_Jinn.md) | Islamic jinn as "hidden people" parallel |
-| [L06 — Rh-Negative Blood](../L_Genetics_Origins/L06_Rh_Negative_Blood_Mystery.md) | Speculative fairy-lineage bloodline claims |
-| [R10 — Cryptozoology](../R_Biology_Evolution/R10_Cryptozoology_Hidden_Species.md) | Hidden beings with possible biological reality |
-| [C13 — Celtic Dragon Traditions](../C_Global_Traditions/C13_Celtic_Dragon_Traditions.md) | Celtic supernatural beings and fairy-dragon overlap |
+| [L06 — Rh-Negative Blood](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) | Speculative fairy-lineage bloodline claims |
+| [R10 — Cryptozoology](../R_Biology_Evolution/R10_Homo_Floresiensis.md) | Hidden beings with possible biological reality |
+| [C13 — Celtic Dragon Traditions](../C_Global_Traditions/C34_Celtic_Druidic_Traditions.md) | Celtic supernatural beings and fairy-dragon overlap |
 | [C46 — Siberian Shamanism](../C_Global_Traditions/C46_Siberian_Shamanism_Origin.md) | Spirit world encounters; shamanic journey parallels |
-| [I04 — Vallée Interdimensional](../I_UAP_Disclosure/I04_Vallee_Interdimensional_Theory.md) | Fairy-UFO connection; ultraterrestrial hypothesis |
+| [I04 — Vallée Interdimensional](../I_UAP_Disclosure/I14_Vallee_Control_System_Hypothesis.md) | Fairy-UFO connection; ultraterrestrial hypothesis |
 | [A12 — Norse Eddas](../A_Foundations/A12_Norse_Eddas.md) | Álfar (elves), dvergar (dwarves) in Norse tradition |
 
 ---

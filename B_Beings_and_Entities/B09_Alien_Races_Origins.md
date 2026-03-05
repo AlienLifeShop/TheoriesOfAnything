@@ -455,6 +455,20 @@ Major proposed solutions:
 
 ---
 
+## Bibliography
+
+1. ODNI. "Preliminary Assessment: Unidentified Aerial Phenomena." Office of the Director of National Intelligence, June 2021.
+2. NASA. "UAP Independent Study Team Report." Washington, DC: NASA, September 2023.
+3. Temple, R. *The Sirius Mystery.* New York: St. Martin's Press, 1976.
+4. Bullard, T.E. *UFO Abductions: The Measure of a Mystery.* Mount Rainier: Fund for UFO Research, 1987.
+5. Hart, M.H. "Explanation for the Absence of Extraterrestrials on Earth." *Quarterly Journal of the Royal Astronomical Society* 16 (1975): 128–135.
+6. Adamski, G. & Leslie, D. *Flying Saucers Have Landed.* London: Werner Laurie, 1953.
+7. Fuller, J.G. *The Interrupted Journey: Two Lost Hours Aboard a Flying Saucer.* New York: Dial Press, 1966.
+8. Icke, D. *The Biggest Secret.* Ryde: Bridge of Love, 1999.
+9. Hall, C. *Millennial Hospitality.* Bloomington: AuthorHouse, 2002.
+
+---
+
 ## CHANGE LOG
 
 | Date | Change |

@@ -3,7 +3,7 @@
 > **Document ID:** B26
 > **Section:** B_Beings_and_Entities
 > **Keywords:** vampire, strigoi, jiangshi, aswang, vetala, Lilith, ekimmu, vrykolakas, undead, blood-drinking, porphyria, rabies, Bram Stoker, Dracula, nosferatu, revenant, psychic vampire, energy drain, burial customs, apotropaic
-> **Cross-References:** [B17 — Demons](B17_Demon_Taxonomy_Across_Cultures.md) · [C49 — Philippine Mythology](../C_Global_Traditions/C49_Philippine_Mythology_Folklore.md) · [B16 — Shape-Shifting](B16_Shape_Shifting_Therianthropy.md) · [C51 — Mesopotamian Underworld](../C_Global_Traditions/C51_Mesopotamian_Underworld_Cosmology.md) · [K27 — Sleep Science](../K_Consciousness/K27_Sleep_Dreams_Consciousness.md)
+> **Cross-References:** [B17 — Demons](B17_Demon_Taxonomy_Across_Cultures.md) · [C49 — Philippine Mythology](../C_Global_Traditions/C49_Philippine_Mythology_Anito.md) · [B16 — Shape-Shifting](B16_Shape_Shifting_Therianthropy.md) · [C51 — Mesopotamian Underworld](../C_Global_Traditions/C51_Mesopotamian_Underworld_Ereshkigal.md) · [K27 — Sleep Science](../K_Consciousness/K27_Sleep_Science_Ancient_Practices.md)
 > **Reliability Tier:** Tier 2–4 (folklore well-documented; vampiric entities as literal beings = Tier 4; medical explanations = Tier 2)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** Medium
 
@@ -166,10 +166,10 @@ The concept of a predatory undead or supernatural being that sustains itself by 
 | Related Doc | Connection |
 |-------------|-----------|
 | [B17 — Demons](B17_Demon_Taxonomy_Across_Cultures.md) | Vampiric entities classified as demonic in many traditions (strigoi, Lilith, empusa) |
-| [C49 — Philippine Mythology](../C_Global_Traditions/C49_Philippine_Mythology_Folklore.md) | Aswang as the central entity in Filipino supernatural tradition |
+| [C49 — Philippine Mythology](../C_Global_Traditions/C49_Philippine_Mythology_Anito.md) | Aswang as the central entity in Filipino supernatural tradition |
 | [B16 — Shape-Shifting](B16_Shape_Shifting_Therianthropy.md) | Many vampiric entities (strigoi, aswang, empusa) are shape-shifters |
-| [C51 — Mesopotamian Underworld](../C_Global_Traditions/C51_Mesopotamian_Underworld_Cosmology.md) | Ekimmu and Lilitu as earliest vampiric entities; underworld origins |
-| [K27 — Sleep Science](../K_Consciousness/K27_Sleep_Dreams_Consciousness.md) | Nocturnal vampire attacks overlapping with sleep paralysis phenomenology |
+| [C51 — Mesopotamian Underworld](../C_Global_Traditions/C51_Mesopotamian_Underworld_Ereshkigal.md) | Ekimmu and Lilitu as earliest vampiric entities; underworld origins |
+| [K27 — Sleep Science](../K_Consciousness/K27_Sleep_Science_Ancient_Practices.md) | Nocturnal vampire attacks overlapping with sleep paralysis phenomenology |
 | [B25 — Shadow People](B25_Shadow_People_Sleep_Paralysis_Dark_Figures.md) | Incubus/succubus experience overlapping with vampiric nocturnal visitation |
 
 ---
