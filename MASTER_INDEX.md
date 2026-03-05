@@ -1,10 +1,10 @@
 # MASTER INDEX — Theories of Anything
 
-> **Auto-generated:** Mar 02, 2026 | **Total documents:** 602 | **Total sections:** 22 | **Total lines of research:** 146,654
+> **Auto-generated:** Mar 05, 2026 | **Total documents:** 631 | **Total sections:** 22 | **Total lines of research:** 153,268
 
 ---
 
-## Section A — Foundations (34 documents)
+## Section A — Foundations (37 documents)
 
 | # | Doc ID | Title | Tier | Sources | Lines | Keywords | Updated |
 |---|--------|-------|------|---------|-------|----------|---------|
@@ -42,8 +42,11 @@
 | 32 | [A32](A_Foundations\A32_Hesiod_Theogony_Works_and_Days.md) | Hesiod's Theogony and Works and Days |  | /5 | 164 | ** Hesiod, Theogony, Works and Days, Greek cosmogony, Chaos... | Feb 28, 2026 |
 | 33 | [A33](A_Foundations\A33_Shan_Hai_Jing_Classic_Mountains_Seas.md) | Shan Hai Jing (Classic of Mountains and Seas) |  | /5 | 164 | ** Shan Hai Jing, Classic of Mountains and Seas, Chinese mythology, Kunlun, Hundun... | Feb 28, 2026 |
 | 34 | [A34](A_Foundations\A34_Guru_Granth_Sahib_Primary_Sacred_Text.md) | Guru Granth Sahib as Primary Sacred Text |  | /5 | 183 | ** Guru Granth Sahib, Adi Granth, Sikhism, Guru Nanak, Guru Arjan... | Feb 28, 2026 |
+| 35 | [A35](A_Foundations\A35_Tiamat_Chaos_Dragon.md) | Tiamat — Chaos Dragon of Babylonian Creation | 1–2 | /5 | 272 | ** Tiamat, Enuma Elish, Chaoskampf, Marduk, creation myth... | Mar 4, 2026 |
+| 36 | [A36](A_Foundations\A36_Marduk_Supreme_Deity.md) | Marduk — Supreme Deity of Babylon and Dragon Slayer | 1 | /5 | 256 | ** Marduk, Bel, Babylon, Esagila, dragon slayer... | Mar 4, 2026 |
+| 37 | [A37](A_Foundations\A37_Zoroastrian_Influence_Abrahamic.md) | Zoroastrian Influence on Abrahamic Religions | 1–2 | /5 | 201 | ** Zoroastrianism, Zarathustra, Ahura Mazda, dualism, Satan... | Mar 4, 2026 |
 
-## Section B — Beings & Entities (29 documents)
+## Section B — Beings & Entities (38 documents)
 
 | # | Doc ID | Title | Tier | Sources | Lines | Keywords | Updated |
 |---|--------|-------|------|---------|-------|----------|---------|
@@ -76,8 +79,17 @@
 | 27 | [B27](B_Beings_and_Entities\B27_Wild_Man_Sasquatch_Hairy_Hominid.md) | Wild Man, Sasquatch, and Hairy Hominid Traditions |  | /5 | 168 | ** wild man, Sasquatch, Bigfoot, yeti, Enkidu... | Feb 28, 2026 |
 | 28 | [B28](B_Beings_and_Entities\B28_Doppelgangers_Spirit_Doubles_Ka.md) | Doppelgängers, Spirit Doubles, and the Ka |  | /5 | 171 | ** doppelgänger, spirit double, Ka, Egyptian soul, Norse fylgja... | Feb 28, 2026 |
 | 29 | [B29](B_Beings_and_Entities\B29_Succubi_Incubi_Supernatural_Sexual_Encounters.md) | Succubi, Incubi, and Supernatural Sexual Encounter |  | /5 | 177 | ** succubus, incubus, Lilith, supernatural sexual encounter, sleep paralysis... | Feb 28, 2026 |
+| 30 | [B30](B_Beings_and_Entities\B30_Thoth_Egyptian_Wisdom_Deity.md) | Thoth — Egyptian God of Writing, Wisdom, and Cosmic Order | 1–2 | /5 | 256 | ** Thoth, Djehuty, Hermes Trismegistus, ibis, baboon... | Mar 4, 2026 |
+| 31 | [B31](B_Beings_and_Entities\B31_Osiris_Death_Resurrection_Underworld.md) | Osiris — Death, Resurrection, and the Underworld Kingdom | 1–2 | /5 | 216 | ** Osiris, Wesir, death and resurrection, underworld, Abydos... | Mar 4, 2026 |
+| 32 | [B32](B_Beings_and_Entities\B32_Ningishzida_Serpent_Deity.md) | Ningishzida — Serpent Deity, Underworld Guardian | 1–3 | /5 | 230 | ** Ningishzida, Gizzida, serpent deity, underworld guardian, Sumerian... | Mar 4, 2026 |
+| 33 | [B33](B_Beings_and_Entities\B33_Metatron_Angelic_Scribe.md) | Metatron — The Angelic Scribe and Divine Mediator | 1–3 | /5 | 248 | ** Metatron, angel, scribe, Enoch, 3 Enoch... | Mar 4, 2026 |
+| 34 | [B34](B_Beings_and_Entities\B34_Leviathan_Sea_Monster.md) | Leviathan — Biblical Sea Monster and Chaos Serpent | 1–2 | /5 | 178 | ** Leviathan, Livyatan, sea monster, chaos serpent, Job 41... | Mar 4, 2026 |
+| 35 | [B35](B_Beings_and_Entities\B35_Typhon_Greek_Chaos_Monster.md) | Typhon — Greek Chaos Monster | 1–2 | /5 | 192 | ** Typhon, Typhoeus, Typhaon, Zeus, Tartarus... | Mar 4, 2026 |
+| 36 | [B36](B_Beings_and_Entities\B36_Garuda_Divine_Eagle.md) | Garuda — Divine Eagle and Serpent Enemy | 1–2 | /5 | 189 | ** Garuda, Garuḍa, eagle, bird, serpent enemy... | Mar 4, 2026 |
+| 37 | [B37](B_Beings_and_Entities\B37_Inanna_Ishtar_Queen_of_Heaven.md) | Inanna / Ishtar — Queen of Heaven and Earth | 1–2 | /5 | 184 | ** Inanna, Ishtar, Sumerian, Akkadian, Babylonian... | Mar 4, 2026 |
+| 38 | [B38](B_Beings_and_Entities\B38_Dragon_Typology_Cross_Cultural.md) | Dragon Typology — Cross-Cultural Serpent-Dragon Traditions | 1–2 | /5 | 165 | ** dragon, serpent, dragon typology, European dragon, Chinese dragon... | Mar 4, 2026 |
 
-## Section C — Global Traditions (112 documents)
+## Section C — Global Traditions (116 documents)
 
 | # | Doc ID | Title | Tier | Sources | Lines | Keywords | Updated |
 |---|--------|-------|------|---------|-------|----------|---------|
@@ -193,8 +205,12 @@
 | 110 | [C97](C_Global_Traditions\C97_Cherokee_Cosmology_Great_Buzzard.md) | Cherokee Cosmology and the Great Buzzard |  | /5 | 181 | ** Cherokee, Tsalagi, three-tier cosmos, Selu, Corn Mother... | Feb 28, 2026 |
 | 111 | [C98](C_Global_Traditions\C98_Taino_Caribbean_Indigenous_Mythology.md) | Taíno and Caribbean Indigenous Mythology |  | /5 | 184 | ** Taíno, Caribbean, Yúcahu, Atabey, Guabancex... | Feb 28, 2026 |
 | 112 | [C99](C_Global_Traditions\C99_Shinto_Lived_Religion_Ritual_Purity.md) | Shinto as Lived Religion — Ritual, Purity, and Nat |  | /5 | 181 | ** Shinto, kami, torii, shimenawa, misogi... | Feb 28, 2026 |
+| 113 | [C112](C_Global_Traditions\C112_Kukulkan_Quetzalcoatl_Deep_Dive.md) | Kukulkan / Quetzalcoatl — The Feathered Serpent Deep Dive | 1–2 | /5 | 190 | ** Kukulkan, Quetzalcoatl, feathered serpent, Maya, Aztec... | Mar 4, 2026 |
+| 114 | [C114](C_Global_Traditions\C114_Yggdrasil_World_Tree_Tradition.md) | Yggdrasil and the World Tree Tradition | 1–2 | /5 | 208 | ** Yggdrasil, World Tree, axis mundi, cosmic tree, Norse... | Mar 4, 2026 |
+| 115 | [C115](C_Global_Traditions\C115_Fuxi_Nuwa_Serpent_Creators.md) | Fuxi and Nüwa — Chinese Serpent-Bodied Creator Deities | 1–2 | /5 | 206 | ** Fuxi, Nüwa, serpent body, Chinese mythology, creation... | Mar 4, 2026 |
+| 116 | [C116](C_Global_Traditions\C116_Oracle_Traditions_Divination.md) | Oracle Traditions — Cross-Cultural Divination Systems | 1–2 | /5 | 158 | ** oracle, divination, prophecy, Delphi, Pythia... | Mar 4, 2026 |
 
-## Section D — Sites & Artifacts (43 documents)
+## Section D — Sites & Artifacts (44 documents)
 
 | # | Doc ID | Title | Tier | Sources | Lines | Keywords | Updated |
 |---|--------|-------|------|---------|-------|----------|---------|
@@ -241,6 +257,7 @@
 | 41 | [D41](D_Sites_and_Artifacts\D41_Karahan_Tepe.md) | Karahan Tepe — Pre-Pottery Neolithic Ritual Comple |  | /5 | 181 | ** Karahan Tepe, Taş Tepeler, Pre-Pottery Neolithic, T-shaped pillars, Structure AB... | Feb 28, 2026 |
 | 42 | [D42](D_Sites_and_Artifacts\D42_Terracotta_Army.md) | Terracotta Army — First Emperor's Eternal Guard |  | /5 | 183 | ** Terracotta Army, Qin Shi Huang, terracotta warriors, Pit 1, Pit 2... | Feb 28, 2026 |
 | 43 | [D43](D_Sites_and_Artifacts\D43_Baalbek.md) | Baalbek — Colossal Stones of the Bekaa Valley |  | /5 | 186 | ** Baalbek, Heliopolis, Trilithon, Stone of the Pregnant Woman, Jupiter temple... | Feb 28, 2026 |
+| 44 | [D44](D_Sites_and_Artifacts\D44_Nan_Madol_Megalithic_City.md) | Nan Madol — Megalithic City on the Reef | 1–3 | /5 | 247 | ** Nan Madol, Pohnpei, Micronesia, megalithic, basalt... | Mar 4, 2026 |
 
 ## Section E — Cataclysms & Chronology (30 documents)
 
@@ -304,7 +321,7 @@
 | 21 | [F21](F_Lost_Connections\F21_Trans_Pacific_Contact.md) | Trans-Pacific Contact — Pre-Columbian Connections |  | /5 | 181 | ** trans-Pacific contact, sweet potato, kumara, Polynesian-South American contact, chicken bone DNA... | Feb 28, 2026 |
 | 22 | [F22](F_Lost_Connections\F22_Green_Sahara.md) | The Green Sahara — When the Desert Was Eden |  | /5 | 182 | ** Green Sahara, African Humid Period, Saharan rock art, Tassili n'Ajjer, Lake Mega-Chad... | Feb 28, 2026 |
 
-## Section G — Modern Frameworks (33 documents)
+## Section G — Modern Frameworks (34 documents)
 
 | # | Doc ID | Title | Tier | Sources | Lines | Keywords | Updated |
 |---|--------|-------|------|---------|-------|----------|---------|
@@ -341,8 +358,9 @@
 | 31 | [G31](G_Modern_Frameworks\G31_Noosphere_Teilhard_Vernadsky.md) | Noosphere — Teilhard de Chardin, Vernadsky, and th |  | /5 | 181 | ** noosphere, Teilhard de Chardin, Vernadsky, Omega Point, Édouard Le Roy... | Feb 28, 2026 |
 | 32 | [G32](G_Modern_Frameworks\G32_Biofield_Science_Electromagnetic_Subtle_Energy.md) | Biofield Science — Electromagnetic and Subtle Ener |  | /5 | 182 | ** biofield, biophotons, Fritz-Albert Popp, Robert Becker, body electric... | Feb 28, 2026 |
 | 33 | [G33](G_Modern_Frameworks\G33_Parapsychology_Experimental_Psi.md) | Parapsychology — Experimental Research on Psi Phen |  | /5 | 181 | ** parapsychology, psi, ESP, extrasensory perception, Rhine... | Feb 28, 2026 |
+| 34 | [G34](G_Modern_Frameworks\G34_Graham_Hancock_Data_Evaluation.md) | Graham Hancock — Data-Driven Evaluation of Claims | 2–4 | /5 | 238 | ** Graham Hancock, lost civilization, Younger Dryas... | Mar 4, 2026 |
 
-## Section H — Suppression & Thesis (16 documents)
+## Section H — Suppression & Thesis (17 documents)
 
 | # | Doc ID | Title | Tier | Sources | Lines | Keywords | Updated |
 |---|--------|-------|------|---------|-------|----------|---------|
@@ -362,6 +380,7 @@
 | 14 | [H14](H_Suppression_and_Thesis\H14_Colonial_Looting_Museum_Ethics_Repatriation.md) | Colonial Looting, Museum Ethics, and Repatriation |  | /5 | 241 | ** colonial looting, repatriation, Elgin Marbles, Benin Bronzes | Feb 28, 2026 |
 | 15 | [H15](H_Suppression_and_Thesis\H15_Scientific_Censorship_Paradigm_Defense.md) | Scientific Censorship and Paradigm Defense |  | /5 | 247 | ** paradigm shift, Thomas Kuhn, Semmelweis effect | Feb 28, 2026 |
 | 16 | [H16](H_Suppression_and_Thesis\H16_Linguistic_Extinction_Lost_Knowledge_Systems.md) | Linguistic Extinction and Lost Knowledge Systems |  | /5 | 262 | ** linguistic extinction, endangered languages, UNESCO Atlas | Feb 28, 2026 |
+| 17 | [H17](H_Suppression_and_Thesis\H17_Ancient_Libraries_Knowledge_Loss.md) | Ancient Libraries — Destruction and Knowledge Loss | 1–2 | /5 | 196 | ** Library of Alexandria, Nalanda, House of Wisdom... | Mar 4, 2026 |
 
 ## Section I — UAP Disclosure (18 documents)
 
@@ -386,7 +405,7 @@
 | 17 | [I17](I_UAP_Disclosure\I17_Black_Programs_SAPs_UFO_Coverup.md) | Black Programs, SAPs, and the UFO Cover-Up |  | /5 | 249 | ** Special Access Programs, SAPs, USAPs, AATIP, AAWSAP | Feb 28, 2026 |
 | 18 | [I18](I_UAP_Disclosure\I18_Mass_UAP_Sightings_Multi_Witness_Events.md) | Mass UAP Sightings and Multi-Witness Events |  | /5 | 262 | ** Phoenix Lights, Washington D.C. 1952, Belgium Wave | Feb 28, 2026 |
 
-## Section J — Ancient Technology (24 documents)
+## Section J — Ancient Technology (25 documents)
 
 | # | Doc ID | Title | Tier | Sources | Lines | Keywords | Updated |
 |---|--------|-------|------|---------|-------|----------|---------|
@@ -414,8 +433,9 @@
 | 22 | [J22](J_Ancient_Technology\J22_Ancient_Mining_Metallurgy_Beyond_Bronze.md) | Ancient Mining and Metallurgy Beyond Bronze |  | /5 | 181 | ** mining, metallurgy, ochre, flint mining, wootz steel... | Feb 28, 2026 |
 | 23 | [J23](J_Ancient_Technology\J23_Ancient_Warfare_Technology.md) | Ancient Warfare Technology — Siege, Naval, and Che |  | /5 | 184 | ** Greek fire, siege warfare, Archimedes, Roman pilum, crossbow... | Feb 28, 2026 |
 | 24 | [J24](J_Ancient_Technology\J24_Ancient_Communication_Systems.md) | Ancient Communication Systems — Roads, Signals, an |  | /5 | 181 | ** Roman roads, Persian Royal Road, Inca chasqui, beacon towers, hydraulic telegraph... | Feb 28, 2026 |
+| 25 | [J25](J_Ancient_Technology\J25_Electromagnetism_Ancient_Awareness.md) | Electromagnetism and Ancient Awareness | 1–3 | /5 | 182 | ** electromagnetism, magnetism, lodestone, compass... | Mar 4, 2026 |
 
-## Section K — Consciousness (35 documents)
+## Section K — Consciousness (37 documents)
 
 | # | Doc ID | Title | Tier | Sources | Lines | Keywords | Updated |
 |---|--------|-------|------|---------|-------|----------|---------|
@@ -454,8 +474,10 @@
 | 33 | [K33](K_Consciousness\K33_Neuroscience_of_Death.md) | Neuroscience of Death — Terminal Lucidity and Dyin |  | /5 | 181 | ** terminal lucidity, dying brain, gamma wave surge, cortical spreading depolarization, near-death experience... | Feb 28, 2026 |
 | 34 | [K34](K_Consciousness\K34_Split_Brain_Divided_Consciousness.md) | Split-Brain Research and Divided Consciousness |  | /5 | 181 | ** split-brain, Roger Sperry, Michael Gazzaniga, corpus callosotomy, hemispheric specialization... | Feb 28, 2026 |
 | 35 | [K35](K_Consciousness\K35_Phantom_Limb_Body_Schema.md) | Phantom Limb, Body Schema, and Embodied Consciousn |  | /5 | 181 | ** phantom limb, body schema, V.S. Ramachandran, mirror box therapy, rubber hand illusion... | Feb 28, 2026 |
+| 36 | [K36](K_Consciousness\K36_Soma_Haoma_Sacred_Plant_Ritual.md) | Soma and Haoma — Sacred Plant of Vedic and Avestan Ritual | 1–3 | /5 | 230 | ** Soma, Haoma, Rig Veda Mandala IX, Avesta... | Mar 4, 2026 |
+| 37 | [K37](K_Consciousness\K37_Psychedelic_Research_Entheogen.md) | Psychedelic Research — Modern Science and Entheogen | 1–3 | /5 | 144 | ** psychedelic, entheogen, psilocybin, DMT, ayahuasca... | Mar 4, 2026 |
 
-## Section L — Genetics & Origins (16 documents)
+## Section L — Genetics & Origins (17 documents)
 
 | # | Doc ID | Title | Tier | Sources | Lines | Keywords | Updated |
 |---|--------|-------|------|---------|-------|----------|---------|
@@ -475,6 +497,7 @@
 | 14 | [L14](L_Genetics_Origins\L14_Domestication_Genetics.md) | Domestication Genetics — How Humans Reshaped Life |  | /5 | 181 | ** domestication, dog origin, wheat genetics, maize teosinte, Belyaev fox experiment... | Feb 28, 2026 |
 | 15 | [L15](L_Genetics_Origins\L15_Human_Migration_Synthesis.md) | Human Migration Synthesis — DNA, Language, and Cul |  | /5 | 181 | ** out-of-Africa, migration, ancient DNA, Austronesian expansion, Bantu expansion... | Feb 28, 2026 |
 | 16 | [L16](L_Genetics_Origins\L16_Genetic_Bottlenecks_Founder_Effects_Toba.md) | Genetic Bottlenecks, Founder Effects, and Toba |  | /5 | 182 | ** genetic bottleneck, founder effect, Toba catastrophe, supervolcano, effective population size... | Feb 28, 2026 |
+| 17 | [L17](L_Genetics_Origins\L17_Denisovans_Archaic_Hominin.md) | Denisovans — Archaic Hominin Deep Dive | 1 | /5 | 213 | ** Denisovans, Denisova Cave, archaic hominin, Homo denisova... | Mar 4, 2026 |
 
 ## Section M — Forbidden Archaeology (17 documents)
 
@@ -498,7 +521,7 @@
 | 16 | [M16](M_Forbidden_Archaeology\M16_Yonaguni_Monument.md) | Yonaguni Monument — Natural or Man-Made? |  | /5 | 183 | ** Yonaguni, underwater structure, Japan, Masaaki Kimura, Robert Schoch... | Feb 28, 2026 |
 | 17 | [M17](M_Forbidden_Archaeology\M17_Longyou_Caves.md) | Longyou Caves — China's Mysterious Hand-Carved Cav |  | /5 | 181 | ** Longyou Caves, Zhejiang, hand-carved, cavern, chiseling... | Feb 28, 2026 |
 
-## Section N — Secret Societies (20 documents)
+## Section N — Secret Societies (21 documents)
 
 | # | Doc ID | Title | Tier | Sources | Lines | Keywords | Updated |
 |---|--------|-------|------|---------|-------|----------|---------|
@@ -522,6 +545,7 @@
 | 18 | [N18](N_Secret_Societies\N18_Gurdjieff_Fourth_Way.md) | Gurdjieff, the Fourth Way, and Esoteric Schools |  | /5 | 180 | ** Gurdjieff, Fourth Way, self-remembering, Ouspensky, enneagram... | Feb 28, 2026 |
 | 19 | [N19](N_Secret_Societies\N19_Druze_Secret_Religion.md) | Druze — The Secret Religion of the Levant |  | /5 | 180 | ** Druze, al-Hakim, Fatimid, taqammus, reincarnation... | Feb 28, 2026 |
 | 20 | [N20](N_Secret_Societies\N20_Golden_Dawn_Ceremonial_Magic.md) | Golden Dawn and Modern Western Ceremonial Magic |  | /5 | 181 | ** Golden Dawn, Hermetic Order, Mathers, Westcott, Cipher Manuscripts... | Feb 28, 2026 |
+| 21 | [N21](N_Secret_Societies\N21_Key_of_Solomon_Grimoiric_Tradition.md) | Key of Solomon — Grimoiric Tradition and Solomonic Magic | 1–3 | /5 | 261 | ** Key of Solomon, Clavicula Salomonis, Lesser Key of Solomon... | Mar 4, 2026 |
 
 ## Section O — Earth Anomalies (16 documents)
 
@@ -544,7 +568,7 @@
 | 15 | [O15](O_Earth_Anomalies\O15_Rivers_Arteries_Sacred_Hydrology.md) | Rivers as Arteries — Freshwater Systems and Sacred |  | /5 | 180 | ** rivers, sacred hydrology, Ganges, Nile, Jordan... | Feb 28, 2026 |
 | 16 | [O16](O_Earth_Anomalies\O16_Permafrost_Cryosphere_Frozen_Time_Capsules.md) | Permafrost, Cryosphere, and Frozen Time Capsules |  | /5 | 180 | ** permafrost, cryosphere, ice core, paleoclimatology, ancient virus... | Feb 28, 2026 |
 
-## Section P — Philosophy & Meaning (34 documents)
+## Section P — Philosophy & Meaning (36 documents)
 
 | # | Doc ID | Title | Tier | Sources | Lines | Keywords | Updated |
 |---|--------|-------|------|---------|-------|----------|---------|
@@ -582,6 +606,8 @@
 | 32 | [P32](P_Philosophy_Meaning\P32_Aesthetics.md) | Aesthetics — Philosophy of Beauty, Art, and the Su |  | /5 | 182 | ** aesthetics, philosophy of art, beauty, sublime, Plato... | Feb 28, 2026 |
 | 33 | [P33](P_Philosophy_Meaning\P33_Taboo_Sacred_Transgression.md) | Taboo, the Sacred, and Boundary Transgression |  | /5 | 183 | ** taboo, sacred, profane, Durkheim, Mary Douglas... | Feb 28, 2026 |
 | 34 | [P34](P_Philosophy_Meaning\P34_Process_Philosophy.md) | Process Philosophy — Whitehead and the Metaphysics |  | /5 | 183 | ** process philosophy, Alfred North Whitehead, Process and Reality, actual occasions, prehension... | Feb 28, 2026 |
+| 35 | [P35](P_Philosophy_Meaning\P35_Plato_Forms_Cosmology_Tradition.md) | Plato — Forms, Cosmology, and the Philosophical Tradition | 1 | /5 | 232 | ** Plato, Platonic philosophy, Theory of Forms, Timaeus... | Mar 4, 2026 |
+| 36 | [P36](P_Philosophy_Meaning\P36_Aristotle_Natural_Philosophy.md) | Aristotle — Natural Philosophy, Cosmology, and Legacy | 1 | /5 | 297 | ** Aristotle, Lyceum, natural philosophy, four causes... | Mar 4, 2026 |
 
 ## Section Q — Cosmology & Physics (24 documents)
 
@@ -678,7 +704,7 @@
 | 24 | [S24](S_Future_Technology\S24_Space_Mining_Asteroid_Resources.md) | Space Mining, Asteroid Resources, and Off-World Ec |  | /5 | 193 | ** space mining, asteroid mining, asteroid resources, C-type asteroid, S-type asteroid... | Feb 28, 2026 |
 | 25 | [S25](S_Future_Technology\S25_Food_Security_Agricultural_Technology.md) | Food Security, Agricultural Technology, and the Fu |  | /5 | 203 | ** food security, agricultural technology, Green Revolution, Norman Borlaug, GMO... | Feb 28, 2026 |
 
-## Section T — Psychology & Social (10 documents)
+## Section T — Psychology & Social (11 documents)
 
 | # | Doc ID | Title | Tier | Sources | Lines | Keywords | Updated |
 |---|--------|-------|------|---------|-------|----------|---------|
@@ -692,8 +718,9 @@
 | 8 | [T08](T_Psychology_Social\T08_Psychology_Grief_Loss_Death.md) | Psychology of Grief, Loss, and Death Awareness |  | /5 | 193 | ** grief, bereavement, Kübler-Ross, five stages, continuing bonds... | Feb 28, 2026 |
 | 9 | [T09](T_Psychology_Social\T09_Developmental_Psychology.md) | Developmental Psychology — From Piaget to Attachme |  | /5 | 194 | ** developmental psychology, Piaget, cognitive stages, Vygotsky, scaffolding... | Feb 28, 2026 |
 | 10 | [T10](T_Psychology_Social\T10_Neurodiversity.md) | Neurodiversity — Cognitive Variation as Adaptive S |  | /5 | 199 | ** neurodiversity, Judy Singer, autism spectrum, Kanner, Asperger... | Feb 28, 2026 |
+| 11 | [T11](T_Psychology_Social\T11_Collective_Memory_Cultural_Transmission.md) | Collective Memory and Cultural Transmission of Myth | 1–2 | /5 | 169 | ** collective memory, cultural memory, oral tradition, transmission... | Mar 4, 2026 |
 
-## Section U — Art, Music & Culture (6 documents)
+## Section U — Art, Music & Culture (7 documents)
 
 | # | Doc ID | Title | Tier | Sources | Lines | Keywords | Updated |
 |---|--------|-------|------|---------|-------|----------|---------|
@@ -703,8 +730,9 @@
 | 4 | [U04](U_Art_Music_Culture\U04_Sacred_Music_Chant_Raga_Acoustic_Theology.md) | Sacred Music — Chant, Raga, and Acoustic Theology |  | /5 | 160 | ** sacred music, Gregorian chant, Byzantine chant, Vedic chanting, raga... | Feb 28, 2026 |
 | 5 | [U05](U_Art_Music_Culture\U05_Color_Symbolism_Chromatic_Traditions.md) | Color Symbolism and Chromatic Traditions Across Cu |  | /5 | 143 | ** color symbolism, Berlin and Kay, basic color terms, liturgical colors, chakra... | Feb 28, 2026 |
 | 6 | [U06](U_Art_Music_Culture\U06_Cultural_Evolution_Dual_Inheritance.md) | Cultural Evolution — Dual Inheritance and Cumulati |  | /5 | 145 | ** cultural evolution, dual inheritance, gene-culture coevolution, cumulative culture, Boyd Richerson... | Feb 28, 2026 |
+| 7 | [U07](U_Art_Music_Culture\U07_Music_Acoustics_Consciousness.md) | Music, Acoustics, and Consciousness in Ancient Traditions | 1–3 | /5 | 155 | ** music, acoustics, consciousness, Pythagoras, harmonic... | Mar 4, 2026 |
 
-## Section V — Mathematics & Information (7 documents)
+## Section V — Mathematics & Information (8 documents)
 
 | # | Doc ID | Title | Tier | Sources | Lines | Keywords | Updated |
 |---|--------|-------|------|---------|-------|----------|---------|
@@ -715,6 +743,7 @@
 | 5 | [V05](V_Mathematics_Information\V05_Ethnomathematics_Indigenous_Systems.md) | Ethnomathematics — Indigenous and Non-Western Math |  | /5 | 160 | ** ethnomathematics, Yoruba mathematics, quipu, Maya vigesimal, Ishango bone... | Feb 28, 2026 |
 | 6 | [V06](V_Mathematics_Information\V06_Information_Theory.md) | Information Theory — Shannon, Entropy, and the Bit |  | /5 | 158 | ** information theory, Claude Shannon, entropy, bit, channel capacity... | Feb 28, 2026 |
 | 7 | [V07](V_Mathematics_Information\V07_Cryptography.md) | Cryptography — From Caesar Cipher to Quantum Key D |  | /5 | 161 | ** cryptography, Caesar cipher, Enigma, Turing, public-key... | Feb 28, 2026 |
+| 8 | [V08](V_Mathematics_Information\V08_Sacred_Geometry_Mathematical_Patterns.md) | Sacred Geometry — Mathematical Patterns in Ancient Design | 1–3 | /5 | 165 | ** sacred geometry, golden ratio, phi, Fibonacci... | Mar 4, 2026 |
 
 ---
 
@@ -722,8 +751,8 @@
 
 | Metric | Value |
 |--------|-------|
-| Total documents | 602 |
-| Total lines of research | 146,654 |
+| Total documents | 631 |
+| Total lines of research | 153,268 |
 | Sections with content | 22 / 22 |
 | Documents at Tier 1 | 18 |
 | Documents at Tier 1-2 | 25 |
@@ -749,4 +778,4 @@
 
 ---
 
-*Auto-generated by index_generator.py on Mar 02, 2026. Do not edit manually — changes will be overwritten.*
+*Auto-generated by index_generator.py on Mar 05, 2026. Do not edit manually — changes will be overwritten.*

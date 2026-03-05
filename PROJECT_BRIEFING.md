@@ -1,6 +1,6 @@
 # Project Briefing — Quick Onboarding for AI Agents
 
-> **Version:** 3.0 | **Updated:** Mar 2, 2026
+> **Version:** 3.1 | **Updated:** Mar 5, 2026
 > **Purpose:** Paste this ENTIRE document into any AI agent to give it full project context in minimal tokens
 
 ---
@@ -20,8 +20,8 @@
 
 ## SCALE
 
-- **602 documents** across **22 sections** (A–V)
-- **~146,000+ lines** of research
+- **631 documents** across **22 sections** (A–V)
+- **~153,000+ lines** of research
 - **10,387 indexed keywords** with **13,485 keyword-doc links**
 - **627+ unique images** (2,567 MB)
 - **4-tier reliability system** with **[N/5] source agreement**
@@ -31,17 +31,17 @@
 
 | Code | Section | Docs | Code | Section | Docs |
 |------|---------|------|------|---------|------|
-| **A** | Foundations (ancient texts) | 34 | **L** | Genetics & Origins | 16 |
-| **B** | Beings & Entities | 29 | **M** | Forbidden Archaeology | 17 |
-| **C** | Global Traditions | 112 | **N** | Secret Societies | 20 |
-| **D** | Sites & Artifacts | 43 | **O** | Earth Anomalies | 16 |
-| **E** | Cataclysms & Chronology | 30 | **P** | Philosophy & Meaning | 34 |
+| **A** | Foundations (ancient texts) | 37 | **L** | Genetics & Origins | 17 |
+| **B** | Beings & Entities | 38 | **M** | Forbidden Archaeology | 17 |
+| **C** | Global Traditions | 116 | **N** | Secret Societies | 21 |
+| **D** | Sites & Artifacts | 44 | **O** | Earth Anomalies | 16 |
+| **E** | Cataclysms & Chronology | 30 | **P** | Philosophy & Meaning | 36 |
 | **F** | Lost Connections | 22 | **Q** | Cosmology & Physics | 24 |
-| **G** | Modern Frameworks | 33 | **R** | Biology & Evolution | 31 |
-| **H** | Suppression & Thesis | 16 | **S** | Future & Technology | 25 |
-| **I** | UAP Disclosure | 18 | **T** | Psychology & Social | 10 |
-| **J** | Ancient Technology | 24 | **U** | Art, Music & Culture | 6 |
-| **K** | Consciousness | 35 | **V** | Mathematics & Information | 7 |
+| **G** | Modern Frameworks | 34 | **R** | Biology & Evolution | 31 |
+| **H** | Suppression & Thesis | 17 | **S** | Future & Technology | 25 |
+| **I** | UAP Disclosure | 18 | **T** | Psychology & Social | 11 |
+| **J** | Ancient Technology | 25 | **U** | Art, Music & Culture | 7 |
+| **K** | Consciousness | 37 | **V** | Mathematics & Information | 8 |
 
 ## TIER SYSTEM
 
@@ -76,5 +76,5 @@
 - 7+ confirmed hominin interbreeding events, 98.5% non-coding DNA active
 - Göbekli Tepe: pre-agricultural monumental architecture (9600 BCE)
 - 500+ independent flood traditions, 120m post-glacial sea level rise
-- 112 distinct cultural traditions documented across every inhabited continent
+- 116 distinct cultural traditions documented across every inhabited continent
 - 20+ thematic threads connecting ancient knowledge to modern science
