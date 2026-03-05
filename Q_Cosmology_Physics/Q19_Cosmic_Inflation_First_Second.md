@@ -3,7 +3,7 @@
 > **Document ID:** Q19
 > **Section:** Q_Cosmology_Physics
 > **Keywords:** cosmic inflation, Alan Guth, inflationary epoch, eternal inflation, multiverse, horizon problem, flatness problem, BICEP2, CMB, quantum fluctuations, primordial gravitational waves
-> **Cross-References:** [Q02](Q02_Big_Bang_Cosmology.md) · [Q12](Q12_CMB_Anomalies.md) · [Q07](Q07_Dark_Energy.md) · [Q05](Q05_Multiverse.md) · [Q16](Q16_Gravitational_Waves.md)
+> **Cross-References:** [Q02](Q02_Big_Bang_Alternative_Cosmologies.md) · [Q12](Q12_CMB_Anomalies.md) · [Q07](Q07_Dark_Matter_Dark_Energy.md) · [Q05](Q05_Multiverse_Theories.md) · [Q16](Q16_Gravity_Gravitational_Waves.md)
 > **Reliability Tier:** Tier 1-3 (inflation is the leading paradigm with strong observational support; eternal inflation and multiverse implications are speculative)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High (basic inflation) to Speculative (eternal inflation / multiverse)
 
@@ -125,11 +125,11 @@ Cosmic inflation — the hypothesis that the universe underwent an exponential e
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [Q02](Q02_Big_Bang_Cosmology.md) | Inflation is the leading theory of what happened in the first fraction of a second after the Big Bang |
+| [Q02](Q02_Big_Bang_Alternative_Cosmologies.md) | Inflation is the leading theory of what happened in the first fraction of a second after the Big Bang |
 | [Q12](Q12_CMB_Anomalies.md) | CMB anomalies (axis of evil, cold spot) as potential challenges to inflation |
-| [Q07](Q07_Dark_Energy.md) | Dark energy may share physical origin with inflaton field energy |
-| [Q05](Q05_Multiverse.md) | Eternal inflation as the primary physical mechanism generating a multiverse |
-| [Q16](Q16_Gravitational_Waves.md) | Primordial gravitational waves as the "smoking gun" of inflation |
+| [Q07](Q07_Dark_Matter_Dark_Energy.md) | Dark energy may share physical origin with inflaton field energy |
+| [Q05](Q05_Multiverse_Theories.md) | Eternal inflation as the primary physical mechanism generating a multiverse |
+| [Q16](Q16_Gravity_Gravitational_Waves.md) | Primordial gravitational waves as the "smoking gun" of inflation |
 | [Q14](Q14_Fate_of_Universe.md) | Cyclic models as alternatives to inflation with different cosmological endpoints |
 
 ---

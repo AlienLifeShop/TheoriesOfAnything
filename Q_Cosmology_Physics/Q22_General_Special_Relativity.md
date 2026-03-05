@@ -171,7 +171,7 @@ Albert Einstein's two theories of relativity — special (1905) and general (191
 | Dark matter/energy | [Q07](Q07_Dark_Matter_Dark_Energy.md) | Cosmological constant, modified gravity |
 | Entanglement | [Q18](Q18_Quantum_Entanglement_Nonlocality.md) | ER=EPR conjecture links GR + QM |
 | Fine-tuning | [Q01](Q01_Anthropic_Principle_Fine_Tuning.md) | Cosmological constant problem |
-| GPS technology | [S05](../S_Future_Technology/S05_Navigation_Technology.md) | Practical application of relativistic corrections |
+| GPS technology | [S05](../S_Future_Technology/S05_Post_Human_Futures.md) | Practical application of relativistic corrections |
 | Time philosophy | [Q08](Q08_Time_Physics_Philosophy.md) | Nature of time in relativity |
 | Quantum gravity | [Q09](Q09_String_Theory_Extra_Dimensions.md) | GR quantization approaches |
 

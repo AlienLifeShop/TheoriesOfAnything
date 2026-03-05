@@ -3,7 +3,7 @@
 > **Document ID:** Q24
 > **Section:** Q_Cosmology_Physics
 > **Keywords:** Emmy Noether, Noether's theorem, symmetry, conservation laws, translational symmetry, rotational symmetry, gauge symmetry, spontaneous symmetry breaking, Higgs mechanism, CPT theorem, supersymmetry, group theory, Lie groups, invariance
-> **Cross-References:** [Q21](Q21_Standard_Model_Particle_Physics.md) · [Q22](Q22_General_Special_Relativity.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [V04](../V_Mathematics_Information/V04_Algorithms_Mathematics.md) · [P04](../P_Philosophy_Meaning/P04_Mathematics_in_Religion.md)
+> **Cross-References:** [Q21](Q21_Standard_Model_Particle_Physics.md) · [Q22](Q22_General_Special_Relativity.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [V04](../V_Mathematics_Information/V04_Infinity_Paradoxes_Mathematical_Philosophy.md) · [P04](../P_Philosophy_Meaning/P04_Mathematics_Discovered_Invented.md)
 > **Reliability Tier:** Tier 1 (Noether's theorem is a rigorously proven mathematical result; applications in physics are experimentally confirmed to extraordinary precision)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** Very High
 
@@ -164,14 +164,14 @@ Emmy Noether's 1918 theorem established one of the deepest principles in physics
 | Standard Model | [Q21](Q21_Standard_Model_Particle_Physics.md) | Gauge symmetries define SM forces |
 | Relativity | [Q22](Q22_General_Special_Relativity.md) | Lorentz symmetry, diffeomorphism invariance |
 | Sacred geometry | [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Ancient symmetry concepts |
-| Mathematics in religion | [P04](../P_Philosophy_Meaning/P04_Mathematics_in_Religion.md) | Symmetry as divine principle |
-| Algorithms/Math | [V04](../V_Mathematics_Information/V04_Algorithms_Mathematics.md) | Group theory, formal mathematics |
+| Mathematics in religion | [P04](../P_Philosophy_Meaning/P04_Mathematics_Discovered_Invented.md) | Symmetry as divine principle |
+| Algorithms/Math | [V04](../V_Mathematics_Information/V04_Infinity_Paradoxes_Mathematical_Philosophy.md) | Group theory, formal mathematics |
 | String theory | [Q09](Q09_String_Theory_Extra_Dimensions.md) | Higher symmetries and unification |
 | Black holes | [Q10](Q10_Black_Holes_Singularities.md) | BH entropy and symmetry |
 | Crystallography | [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Crystal symmetry groups |
-| Topology | [V04](../V_Mathematics_Information/V04_Algorithms_Mathematics.md) | Topological invariants |
+| Topology | [V04](../V_Mathematics_Information/V04_Infinity_Paradoxes_Mathematical_Philosophy.md) | Topological invariants |
 | Cosmological constant | [Q07](Q07_Dark_Matter_Dark_Energy.md) | Vacuum energy and broken symmetry |
-| Superconductivity | [S01](../S_Future_Technology/S01_Quantum_Computing.md) | Spontaneous symmetry breaking in materials |
+| Superconductivity | [S01](../S_Future_Technology/S01_AGI_Existential_Risk.md) | Spontaneous symmetry breaking in materials |
 | Philosophy of science | [P25](../P_Philosophy_Meaning/P25_Pre_Socratic_Philosophy.md) | Role of beauty and symmetry in theory construction |
 | Fine structure constant | [Q01](Q01_Anthropic_Principle_Fine_Tuning.md) | Symmetry origins of coupling constants |
 

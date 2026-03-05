@@ -3,7 +3,7 @@
 > **Document ID:** Q23
 > **Section:** Q_Cosmology_Physics
 > **Keywords:** exoplanets, habitable zone, Kepler mission, TRAPPIST-1, 51 Pegasi b, hot Jupiters, super-Earths, JWST, Drake equation, Fermi paradox, biosignatures, technosignatures, atmospheric spectroscopy, transit method, radial velocity
-> **Cross-References:** [I01](../I_UAP_Disclosure/I01_UAP_Overview.md) · [I16](../I_UAP_Disclosure/I16_NHI_Taxonomy.md) · [Q08](Q08_Time_Physics_Philosophy.md) · [S24](../S_Future_Technology/S24_Space_Mining.md) · [R06](../R_Biology_Evolution/R06_Gaia_Theory.md) · [Q04](Q04_Fermi_Paradox_Drake_Equation.md)
+> **Cross-References:** [I01](../I_UAP_Disclosure/I01_UAP_Government_Disclosure_Timeline.md) · [I16](../I_UAP_Disclosure/I16_NHI_Taxonomy_Classification_Systems.md) · [Q08](Q08_Time_Physics_Philosophy.md) · [S24](../S_Future_Technology/S24_Space_Mining_Asteroid_Resources.md) · [R06](../R_Biology_Evolution/R06_Gaia_Theory.md) · [Q04](Q04_Fermi_Paradox_Drake_Equation.md)
 > **Reliability Tier:** Tier 1-2 (exoplanet detections are observationally confirmed; habitability assessments and biosignature interpretations are active research)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (planet detection) to Moderate (habitability/life detection)
 
@@ -163,16 +163,16 @@ The discovery of exoplanets — worlds orbiting stars other than the Sun — has
 | Topic | Document | Relevance |
 |---|---|---|
 | Fermi paradox / Drake | [Q04](Q04_Fermi_Paradox_Drake_Equation.md) | Exoplanet statistics refine Drake parameters |
-| UAP overview | [I01](../I_UAP_Disclosure/I01_UAP_Overview.md) | Extraterrestrial hypothesis context |
-| NHI taxonomy | [I16](../I_UAP_Disclosure/I16_NHI_Taxonomy.md) | Possible origins for non-human intelligence |
+| UAP overview | [I01](../I_UAP_Disclosure/I01_UAP_Government_Disclosure_Timeline.md) | Extraterrestrial hypothesis context |
+| NHI taxonomy | [I16](../I_UAP_Disclosure/I16_NHI_Taxonomy_Classification_Systems.md) | Possible origins for non-human intelligence |
 | Gaia theory | [R06](../R_Biology_Evolution/R06_Gaia_Theory.md) | Planetary habitability and biospheres |
-| Space mining | [S24](../S_Future_Technology/S24_Space_Mining.md) | Resource extraction on other worlds |
+| Space mining | [S24](../S_Future_Technology/S24_Space_Mining_Asteroid_Resources.md) | Resource extraction on other worlds |
 | Stellar evolution | [Q08](Q08_Time_Physics_Philosophy.md) | Host star types and lifetimes |
 | Dark matter/energy | [Q07](Q07_Dark_Matter_Dark_Energy.md) | Cosmological context for galaxy structure |
 | Photosynthesis | [R31](../R_Biology_Evolution/R31_Photosynthesis.md) | Biosignature gases from photosynthesis |
 | Abiogenesis | [R01](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) | Origins of life inform habitability |
-| Panspermia | [R08](../R_Biology_Evolution/R08_Panspermia.md) | Interplanetary life transfer |
-| Ancient astronauts | [B01](../B_Beings_and_Entities/B01_Ancient_Astronaut_Theory.md) | Fringe context for exoplanet discoveries |
+| Panspermia | [R08](../R_Biology_Evolution/R08_Convergent_Evolution_Aquatic_Ape.md) | Interplanetary life transfer |
+| Ancient astronauts | [B01](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) | Fringe context for exoplanet discoveries |
 | Radio astronomy | [Q16](Q16_Gravity_Gravitational_Waves.md) | Detection technologies |
 
 ---

@@ -110,9 +110,9 @@ General relativity is a **classical** field theory — it treats spacetime as a 
 
 | Document | Connection |
 |----------|------------|
-| [Q01 — Cosmology Overview](Q01_Cosmology_Overview.md) | Gravitational structure of the universe |
-| [Q02 — Cosmological Models](Q02_Cosmological_Models.md) | Dark energy, cosmological constant |
-| [Q03 — Quantum Theory](Q03_Quantum_Theory_Applications.md) | Quantum gravity problem |
+| [Q01 — Cosmology Overview](Q01_Anthropic_Principle_Fine_Tuning.md) | Gravitational structure of the universe |
+| [Q02 — Cosmological Models](Q02_Big_Bang_Alternative_Cosmologies.md) | Dark energy, cosmological constant |
+| [Q03 — Quantum Theory](Q03_Ancient_Cosmologies_Compared.md) | Quantum gravity problem |
 | [S12 — Energy Futures](../S_Future_Technology/S12_Energy_Futures_Fusion_Thorium.md) | Exotic energy claims; zero-point energy |
 | [G19 — Plasma Cosmology](../G_Modern_Frameworks/G19_Plasma_Cosmology_Electric_Universe.md) | Alternative gravity/cosmology models |
 

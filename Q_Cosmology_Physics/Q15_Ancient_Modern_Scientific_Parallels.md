@@ -98,6 +98,8 @@ The calculation derives from:
 **Why This Is Extraordinary:**
 No other ancient civilization produced a cosmological timescale within even one order of magnitude of the correct answer. For comparison:
 - Archbishop Ussher (1650 CE): 6,000 years → **off by factor of ~750,000**
+
+**Counter-Argument:** Critics point out that the Kalpa figure (4.32 billion years) derives from a complex numerological system built on multiples of 432,000, not from empirical measurement. The Hindu cosmological system generates numbers spanning many orders of magnitude (Brahma's lifespan = 311 trillion years), and with enough numbers in the system, some will inevitably approximate a scientific value by chance — a form of the "sharpshooter's fallacy."
 - Aristotle: eternal universe → conceptually different
 - Sumerian King List: ~241,200 years pre-flood → **off by factor of ~18,800**
 - Hindu kalpa: 4.32 billion years → **off by ~5%**
@@ -545,4 +547,17 @@ This clustering of accurate insights within a single tradition is the most diffi
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Ferris, J.P. et al. "Synthesis of long prebiotic oligomers on mineral surfaces." *Nature* 381 (1996): 59–61.
+2. Hanczyc, M.M. et al. "Experimental models of primitive cellular compartments." *Science* 302 (2003): 618–622.
+3. Nunn, P. & Reid, N. "Aboriginal memories of inundation of the Australian coast." *Australian Geographer* 47.1 (2015): 11–47.
+4. Vazza, F. & Feletti, A. "The quantitative comparison between the neuronal network and the cosmic web." *Frontiers in Physics* 8 (2020): 525731.
+5. Wigner, E. "The unreasonable effectiveness of mathematics in the natural sciences." *Communications in Pure and Applied Mathematics* 13 (1960): 1–14.
+6. Cairns-Smith, A.G. *Seven Clues to the Origin of Life*. Cambridge University Press, 1985.
+7. de Santillana, G. & von Dechend, H. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969.
+8. Capra, F. *The Tao of Physics*. Shambhala, 1975.
+9. Huxley, A. *The Perennial Philosophy*. Harper & Brothers, 1945.
+10. Narby, J. *The Cosmic Serpent: DNA and the Origins of Knowledge*. Tarcher/Putnam, 1998.
+11. Tegmark, M. *Our Mathematical Universe*. Knopf, 2014.
+12. Hancock, G. *Fingerprints of the Gods*. Crown, 1995.
+13. McIntosh, G. *The Piri Reis Map of 1513*. University of Georgia Press, 2000.
+14. Mukunda, H.S. et al. "A critical study of the work 'Vymanika Shastra.'" *Scientific Opinion*, IISc Bangalore, 1974.

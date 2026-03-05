@@ -3,7 +3,7 @@
 > **Document ID:** Q18
 > **Section:** Q_Cosmology_Physics
 > **Keywords:** quantum entanglement, non-locality, EPR paradox, Bell's theorem, Bell inequality, Aspect experiment, quantum teleportation, spooky action, loophole-free, Indra's Net
-> **Cross-References:** [G01](../G_Modern_Frameworks/G01_Quantum_Mechanics.md) · [G08](../G_Modern_Frameworks/G08_Quantum_Teleportation.md) · [Q06](Q06_Holographic_Principle.md) · [P05](../P_Philosophy_Meaning/P05_Panpsychism.md) · [A08](../A_Foundations/A08_Hermetic_Tradition.md) · [A20](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md)
+> **Cross-References:** [G01](../G_Modern_Frameworks/G01_Quantum_Mechanics_Ancient_Knowledge.md) · [G08](../G_Modern_Frameworks/G08_Quantum_Teleportation.md) · [Q06](Q06_Holographic_Principle.md) · [P05](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) · [A08](../A_Foundations/A08_Hermetic_Tradition.md) · [A20](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md)
 > **Reliability Tier:** Tier 1-3 (entanglement is experimentally verified beyond doubt; connections to ancient philosophy and biological systems range from credible to speculative)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Very High (experimental physics) to Low (ancient parallels)
 
@@ -135,14 +135,14 @@ Quantum entanglement — the phenomenon whereby two or more particles become cor
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [G01](../G_Modern_Frameworks/G01_Quantum_Mechanics.md) | Foundational quantum mechanics — entanglement as core phenomenon |
+| [G01](../G_Modern_Frameworks/G01_Quantum_Mechanics_Ancient_Knowledge.md) | Foundational quantum mechanics — entanglement as core phenomenon |
 | [G08](../G_Modern_Frameworks/G08_Quantum_Teleportation.md) | Quantum teleportation protocol and experimental demonstrations |
 | [Q06](Q06_Holographic_Principle.md) | ER=EPR conjecture links entanglement to spacetime geometry |
-| [P05](../P_Philosophy_Meaning/P05_Panpsychism.md) | Consciousness theories invoking quantum coherence/entanglement |
+| [P05](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) | Consciousness theories invoking quantum coherence/entanglement |
 | [A08](../A_Foundations/A08_Hermetic_Tradition.md) | Hermetic "as above, so below" as metaphorical parallel |
 | [A20](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md) | Indra's Net as ancient interconnectedness metaphor |
-| [Q10](Q10_Black_Holes_Information.md) | Black hole information paradox and entanglement entropy |
-| [R18](../R_Biology_Evolution/R18_Quantum_Biology.md) | Quantum effects in biological systems |
+| [Q10](Q10_Black_Holes_Singularities.md) | Black hole information paradox and entanglement entropy |
+| [R18](../R_Biology_Evolution/R13_Quantum_Biology.md) | Quantum effects in biological systems |
 
 ---
 

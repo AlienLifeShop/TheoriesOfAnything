@@ -3,7 +3,7 @@
 > **Document ID:** Q20
 > **Section:** Q_Cosmology_Physics
 > **Keywords:** neutron stars, pulsars, magnetars, kilonova, Jocelyn Bell Burnell, nuclear density, equation of state, gravitational waves, GW170817, r-process nucleosynthesis
-> **Cross-References:** [Q10](Q10_Black_Holes_Information.md) · [Q16](Q16_Gravitational_Waves.md) · [R07](../R_Biology_Evolution/R07_Extremophiles.md) · [Q02](Q02_Big_Bang_Cosmology.md)
+> **Cross-References:** [Q10](Q10_Black_Holes_Singularities.md) · [Q16](Q16_Gravity_Gravitational_Waves.md) · [R07](../R_Biology_Evolution/R07_Extremophile_Biology.md) · [Q02](Q02_Big_Bang_Alternative_Cosmologies.md)
 > **Reliability Tier:** Tier 1-2 (neutron star observations are well-established; interior equation of state remains an active research frontier)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 19 scholarly sources | **Confidence:** High (observational astronomy) to Moderate (nuclear physics at extreme density)
 
@@ -127,11 +127,11 @@ Neutron stars are the collapsed remnants of massive stars, packing 1.4 to approx
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [Q10](Q10_Black_Holes_Information.md) | Neutron stars vs black holes — TOV limit as the boundary between them |
-| [Q16](Q16_Gravitational_Waves.md) | GW170817 merger detection; pulsar timing arrays for nanohertz gravitational waves |
-| [R07](../R_Biology_Evolution/R07_Extremophiles.md) | Extreme physics conditions — parallel to extreme biological environments |
-| [Q02](Q02_Big_Bang_Cosmology.md) | Nucleosynthesis — neutron star mergers as source of heavy elements complementing Big Bang nucleosynthesis |
-| [Q07](Q07_Dark_Energy.md) | GW170817 Hubble constant measurement constraining dark energy models |
+| [Q10](Q10_Black_Holes_Singularities.md) | Neutron stars vs black holes — TOV limit as the boundary between them |
+| [Q16](Q16_Gravity_Gravitational_Waves.md) | GW170817 merger detection; pulsar timing arrays for nanohertz gravitational waves |
+| [R07](../R_Biology_Evolution/R07_Extremophile_Biology.md) | Extreme physics conditions — parallel to extreme biological environments |
+| [Q02](Q02_Big_Bang_Alternative_Cosmologies.md) | Nucleosynthesis — neutron star mergers as source of heavy elements complementing Big Bang nucleosynthesis |
+| [Q07](Q07_Dark_Matter_Dark_Energy.md) | GW170817 Hubble constant measurement constraining dark energy models |
 
 ---
 

@@ -170,9 +170,9 @@ The Standard Model of particle physics is the quantum field theory describing th
 | Dark matter/energy | [Q07](Q07_Dark_Matter_Dark_Energy.md) | SM accounts for only ~5% of universe |
 | String theory | [Q09](Q09_String_Theory_Extra_Dimensions.md) | BSM unification framework |
 | Pre-Socratic atomism | [P25](../P_Philosophy_Meaning/P25_Pre_Socratic_Philosophy.md) | Ancient antecedent of particle concept |
-| Quantum computing | [S01](../S_Future_Technology/S01_Quantum_Computing.md) | QFT foundations for quantum tech |
+| Quantum computing | [S01](../S_Future_Technology/S01_AGI_Existential_Risk.md) | QFT foundations for quantum tech |
 | Nuclear physics | [Q16](Q16_Gravity_Gravitational_Waves.md) | Nuclear force vs. gravitational force |
-| Cosmological inflation | [Q06](Q06_Inflation_Cosmology.md) | Early universe particle physics |
+| Cosmological inflation | [Q06](Q06_Holographic_Principle.md) | Early universe particle physics |
 | Neutrino astronomy | [Q10](Q10_Black_Holes_Singularities.md) | Neutrino detection from astrophysical sources |
 
 ---

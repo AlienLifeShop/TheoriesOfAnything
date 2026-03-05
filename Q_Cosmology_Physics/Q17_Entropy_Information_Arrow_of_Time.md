@@ -3,7 +3,7 @@
 > **Document ID:** Q17
 > **Section:** Q_Cosmology_Physics
 > **Keywords:** entropy, thermodynamics, information theory, arrow of time, Boltzmann, Shannon, Landauer, Maxwell's Demon, second law, heat death, irreversibility
-> **Cross-References:** [Q08](Q08_Time_Perception_Physics.md) · [Q14](Q14_Fate_of_Universe.md) · [G14](../G_Modern_Frameworks/G14_Information_as_Reality.md) · [Q10](Q10_Black_Holes_Information.md) · [Q06](Q06_Holographic_Principle.md)
+> **Cross-References:** [Q08](Q08_Time_Physics_Philosophy.md) · [Q14](Q14_Fate_of_Universe.md) · [G14](../G_Modern_Frameworks/G14_Information_as_Fundamental_Reality.md) · [Q10](Q10_Black_Holes_Singularities.md) · [Q06](Q06_Holographic_Principle.md)
 > **Reliability Tier:** Tier 1-3 (core thermodynamics and information theory are established physics; cosmological fate models range from well-supported to speculative)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** High (foundational physics) to Moderate (cosmological implications)
 
@@ -120,13 +120,13 @@ Entropy — the measure of disorder or the number of microstates consistent with
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [Q08](Q08_Time_Perception_Physics.md) | Arrow of time directly relates to the physics and perception of time |
+| [Q08](Q08_Time_Physics_Philosophy.md) | Arrow of time directly relates to the physics and perception of time |
 | [Q14](Q14_Fate_of_Universe.md) | Heat death, Big Crunch, cyclic models as entropic endpoints |
-| [G14](../G_Modern_Frameworks/G14_Information_as_Reality.md) | "It from Bit" — information as fundamental substrate |
-| [Q10](Q10_Black_Holes_Information.md) | Black hole information paradox, Bekenstein-Hawking entropy |
+| [G14](../G_Modern_Frameworks/G14_Information_as_Fundamental_Reality.md) | "It from Bit" — information as fundamental substrate |
+| [Q10](Q10_Black_Holes_Singularities.md) | Black hole information paradox, Bekenstein-Hawking entropy |
 | [Q06](Q06_Holographic_Principle.md) | Holographic entropy bound derives from black hole entropy |
-| [Q02](Q02_Big_Bang_Cosmology.md) | Low-entropy initial condition (Past Hypothesis) linked to Big Bang |
-| [R07](../R_Biology_Evolution/R07_Extremophiles.md) | Entropy and the thermodynamics of life in extreme conditions |
+| [Q02](Q02_Big_Bang_Alternative_Cosmologies.md) | Low-entropy initial condition (Past Hypothesis) linked to Big Bang |
+| [R07](../R_Biology_Evolution/R07_Extremophile_Biology.md) | Entropy and the thermodynamics of life in extreme conditions |
 
 ---
 
