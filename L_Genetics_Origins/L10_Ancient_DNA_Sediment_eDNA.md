@@ -3,7 +3,7 @@
 > **Document ID:** L10
 > **Section:** L_Genetics_Origins
 > **Keywords:** environmental DNA, eDNA, sediment DNA, Denisova Cave, permafrost DNA, metagenomic sequencing, hybridization capture, cave sediment, ancient ecosystems, DNA degradation
-> **Cross-References:** [L01](../L_Genetics_Origins/L01_Ancient_DNA.md) · [L06](../L_Genetics_Origins/L06_Archaic_Human_Species.md) · [R09](../R_Biology_Evolution/R09_Neanderthal.md) · [D13](../D_Sites_and_Artifacts/D13_Submerged_Structures.md)
+> **Cross-References:** [L01](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) · [L06](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) · [R09](../R_Biology_Evolution/R09_Neanderthal_Cognition.md) · [D13](../D_Sites_and_Artifacts/D13_Submerged_Structures_Underwater_Archaeology.md)
 > **Reliability Tier:** Tier 1-2 (methodology peer-reviewed; some applications still emerging)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 19 scholarly sources | **Confidence:** High
 
@@ -126,10 +126,10 @@ Environmental DNA (eDNA) recovery from sediments has revolutionized our ability 
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [L01](../L_Genetics_Origins/L01_Ancient_DNA.md) | Foundational ancient DNA methods and discoveries |
-| [L06](../L_Genetics_Origins/L06_Archaic_Human_Species.md) | Archaic hominin detection via sediment DNA |
-| [R09](../R_Biology_Evolution/R09_Neanderthal.md) | Neanderthal presence tracked through cave sediments |
-| [D13](../D_Sites_and_Artifacts/D13_Submerged_Structures.md) | Submerged sites as eDNA targets |
+| [L01](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Foundational ancient DNA methods and discoveries |
+| [L06](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) | Archaic hominin detection via sediment DNA |
+| [R09](../R_Biology_Evolution/R09_Neanderthal_Cognition.md) | Neanderthal presence tracked through cave sediments |
+| [D13](../D_Sites_and_Artifacts/D13_Submerged_Structures_Underwater_Archaeology.md) | Submerged sites as eDNA targets |
 | [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Ecosystem changes during Younger Dryas tracked via eDNA |
 | [L09](../L_Genetics_Origins/L09_FOXP2_Genetics_of_Language.md) | Ancient DNA revealing archaic hominin gene variants |
 

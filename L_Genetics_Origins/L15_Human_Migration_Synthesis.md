@@ -3,7 +3,7 @@
 > **Document ID:** L15
 > **Section:** L_Genetics_Origins
 > **Keywords:** out-of-Africa, migration, ancient DNA, Austronesian expansion, Bantu expansion, Yamnaya, Indo-European, Cavalli-Sforza, Pääbo, gene-language correlation, coastal migration
-> **Cross-References:** [L03](../L_Genetics_Origins/L03_Mitochondrial_DNA.md) · [L13](../L_Genetics_Origins/L13_Y_Chromosome_Phylogeny_Patrilineal_Deep_History.md) · [F18](../F_Lost_Connections/F18_First_Americans.md) · [L06](../L_Genetics_Origins/L06_Archaic_Humans.md) · [H16](../H_Suppression_and_Thesis/H16_Linguistic_Extinction.md)
+> **Cross-References:** [L03](../L_Genetics_Origins/L04_Mitochondrial_Eve_Y_Adam.md) · [L13](../L_Genetics_Origins/L13_Y_Chromosome_Phylogeny_Patrilineal_Deep_History.md) · [F18](../F_Lost_Connections/F18_First_Americans_Debate.md) · [L06](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) · [H16](../H_Suppression_and_Thesis/H16_Linguistic_Extinction_Lost_Knowledge_Systems.md)
 > **Reliability Tier:** Tier 1-2 (core Out-of-Africa model is Tier 1; specific route reconstructions and gene-language correlations involve Tier 2 uncertainties)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 24 scholarly sources | **Confidence:** High for major migration events; Moderate for route details and timing
 
@@ -169,11 +169,11 @@ Svante Pääbo's Nobel Prize-winning ancient DNA work (2022) and Luigi Luca Cava
 
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
-| [L03](../L_Genetics_Origins/L03_Mitochondrial_DNA.md) | Maternal lineages | mtDNA haplogroup distributions independently confirm OOA routes and expansion timings |
+| [L03](../L_Genetics_Origins/L04_Mitochondrial_Eve_Y_Adam.md) | Maternal lineages | mtDNA haplogroup distributions independently confirm OOA routes and expansion timings |
 | [L13](../L_Genetics_Origins/L13_Y_Chromosome_Phylogeny_Patrilineal_Deep_History.md) | Paternal lineages | Y-chromosome haplogroups provide paternal migration narrative complementary to autosomal data |
-| [F18](../F_Lost_Connections/F18_First_Americans.md) | Americas peopling | Pre-Clovis evidence and Beringia timing directly intersect with migration synthesis |
-| [L06](../L_Genetics_Origins/L06_Archaic_Humans.md) | Archaic admixture | Neanderthal/Denisovan gene flow occurred during specific migration episodes on known routes |
-| [H16](../H_Suppression_and_Thesis/H16_Linguistic_Extinction.md) | Language loss | Migration-driven replacement erased hundreds of language families, visible in genetic transitions |
+| [F18](../F_Lost_Connections/F18_First_Americans_Debate.md) | Americas peopling | Pre-Clovis evidence and Beringia timing directly intersect with migration synthesis |
+| [L06](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) | Archaic admixture | Neanderthal/Denisovan gene flow occurred during specific migration episodes on known routes |
+| [H16](../H_Suppression_and_Thesis/H16_Linguistic_Extinction_Lost_Knowledge_Systems.md) | Language loss | Migration-driven replacement erased hundreds of language families, visible in genetic transitions |
 | [L16](../L_Genetics_Origins/L16_Genetic_Bottlenecks_Founder_Effects_Toba.md) | Bottleneck context | OOA serial founder effects compound diversity reduction from any prior population crash |
 
 ---

@@ -3,7 +3,7 @@
 > **Document ID:** L11
 > **Section:** L_Genetics_Origins
 > **Keywords:** skin pigmentation, SLC24A5, MC1R, vitamin D, folate, UV radiation, convergent evolution, melanin, racial ideology, ancient DNA, Neanderthal pigmentation
-> **Cross-References:** [L01](../L_Genetics_Origins/L01_Ancient_DNA.md) · [R08](../R_Biology_Evolution/R08_Convergent_Evolution.md) · [L04](../L_Genetics_Origins/L04_Mitochondrial_Eve.md) · [R02](../R_Biology_Evolution/R02_Brain_Evolution.md)
+> **Cross-References:** [L01](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) · [R08](../R_Biology_Evolution/R08_Convergent_Evolution_Aquatic_Ape.md) · [L04](../L_Genetics_Origins/L04_Mitochondrial_Eve_Y_Adam.md) · [R02](../R_Biology_Evolution/R02_Human_Brain_Evolution.md)
 > **Reliability Tier:** Tier 1-2 (genetics firmly established; cultural weaponization documented historically)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 17 scholarly sources | **Confidence:** High
 
@@ -121,12 +121,12 @@ Human skin color is one of the most visible and most misunderstood traits in our
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [L01](../L_Genetics_Origins/L01_Ancient_DNA.md) | Ancient DNA revealing ancestral pigmentation states |
-| [R08](../R_Biology_Evolution/R08_Convergent_Evolution.md) | Skin color as convergent evolution case study |
-| [L04](../L_Genetics_Origins/L04_Mitochondrial_Eve.md) | Out-of-Africa migration and UV gradient exposure |
-| [R02](../R_Biology_Evolution/R02_Brain_Evolution.md) | Co-evolution of traits during human dispersal |
+| [L01](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Ancient DNA revealing ancestral pigmentation states |
+| [R08](../R_Biology_Evolution/R08_Convergent_Evolution_Aquatic_Ape.md) | Skin color as convergent evolution case study |
+| [L04](../L_Genetics_Origins/L04_Mitochondrial_Eve_Y_Adam.md) | Out-of-Africa migration and UV gradient exposure |
+| [R02](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) | Co-evolution of traits during human dispersal |
 | [L12](../L_Genetics_Origins/L12_Lactase_Persistence_Gene_Culture.md) | Parallel example of strong recent selection |
-| [L06](../L_Genetics_Origins/L06_Archaic_Human_Species.md) | Neanderthal MC1R variant and archaic pigmentation |
+| [L06](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) | Neanderthal MC1R variant and archaic pigmentation |
 
 ---
 

@@ -3,7 +3,7 @@
 > **Document ID:** L16
 > **Section:** L_Genetics_Origins
 > **Keywords:** genetic bottleneck, founder effect, Toba catastrophe, supervolcano, effective population size, Ashkenazi founder, cheetah genetics, Pingelap, Finnish disease heritage, Ambrose hypothesis
-> **Cross-References:** [L03](../L_Genetics_Origins/L03_Mitochondrial_DNA.md) · [E01](../E_Cataclysms_and_Chronology/E01_Catastrophism.md) · [L15](../L_Genetics_Origins/L15_Human_Migration_Synthesis.md) · [R07](../R_Biology_Evolution/R07_Mass_Extinctions.md) · [E28](../E_Cataclysms_and_Chronology/E28_Megafauna_Extinction.md)
+> **Cross-References:** [L03](../L_Genetics_Origins/L04_Mitochondrial_Eve_Y_Adam.md) · [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [L15](../L_Genetics_Origins/L15_Human_Migration_Synthesis.md) · [R07](../R_Biology_Evolution/R05_Mass_Extinction_Events.md) · [E28](../E_Cataclysms_and_Chronology/E28_Megafauna_Extinction.md)
 > **Reliability Tier:** Tier 1-3 (population genetics theory is Tier 1; Toba human impact is Tier 2-3 with recent challenges; specific bottleneck attributions vary in confidence)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High for genetic principles; Moderate-Low for Toba's specific human impact
 
@@ -170,10 +170,10 @@ While recent archaeological and genetic evidence has challenged the severity of 
 
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
-| [L03](../L_Genetics_Origins/L03_Mitochondrial_DNA.md) | Maternal diversity | mtDNA coalescence dates provide independent bottleneck timing estimates |
-| [E01](../E_Cataclysms_and_Chronology/E01_Catastrophism.md) | Catastrophism framework | Toba is a leading example of catastrophism with measurable biological consequences |
+| [L03](../L_Genetics_Origins/L04_Mitochondrial_Eve_Y_Adam.md) | Maternal diversity | mtDNA coalescence dates provide independent bottleneck timing estimates |
+| [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Catastrophism framework | Toba is a leading example of catastrophism with measurable biological consequences |
 | [L15](../L_Genetics_Origins/L15_Human_Migration_Synthesis.md) | Migration bottlenecks | Out-of-Africa serial founder effects compound any prior Toba-related reduction |
-| [R07](../R_Biology_Evolution/R07_Mass_Extinctions.md) | Extinction events | Bottlenecks are micro-scale analogs of mass extinction diversity loss |
+| [R07](../R_Biology_Evolution/R05_Mass_Extinction_Events.md) | Extinction events | Bottlenecks are micro-scale analogs of mass extinction diversity loss |
 | [E28](../E_Cataclysms_and_Chronology/E28_Megafauna_Extinction.md) | Megafauna crashes | Late Pleistocene megafauna declines may share bottleneck mechanisms with human diversity loss |
 | [L13](../L_Genetics_Origins/L13_Y_Chromosome_Phylogeny_Patrilineal_Deep_History.md) | Y-DNA bottleneck | The post-Neolithic patrilineal bottleneck is one of the most dramatic sex-specific diversity crashes |
 

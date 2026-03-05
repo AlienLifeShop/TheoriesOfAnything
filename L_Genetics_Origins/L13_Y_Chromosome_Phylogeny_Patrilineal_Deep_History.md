@@ -3,7 +3,7 @@
 > **Document ID:** L13
 > **Section:** L_Genetics_Origins
 > **Keywords:** Y-chromosome, haplogroup, patrilineal, Y-chromosomal Adam, A00, R1b, founder effect, bottleneck, ancient DNA, CMH, Genghis Khan, phylogeny
-> **Cross-References:** [L03](../L_Genetics_Origins/L03_Mitochondrial_DNA.md) · [L06](../L_Genetics_Origins/L06_Archaic_Humans.md) · [L15](../L_Genetics_Origins/L15_Human_Migration_Synthesis.md) · [B06](../B_Beings_and_Entities/B06_Dynastic_Serpent_Lineage.md) · [L16](../L_Genetics_Origins/L16_Genetic_Bottlenecks_Founder_Effects_Toba.md)
+> **Cross-References:** [L03](../L_Genetics_Origins/L04_Mitochondrial_Eve_Y_Adam.md) · [L06](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) · [L15](../L_Genetics_Origins/L15_Human_Migration_Synthesis.md) · [B06](../B_Beings_and_Entities/B06_Dynastic_Serpent_Lineage.md) · [L16](../L_Genetics_Origins/L16_Genetic_Bottlenecks_Founder_Effects_Toba.md)
 > **Reliability Tier:** Tier 1-3 (haplogroup phylogeny is Tier 1 molecular biology; deep-time dating involves calibration uncertainties at Tier 2; lineage-to-historical-figure attributions reach Tier 3)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High for phylogenetic structure; Moderate for deep-time TMRCA estimates
 
@@ -169,12 +169,12 @@ A remarkable patrilineal bottleneck between 5,000 and 7,000 BP — during which 
 
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
-| [L03](../L_Genetics_Origins/L03_Mitochondrial_DNA.md) | Matrilineal counterpart | mtDNA traces maternal lineage; Y-DNA traces paternal — together they bracket human demographic history |
-| [L06](../L_Genetics_Origins/L06_Archaic_Humans.md) | Archaic introgression | Neanderthal/Denisovan Y chromosomes appear absent in modern humans — possible immune incompatibility |
+| [L03](../L_Genetics_Origins/L04_Mitochondrial_Eve_Y_Adam.md) | Matrilineal counterpart | mtDNA traces maternal lineage; Y-DNA traces paternal — together they bracket human demographic history |
+| [L06](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) | Archaic introgression | Neanderthal/Denisovan Y chromosomes appear absent in modern humans — possible immune incompatibility |
 | [L15](../L_Genetics_Origins/L15_Human_Migration_Synthesis.md) | Migration routes | Haplogroup distributions map directly onto OOA dispersal and subsequent continental expansions |
 | [B06](../B_Beings_and_Entities/B06_Dynastic_Serpent_Lineage.md) | Dynastic claims | Fringe theories link Y-DNA to "divine" bloodlines; compare critically with documented elite lineage expansions |
 | [L16](../L_Genetics_Origins/L16_Genetic_Bottlenecks_Founder_Effects_Toba.md) | Population crashes | The post-Neolithic patrilineal bottleneck and Toba-era reductions both shaped Y diversity profoundly |
-| [F18](../F_Lost_Connections/F18_First_Americans.md) | Americas peopling | Haplogroup Q distribution tracks the initial colonization of the Americas via Beringia |
+| [F18](../F_Lost_Connections/F18_First_Americans_Debate.md) | Americas peopling | Haplogroup Q distribution tracks the initial colonization of the Americas via Beringia |
 
 ---
 *Consolidated from 22 sources. Last Updated: Feb 28, 2026*

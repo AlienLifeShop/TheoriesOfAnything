@@ -3,7 +3,7 @@
 > **Document ID:** L14
 > **Section:** L_Genetics_Origins
 > **Keywords:** domestication, dog origin, wheat genetics, maize teosinte, Belyaev fox experiment, domestication syndrome, self-domestication, epigenetics, CRISPR, founder population, artificial selection
-> **Cross-References:** [R24](../R_Biology_Evolution/R24_Sexual_Selection.md) · [R31](../R_Biology_Evolution/R31_Self_Domestication.md) · [L15](../L_Genetics_Origins/L15_Human_Migration_Synthesis.md) · [J21](../J_Ancient_Technology/J21_Food_Technology.md) · [E22](../E_Cataclysms_and_Chronology/E22_Younger_Dryas.md)
+> **Cross-References:** [R24](../R_Biology_Evolution/R24_Sexual_Selection.md) · [R31](../R_Biology_Evolution/R30_Self_Domestication.md) · [L15](../L_Genetics_Origins/L15_Human_Migration_Synthesis.md) · [J21](../J_Ancient_Technology/J21_Ancient_Food_Technology_Fermentation.md) · [E22](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md)
 > **Reliability Tier:** Tier 1-3 (genetic mechanisms verified at Tier 1; domestication chronologies debated at Tier 2; self-domestication hypothesis remains Tier 3)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** High for genetic mechanisms; Moderate for chronological debates
 
@@ -170,10 +170,10 @@ Modern genomics reveals that domestication events often involved small founder p
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
 | [R24](../R_Biology_Evolution/R24_Sexual_Selection.md) | Selection mechanisms | Sexual and artificial selection operate through analogous fitness-filtering processes |
-| [R31](../R_Biology_Evolution/R31_Self_Domestication.md) | Self-domestication | Directly extends the hypothesis that *Homo sapiens* domesticated itself via selection against aggression |
+| [R31](../R_Biology_Evolution/R30_Self_Domestication.md) | Self-domestication | Directly extends the hypothesis that *Homo sapiens* domesticated itself via selection against aggression |
 | [L15](../L_Genetics_Origins/L15_Human_Migration_Synthesis.md) | Migration context | Domesticated species spread with human migrations — Neolithic package, Austronesian crops |
-| [J21](../J_Ancient_Technology/J21_Food_Technology.md) | Technology | Domestication enabled food storage, fermentation, and processing technologies |
-| [E22](../E_Cataclysms_and_Chronology/E22_Younger_Dryas.md) | Climate trigger | Post-Younger Dryas warming may have catalyzed the shift from foraging to farming |
+| [J21](../J_Ancient_Technology/J21_Ancient_Food_Technology_Fermentation.md) | Technology | Domestication enabled food storage, fermentation, and processing technologies |
+| [E22](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Climate trigger | Post-Younger Dryas warming may have catalyzed the shift from foraging to farming |
 | [L13](../L_Genetics_Origins/L13_Y_Chromosome_Phylogeny_Patrilineal_Deep_History.md) | Population genetics | Neolithic demographic transitions driven by farming left signatures in Y-DNA haplogroup expansions |
 
 ---

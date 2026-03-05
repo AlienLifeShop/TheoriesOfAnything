@@ -540,6 +540,14 @@ The visual parallel between the twin-serpent motif and the DNA double helix is *
 
 ## Bibliography
 
-- Hancock. *Fingerprints of the Gods*. 1995.
-- Isbell. *The Fruit, the Tree, and the Serpent*. 2009.
-- Knight. *The Hiram Key*. 1996.
+1. Watson, J.D. & Crick, F.H.C. "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid." *Nature* 171.4356 (1953): 737–738.
+2. Narby, J. *The Cosmic Serpent: DNA and the Origins of Knowledge.* New York: Jeremy P. Tarcher/Putnam, 1998.
+3. Isbell, L.A. *The Fruit, the Tree, and the Serpent: Why We See So Well.* Cambridge: Harvard University Press, 2009.
+4. Hancock, G. *Fingerprints of the Gods.* London: William Heinemann, 1995.
+5. Knight, C. & Lomas, R. *The Hiram Key: Pharaohs, Freemasons, and the Discovery of the Secret Scrolls of Jesus.* London: Century, 1996.
+6. Ijdo, J.W. et al. "Origin of Human Chromosome 2: An Ancestral Telomere-Telomere Fusion." *Proceedings of the National Academy of Sciences* 88.20 (1991): 9051–9055.
+7. ENCODE Project Consortium. "An Integrated Encyclopedia of DNA Elements in the Human Genome." *Nature* 489.7414 (2012): 57–74.
+8. Frankfort, H. *The Art and Architecture of the Ancient Orient.* London: Penguin Books, 1954.
+9. Friedlander, W.J. *The Golden Wand of Medicine: A History of the Caduceus Symbol in Medicine.* New York: Greenwood Press, 1992.
+10. Crick, F.H.C. *Life Itself: Its Origin and Nature.* New York: Simon and Schuster, 1981.
+11. d'Huy, J. "A Phylogenetic Approach of Mythology and Its Archaeological Consequences." *Rock Art Research* 30.1 (2013): 115–118.

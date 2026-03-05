@@ -3,7 +3,7 @@
 > **Document ID:** L09
 > **Section:** L_Genetics_Origins
 > **Keywords:** FOXP2, language gene, KE family, transcription factor, vocal learning, speech disorder, CNTNAP2, FOXP1, Neanderthal speech, songbird vocal learning, human evolution
-> **Cross-References:** [C14](../C_Global_Traditions/C14_Language_Origins.md) · [R02](../R_Biology_Evolution/R02_Brain_Evolution.md) · [L01](../L_Genetics_Origins/L01_Ancient_DNA.md) · [L06](../L_Genetics_Origins/L06_Archaic_Human_Species.md) · [R09](../R_Biology_Evolution/R09_Neanderthal.md)
+> **Cross-References:** [C14](../C_Global_Traditions/C14_Language_Origins_Tower_of_Babel.md) · [R02](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) · [L01](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) · [L06](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) · [R09](../R_Biology_Evolution/R09_Neanderthal_Cognition.md)
 > **Reliability Tier:** Tier 1-2 (core genetics peer-reviewed; evolutionary implications actively debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** High
 
@@ -126,11 +126,11 @@ FOXP2 was the first gene directly linked to a speech and language disorder, iden
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C14](../C_Global_Traditions/C14_Language_Origins.md) | Language origins traditions across cultures |
-| [R02](../R_Biology_Evolution/R02_Brain_Evolution.md) | Neural substrates co-evolving with FOXP2 network |
-| [L01](../L_Genetics_Origins/L01_Ancient_DNA.md) | Ancient DNA methods used to sequence archaic FOXP2 |
-| [L06](../L_Genetics_Origins/L06_Archaic_Human_Species.md) | Neanderthal/Denisovan FOXP2 variants |
-| [R09](../R_Biology_Evolution/R09_Neanderthal.md) | Neanderthal speech capability evidence |
+| [C14](../C_Global_Traditions/C14_Language_Origins_Tower_of_Babel.md) | Language origins traditions across cultures |
+| [R02](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) | Neural substrates co-evolving with FOXP2 network |
+| [L01](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Ancient DNA methods used to sequence archaic FOXP2 |
+| [L06](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) | Neanderthal/Denisovan FOXP2 variants |
+| [R09](../R_Biology_Evolution/R09_Neanderthal_Cognition.md) | Neanderthal speech capability evidence |
 | [L11](../L_Genetics_Origins/L11_Human_Skin_Color_Evolution.md) | Parallel example of selective sweeps in human evolution |
 | [L12](../L_Genetics_Origins/L12_Lactase_Persistence_Gene_Culture.md) | Gene-culture coevolution comparison |
 

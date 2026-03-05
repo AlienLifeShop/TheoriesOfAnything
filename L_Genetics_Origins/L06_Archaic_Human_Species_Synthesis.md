@@ -391,4 +391,15 @@ The famous "March of Progress" image (Rudolph Zallinger, 1965) — showing a pro
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Green, R.E. et al. "A Draft Sequence of the Neandertal Genome." *Science* 328.5979 (2010): 710–722.
+2. Reich, D. et al. "Genetic History of an Archaic Hominin Group from Denisova Cave in Siberia." *Nature* 468.7327 (2010): 1053–1060.
+3. Krause, J. et al. "The Complete Mitochondrial DNA Genome of an Unknown Hominin from Southern Siberia." *Nature* 464.7290 (2010): 894–897.
+4. Brown, P. et al. "A New Small-Bodied Hominin from the Late Pleistocene of Flores, Indonesia." *Nature* 431.7012 (2004): 1055–1061.
+5. Détroit, F. et al. "A New Species of Homo from the Late Pleistocene of the Philippines." *Nature* 568.7751 (2019): 181–186.
+6. Berger, L.R. et al. "*Homo naledi*, a New Species of the Genus Homo from the Dinaledi Chamber, South Africa." *eLife* 4 (2015): e09560.
+7. Slon, V. et al. "The Genome of the Offspring of a Neanderthal Mother and a Denisovan Father." *Nature* 561.7721 (2018): 113–116.
+8. Huerta-Sánchez, E. et al. "Altitude Adaptation in Tibetans Caused by Introgression of Denisovan-like DNA." *Nature* 512.7513 (2014): 194–197.
+9. Sankararaman, S. et al. "The Genomic Landscape of Neanderthal Ancestry in Present-Day Humans." *Nature* 507.7492 (2014): 354–357.
+10. Pääbo, S. *Neanderthal Man: In Search of Lost Genomes.* New York: Basic Books, 2014.
+11. Zeberg, H. & Pääbo, S. "The Major Genetic Risk Factor for Severe COVID-19 Is Inherited from Neanderthals." *Nature* 587.7835 (2020): 610–612.
+12. Prüfer, K. et al. "The Complete Genome Sequence of a Neanderthal from the Altai Mountains." *Nature* 505.7481 (2014): 43–49.

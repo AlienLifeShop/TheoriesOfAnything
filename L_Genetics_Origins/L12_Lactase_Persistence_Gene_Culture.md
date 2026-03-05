@@ -3,7 +3,7 @@
 > **Document ID:** L12
 > **Section:** L_Genetics_Origins
 > **Keywords:** lactase persistence, lactose intolerance, LCT gene, gene-culture coevolution, pastoralism, dairy farming, positive selection, convergent evolution, ancient DNA, calcium absorption
-> **Cross-References:** [R04](../R_Biology_Evolution/R04_Epigenetics.md) · [L01](../L_Genetics_Origins/L01_Ancient_DNA.md) · [F06](../F_Lost_Connections/F06_Agricultural_Revolution.md) · [R08](../R_Biology_Evolution/R08_Convergent_Evolution.md)
+> **Cross-References:** [R04](../R_Biology_Evolution/R04_Epigenetics_Ancestral_Memory.md) · [L01](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) · [F06](../F_Lost_Connections/F06_Agricultural_Revolution.md) · [R08](../R_Biology_Evolution/R08_Convergent_Evolution_Aquatic_Ape.md)
 > **Reliability Tier:** Tier 1-2 (genetics and selection well-established; selective mechanism still debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** High
 
@@ -128,10 +128,10 @@ Lactase persistence — the ability of adults to digest the milk sugar lactose �
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [R04](../R_Biology_Evolution/R04_Epigenetics.md) | Gene regulation mechanisms in lactase expression |
-| [L01](../L_Genetics_Origins/L01_Ancient_DNA.md) | Ancient DNA tracking allele frequency over time |
+| [R04](../R_Biology_Evolution/R04_Epigenetics_Ancestral_Memory.md) | Gene regulation mechanisms in lactase expression |
+| [L01](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Ancient DNA tracking allele frequency over time |
 | [F06](../F_Lost_Connections/F06_Agricultural_Revolution.md) | Neolithic agricultural revolution enabling dairying |
-| [R08](../R_Biology_Evolution/R08_Convergent_Evolution.md) | Five independent mutations as convergent evolution |
+| [R08](../R_Biology_Evolution/R08_Convergent_Evolution_Aquatic_Ape.md) | Five independent mutations as convergent evolution |
 | [L11](../L_Genetics_Origins/L11_Human_Skin_Color_Evolution.md) | Parallel strong recent selection signal |
 | [L09](../L_Genetics_Origins/L09_FOXP2_Genetics_of_Language.md) | Comparison of selective sweep timelines |
 
