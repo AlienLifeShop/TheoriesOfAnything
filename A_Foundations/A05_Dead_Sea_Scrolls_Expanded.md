@@ -77,7 +77,8 @@ This text parallels the account of Noah's birth in **1 Enoch 106-107** and the *
 This Aramaic retelling expands the story:
 - **Lamech directly accuses his wife Bitenosh** of sleeping with one of the Watchers or Nephilim
 - Bitenosh swears she has not: "Remember my pleasure... the conception was indeed from YOU and not from any stranger, nor from any of the Watchers, nor from any of the Sons of Heaven"
-- The fact that she must specifically deny having sex with WATCHERS confirms that **Watcher-human sexual contact was understood as a real and known occurrence**
+- The fact that she must specifically deny having sex with WATCHERS confirms that **Watcher-human sexual contact was understood as a real and known occurrence** within this literary tradition
+- **Counter-Argument:** Bitenosh's denial reflects the literary and theological anxieties of the Second Temple period about angelic transgressions, not necessarily a historical tradition of actual contact. Many scholars view the Genesis Apocryphon as midrashic expansion — imaginative retelling of canonical material (Fitzmyer 2004).
 
 #### Significance
 
@@ -541,4 +542,13 @@ No source in the research corpus makes claims that would rate as fully TIER 4 / 
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Vermes, Geza. *The Complete Dead Sea Scrolls in English*. Penguin, 1997 (revised 2004).
+2. VanderKam, James C. *The Dead Sea Scrolls Today*. Eerdmans, 1994 (revised 2010).
+3. Martínez, Florentino García & Tigchelaar, Eibert J.C. *The Dead Sea Scrolls Study Edition*. 2 vols. Brill, 1997–1998.
+4. Schiffman, Lawrence H. *Reclaiming the Dead Sea Scrolls*. Jewish Publication Society, 1994.
+5. Wise, Michael, Abegg, Martin & Cook, Edward. *The Dead Sea Scrolls: A New Translation*. HarperSanFrancisco, 1996.
+6. Stuckenbruck, Loren T. *The Book of Giants from Qumran*. Mohr Siebeck, 1997.
+7. Fitzmyer, Joseph A. *The Genesis Apocryphon of Qumran Cave 1*. Pontifical Biblical Institute, 1966 (revised 2004).
+8. Yadin, Yigael. *The Temple Scroll*. 3 vols. Israel Exploration Society, 1983.
+9. Allegro, John M. *The Treasure of the Copper Scroll*. Doubleday, 1960.
+10. Newsom, Carol A. *Songs of the Sabbath Sacrifice: A Critical Edition*. Scholars Press, 1985.

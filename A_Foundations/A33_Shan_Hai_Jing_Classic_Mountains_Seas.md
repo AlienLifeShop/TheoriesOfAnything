@@ -3,7 +3,7 @@
 > **Document ID:** A33
 > **Section:** A_Foundations
 > **Keywords:** Shan Hai Jing, Classic of Mountains and Seas, Chinese mythology, Kunlun, Hundun, Bifang, mythological geography, fantastic creatures, divine mountains, cosmological cartography, Warring States, Han dynasty, Guo Pu, xian, Wu shamanism, zoomorphic beings
-> **Cross-References:** [C12 — Chinese Dragon](../C_Global_Traditions/C12_Chinese_Dragon_Long.md) · [A23 — Tao Te Ching](A23_Tao_Te_Ching_Daoist_Primary_Texts.md) · [B20 — Chimeric Beings](../B_Beings_and_Entities/B20_Chimeric_Beings_Composite_Entities.md) · [C70 — Sacred Mountains](../C_Global_Traditions/C70_Sacred_Mountains_World_Axis.md) · [D33 — Rock Art](../D_Sites_and_Artifacts/D33_Rock_Art_Petroglyphs.md)
+> **Cross-References:** [C12 — Chinese Dragon](../C_Global_Traditions/C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) · [A23 — Tao Te Ching](A23_Tao_Te_Ching_Daoist_Primary_Texts.md) · [B20 — Chimeric Beings](../B_Beings_and_Entities/B20_Chimeric_Beings_Composite_Entities.md) · [C70 — Sacred Mountains](../C_Global_Traditions/C70_Sacred_Mountains_Cosmic_Mountain.md) · [D33 — Rock Art](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md)
 > **Reliability Tier:** Tier 1–3 (authenticated ancient text; content ranges from geographical data to fantastic mythology)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 17 scholarly sources | **Confidence:** Medium-High
 
@@ -152,11 +152,11 @@ The *Shan Hai Jing* (山海經, "Classic of Mountains and Seas") is one of the m
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C12 — Chinese Dragon](../C_Global_Traditions/C12_Chinese_Dragon_Long.md) | Multiple draconic beings described in the text; dragon as cosmic guardian and omen |
+| [C12 — Chinese Dragon](../C_Global_Traditions/C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) | Multiple draconic beings described in the text; dragon as cosmic guardian and omen |
 | [A23 — Tao Te Ching](A23_Tao_Te_Ching_Daoist_Primary_Texts.md) | Hundun/chaos-cosmology parallels; shared pre-Qin Chinese philosophical context |
 | [B20 — Chimeric Beings](../B_Beings_and_Entities/B20_Chimeric_Beings_Composite_Entities.md) | ~450 composite creatures constituting the world's largest ancient chimeric bestiary |
-| [C70 — Sacred Mountains](../C_Global_Traditions/C70_Sacred_Mountains_World_Axis.md) | Kunlun as axis mundi; mountain-deity-ritual complex |
-| [D33 — Rock Art](../D_Sites_and_Artifacts/D33_Rock_Art_Petroglyphs.md) | Possible correlation between depicted creatures and Chinese rock art motifs |
+| [C70 — Sacred Mountains](../C_Global_Traditions/C70_Sacred_Mountains_Cosmic_Mountain.md) | Kunlun as axis mundi; mountain-deity-ritual complex |
+| [D33 — Rock Art](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md) | Possible correlation between depicted creatures and Chinese rock art motifs |
 | [A27 — I Ching](A27_I_Ching_Yijing_Classic_of_Changes.md) | Shared cosmological framework of pre-Qin Chinese intellectual tradition |
 
 ---

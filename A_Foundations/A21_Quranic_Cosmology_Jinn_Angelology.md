@@ -189,13 +189,13 @@ The **Quran** — Islam's primary sacred text (610–632 CE) — presents a rich
 | Document | Connection |
 |----------|------------|
 | [B04 — Solomon and the Jinn](../B_Beings_and_Entities/B04_Solomon_and_the_Jinn.md) | Pre-Islamic and Quranic jinn traditions |
-| [N08 — Sufism](../N_Secret_Societies/N08_Sufi_Orders_Islamic_Mysticism.md) | Sufi mystical interpretation of Quranic cosmology |
-| [C20 — Seven Levels](C20_Seven_Levels_Cosmology.md) | Seven heavens across traditions |
+| [N08 — Sufism](../N_Secret_Societies/N08_Sufi_Orders_Islamic_Esotericism.md) | Sufi mystical interpretation of Quranic cosmology |
+| [C20 — Seven Levels](../C_Global_Traditions/C20_Seven_Level_Cosmology_Seven_Gates.md) | Seven heavens across traditions |
 | [B14 — Angels](../B_Beings_and_Entities/B14_Angels_Celestial_Hierarchies.md) | Comparative angelology |
 | [A16 — Divine Council](A16_Divine_Council_Assembly_of_Gods.md) | Assembly-of-gods concept in Islam |
 | [A02 — Bible Serpent](A02_Bible_Serpent_References.md) | Iblis/Adam story parallels Genesis Fall |
 | [C57 — Sufi Mysticism](../C_Global_Traditions/C57_Sufi_Mysticism_Islamic_Esotericism.md) | Inner cosmological interpretation |
-| [P06 — Theodicy](../P_Philosophy_Meaning/P06_Theodicy_Problem_of_Evil.md) | Islamic approaches to the problem of evil |
+| [P06 — Theodicy](../P_Philosophy_Meaning/P06_Problem_of_Evil_Theodicy.md) | Islamic approaches to the problem of evil |
 
 ---
 

@@ -438,4 +438,14 @@ The Raptor addendum flags philosophical parallels between Hermetic principles an
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Copenhaver, Brian P. *Hermetica: The Greek Corpus Hermeticum and the Latin Asclepius*. Cambridge University Press, 1992.
+2. Fowden, Garth. *The Egyptian Hermes: A Historical Approach to the Late Pagan Mind*. Princeton University Press, 1986.
+3. Yates, Frances A. *Giordano Bruno and the Hermetic Tradition*. University of Chicago Press, 1964.
+4. Bull, Christian H. *The Tradition of Hermes Trismegistus*. Brill, 2018.
+5. Ebeling, Florian. *The Secret History of Hermes Trismegistus*. Cornell University Press, 2007.
+6. Hanegraaff, Wouter J. *Esotericism and the Academy*. Cambridge University Press, 2012.
+7. Principe, Lawrence M. *The Secrets of Alchemy*. University of Chicago Press, 2013.
+8. Newman, William R. *Newton the Alchemist*. Princeton University Press, 2019.
+9. Green, Tamara M. *The City of the Moon God: Religious Traditions of Harran*. Brill, 1992.
+10. Scott, Walter. *Hermetica*. 4 vols. Oxford University Press, 1924–1936.
+11. Keynes, John Maynard. "Newton, the Man." In *Newton Tercentenary Celebrations*. Cambridge University Press, 1947.

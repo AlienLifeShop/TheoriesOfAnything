@@ -48,6 +48,8 @@ Unlike the canonical Gospels (Mark, Matthew, Luke, John), which focus on faith (
 
 **Notable:** The texts were not fully available to scholars for over 30 years after discovery. Compare this to the Dead Sea Scrolls (discovered 1947, restricted access until 1991). [2/5 sources]
 
+**Counter-Argument:** The publication delay is more reasonably attributed to the immense difficulty of conserving, photographing, and translating fragile Coptic papyri than to deliberate suppression. Scholarship on ancient manuscripts routinely takes decades (Williams 1996).
+
 ### 1.3 Complete Codex Inventory [5/5 sources]
 
 #### Codex I (Jung Codex)
@@ -354,6 +356,8 @@ In multiple Nag Hammadi texts, the serpent in Eden is explicitly a **POSITIVE** 
 
 #### Parallels with Sumerian/Mesopotamian Texts [2/5 sources]
 
+**Counter-Argument:** Structural parallels between mythological systems may reflect common human cognitive patterns (archetypes, per Jung) or widespread Near Eastern cultural diffusion rather than a single suppressed tradition. Mainstream scholars note that Gnostic authors were eclectic borrowers who drew on available cultural materials without implying historical continuity (King 2003).
+
 | Gnostic Concept | Mesopotamian Parallel |
 |-----------------|----------------------|
 | Yaldabaoth (flawed creator) | Enlil (oppressive chief god) |
@@ -508,6 +512,7 @@ The Nag Hammadi Library is not the only source of Gnostic texts. Two other major
 - The consistency of the Archon concept across Sethian, Valentinian, and Ophite traditions is cited as evidence of a shared experiential basis
 - The cross-cultural parallels (Sumerian, Hindu, Buddhist) are interpreted as independent confirmations of the same underlying truth
 - **Scholarly caution:** Most academics treat these as mythological frameworks, not empirical descriptions [3/5 sources]
+- **Counter-Argument:** The consistency of Archon-like concepts across cultures is more parsimoniously explained by universal human fear of invisible controlling forces (a cognitive bias well-documented in psychology) than by the actual existence of non-human cosmic administrators.
 
 ---
 
@@ -614,11 +619,15 @@ The Nag Hammadi Library is not the only source of Gnostic texts. Two other major
 
 ## Bibliography
 
-- King. *What Is Gnosticism?*. 2003.
-- Layton. *The Gnostic Scriptures*. 1987.
-- Meyer. *The Gnostic Discoveries: The Impact of the Nag Hammadi Library*. 2005.
-- Pagels. *The Gnostic Gospels*. 1979.
-- Pearson. *Ancient Gnosticism: Traditions and Literature*. 2007.
-- Rudolph. *Gnosis: The Nature and History of Gnosticism*. 1983.
-- Williams. *Rethinking "Gnosticism"*. 1996.
-- Williams. *Rethinking "Gnosticism": An Argument for Dismantling a Dubious Category*. 1996.
+1. Robinson, James M. (ed.). *The Nag Hammadi Library in English*. Harper & Row, 1978 (revised 1988).
+2. Meyer, Marvin (ed.). *The Nag Hammadi Scriptures: The Revised and Updated Translation of Sacred Gnostic Texts*. HarperOne, 2007.
+3. Layton, Bentley. *The Gnostic Scriptures*. Doubleday, 1987.
+4. Pagels, Elaine. *The Gnostic Gospels*. Random House, 1979.
+5. King, Karen L. *What Is Gnosticism?*. Harvard University Press, 2003.
+6. Williams, Michael A. *Rethinking "Gnosticism": An Argument for Dismantling a Dubious Category*. Princeton University Press, 1996.
+7. Pearson, Birger A. *Ancient Gnosticism: Traditions and Literature*. Fortress Press, 2007.
+8. Rudolph, Kurt. *Gnosis: The Nature and History of Gnosticism*. Harper & Row, 1983.
+9. Meyer, Marvin. *The Gnostic Discoveries: The Impact of the Nag Hammadi Library*. HarperSanFrancisco, 2005.
+10. DeConick, April D. *The Thirteenth Apostle: What the Gospel of Judas Really Says*. Continuum, 2007.
+11. Irenaeus of Lyon. *Adversus Haereses* (Against Heresies). c. 180 CE.
+12. Hippolytus of Rome. *Refutatio Omnium Haeresium* (Refutation of All Heresies). c. 220 CE.

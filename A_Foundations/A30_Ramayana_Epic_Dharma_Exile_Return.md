@@ -3,7 +3,7 @@
 > **Document ID:** A30
 > **Section:** A_Foundations
 > **Keywords:** Ramayana, Valmiki, Rama, Sita, Ravana, Hanuman, Lanka, dharma, avatar, pushpaka vimana, exile, Ayodhya, Dasharatha, Lakshmana, Bharata, Vibhishana, Agni Pariksha, flying vehicle, epic poetry, Indian mythology
-> **Cross-References:** [A11 — Mahabharata](A11_Mahabharata.md) · [A24 — Bhagavata Purana](A24_Bhagavata_Purana_Naga_Avatar.md) · [J02 — Vimanas](../J_Ancient_Technology/J02_Vimanas_Flying_Vehicles.md) · [C54 — Hero's Journey](../C_Global_Traditions/C54_Hero_Journey_Monomyth.md) · [B20 — Chimeric Beings](../B_Beings_and_Entities/B20_Chimeric_Beings_Composite_Entities.md)
+> **Cross-References:** [A11 — Mahabharata](A11_Mahabharata.md) · [A24 — Bhagavata Purana](A24_Bhagavata_Purana_Naga_Avatar.md) · [J02 — Vimanas](../J_Ancient_Technology/J02_Vimanas_Ancient_Flying_Vehicles.md) · [C54 — Hero's Journey](../C_Global_Traditions/C54_Heros_Journey_Monomyth.md) · [B20 — Chimeric Beings](../B_Beings_and_Entities/B20_Chimeric_Beings_Composite_Entities.md)
 > **Reliability Tier:** Tier 1–2 (primary literary text with extensive manuscript tradition; historical kernel debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** High
 
@@ -157,8 +157,8 @@ The *Ramayana* (रामायण, "Rama's Journey") is one of the two great Sa
 |-------------|-----------|
 | [A11 — Mahabharata](A11_Mahabharata.md) | Sister epic; shared cosmological framework, divine weapons (astras), dharmic kingship themes |
 | [A24 — Bhagavata Purana](A24_Bhagavata_Purana_Naga_Avatar.md) | Rama as the 7th avatar of Vishnu in the Dashavatara framework |
-| [J02 — Vimanas](../J_Ancient_Technology/J02_Vimanas_Flying_Vehicles.md) | Pushpaka vimana as the most detailed ancient flying vehicle description |
-| [C54 — Hero's Journey](../C_Global_Traditions/C54_Hero_Journey_Monomyth.md) | Rama's exile-quest-return as a paradigmatic monomyth structure |
+| [J02 — Vimanas](../J_Ancient_Technology/J02_Vimanas_Ancient_Flying_Vehicles.md) | Pushpaka vimana as the most detailed ancient flying vehicle description |
+| [C54 — Hero's Journey](../C_Global_Traditions/C54_Heros_Journey_Monomyth.md) | Rama's exile-quest-return as a paradigmatic monomyth structure |
 | [B20 — Chimeric Beings](../B_Beings_and_Entities/B20_Chimeric_Beings_Composite_Entities.md) | Vanaras, rakshasas, and Ravana's composite form as chimeric entity traditions |
 | [A28 — Upanishads](A28_Upanishads_Core_Vedantic_Philosophy.md) | Philosophical substrate underlying the Ramayana's dharmic framework |
 

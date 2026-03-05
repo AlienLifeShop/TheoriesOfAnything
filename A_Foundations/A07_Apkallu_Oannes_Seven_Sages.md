@@ -390,4 +390,12 @@ Sumerian proverb: *"Since the flood swept over, since the sages were taken away,
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Annus, Amar. "On the Origin of Watchers: A Comparative Study of the Antediluvian Wisdom in Mesopotamian and Jewish Traditions." *Journal of Semitic Studies* 55.2 (2010): 277–320.
+2. Wiggermann, F.A.M. *Mesopotamian Protective Spirits: The Ritual Texts*. Brill, 1992.
+3. Kvanvig, Helge. *Primeval History: Babylonian, Biblical, and Enochic*. Brill, 2011.
+4. Reiner, Erica. "The Etiological Myth of the 'Seven Sages.'" *Orientalia* 30 (1961): 1–11.
+5. Lambert, W.G. "Ancestors, Authors, and Canonicity." *Journal of Cuneiform Studies* 11 (1957): 1–14.
+6. Dalley, Stephanie. *Myths from Mesopotamia*. Revised ed., Oxford World's Classics, 2000.
+7. Kramer, Samuel Noah. *The Sumerians: Their History, Culture, and Character*. University of Chicago Press, 1963.
+8. Izre'el, Shlomo. *Adapa and the South Wind*. Eisenbrauns, 2001.
+9. Cagni, Luigi. *L'Epopea di Erra*. Istituto di Studi del Vicino Oriente, 1969.

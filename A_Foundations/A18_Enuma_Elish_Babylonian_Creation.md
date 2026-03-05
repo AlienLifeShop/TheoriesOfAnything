@@ -167,7 +167,7 @@ The Enuma Elish's central motif — the storm god defeating the chaos dragon —
 | [A01 — Sumerian Texts](A01_Sumerian_Texts_and_Tablets.md) | Earlier Sumerian creation traditions (Eridu Genesis, Atrahasis) |
 | [A02 — Bible Serpent](A02_Bible_Serpent_References.md) | Genesis 1 parallels; *tehom/Tiamat* connection; Leviathan |
 | [C56 — Storm God Pattern](../C_Global_Traditions/C56_Storm_God_Pattern.md) | Chaoskampf as universal IE-Semitic pattern |
-| [H06 — Demonization](../H_Suppression_and_Thesis/H06_Serpent_Demonization_Timeline.md) | Tiamat as demonized primordial feminine |
+| [H06 — Demonization](../H_Suppression_and_Thesis/H06_Demonization_Timeline.md) | Tiamat as demonized primordial feminine |
 | [A17 — Ugaritic/Baal Cycle](A17_Ugaritic_Literature_Baal_Cycle.md) | Baal vs. Yam parallels Marduk vs. Tiamat |
 | [C58 — Hittite Mythology](../C_Global_Traditions/C58_Hittite_Hurrian_Mythology_Kumarbi.md) | Kumarbi cycle as parallel theogony |
 | [A16 — Divine Council](A16_Divine_Council_Assembly_of_Gods.md) | Divine assembly grants Marduk kingship |

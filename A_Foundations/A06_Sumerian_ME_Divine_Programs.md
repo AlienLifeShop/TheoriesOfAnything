@@ -12,6 +12,8 @@ In Sumerian mythology, the **ME** (pronounced "may," 𒈨) are divine decrees, p
 
 The concept of "abstract properties" that can be physically carried, loaded onto a boat, and installed in a city parallels the idea of **"Civilizational Uploads"** — if civilization was "given" by non-humans, the ME represent the specific modules of knowledge transferred. [1/4 sources — Gemini]
 
+**Counter-Argument:** Mainstream Assyriology interprets the ME as a Sumerian literary device for expressing how civilizational norms and institutions are divinely sanctioned — a theological claim about the cosmic order, not a description of literal technology transfer. The "physical carrying" of abstract concepts is standard mythological concretization, attested across many cultures (Black et al. 2004).
+
 ---
 
 ## 1. VERIFIED CLAIMS (Tier 1)
@@ -374,4 +376,11 @@ No Tier 4 claims were advanced by any of the four sources for this topic. All so
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Kramer, Samuel Noah. *Sumerian Mythology: A Study of Spiritual and Literary Achievement in the Third Millennium B.C.*. University of Pennsylvania Press, 1944 (revised 1961).
+2. Kramer, Samuel Noah & Wolkstein, Diane. *Inanna, Queen of Heaven and Earth: Her Stories and Hymns from Sumer*. Harper & Row, 1983.
+3. Farber, Gertrud. "me." *Reallexikon der Assyriologie* 7 (1987–1990): 610–613.
+4. Black, Jeremy A. et al. *The Literature of Ancient Sumer*. Oxford University Press, 2004.
+5. Vanstiphout, Herman L.J. *Epics of Sumerian Kings: The Matter of Aratta*. Society of Biblical Literature, 2003.
+6. *Electronic Text Corpus of Sumerian Literature (ETCSL)*. Oxford University, 1998–2006. http://etcsl.orinst.ox.ac.uk/
+7. Annus, Amar. "On the Origin of Watchers: A Comparative Study of the Antediluvian Wisdom in Mesopotamian and Jewish Traditions." *Journal of the Study of the Pseudepigrapha* 19.4 (2010): 277–320.
+8. Halloran, John A. *Sumerian Lexicon*. Logogram Publishing, 2006.

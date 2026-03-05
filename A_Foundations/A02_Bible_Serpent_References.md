@@ -475,4 +475,10 @@ Multiple serpent-positive traditions worldwide suggest a pre-demonization substr
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. von Rad, Gerhard. *Genesis: A Commentary*. Westminster John Knox Press, 1972.
+2. Kelly, Henry A. *Satan: A Biography*. Cambridge University Press, 2006.
+3. Keil, C.F. & Delitzsch, F. *Commentary on the Old Testament*. Hendrickson Publishers, 1996 (reprint).
+4. Brown, F., Driver, S.R. & Briggs, C.A. *A Hebrew and English Lexicon of the Old Testament*. Oxford University Press, 1907.
+5. Berlin, Adele & Brettler, Marc Zvi (eds.). *The Jewish Study Bible*. 2nd ed., Oxford University Press, 2014.
+6. Irenaeus of Lyon. *Against Heresies (Adversus Haereses)*. c. 180 CE.
+7. Robinson, James M. (ed.). *The Nag Hammadi Library in English*. 3rd revised ed., HarperSanFrancisco, 1990.

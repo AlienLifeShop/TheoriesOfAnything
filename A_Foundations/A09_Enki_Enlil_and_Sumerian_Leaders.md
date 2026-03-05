@@ -374,4 +374,12 @@ The geographic polarity of Enki's Eridu (south, coastal, ancient) and Enlil's Ni
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Jacobsen, Thorkild. *The Treasures of Darkness: A History of Mesopotamian Religion*. Yale University Press, 1976.
+2. Lambert, W.G. & Millard, A.R. *Atra-Hasis: The Babylonian Story of the Flood*. Oxford University Press, 1969.
+3. Lambert, W.G. *Babylonian Creation Myths*. Eisenbrauns, 2013.
+4. Kramer, Samuel Noah. *History Begins at Sumer*. University of Pennsylvania Press, 1956.
+5. Black, Jeremy & Green, Anthony. *Gods, Demons and Symbols of Ancient Mesopotamia*. British Museum Press, 1992.
+6. Dalley, Stephanie. *Myths from Mesopotamia*. Revised ed., Oxford World's Classics, 2000.
+7. Bottéro, Jean. *Mesopotamia: Writing, Reasoning, and the Gods*. University of Chicago Press, 1992.
+8. *Electronic Text Corpus of Sumerian Literature (ETCSL)*. University of Oxford, 1998–2006.
+9. Tinney, Steve et al. *Open Richly Annotated Cuneiform Corpus (ORACC)* [Digital Archive]. University of Pennsylvania, 2010. https://oracc.museum.upenn.edu/

@@ -3,7 +3,7 @@
 > **Document ID:** A31
 > **Section:** A_Foundations
 > **Keywords:** Gilgamesh, Enkidu, Uruk, Utnapishtim, flood narrative, immortality, Plant of Youth, serpent, Cedar Forest, Humbaba, Ishtar, underworld, Tablet XII, Sumerian, Akkadian, Nineveh, Ashurbanipal, epic poetry, friendship, mortality
-> **Cross-References:** [A01 — Sumerian Texts](A01_Sumerian_Texts_and_Tablets.md) · [C02 — Global Flood Stories](../C_Global_Traditions/C02_Global_Flood_Stories.md) · [A18 — Enuma Elish](A18_Enuma_Elish_Babylonian_Creation.md) · [R22 — Aging/Longevity](../R_Biology_Evolution/R22_Aging_Longevity_Biological_Limits.md) · [C25 — Orpheus Descent](../C_Global_Traditions/C25_Orpheus_Underworld_Descent_Myths.md)
+> **Cross-References:** [A01 — Sumerian Texts](A01_Sumerian_Texts_and_Tablets.md) · [C02 — Global Flood Stories](../C_Global_Traditions/C02_Global_Flood_Stories.md) · [A18 — Enuma Elish](A18_Enuma_Elish_Babylonian_Creation.md) · [R22 — Aging/Longevity](../R_Biology_Evolution/R22_Aging_Longevity_Biology_of_Death.md) · [C25 — Orpheus Descent](../C_Global_Traditions/C25_Orpheus_Descent_Underworld_Archetype.md)
 > **Reliability Tier:** Tier 1 (archaeologically recovered primary text with extensive scholarly apparatus)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High
 
@@ -169,8 +169,8 @@ The *Epic of Gilgamesh* is humanity's oldest surviving work of literature, with 
 | [A01 — Sumerian Texts](A01_Sumerian_Texts_and_Tablets.md) | Gilgamesh originates as Sumerian Bilgames poems; foundational Mesopotamian textual tradition |
 | [C02 — Global Flood Stories](../C_Global_Traditions/C02_Global_Flood_Stories.md) | Tablet XI flood narrative as the oldest detailed flood account; comparative mythology |
 | [A18 — Enuma Elish](A18_Enuma_Elish_Babylonian_Creation.md) | Shared Mesopotamian cosmological and theological framework |
-| [R22 — Aging/Longevity](../R_Biology_Evolution/R22_Aging_Longevity_Biological_Limits.md) | The Plant of Youth and the quest for immortality; serpent-rejuvenation motif |
-| [C25 — Orpheus Descent](../C_Global_Traditions/C25_Orpheus_Underworld_Descent_Myths.md) | Tablet XII descent narrative; cross-cultural underworld journey motif |
+| [R22 — Aging/Longevity](../R_Biology_Evolution/R22_Aging_Longevity_Biology_of_Death.md) | The Plant of Youth and the quest for immortality; serpent-rejuvenation motif |
+| [C25 — Orpheus Descent](../C_Global_Traditions/C25_Orpheus_Descent_Underworld_Archetype.md) | Tablet XII descent narrative; cross-cultural underworld journey motif |
 | [A02 — Bible Serpent References](A02_Bible_Serpent_References.md) | Serpent-immortality connection paralleling the Genesis serpent |
 | [B07 — Ancient Rulers' Lifespans](../B_Beings_and_Entities/B07_Ancient_Rulers_Lifespans.md) | Gilgamesh's 126-year reign in the Sumerian King List |
 

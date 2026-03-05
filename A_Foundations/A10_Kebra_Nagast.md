@@ -86,7 +86,7 @@ The Kebra Nagast ("Glory of Kings") is a 14th-century CE Ethiopian text — writ
 ### 2.1 Judaic Practices in Ethiopia [3/5 sources]
 - **The Beta Israel (Ethiopian Jews):**
   - Community of Ethiopian Jews who practiced a form of Judaism that included animal sacrifice, ritual purity laws, and Sabbath observance — but did NOT have the Talmud (suggesting separation from mainstream Judaism BEFORE the Talmudic period, i.e., before ~200 CE)
-  - DNA studies show the Beta Israel are genetically similar to other Ethiopian populations — suggesting local conversion rather than descent from Israelite migrants (though this remains debated)
+  - DNA studies by Behar et al. (2008) show the Beta Israel are genetically similar to other Ethiopian populations — suggesting local conversion rather than descent from Israelite migrants (though this remains debated)
   - ~85,000 Beta Israel were airlifted to Israel in Operation Moses (1984) and Operation Solomon (1991)
 - **Broader Judaic practices in Ethiopian Christianity:**
   - Dietary laws similar to Levitical kosher rules

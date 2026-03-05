@@ -3,7 +3,7 @@
 > **Document ID:** A29
 > **Section:** A_Foundations
 > **Keywords:** Pali Canon, Tipitaka, Tripitaka, Sutta Pitaka, Vinaya Pitaka, Abhidhamma, Theravada, Dhammapada, Four Noble Truths, Eightfold Path, Dependent Origination, anatta, no-self, Jataka, nibbana, Buddha, Siddhartha Gautama, mindfulness, vipassana
-> **Cross-References:** [P21 — Buddhist Philosophy](../P_Philosophy_Meaning/P21_Buddhist_Philosophy_Emptiness.md) · [C39 — Tibetan Buddhism](../C_Global_Traditions/C39_Tibetan_Buddhism_Bon.md) · [C89 — Jain Cosmology](../C_Global_Traditions/C89_Jain_Cosmology_Ahimsa.md) · [A28 — Upanishads](A28_Upanishads_Core_Vedantic_Philosophy.md) · [K08 — Meditation](../K_Consciousness/K08_Meditation_Neuroplasticity.md)
+> **Cross-References:** [P21 — Buddhist Philosophy](../P_Philosophy_Meaning/P21_Buddhist_Philosophy_Dependent_Origination.md) · [C39 — Tibetan Buddhism](../C_Global_Traditions/C39_Tibetan_Buddhism_Bon_Terma.md) · [C89 — Jain Cosmology](../C_Global_Traditions/C89_Jain_Cosmology_Nonviolence.md) · [A28 — Upanishads](A28_Upanishads_Core_Vedantic_Philosophy.md) · [K08 — Meditation](../K_Consciousness/K08_Meditation_Neuroplasticity.md)
 > **Reliability Tier:** Tier 1–2 (well-preserved primary texts; historicity of specific discourses debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 19 scholarly sources | **Confidence:** High
 
@@ -164,12 +164,12 @@ The Pali Canon (*Tipiṭaka*, "Three Baskets") is the oldest complete collection
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [P21 — Buddhist Philosophy](../P_Philosophy_Meaning/P21_Buddhist_Philosophy_Emptiness.md) | Full treatment of Buddhist philosophy including Mahayana/Madhyamaka/Yogacara developments beyond the Pali Canon |
-| [C39 — Tibetan Buddhism](../C_Global_Traditions/C39_Tibetan_Buddhism_Bon.md) | Tibetan Buddhist canon (Kangyur/Tengyur) as parallel textual tradition with Mahayana and Vajrayana additions |
-| [C89 — Jain Cosmology](../C_Global_Traditions/C89_Jain_Cosmology_Ahimsa.md) | Contemporary shramana tradition sharing similar renunciant worldview; contrast on self (jiva) doctrine |
+| [P21 — Buddhist Philosophy](../P_Philosophy_Meaning/P21_Buddhist_Philosophy_Dependent_Origination.md) | Full treatment of Buddhist philosophy including Mahayana/Madhyamaka/Yogacara developments beyond the Pali Canon |
+| [C39 — Tibetan Buddhism](../C_Global_Traditions/C39_Tibetan_Buddhism_Bon_Terma.md) | Tibetan Buddhist canon (Kangyur/Tengyur) as parallel textual tradition with Mahayana and Vajrayana additions |
+| [C89 — Jain Cosmology](../C_Global_Traditions/C89_Jain_Cosmology_Nonviolence.md) | Contemporary shramana tradition sharing similar renunciant worldview; contrast on self (jiva) doctrine |
 | [A28 — Upanishads](A28_Upanishads_Core_Vedantic_Philosophy.md) | Direct philosophical ancestor/interlocutor; anatta vs. Atman as the defining divergence |
 | [K08 — Meditation](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Pali Canon as the oldest systematic meditation manual; satipatthana (mindfulness) practices |
-| [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Ages.md) | Buddhist cosmology of world-cycles (kappa) and periodic destruction/renewal |
+| [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) | Buddhist cosmology of world-cycles (kappa) and periodic destruction/renewal |
 
 ---
 *Consolidated from 19 sources. Last Updated: Feb 28, 2026*

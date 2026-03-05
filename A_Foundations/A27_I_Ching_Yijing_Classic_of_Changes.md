@@ -3,7 +3,7 @@
 > **Document ID:** A27
 > **Section:** A_Foundations
 > **Keywords:** I Ching, Yijing, Classic of Changes, hexagrams, trigrams, yin-yang, binary system, Leibniz, King Wen, Duke of Zhou, Fu Xi, yarrow stalk, divination, oracle bones, Shang dynasty, cosmology, sinology
-> **Cross-References:** [A23 — Tao Te Ching](A23_Tao_Te_Ching_Daoist_Primary_Texts.md) · [C32 — Daoism/Chinese Alchemy](../C_Global_Traditions/C32_Daoism_Chinese_Alchemy.md) · [D10 — Sacred Geometry](../D_Sites_and_Artifacts/D10_Sacred_Geometry_Ancient_World.md) · [P04 — Mathematics and Philosophy](../P_Philosophy_Meaning/P04_Mathematics_Philosophy_Ontology.md)
+> **Cross-References:** [A23 — Tao Te Ching](A23_Tao_Te_Ching_Daoist_Primary_Texts.md) · [C32 — Daoism/Chinese Alchemy](../C_Global_Traditions/C32_Daoism_Chinese_Alchemy.md) · [D10 — Sacred Geometry](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [P04 — Mathematics and Philosophy](../P_Philosophy_Meaning/P04_Mathematics_Discovered_Invented.md)
 > **Reliability Tier:** Tier 1–2 (primary text with archaeological verification; interpretive traditions debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** High
 
@@ -165,10 +165,10 @@ The *I Ching* (易經, *Yìjīng*, "Classic of Changes") is one of the oldest co
 |-------------|-----------|
 | [A23 — Tao Te Ching](A23_Tao_Te_Ching_Daoist_Primary_Texts.md) | Shared cosmological framework; yin-yang and wu wei principles; both foundational Chinese philosophical texts |
 | [C32 — Daoism/Chinese Alchemy](../C_Global_Traditions/C32_Daoism_Chinese_Alchemy.md) | Yijing trigram/hexagram cosmology integrated into Daoist alchemical practice and ritual |
-| [D10 — Sacred Geometry](../D_Sites_and_Artifacts/D10_Sacred_Geometry_Ancient_World.md) | Binary/geometric structure of hexagram system; bagua spatial arrangement |
-| [P04 — Mathematics and Philosophy](../P_Philosophy_Meaning/P04_Mathematics_Philosophy_Ontology.md) | Leibniz binary connection; mathematical structure of the hexagram system |
+| [D10 — Sacred Geometry](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Binary/geometric structure of hexagram system; bagua spatial arrangement |
+| [P04 — Mathematics and Philosophy](../P_Philosophy_Meaning/P04_Mathematics_Discovered_Invented.md) | Leibniz binary connection; mathematical structure of the hexagram system |
 | [A33 — Shan Hai Jing](A33_Shan_Hai_Jing_Classic_Mountains_Seas.md) | Contemporary Chinese mythological/cosmological text tradition |
-| [P15 — Divination Systems](../P_Philosophy_Meaning/P15_Divination_Oracles_Prophecy.md) | I Ching as the world's most systematized divination framework |
+| [P15 — Divination Systems](../P_Philosophy_Meaning/P15_Prophecy_Divination_Oracular.md) | I Ching as the world's most systematized divination framework |
 
 ---
 *Consolidated from 18 sources. Last Updated: Feb 28, 2026*

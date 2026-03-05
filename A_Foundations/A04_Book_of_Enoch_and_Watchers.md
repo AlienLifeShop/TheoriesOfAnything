@@ -62,6 +62,8 @@ The Book of Enoch (1 Enoch) is one of the most detailed ancient texts describing
 
 **Key Pattern:** The teachings cluster into three categories — **warfare technology** (metallurgy, weapons), **cosmetic/vanity arts** (cosmetics, dyeing, mirrors), and **cosmic knowledge** (astrology, constellations, celestial cycles). This mirrors the Sumerian tradition of the **Apkallu** (Seven Sages) who brought civilization arts to humanity. **[4/5 sources]**
 
+**Counter-Argument:** Mainstream scholars (Nickelsburg 2001, VanderKam 1984) interpret the Watcher narrative as a Jewish theodicy — an explanation for the origin of evil using the popular literary motif of transgressive divine beings. The specific "teachings" reflect anxieties about Hellenistic cultural influence on Jewish society (cosmetics, astrology, weapons) rather than historical memory of non-human technology transfer.
+
 #### The Nephilim (Chapters 7–8)
 
 **[5/5 sources]**
@@ -73,6 +75,7 @@ The Book of Enoch (1 Enoch) is one of the most detailed ancient texts describing
 - They also consume animals and drink blood
 - "And there was great godlessness upon the earth, and it was made desolate"
 - The "corruption of all flesh" may imply genetic hybridization beyond just physical giantism **[2/5 sources]**
+- **Counter-Argument:** The phrase "corruption of all flesh" in Jewish Second Temple literature more likely refers to moral/ritual corruption than biological hybridization. The Nephilim narrative functions as an etiology for the pre-Flood world's wickedness, not as a literal genetic account (Stuckenbruck 2007).
 
 #### The Divine Response (Chapters 9–16)
 
@@ -523,5 +526,11 @@ Mainstream scholarship favors option 1. The alternative research tradition explo
 
 ## Bibliography
 
-- Boccaccini. *Beyond the Essene Hypothesis: The Parting of the Ways between Qumran and Enochic Judaism*. 1998.
-- Kam. *Enoch and the Growth of an Apocalyptic Tradition*. 1984.
+1. Charles, R.H. *The Book of Enoch* (translation and commentary). Clarendon Press, 1912.
+2. Nickelsburg, George W.E. *1 Enoch: A Commentary on the Book of 1 Enoch*. Hermeneia series, Fortress Press, 2001.
+3. Knibb, Michael A. *The Ethiopic Book of Enoch: A New Edition in the Light of the Aramaic Dead Sea Fragments*. Clarendon Press, 1978.
+4. VanderKam, James C. *Enoch and the Growth of an Apocalyptic Tradition*. Catholic Biblical Association, 1984.
+5. Boccaccini, Gabriele. *Beyond the Essene Hypothesis: The Parting of the Ways between Qumran and Enochic Judaism*. Eerdmans, 1998.
+6. Stuckenbruck, Loren T. *1 Enoch 91–108*. Commentaries on Early Jewish Literature, de Gruyter, 2007.
+7. Budge, E.A. Wallis (trans.). *The Kebra Nagast*. Oxford University Press, 1922.
+8. Milik, J.T. *The Books of Enoch: Aramaic Fragments of Qumran Cave 4*. Clarendon Press, 1976.

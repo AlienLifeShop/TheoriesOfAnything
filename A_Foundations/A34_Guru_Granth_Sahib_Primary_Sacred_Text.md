@@ -3,7 +3,7 @@
 > **Document ID:** A34
 > **Section:** A_Foundations
 > **Keywords:** Guru Granth Sahib, Adi Granth, Sikhism, Guru Nanak, Guru Arjan, Guru Gobind Singh, Mul Mantar, waheguru, raga, kirtan, Bhagat Bani, Nam, hukam, ik onkar, divine unity, social equality, interfaith, Punjab, Gurmukhi script
-> **Cross-References:** [C90 — Sikh Tradition](../C_Global_Traditions/C90_Sikh_Tradition_Khalsa.md) · [P10 — Perennial Philosophy](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) · [A28 — Upanishads](A28_Upanishads_Core_Vedantic_Philosophy.md) · [U04 — Sacred Music](../U_Art_Music_Culture/U04_Sacred_Music_Frequencies.md)
+> **Cross-References:** [C90 — Sikh Tradition](../C_Global_Traditions/C90_Sikh_Tradition_Guru_Nanak.md) · [P10 — Perennial Philosophy](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) · [A28 — Upanishads](A28_Upanishads_Core_Vedantic_Philosophy.md) · [U04 — Sacred Music](../U_Art_Music_Culture/U04_Sacred_Music_Chant_Raga_Acoustic_Theology.md)
 > **Reliability Tier:** Tier 1 (well-preserved primary text with documented editorial history and authenticated manuscript tradition)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 16 scholarly sources | **Confidence:** High
 
@@ -171,10 +171,10 @@ The *Guru Granth Sahib* (ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ) is the ce
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C90 — Sikh Tradition](../C_Global_Traditions/C90_Sikh_Tradition_Khalsa.md) | Broader Sikh historical, institutional, and political development beyond the scriptural text |
+| [C90 — Sikh Tradition](../C_Global_Traditions/C90_Sikh_Tradition_Guru_Nanak.md) | Broader Sikh historical, institutional, and political development beyond the scriptural text |
 | [P10 — Perennial Philosophy](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) | Multi-faith composition as evidence of experiential convergence across traditions |
 | [A28 — Upanishads](A28_Upanishads_Core_Vedantic_Philosophy.md) | Vedantic philosophical substrate; Brahman-Atman concepts adapted into Sikh theology of Ik Onkar |
-| [U04 — Sacred Music](../U_Art_Music_Culture/U04_Sacred_Music_Frequencies.md) | 31-raga organization as the most extensive musical structuring of a sacred text |
+| [U04 — Sacred Music](../U_Art_Music_Culture/U04_Sacred_Music_Chant_Raga_Acoustic_Theology.md) | 31-raga organization as the most extensive musical structuring of a sacred text |
 | [A21 — Quranic Cosmology](A21_Quranic_Cosmology_Jinn_Angelology.md) | Sufi Islamic influence through Bhagat Farid; Islamic concept of tawhid paralleling Ik Onkar |
 | [K08 — Meditation](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Nam Simran practice and its contemplative parallels across traditions |
 

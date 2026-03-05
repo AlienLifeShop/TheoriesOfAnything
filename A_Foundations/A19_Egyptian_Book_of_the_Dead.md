@@ -193,14 +193,14 @@ Egyptian anthropology recognized **five (or more) elements** of the person:
 | Document | Connection |
 |----------|------------|
 | [A14 — Pyramid Texts](A14_Pyramid_Texts.md) | Predecessor tradition — Old Kingdom royal afterlife |
-| [P07 — Death and Afterlife](../P_Philosophy_Meaning/P07_Death_Afterlife_Concepts.md) | Egyptian afterlife in comparative context |
-| [N07 — Orphic/Mystery Tablets](../N_Secret_Societies/N07_Orphic_Mystery_Tablets.md) | Greek funerary "passports" — parallel concept |
-| [C25 — Descent Mythology](../C_Global_Traditions/C25_Descent_Mythology.md) | Journey through the underworld |
+| [P07 — Death and Afterlife](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) | Egyptian afterlife in comparative context |
+| [N07 — Orphic/Mystery Tablets](../N_Secret_Societies/N07_Orphic_Tradition_Gold_Tablets.md) | Greek funerary "passports" — parallel concept |
+| [C25 — Descent Mythology](../C_Global_Traditions/C25_Orpheus_Descent_Underworld_Archetype.md) | Journey through the underworld |
 | [B08 — Wadjet](../B_Beings_and_Entities/B08_Wadjet_Cobra_Goddess.md) | Protective serpent deity in funerary context |
-| [B15 — Psychopomp Traditions](../B_Beings_and_Entities/B15_Psychopomp_Traditions.md) | Anubis as guide of the dead |
-| [D02 — Pyramid Survey](../D_Sites_and_Artifacts/D02_Pyramid_Survey.md) | Funerary architecture context |
+| [B15 — Psychopomp Traditions](../B_Beings_and_Entities/B15_Psychopomp_Traditions_Guides_Dead.md) | Anubis as guide of the dead |
+| [D02 — Pyramid Survey](../D_Sites_and_Artifacts/D02_Pyramids_Worldwide.md) | Funerary architecture context |
 | [C65 — Death Rituals](../C_Global_Traditions/C65_Death_Rituals_Funerary_Architecture.md) | Mummification and Egyptian funeral practice |
-| [C39 — Tibetan Traditions](../C_Global_Traditions/C39_Tibetan_Bon_Buddhist_Cosmology.md) | Bardo Thodol parallel — another "guidebook for the dead" |
+| [C39 — Tibetan Traditions](../C_Global_Traditions/C39_Tibetan_Buddhism_Bon_Terma.md) | Bardo Thodol parallel — another "guidebook for the dead" |
 
 ---
 

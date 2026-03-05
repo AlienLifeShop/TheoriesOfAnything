@@ -231,15 +231,15 @@ The Rig Veda provides unique data on:
 | Document | Connection |
 |----------|------------|
 | [A11 — Mahabharata](A11_Mahabharata.md) | Later Indian epic tradition rooted in Vedic worldview |
-| [C11 — Indian Naga Traditions](../C_Global_Traditions/C11_Indian_Naga_Traditions.md) | Serpent beings in Vedic and post-Vedic context |
-| [K02 — Psychedelics](../K_Consciousness/K02_Psychedelics_Sacred_Plants.md) | Soma identification debate |
-| [E14 — Kali Yuga](../E_Cataclysms_and_Chronology/E14_Kali_Yuga.md) | Vedic/Hindu cyclical time framework |
-| [Q03 — Cosmologies](../Q_Cosmology_Physics/Q03_Comparative_Cosmologies.md) | Nasadiya Sukta as cosmological statement |
+| [C11 — Indian Naga Traditions](../C_Global_Traditions/C11_India_Naga_Traditions.md) | Serpent beings in Vedic and post-Vedic context |
+| [K02 — Psychedelics](../K_Consciousness/K02_Altered_States_Psychedelics.md) | Soma identification debate |
+| [E14 — Kali Yuga](../E_Cataclysms_and_Chronology/E14_Kali_Yuga_World_Ages_Mathematics.md) | Vedic/Hindu cyclical time framework |
+| [Q03 — Cosmologies](../Q_Cosmology_Physics/Q03_Ancient_Cosmologies_Compared.md) | Nasadiya Sukta as cosmological statement |
 | [C56 — Storm God Pattern](../C_Global_Traditions/C56_Storm_God_Pattern.md) | Indra vs. Vritra — IE storm-god paradigm |
 | [C55 — Twin Mythology](../C_Global_Traditions/C55_Twin_Mythology_Duality.md) | Ashvins, Yama/Yami |
 | [C53 — Sacred Trees](../C_Global_Traditions/C53_Sacred_Trees_Axis_Mundi.md) | Ashvattha as inverted world tree |
 | [C52 — Harappan](../C_Global_Traditions/C52_Harappan_Indus_Valley_Civilization.md) | Vedic Aryans and Indus Valley relationship |
-| [L02 — Ancient DNA](../L_Genetics_Origins/L02_Ancient_DNA_Migration.md) | Steppe migration into South Asia |
+| [L02 — Ancient DNA](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Steppe migration into South Asia |
 
 ---
 

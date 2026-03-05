@@ -441,4 +441,14 @@ No non-duplicate additions were found in this pass for: Kish tablet Sumerian, Ni
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Kramer, Samuel Noah. *The Sumerians: Their History, Culture, and Character*. University of Chicago Press, 1963.
+2. Jacobsen, Thorkild. *The Harps that Once…: Sumerian Poetry in Translation*. Yale University Press, 1987.
+3. Heidel, Alexander. *The Babylonian Genesis*. University of Chicago Press, 1951.
+4. Heidel, Alexander. *The Gilgamesh Epic and Old Testament Parallels*. University of Chicago Press, 1949.
+5. Lambert, W.G. *Babylonian Creation Myths*. Eisenbrauns, 2013.
+6. Foster, Benjamin R. *Before the Muses: An Anthology of Akkadian Literature*. 3rd ed., CDL Press, 2005.
+7. Dalley, Stephanie. *Myths from Mesopotamia*. Revised ed., Oxford World's Classics, 2000.
+8. *Electronic Text Corpus of Sumerian Literature (ETCSL)*. University of Oxford, 1998–2006. http://etcsl.orinst.ox.ac.uk/
+9. Englund, Robert K. et al. *Cuneiform Digital Library Initiative (CDLI)* [Digital Archive]. UCLA, 2000. https://cdli.earth/
+10. Heiser, Michael S. *SitchinIsWrong.com*. n.d. https://sitchiniswrong.com/
+11. Fritze, Ronald H. *Invented Knowledge: False History, Fake Science and Pseudo-Religions*. Reaktion Books, 2009.

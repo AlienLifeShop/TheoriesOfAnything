@@ -440,7 +440,9 @@ This document draws on some of the most robust and well-established scholarship 
 
 ## Bibliography
 
-- Cross. *Canaanite Myth and Hebrew Epic: Essays in the History of the Religion of Israel*. 1973.
-- Pardee. *Ritual and Cult at Ugarit*. 2002.
-- Pitard. *The Ugaritic Baal Cycle, Vols. I–II*. 1994.
-- Wyatt. *Religious Texts from Ugarit*. 2002.
+1. Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. 2nd ed., Eerdmans, 2002.
+2. Smith, Mark S. & Pitard, Wayne T. *The Ugaritic Baal Cycle*. Vols. I–II. Brill, 1994 & 2009.
+3. Cross, Frank Moore. *Canaanite Myth and Hebrew Epic: Essays in the History of the Religion of Israel*. Harvard University Press, 1973.
+4. Pardee, Dennis. *Ritual and Cult at Ugarit*. Society of Biblical Literature, 2002.
+5. Wyatt, Nicolas. *Religious Texts from Ugarit*. Sheffield Academic Press, 2002.
+6. Schaeffer, Claude F.-A. *The Cuneiform Texts of Ras Shamra-Ugarit*. Oxford University Press, 1939.

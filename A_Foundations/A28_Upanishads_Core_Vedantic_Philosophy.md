@@ -3,7 +3,7 @@
 > **Document ID:** A28
 > **Section:** A_Foundations
 > **Keywords:** Upanishads, Vedanta, Brahman, Atman, Maya, Chandogya, Brihadaranyaka, Mandukya, Isha, Kena, Katha, Tat Tvam Asi, Yajnavalkya, Sat-Chit-Ananda, moksha, non-dualism, Advaita, shruti, Indian philosophy
-> **Cross-References:** [A20 — Rig Veda](A20_Rig_Veda_Vedic_Cosmology.md) · [P24 — Non-Dualism](../P_Philosophy_Meaning/P24_Non_Dualism_Advaita_Parallels.md) · [P05 — Panpsychism](../P_Philosophy_Meaning/P05_Panpsychism_Integrated_Information.md) · [K06 — Kundalini](../K_Consciousness/K06_Kundalini_Chakra_Systems.md) · [P31 — Indian Philosophy](../P_Philosophy_Meaning/P31_Indian_Philosophical_Systems.md) · [A24 — Bhagavata Purana](A24_Bhagavata_Purana_Naga_Avatar.md)
+> **Cross-References:** [A20 — Rig Veda](A20_Rig_Veda_Vedic_Cosmology.md) · [P24 — Non-Dualism](../P_Philosophy_Meaning/P24_Non_Dualism_Advaita_Unity.md) · [P05 — Panpsychism](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) · [K06 — Kundalini](../K_Consciousness/K06_Kundalini_Serpent_Energy.md) · [P31 — Indian Philosophy](../P_Philosophy_Meaning/P31_Indian_Darshanas.md) · [A24 — Bhagavata Purana](A24_Bhagavata_Purana_Naga_Avatar.md)
 > **Reliability Tier:** Tier 1 (primary textual sources — among the most studied philosophical texts in world literature)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High
 
@@ -171,10 +171,10 @@ The Upanishads (उपनिषद्, "sitting near" a teacher) are the conclud
 | Related Doc | Connection |
 |-------------|-----------|
 | [A20 — Rig Veda](A20_Rig_Veda_Vedic_Cosmology.md) | Upanishads are the philosophical culmination of the Vedic corpus; Rig Veda = hymns, Upanishads = philosophy |
-| [P24 — Non-Dualism](../P_Philosophy_Meaning/P24_Non_Dualism_Advaita_Parallels.md) | Brahman-Atman identity as the paradigmatic non-dual teaching; Shankara's Advaita |
-| [P05 — Panpsychism](../P_Philosophy_Meaning/P05_Panpsychism_Integrated_Information.md) | Upanishadic consciousness-first ontology parallels modern panpsychist frameworks |
-| [K06 — Kundalini](../K_Consciousness/K06_Kundalini_Chakra_Systems.md) | Yogic practices described in later Upanishads (Yoga Upanishads) develop into kundalini systems |
-| [P31 — Indian Philosophy](../P_Philosophy_Meaning/P31_Indian_Philosophical_Systems.md) | Upanishads as the foundational source for all six orthodox (astika) schools of Indian philosophy |
+| [P24 — Non-Dualism](../P_Philosophy_Meaning/P24_Non_Dualism_Advaita_Unity.md) | Brahman-Atman identity as the paradigmatic non-dual teaching; Shankara's Advaita |
+| [P05 — Panpsychism](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) | Upanishadic consciousness-first ontology parallels modern panpsychist frameworks |
+| [K06 — Kundalini](../K_Consciousness/K06_Kundalini_Serpent_Energy.md) | Yogic practices described in later Upanishads (Yoga Upanishads) develop into kundalini systems |
+| [P31 — Indian Philosophy](../P_Philosophy_Meaning/P31_Indian_Darshanas.md) | Upanishads as the foundational source for all six orthodox (astika) schools of Indian philosophy |
 | [A24 — Bhagavata Purana](A24_Bhagavata_Purana_Naga_Avatar.md) | Puranic tradition builds devotional framework on Upanishadic metaphysics |
 | [A29 — Pali Canon](A29_Pali_Canon_Tipitaka_Buddhist_Scriptures.md) | Buddhism emerged partly in response to Upanishadic philosophy; anatta vs. Atman |
 

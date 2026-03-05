@@ -3,7 +3,7 @@
 > **Document ID:** A32
 > **Section:** A_Foundations
 > **Keywords:** Hesiod, Theogony, Works and Days, Greek cosmogony, Chaos, Gaia, Ouranos, Titans, Olympians, Prometheus, Pandora, Five Ages, succession myth, Kumarbi, Kronos, Zeus, Tartarus, Muses, archaic Greece, didactic poetry
-> **Cross-References:** [C58 — Hittite/Kumarbi Cycle](../C_Global_Traditions/C58_Hittite_Hurrian_Kumarbi.md) · [C18 — Prometheus](../C_Global_Traditions/C18_Prometheus_Fire_Theft.md) · [C109 — Greek Religion](../C_Global_Traditions/C109_Greek_Religion_Mysteries.md) · [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Ages.md) · [A17 — Ugaritic/Baal Cycle](A17_Ugaritic_Literature_Baal_Cycle.md)
+> **Cross-References:** [C58 — Hittite/Kumarbi Cycle](../C_Global_Traditions/C58_Hittite_Hurrian_Mythology_Kumarbi.md) · [C18 — Prometheus](../C_Global_Traditions/C18_Prometheus_Forbidden_Knowledge_Archetype.md) · [C109 — Greek Religion](../C_Global_Traditions/C107_Greek_Religion_Lived_Practice.md) · [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) · [A17 — Ugaritic/Baal Cycle](A17_Ugaritic_Literature_Baal_Cycle.md)
 > **Reliability Tier:** Tier 1 (primary texts with continuous manuscript tradition from antiquity)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** High
 
@@ -152,10 +152,10 @@ Hesiod (~700 BCE) is, alongside Homer, one of the two foundational poets of Gree
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C58 — Hittite/Kumarbi Cycle](../C_Global_Traditions/C58_Hittite_Hurrian_Kumarbi.md) | Direct structural parallel: Kumarbi succession myth → Hesiodic succession myth |
-| [C18 — Prometheus](../C_Global_Traditions/C18_Prometheus_Fire_Theft.md) | Prometheus fire theft and Pandora as expanded in Works and Days and Theogony |
-| [C109 — Greek Religion](../C_Global_Traditions/C109_Greek_Religion_Mysteries.md) | Hesiod's Theogony as the canonical framework for Greek religious cosmology |
-| [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Ages.md) | Five Ages doctrine as a degenerative temporal model; parallels with Indian yugas |
+| [C58 — Hittite/Kumarbi Cycle](../C_Global_Traditions/C58_Hittite_Hurrian_Mythology_Kumarbi.md) | Direct structural parallel: Kumarbi succession myth → Hesiodic succession myth |
+| [C18 — Prometheus](../C_Global_Traditions/C18_Prometheus_Forbidden_Knowledge_Archetype.md) | Prometheus fire theft and Pandora as expanded in Works and Days and Theogony |
+| [C109 — Greek Religion](../C_Global_Traditions/C107_Greek_Religion_Lived_Practice.md) | Hesiod's Theogony as the canonical framework for Greek religious cosmology |
+| [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) | Five Ages doctrine as a degenerative temporal model; parallels with Indian yugas |
 | [A17 — Ugaritic/Baal Cycle](A17_Ugaritic_Literature_Baal_Cycle.md) | Near Eastern divine succession and storm-god kingship parallels |
 | [A18 — Enuma Elish](A18_Enuma_Elish_Babylonian_Creation.md) | Marduk/Tiamat divine combat parallel to Zeus/Typhon; Mesopotamian cosmogonic influence |
 
