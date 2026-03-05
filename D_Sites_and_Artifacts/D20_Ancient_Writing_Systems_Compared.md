@@ -243,13 +243,13 @@ Found in 1908 at Phaistos, Crete — a fired clay disc with 241 stamped symbols 
 | Document | Connection |
 |----------|------------|
 | [A01 — Sumerian Texts](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) | Cuneiform — the writing system of Sumerian literature |
-| [C37 — Easter Island](../C_Global_Traditions/C37_Easter_Island_Rapa_Nui.md) | Rongorongo script |
+| [C37 — Easter Island](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md) | Rongorongo script |
 | [C52 — Harappan](../C_Global_Traditions/C52_Harappan_Indus_Valley_Civilization.md) | Indus Valley script |
-| [P16 — Information Theory](../P_Philosophy_Meaning/P16_Information_Theory_Consciousness.md) | Writing as information encoding technology |
-| [C38 — Mesoamerican](../C_Global_Traditions/C38_Mesoamerican_Calendar_Systems.md) | Maya glyphs and calendar inscriptions |
+| [P16 — Information Theory](../P_Philosophy_Meaning/P16_Language_Naming_Creative_Word.md) | Writing as information encoding technology |
+| [C38 — Mesoamerican](../C_Global_Traditions/C37_Maya_Epigraphy_Astronomy.md) | Maya glyphs and calendar inscriptions |
 | [C42 — Minoan](../C_Global_Traditions/C42_Minoan_Civilization_Bull_Cult.md) | Linear A, Cretan Hieroglyphic, Phaistos Disc |
 | [A14 — Pyramid Texts](../A_Foundations/A14_Pyramid_Texts.md) | Earliest substantial hieroglyphic texts |
-| [D05 — Ötzi](../D_Sites_and_Artifacts/D05_Ancient_Maps_Artifacts.md) | Ötzi's tattoos as possible proto-writing or acupuncture marks |
+| [D05 — Ötzi](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Ötzi's tattoos as possible proto-writing or acupuncture marks |
 
 ---
 

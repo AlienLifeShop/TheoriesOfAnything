@@ -383,4 +383,19 @@ Chladni patterns demonstrate that vibration produces regular geometric forms in 
 
 ## Bibliography
 
-- Watkins. *The Old Straight Track*. 1925.
+1. Lawlor, Robert. *Sacred Geometry: Philosophy and Practice*. Thames & Hudson, 1982.
+2. Livio, Mario. *The Golden Ratio: The Story of PHI, the World's Most Astonishing Number*. Broadway Books, 2002.
+3. Huntley, H.E. *The Divine Proportion: A Study in Mathematical Beauty*. Dover, 1970.
+4. Thompson, D'Arcy Wentworth. *On Growth and Form*. Cambridge University Press, 1917.
+5. Jenny, Hans. *Cymatics: A Study of Wave Phenomena and Vibration*. MACROmedia Publishing, 2001.
+6. Chladni, Ernst F.F. *Entdeckungen über die Theorie des Klanges*. 1787.
+7. Critchlow, Keith. *Time Stands Still: New Light on Megalithic Science*. St. Martin's Press, 1979.
+8. Michell, John. *The View Over Atlantis*. Sago Press, 1969.
+9. Petrie, W.M.F. *The Pyramids and Temples of Gizeh*. Field & Tuer, 1883.
+10. Ghyka, Matila. *The Geometry of Art and Life*. Dover, 1977.
+11. Pennick, Nigel. *Sacred Geometry: Symbolism and Purpose in Religious Structures*. Capall Bann, 1994.
+12. Watkins, Alfred. *The Old Straight Track*. Methuen, 1925.
+13. Marshall, Dorothy N. "Carved Stone Balls." *Proceedings of the Society of Antiquaries of Scotland* 108 (1977): 40–72.
+14. Markowsky, George. "Misconceptions about the Golden Ratio." *College Mathematics Journal* 23.1 (1992): 2–19.
+15. Arkani-Hamed, Nima & Trnka, Jaroslav. "The Amplituhedron." *Journal of High Energy Physics* 2014: 30.
+16. Dunlap, R.A. *The Golden Ratio and Fibonacci Numbers*. World Scientific, 1997.

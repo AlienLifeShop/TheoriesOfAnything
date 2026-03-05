@@ -3,7 +3,7 @@
 > **Document ID:** D33
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** rock art, petroglyphs, pictographs, geoglyphs, cave paintings, Lascaux, Altamira, Chauvet, Bhimbetka, Valcamonica, Coso Range, Nazca Lines, Tassili n'Ajjer, Kakadu, Uffington White Horse, Blythe Intaglios, entoptic phenomena, therianthrope, Lewis-Williams, neuropsychological model, radiocarbon, U-series, OSL, X-ray art, shamanism, hunting magic
-> **Cross-References:** [K16](../K_Consciousness/K16_Entoptic_Phenomena.md) · [J08](../J_Ancient_Technology/J08_Sacred_Caves.md) · [P17](../P_Philosophy_Meaning/P17_Art_Knowledge_Encoding.md) · [D08](D08_Art_Paintings_UFOs_Aliens.md) · [C34](../C_Global_Traditions/C34_Paleolithic_Religion_Cave_Art.md) · [D20](D20_Ancient_Writing_Systems_Compared.md)
+> **Cross-References:** [K16](../K_Consciousness/K16_Entoptic_Phenomena_Phosphene_Patterns.md) · [J08](../J_Ancient_Technology/J08_Sacred_Caves_Ritual_Technology.md) · [P17](../P_Philosophy_Meaning/P17_Art_as_Knowledge_Encoding.md) · [D08](D08_Art_Paintings_UFOs_Aliens.md) · [C34](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md) · [D20](D20_Ancient_Writing_Systems_Compared.md)
 > **Reliability Tier:** Tier 1–2 (existence and dating Tier 1; meaning and function Tier 2–3)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 14 scholarly sources | **Confidence:** High (documentation); Medium (interpretation)
 
@@ -158,14 +158,14 @@ Rock art — the oldest surviving form of human visual expression — spans ever
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K16 — Entoptic Phenomena](../K_Consciousness/K16_Entoptic_Phenomena.md) | Lewis-Williams neuropsychological model; entoptic patterns in rock art |
-| [J08 — Sacred Caves](../J_Ancient_Technology/J08_Sacred_Caves.md) | Cave environments as context for pictograph creation |
-| [P17 — Art as Knowledge Encoding](../P_Philosophy_Meaning/P17_Art_Knowledge_Encoding.md) | Rock art as stored cultural/environmental knowledge |
+| [K16 — Entoptic Phenomena](../K_Consciousness/K16_Entoptic_Phenomena_Phosphene_Patterns.md) | Lewis-Williams neuropsychological model; entoptic patterns in rock art |
+| [J08 — Sacred Caves](../J_Ancient_Technology/J08_Sacred_Caves_Ritual_Technology.md) | Cave environments as context for pictograph creation |
+| [P17 — Art as Knowledge Encoding](../P_Philosophy_Meaning/P17_Art_as_Knowledge_Encoding.md) | Rock art as stored cultural/environmental knowledge |
 | [D08 — Art, Paintings, UFOs, Aliens](D08_Art_Paintings_UFOs_Aliens.md) | "Ancient astronaut" interpretations of rock art |
-| [C34 — Paleolithic Religion / Cave Art](../C_Global_Traditions/C34_Paleolithic_Religion_Cave_Art.md) | Religious context of Upper Paleolithic art traditions |
+| [C34 — Paleolithic Religion / Cave Art](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md) | Religious context of Upper Paleolithic art traditions |
 | [D20 — Ancient Writing Systems](D20_Ancient_Writing_Systems_Compared.md) | Proto-writing hypothesis; von Petzinger's 32 signs |
-| [K15 — Shamanism](../K_Consciousness/K15_Shamanism_Global_Tradition.md) | Trance states producing rock art imagery |
-| [E01 — Cataclysms](../E_Cataclysms_and_Chronology/E01_Global_Flood_Myths.md) | Tassili art documenting Saharan desertification |
+| [K15 — Shamanism](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Trance states producing rock art imagery |
+| [E01 — Cataclysms](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Tassili art documenting Saharan desertification |
 
 ---
 

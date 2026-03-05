@@ -450,3 +450,11 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 *Date: February 9, 2026 | Updated: February 21, 2026*
 *Feb 21: Added ScanPyramids muon tomography (Big Void 2017, corridor 2023); Updated Gunung Padang with 2024 peer-review investigation*
 *Approach: Neutral — presenting all interpretations without choosing a side*
+
+## Bibliography
+
+1. Lehner, Mark, "The Complete Pyramids: Solving the Ancient Mysteries" (Thames and Hudson, 1997)
+2. Arnold, Dieter, "Building in Egypt: Pharaonic Stone Masonry" (Oxford University Press, 1991)
+3. Verner, Miroslav, "The Pyramids: The Mystery, Culture, and Science of Egypt's Great Monuments" (Grove Press, 2001)
+4. Shady Solis, Ruth, "La Ciudad Sagrada de Caral-Supe" (Instituto Nacional de Cultura, 2005)
+5. Natawidjaja, Danny Hilman et al., "Geo-archaeological Prospecting of Gunung Padang" (Archaeological Prospection, 2023)

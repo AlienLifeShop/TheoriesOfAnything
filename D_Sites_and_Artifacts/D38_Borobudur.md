@@ -3,7 +3,7 @@
 > **Document ID:** D38
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Borobudur, Sailendra dynasty, mandala, stupa, Buddhist, Java, cosmic mountain, Meru, relief panels, Gandavyuha, Karmawibhangga, Dhyani Buddhas, hidden foot, volcanic burial, UNESCO restoration, Mahayana, Vajrayana
-> **Cross-References:** [A29](../A_Foundations/A29_Pali_Canon.md) · [C39](../C_Global_Traditions/C39_Buddhism.md) · [C101](../C_Global_Traditions/C101_SE_Asian_Spirits.md) · [D22](D22_Sacred_Architecture_Principles.md) · [C70](../C_Global_Traditions/C70_Sacred_Mountains.md) · [D19](D19_Archaeoastronomy_Synthesis.md)
+> **Cross-References:** [A29](../A_Foundations/A29_Pali_Canon_Tipitaka_Buddhist_Scriptures.md) · [C39](../C_Global_Traditions/C39_Tibetan_Buddhism_Bon_Terma.md) · [C101](../C_Global_Traditions/C101_Southeast_Asian_Spirit_Traditions.md) · [D22](D22_Sacred_Architecture_Principles.md) · [C70](../C_Global_Traditions/C70_Sacred_Mountains_Cosmic_Mountain.md) · [D19](D19_Archaeoastronomy_Synthesis.md)
 > **Reliability Tier:** Tier 1–2 (Tier 1 for architecture and iconography; Tier 2 for dynastic attribution and theological interpretations)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** High (architecture, relief identification); Medium (patron identity, specific ritual use, dating precision)
 
@@ -170,11 +170,11 @@ Borobudur, located in Central Java, Indonesia, is the **world's largest Buddhist
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [A29 — Pali Canon](../A_Foundations/A29_Pali_Canon.md) | Jataka tales and Buddhist textual traditions depicted in relief panels |
-| [C39 — Buddhism](../C_Global_Traditions/C39_Buddhism.md) | Mahayana cosmology, three realms, Dhyani Buddhas, mandala concept |
-| [C101 — SE Asian Spirits](../C_Global_Traditions/C101_SE_Asian_Spirits.md) | Javanese syncretism — Buddhist monument in animist-Hindu cultural context |
+| [A29 — Pali Canon](../A_Foundations/A29_Pali_Canon_Tipitaka_Buddhist_Scriptures.md) | Jataka tales and Buddhist textual traditions depicted in relief panels |
+| [C39 — Buddhism](../C_Global_Traditions/C39_Tibetan_Buddhism_Bon_Terma.md) | Mahayana cosmology, three realms, Dhyani Buddhas, mandala concept |
+| [C101 — SE Asian Spirits](../C_Global_Traditions/C101_Southeast_Asian_Spirit_Traditions.md) | Javanese syncretism — Buddhist monument in animist-Hindu cultural context |
 | [D22 — Sacred Architecture](D22_Sacred_Architecture_Principles.md) | Cosmic mountain archetype, mandala floor plan, axis mundi symbolism |
-| [C70 — Sacred Mountains](../C_Global_Traditions/C70_Sacred_Mountains.md) | Borobudur as artificial cosmic mountain (Meru/Sumeru) |
+| [C70 — Sacred Mountains](../C_Global_Traditions/C70_Sacred_Mountains_Cosmic_Mountain.md) | Borobudur as artificial cosmic mountain (Meru/Sumeru) |
 | [D19 — Archaeoastronomy Synthesis](D19_Archaeoastronomy_Synthesis.md) | East-facing orientation, solar symbolism in Buddhist monument design |
 
 ---

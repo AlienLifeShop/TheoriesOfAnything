@@ -3,7 +3,7 @@
 > **Document ID:** D24
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Stonehenge, Salisbury Plain, bluestones, Preseli Hills, sarsen, trilithon, Aubrey Holes, eclipse prediction, Woodhenge, Durrington Walls, Avebury, Bluestonehenge, lithophone, henges, British megalithic, Neolithic, Bronze Age, mortise-and-tenon, acoustic archaeology
-> **Cross-References:** [J07](../J_Ancient_Technology/J07_110Hz_Acoustic_Resonance.md) · [D05](D05_Megalithic_Impossible_Engineering.md) · [D19](D19_Archaeoastronomy_Synthesis.md) · [O01](../O_Earth_Anomalies/O01_Ley_Lines.md) · [M06](../M_Forbidden_Archaeology/M06_Anomalous_Megaliths.md) · [D25](D25_Carnac_Avebury_European_Alignments.md)
+> **Cross-References:** [J07](../J_Ancient_Technology/J07_110Hz_Acoustic_Altered_States.md) · [D05](D05_Megalithic_Impossible_Engineering.md) · [D19](D19_Archaeoastronomy_Synthesis.md) · [O01](../O_Earth_Anomalies/O01_Ley_Lines_Earth_Grid.md) · [M06](../M_Forbidden_Archaeology/M06_Anomalous_Megaliths_Engineering.md) · [D25](D25_Carnac_Avebury_European_Alignments.md)
 > **Reliability Tier:** Tier 1–2 (extensive archaeological record; transport mechanism and purpose debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 12 scholarly sources | **Confidence:** High (archaeology); Medium (interpretation)
 
@@ -133,11 +133,11 @@ Stonehenge on Salisbury Plain, Wiltshire, is Britain's most iconic prehistoric m
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [J07 — 110Hz Acoustic Resonance](../J_Ancient_Technology/J07_110Hz_Acoustic_Resonance.md) | Lithophone properties of bluestones; acoustic dimensions of ritual |
+| [J07 — 110Hz Acoustic Resonance](../J_Ancient_Technology/J07_110Hz_Acoustic_Altered_States.md) | Lithophone properties of bluestones; acoustic dimensions of ritual |
 | [D05 — Megalithic Impossible Engineering](D05_Megalithic_Impossible_Engineering.md) | Stone transport, dressing, and jointing techniques |
 | [D19 — Archaeoastronomy Synthesis](D19_Archaeoastronomy_Synthesis.md) | Solstice alignment; Aubrey Hole eclipse prediction |
-| [O01 — Ley Lines](../O_Earth_Anomalies/O01_Ley_Lines.md) | Watkins's alignments; ritual landscape density |
-| [M06 — Anomalous Megaliths](../M_Forbidden_Archaeology/M06_Anomalous_Megaliths.md) | Bluestone transport mystery |
+| [O01 — Ley Lines](../O_Earth_Anomalies/O01_Ley_Lines_Earth_Grid.md) | Watkins's alignments; ritual landscape density |
+| [M06 — Anomalous Megaliths](../M_Forbidden_Archaeology/M06_Anomalous_Megaliths_Engineering.md) | Bluestone transport mystery |
 | [D25 — Carnac, Avebury, European Alignments](D25_Carnac_Avebury_European_Alignments.md) | Avebury as companion site; broader European context |
 | [D22 — Sacred Architecture](D22_Sacred_Architecture_Principles.md) | Mortise-and-tenon in stone; cosmological layout |
 | [D10 — Sacred Geometry](D10_Sacred_Geometry.md) | Circular geometry, numerical ratios |

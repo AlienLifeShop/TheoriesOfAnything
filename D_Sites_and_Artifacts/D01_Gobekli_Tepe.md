@@ -536,8 +536,13 @@ Seven major open questions guide ongoing research:
 
 ## Bibliography
 
-- Collins. *Göbekli Tepe: Genesis of the Gods*. 2014.
-- Hancock. *Magicians of the Gods*. 2015.
-- Newman. *Göbekli Tepe and the Watchers*. 2018.
-- Schmidt. *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*. 2012.
-- Schmidt. *Sie bauten die ersten Tempel*. 2006.
+1. Schmidt, Klaus. *Sie bauten die ersten Tempel: Das enigmatische Heiligtum der Steinzeitjäger*. C.H. Beck, 2006.
+2. Schmidt, Klaus. *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*. Ex Oriente, 2012.
+3. Schmidt, Klaus. "Göbekli Tepe — The Stone Age Sanctuaries: New Results of Ongoing Excavations." *Documenta Praehistorica* 37 (2010): 239–256.
+4. Sweatman, Martin B. & Tsikritsis, Dimitrios. "Decoding Göbekli Tepe with Archaeoastronomy: What Does the Fox Say?" *Mediterranean Archaeology and Archaeometry* 17.1 (2017): 233–250.
+5. Clare, Lee et al. "Göbekli Tepe: Construction Methods and Techniques." *Neo-Lithics* 19.1 (2019): 3–15.
+6. Dietrich, Oliver et al. "The Role of Cult and Feasting in the Emergence of Neolithic Communities." *Antiquity* 86.333 (2012): 674–695.
+7. Peters, Joris & Schmidt, Klaus. "Animals in the Symbolic World of Pre-Pottery Neolithic Göbekli Tepe." *Anthropozoologica* 39.1 (2004): 179–218.
+8. Collins, Andrew. *Göbekli Tepe: Genesis of the Gods*. Bear & Company, 2014.
+9. Hancock, Graham. *Magicians of the Gods*. Coronet, 2015.
+10. Newman, Hugh. *Göbekli Tepe and the Watchers*. Wooden Books, 2018.

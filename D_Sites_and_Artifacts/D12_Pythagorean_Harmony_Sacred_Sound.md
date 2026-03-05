@@ -225,12 +225,12 @@ Multiple traditions use sustained vocalization for spiritual practice:
 |-------------|-----------|
 | [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Sacred geometry — geometric ratios in architecture |
 | [D16](../D_Sites_and_Artifacts/D16_Fibonacci_Sacred_Ratios.md) | Fibonacci and sacred ratios — mathematical proportions |
-| [J04](../J_Ancient_Technology/J04_Acoustic_Properties_Ancient_Structures.md) | Acoustic properties — sound in ancient structures |
-| [K01](../K_Consciousness/K01_Consciousness_Overview.md) | Consciousness — sound-induced altered states |
+| [J04](../J_Ancient_Technology/J04_Acoustic_Vibrational_Technology.md) | Acoustic properties — sound in ancient structures |
+| [K01](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Consciousness — sound-induced altered states |
 | [A08](../A_Foundations/A08_Hermetic_Tradition.md) | Hermetic tradition — "as above, so below" through vibration |
 | [P04](../P_Philosophy_Meaning/P04_Mathematics_Discovered_Invented.md) | Math discovered vs. invented — Pythagorean realism |
 | [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Archaeoastronomy — cosmic harmony and planetary observation |
-| [Q01](../Q_Cosmology_Physics/Q01_Cosmology_Overview.md) | Cosmology — harmonic structures in modern physics |
+| [Q01](../Q_Cosmology_Physics/Q01_Anthropic_Principle_Fine_Tuning.md) | Cosmology — harmonic structures in modern physics |
 | [C25](../C_Global_Traditions/C25_Orpheus_Descent_Underworld_Archetype.md) | Orpheus — musician who moves stones and enters underworld |
 | [P14](../P_Philosophy_Meaning/P14_Alchemy_Transmutation.md) | Alchemy — Pythagorean number mysticism in alchemical tradition |
 

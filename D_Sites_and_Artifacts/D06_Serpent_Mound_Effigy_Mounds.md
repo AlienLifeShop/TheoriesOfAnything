@@ -355,5 +355,15 @@ If the oval IS a cosmic egg, Serpent Mound connects to a global cosmological pat
 
 ## Bibliography
 
-- Birmingham & Eisenberg. *Indian Mounds of Wisconsin*. 2000.
-- Lankford. *Reachable Stars*. 2007.
+1. Squier, Ephraim G. & Davis, Edwin H. *Ancient Monuments of the Mississippi Valley*. Smithsonian Contributions to Knowledge, 1848.
+2. Thomas, Cyrus. *Report on the Mound Explorations of the Bureau of Ethnology*. Smithsonian Institution, 1894.
+3. Fletcher, Robert V. et al. "Serpent Mound: A Fort Ancient Icon?" *Midcontinental Journal of Archaeology* 21.1 (1996): 105–143.
+4. Romain, William F. *Mysteries of the Hopewell: Astronomers, Geometers, and Magicians of the Eastern Woodlands*. University of Akron Press, 2000.
+5. Romain, William F. *Shamans of the Lost World: A Cognitive Approach to the Prehistoric Religion of the Ohio Hopewell*. AltaMira Press, 2009.
+6. Lepper, Bradley T. *Ohio Archaeology: An Illustrated Chronicle of Ohio's Ancient American Indian Cultures*. Orange Frazer Press, 2005.
+7. Birmingham, Robert A. & Eisenberg, Leslie E. *Indian Mounds of Wisconsin*. University of Wisconsin Press, 2000.
+8. Lankford, George E. *Reachable Stars: Patterns in the Ethnoastronomy of Eastern North America*. University of Alabama Press, 2007.
+9. Reilly, F. Kent III & Garber, James F. (eds.). *Ancient Objects and Sacred Realms: Interpretations of Mississippian Iconography*. University of Texas Press, 2007.
+10. Hamilton, Ross. *The Mystery of the Serpent Mound*. 2001.
+11. Lapham, Increase A. *The Antiquities of Wisconsin*. Smithsonian Contributions to Knowledge, 1855.
+12. Carlton, R.W. et al. "Geology of the Serpent Mound Disturbance." *Ohio Journal of Science* 98.3 (1998): 44–59.

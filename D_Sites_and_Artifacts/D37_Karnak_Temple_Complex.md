@@ -3,7 +3,7 @@
 > **Document ID:** D37
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Karnak, Thebes, Amun-Ra, Hypostyle Hall, obelisks, pylons, Avenue of Sphinxes, sacred lake, Egyptian temple, clerestory, winter solstice, Opet Festival, New Kingdom, Hatshepsut, Thutmose, Ramesses
-> **Cross-References:** [A14](../A_Foundations/A14_Pyramid_Texts.md) · [A19](../A_Foundations/A19_Egyptian_Book_of_the_Dead.md) · [D22](D22_Sacred_Architecture_Principles.md) · [D08](D08_Art_Paintings_UFOs_Aliens.md) · [D19](D19_Archaeoastronomy_Synthesis.md) · [J06](../J_Ancient_Technology/J06_Ancient_Engineering.md) · [D02](D02_Pyramids_Worldwide.md)
+> **Cross-References:** [A14](../A_Foundations/A14_Pyramid_Texts.md) · [A19](../A_Foundations/A19_Egyptian_Book_of_the_Dead.md) · [D22](D22_Sacred_Architecture_Principles.md) · [D08](D08_Art_Paintings_UFOs_Aliens.md) · [D19](D19_Archaeoastronomy_Synthesis.md) · [J06](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [D02](D02_Pyramids_Worldwide.md)
 > **Reliability Tier:** Tier 1–2 (Tier 1 for archaeology, architecture, epigraphy; Tier 2 for astronomical alignment interpretations)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** High (architecture, chronology, inscriptions); Medium (astronomical alignments, acoustic claims)
 
@@ -173,7 +173,7 @@ The Karnak Temple Complex, located on the east bank of the Nile at ancient Thebe
 | [D22 — Sacred Architecture](D22_Sacred_Architecture_Principles.md) | Temple as cosmic model; axis mundi, clerestory design principles |
 | [D08 — Astronomical Alignments](D08_Art_Paintings_UFOs_Aliens.md) | Winter solstice axis orientation, circumpolar star navigation |
 | [D19 — Archaeoastronomy Synthesis](D19_Archaeoastronomy_Synthesis.md) | Egyptian temple alignments in global archaeoastronomical context |
-| [J06 — Ancient Engineering](../J_Ancient_Technology/J06_Ancient_Engineering.md) | Obelisk quarrying and transport, ramp construction, column engineering |
+| [J06 — Ancient Engineering](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Obelisk quarrying and transport, ramp construction, column engineering |
 | [D02 — Pyramids Worldwide](D02_Pyramids_Worldwide.md) | Egyptian monumental construction tradition from pyramids to temples |
 
 ---

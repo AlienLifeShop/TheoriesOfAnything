@@ -3,7 +3,7 @@
 > **Document ID:** D25
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Carnac, Avebury, megalithic alignments, menhirs, stone rows, stone circles, Ring of Brodgar, Callanish, Almendres Cromlech, Alexander Thom, Megalithic Yard, solstice, equinox, lunar standstill, European megaliths, Brittany, Orkney, standing stones
-> **Cross-References:** [D05](D05_Megalithic_Impossible_Engineering.md) · [D19](D19_Archaeoastronomy_Synthesis.md) · [O01](../O_Earth_Anomalies/O01_Ley_Lines.md) · [D24](D24_Stonehenge_British_Megalithic.md) · [D10](D10_Sacred_Geometry.md) · [D29](D29_Newgrange_Passage_Tomb_Astronomy.md)
+> **Cross-References:** [D05](D05_Megalithic_Impossible_Engineering.md) · [D19](D19_Archaeoastronomy_Synthesis.md) · [O01](../O_Earth_Anomalies/O01_Ley_Lines_Earth_Grid.md) · [D24](D24_Stonehenge_British_Megalithic.md) · [D10](D10_Sacred_Geometry.md) · [D29](D29_Newgrange_Passage_Tomb_Astronomy.md)
 > **Reliability Tier:** Tier 1–2 (archaeology Tier 1; alignment interpretations and Megalithic Yard debated at Tier 2)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 11 scholarly sources | **Confidence:** High (sites); Medium (intentional astronomical alignment claims)
 
@@ -145,11 +145,11 @@ Europe's megalithic tradition extends from Portugal to Scandinavia and spans rou
 |-------------|-----------|
 | [D05 — Megalithic Impossible Engineering](D05_Megalithic_Impossible_Engineering.md) | Stone transport and erection methods across sites |
 | [D19 — Archaeoastronomy Synthesis](D19_Archaeoastronomy_Synthesis.md) | Solstice/equinox/lunar standstill alignments |
-| [O01 — Ley Lines](../O_Earth_Anomalies/O01_Ley_Lines.md) | Alignment theories; Dragon Project measurements |
+| [O01 — Ley Lines](../O_Earth_Anomalies/O01_Ley_Lines_Earth_Grid.md) | Alignment theories; Dragon Project measurements |
 | [D24 — Stonehenge](D24_Stonehenge_British_Megalithic.md) | Companion site to Avebury; shared Wiltshire landscape |
 | [D10 — Sacred Geometry](D10_Sacred_Geometry.md) | Megalithic Yard; geometric circle construction |
 | [D29 — Newgrange Passage Tomb](D29_Newgrange_Passage_Tomb_Astronomy.md) | Irish passage tombs as part of Atlantic megalithic tradition |
-| [M06 — Anomalous Megaliths](../M_Forbidden_Archaeology/M06_Anomalous_Megaliths.md) | Grand Menhir Brisé; large stone challenges |
+| [M06 — Anomalous Megaliths](../M_Forbidden_Archaeology/M06_Anomalous_Megaliths_Engineering.md) | Grand Menhir Brisé; large stone challenges |
 
 ---
 

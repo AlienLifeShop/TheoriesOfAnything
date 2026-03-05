@@ -3,7 +3,7 @@
 > **Document ID:** D32
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** tunnels, erdstall, underground, subterranean, Derinkuyu, Kaymakli, Naours, qanat, catacombs, Hypogeum, Hal Saflieni, Cu Chi, Wieliczka, Longyou, Pilsen, tunnel networks, escape passages, ritual underground, ventilation, ancient mining, underworld
-> **Cross-References:** [D04](D04_Underground_Cities_and_Myths.md) · [B03](../B_Beings_and_Entities/B03_Underground_Beings_Hollow_Earth.md) · [J07](../J_Ancient_Technology/J07_110Hz_Acoustic_Resonance.md) · [D14](D14_Maltese_Temple_Builders_Hypogeum.md) · [D05](D05_Megalithic_Impossible_Engineering.md)
+> **Cross-References:** [D04](D04_Underground_Cities_and_Myths.md) · [B03](../B_Beings_and_Entities/B03_Underground_Creatures_and_Myths.md) · [J07](../J_Ancient_Technology/J07_110Hz_Acoustic_Altered_States.md) · [D14](D14_Maltese_Temple_Builders_Hypogeum.md) · [D05](D05_Megalithic_Impossible_Engineering.md)
 > **Reliability Tier:** Tier 1–2 (documented sites Tier 1; purpose of erdstall and some tunnels Tier 2–3)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 11 scholarly sources | **Confidence:** High (existence and engineering); Medium (purpose interpretation for erdstall)
 
@@ -168,8 +168,8 @@ Humanity has dug, carved, and inhabited subterranean spaces for thousands of yea
 | Related Doc | Connection |
 |-------------|-----------|
 | [D04 — Underground Cities and Myths](D04_Underground_Cities_and_Myths.md) | Derinkuyu/Kaymakli; underground habitation traditions |
-| [B03 — Underground Beings / Hollow Earth](../B_Beings_and_Entities/B03_Underground_Beings_Hollow_Earth.md) | Mythology of subterranean races; mythological vs. real underground spaces |
-| [J07 — 110Hz Acoustic Resonance](../J_Ancient_Technology/J07_110Hz_Acoustic_Resonance.md) | Hypogeum Oracle Room 110Hz resonance |
+| [B03 — Underground Beings / Hollow Earth](../B_Beings_and_Entities/B03_Underground_Creatures_and_Myths.md) | Mythology of subterranean races; mythological vs. real underground spaces |
+| [J07 — 110Hz Acoustic Resonance](../J_Ancient_Technology/J07_110Hz_Acoustic_Altered_States.md) | Hypogeum Oracle Room 110Hz resonance |
 | [D14 — Maltese Temple Builders / Hypogeum](D14_Maltese_Temple_Builders_Hypogeum.md) | Hypogeum of Ħal-Saflieni detailed analysis |
 | [D05 — Megalithic Impossible Engineering](D05_Megalithic_Impossible_Engineering.md) | Longyou Caves scale; engineering feats |
 | [C63 — Initiation Rites](../C_Global_Traditions/C63_Initiation_Rites_Coming_of_Age.md) | Erdstall as possible initiation passages |

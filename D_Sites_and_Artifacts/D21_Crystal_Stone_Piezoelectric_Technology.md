@@ -23,7 +23,7 @@
 
 ## QUICK SUMMARY
 
-**Piezoelectricity** — the generation of electrical charge from mechanical stress in certain crystals — is well-established physics (discovered by Jacques and Pierre Curie, 1880). **Quartz**, the most abundant piezoelectric mineral on Earth, converts mechanical pressure to electricity and vice versa, forming the basis of modern oscillators, watches, sonar, microphones, and silicon chip technology. This document examines the **intersection of established crystal science with claims about ancient crystal technology**: the **deliberate placement of quartz-rich stone in megalithic structures** (Newgrange's quartz facade, Göbekli Tepe's limestone → D01), the controversial **crystal skulls** (most confirmed as 19th-century forgeries, but the craftsmanship question remains interesting), and the sprawling field of **crystal healing claims** (no controlled clinical evidence, but placebo and contextual healing effects are real). At the speculative end, some researchers propose that ancient builders **intentionally exploited piezoelectric properties** of granite, quartz, and basalt in pyramid and temple construction — a claim that ranges from intriguing (acoustic resonance → J04) to unsupported. This document maps the full spectrum from established science through plausible hypotheses to fringe speculation, clearly labeling each.
+**Piezoelectricity** — the generation of electrical charge from mechanical stress in certain crystals — is well-established physics (discovered by Jacques and Pierre Curie, 1880). **Quartz**, the most abundant piezoelectric mineral on Earth, converts mechanical pressure to electricity and vice versa, forming the basis of modern oscillators, watches, sonar, microphones, and silicon chip technology. This document examines the **intersection of established crystal science with claims about ancient crystal technology**: the **deliberate placement of quartz-rich stone in megalithic structures** (Newgrange's quartz facade, Göbekli Tepe's limestone → D01), the controversial **crystal skulls** (most confirmed as 19th-century forgeries, but the craftsmanship question remains interesting), and the sprawling field of **crystal healing claims** (no controlled clinical evidence, but placebo and contextual healing effects are real). At the speculative end, researchers such as Dunn (1998) propose that ancient builders **intentionally exploited piezoelectric properties** of granite, quartz, and basalt in pyramid and temple construction — a claim that ranges from intriguing (acoustic resonance → J04) to unsupported. This document maps the full spectrum from established science through plausible hypotheses to fringe speculation, clearly labeling each.
 
 ---
 
@@ -145,7 +145,7 @@ Even though the skulls are modern forgeries, some aspects merit note:
 |-------|-------------------|------------------|------------|
 | Crystal skulls are ancient artifacts | Popular legend; some collectors' claims | Every scientifically tested skull = modern forgery using rotary tools | **Tier 1** — confirmed forgeries |
 | Ancient builders intentionally used crystal properties | Quartz-rich stone was selected; acoustic chambers exist; cross-cultural crystal veneration | Visual/aesthetic selection explains most evidence; no proof of understanding piezoelectricity | **Tier 2-3** — aesthetic/acoustic selection plausible; energy exploitation unsupported |
-| Crystal healing has therapeutic value | Practitioners report results; ancient traditions use crystals | Controlled studies show placebo only; no mechanism | **Tier 2** (for placebo benefit) / **Tier 4** (for claimed mechanisms) |
+| Crystal healing has therapeutic value | Practitioners report results; ancient traditions use crystals | Controlled studies (French et al., 2001) show placebo only; no mechanism | **Tier 2** (for placebo benefit) / **Tier 4** (for claimed mechanisms) |
 | Modern quartz technology vindicates ancient crystal beliefs | Quartz IS technologically important (oscillators, chips, 5D storage) | Modern applications require precision engineering unattainable in antiquity | **Tier 2** — interesting parallel but anachronistic comparison |
 
 ---
@@ -154,14 +154,14 @@ Even though the skulls are modern forgeries, some aspects merit note:
 
 | Document | Connection |
 |----------|------------|
-| [D05 — Megalithic Engineering](D05_Megalithic_Engineering.md) | Stone selection and construction techniques |
-| [J01 — Ancient Power Systems](../J_Ancient_Technology/J01_Ancient_Power_Systems.md) | Energy claims in ancient structures |
+| [D05 — Megalithic Engineering](D05_Megalithic_Impossible_Engineering.md) | Stone selection and construction techniques |
+| [J01 — Ancient Power Systems](../J_Ancient_Technology/J01_Ancient_Power_Energy_Systems.md) | Energy claims in ancient structures |
 | [D10 — Sacred Geometry](D10_Sacred_Geometry.md) | Geometric principles in crystal structure |
-| [G01 — Quantum Mechanics](../G_Modern_Frameworks/G01_Quantum_Mechanics_Consciousness.md) | Crystal physics and quantum effects |
+| [G01 — Quantum Mechanics](../G_Modern_Frameworks/G01_Quantum_Mechanics_Ancient_Knowledge.md) | Crystal physics and quantum effects |
 | [D01 — Göbekli Tepe](D01_Gobekli_Tepe.md) | Stone selection and acoustic properties |
-| [J04 — Acoustic Technology](../J_Ancient_Technology/J04_Acoustic_Technology_Ancient.md) | Sound resonance in stone structures |
-| [M01 — Out-of-Place Artifacts](../M_Forbidden_Archaeology/M01_Out_of_Place_Artifacts.md) | Crystal skulls as claimed OOPArts |
-| [K06 — Kundalini](../K_Consciousness/K06_Kundalini_Chakra_Systems.md) | Crystal-chakra healing claims |
+| [J04 — Acoustic Technology](../J_Ancient_Technology/J04_Acoustic_Vibrational_Technology.md) | Sound resonance in stone structures |
+| [M01 — Out-of-Place Artifacts](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Crystal skulls as claimed OOPArts |
+| [K06 — Kundalini](../K_Consciousness/K06_Kundalini_Serpent_Energy.md) | Crystal-chakra healing claims |
 
 ---
 

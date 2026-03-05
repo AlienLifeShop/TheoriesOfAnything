@@ -121,7 +121,7 @@ While Baalbek is famous, the Yangshan Quarry in Nanjing features the largest sha
 - Successfully reproduced some stone-dressing with stone hammers on **softer limestone**
 - Could NOT explain the precision fitting of **andesite mega-blocks**
 - Stated the fitting of the largest stones "remains one of the most puzzling feats"
-- **Raptor emphasis**: Experimental studies show andesite dressing is possible with stone tools but do not fully replicate the highest-precision joints **[2/4 — GPT5.2, Raptor]**
+- **Raptor emphasis**: Experimental studies by Protzen (1993) show andesite dressing is possible with stone tools but do not fully replicate the highest-precision joints **[2/4 — GPT5.2, Raptor]**
 
 ### Vitrified / "Softened" Edges **[2/4 — Gemini, Master]**
 
@@ -432,3 +432,11 @@ In Bolivia, clamps were **poured as molten metal directly into carved stone chan
 *D05 — Consolidated from Gemini, GPT5.2, Raptor, and Master research*
 *Date: February 9, 2026*
 *Approach: Neutral — presenting all interpretations without choosing a side*
+
+## Bibliography
+
+1. Scarre, Chris (ed.), "Megalithic Quarrying: Sourcing, Extracting, and Manipulating Stones" (Oxbow Books, 2019)
+2. Protzen, Jean-Pierre, "Inca Architecture and Construction at Ollantaytambo" (Oxford University Press, 1993)
+3. Adam, Jean-Pierre, "Roman Building: Materials and Techniques" (Indiana University Press, 1994)
+4. Arnold, Dieter, "Building in Egypt: Pharaonic Stone Masonry" (Oxford University Press, 1991)
+5. Barsoum, Michel W. et al., "Microstructural Evidence of Reconstituted Limestone Blocks in the Great Pyramids of Egypt" (Journal of the American Ceramic Society, 2006)

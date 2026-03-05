@@ -3,7 +3,7 @@
 > **Document ID:** D35
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Chichen Itza, El Castillo, Kukulkan, equinox serpent, cenote sagrado, Great Ballcourt, Caracol observatory, Venus, Toltec-Maya, Puuc, feathered serpent, quetzal echo, Maya calendar, archaeoacoustics
-> **Cross-References:** [C30](../C_Global_Traditions/C30_Aztec_Maya_Cosmology.md) · [D08](D08_Art_Paintings_UFOs_Aliens.md) · [C14](../C_Global_Traditions/C14_Feathered_Serpent.md) · [E07](../E_Cataclysms_and_Chronology/E07_Bronze_Age_Collapse.md) · [D19](D19_Archaeoastronomy_Synthesis.md) · [D26](D26_Teotihuacan_City_of_Gods.md)
+> **Cross-References:** [C30](../C_Global_Traditions/C36_Aztec_Cosmology_Five_Suns.md) · [D08](D08_Art_Paintings_UFOs_Aliens.md) · [C14](../C_Global_Traditions/C14_Language_Origins_Tower_of_Babel.md) · [E07](../F_Lost_Connections/F08_Sea_Peoples_Bronze_Age_Collapse.md) · [D19](D19_Archaeoastronomy_Synthesis.md) · [D26](D26_Teotihuacan_City_of_Gods.md)
 > **Reliability Tier:** Tier 1–2 (Tier 1 for architecture, calendar, archaeology; Tier 2 for acoustic intentionality and political interpretations)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High (architecture, calendar); Medium (acoustic claims, political models)
 
@@ -171,10 +171,10 @@ Chichen Itza, located in the northern limestone lowlands of the Yucatan Peninsul
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C30 — Aztec/Maya Cosmology](../C_Global_Traditions/C30_Aztec_Maya_Cosmology.md) | Maya calendar encoding, Venus warfare, Dresden Codex astronomical tables |
+| [C30 — Aztec/Maya Cosmology](../C_Global_Traditions/C36_Aztec_Cosmology_Five_Suns.md) | Maya calendar encoding, Venus warfare, Dresden Codex astronomical tables |
 | [D08 — Art & Astronomical Alignments](D08_Art_Paintings_UFOs_Aliens.md) | Equinox serpent shadow, Caracol Venus alignments |
-| [C14 — Feathered Serpent](../C_Global_Traditions/C14_Feathered_Serpent.md) | Kukulkan/Quetzalcoatl — the feathered serpent deity across Mesoamerica |
-| [E07 — Bronze Age Collapse](../E_Cataclysms_and_Chronology/E07_Bronze_Age_Collapse.md) | Parallels between Terminal Classic Maya collapse and global disruption patterns |
+| [C14 — Feathered Serpent](../C_Global_Traditions/C14_Language_Origins_Tower_of_Babel.md) | Kukulkan/Quetzalcoatl — the feathered serpent deity across Mesoamerica |
+| [E07 — Bronze Age Collapse](../F_Lost_Connections/F08_Sea_Peoples_Bronze_Age_Collapse.md) | Parallels between Terminal Classic Maya collapse and global disruption patterns |
 | [D19 — Archaeoastronomy Synthesis](D19_Archaeoastronomy_Synthesis.md) | Chichen Itza as a key case study in global archaeoastronomical analysis |
 | [D26 — Teotihuacan](D26_Teotihuacan_City_of_Gods.md) | Feathered-serpent cult origins, Mesoamerican International Style |
 

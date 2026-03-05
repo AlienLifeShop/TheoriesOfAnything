@@ -3,7 +3,7 @@
 > **Document ID:** D27
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Tiwanaku, Tiahuanaco, Puma Punku, Gateway of the Sun, Viracocha, Staff God, H-blocks, andesite, diorite, precision stonework, Altiplano, Bolivia, Lake Titicaca, suka kollus, raised-field agriculture, Sunken Temple, Kalasasaya, Akapana, interlocking blocks
-> **Cross-References:** [D05](D05_Megalithic_Impossible_Engineering.md) · [C41](../C_Global_Traditions/C41_Andean_Cosmology_Pachamama.md) · [M03](../M_Forbidden_Archaeology/M03_Impossible_Precision_Artifacts.md) · [M06](../M_Forbidden_Archaeology/M06_Anomalous_Megaliths.md) · [C04](../C_Global_Traditions/C04_Viracocha_Andean_Creator.md) · [D02](D02_Pyramids_Worldwide.md)
+> **Cross-References:** [D05](D05_Megalithic_Impossible_Engineering.md) · [C41](../C_Global_Traditions/C41_Andean_Civilizations.md) · [M03](../M_Forbidden_Archaeology/M03_Impossible_Precision_Ancient.md) · [M06](../M_Forbidden_Archaeology/M06_Anomalous_Megaliths_Engineering.md) · [C04](../C_Global_Traditions/C41_Andean_Civilizations.md) · [D02](D02_Pyramids_Worldwide.md)
 > **Reliability Tier:** Tier 1–2 (well-documented site; precision claims and chronological debates at Tier 2–3)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 11 scholarly sources | **Confidence:** High (core archaeology); Medium (construction methodology interpretation)
 
@@ -135,10 +135,10 @@ Tiwanaku, situated at 3,825m elevation on the Bolivian Altiplano near the shores
 | Related Doc | Connection |
 |-------------|-----------|
 | [D05 — Megalithic Impossible Engineering](D05_Megalithic_Impossible_Engineering.md) | Andesite/diorite precision cutting; stone transport across Lake Titicaca |
-| [C41 — Andean Cosmology](../C_Global_Traditions/C41_Andean_Cosmology_Pachamama.md) | Staff God / Viracocha iconography; Andean worldview |
-| [M03 — Impossible Precision](../M_Forbidden_Archaeology/M03_Impossible_Precision_Artifacts.md) | H-block flatness and angular precision |
-| [M06 — Anomalous Megaliths](../M_Forbidden_Archaeology/M06_Anomalous_Megaliths.md) | 131-tonne sandstone block transport |
-| [C04 — Viracocha](../C_Global_Traditions/C04_Viracocha_Andean_Creator.md) | Staff God as Viracocha; creation mythology |
+| [C41 — Andean Cosmology](../C_Global_Traditions/C41_Andean_Civilizations.md) | Staff God / Viracocha iconography; Andean worldview |
+| [M03 — Impossible Precision](../M_Forbidden_Archaeology/M03_Impossible_Precision_Ancient.md) | H-block flatness and angular precision |
+| [M06 — Anomalous Megaliths](../M_Forbidden_Archaeology/M06_Anomalous_Megaliths_Engineering.md) | 131-tonne sandstone block transport |
+| [C04 — Viracocha](../C_Global_Traditions/C41_Andean_Civilizations.md) | Staff God as Viracocha; creation mythology |
 | [D02 — Pyramids Worldwide](D02_Pyramids_Worldwide.md) | Akapana step-pyramid |
 | [J05 — Ancient Metallurgy](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Copper-arsenic-nickel alloy clamps |
 

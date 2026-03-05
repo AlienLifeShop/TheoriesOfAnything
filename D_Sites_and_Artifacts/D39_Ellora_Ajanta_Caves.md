@@ -3,7 +3,7 @@
 > **Document ID:** D39
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Ellora, Ajanta, Kailasa Temple, rock-cut architecture, Buddhist caves, Hindu caves, Jain caves, Rashtrakuta, Vakataka, frescoes, monolithic, top-down excavation, Maharashtra, Deccan, cave temple
-> **Cross-References:** [D16](D16_Underground_Cities_Caves.md) · [A11](../A_Foundations/A11_Mahabharata.md) · [C89](../C_Global_Traditions/C89_Hindu_Traditions.md) · [J04](../J_Ancient_Technology/J04_Megalithic_Construction.md) · [D22](D22_Sacred_Architecture_Principles.md) · [D30](D30_Petra_Rock_Cut_Architecture.md)
+> **Cross-References:** [D16](D16_Fibonacci_Sacred_Ratios.md) · [A11](../A_Foundations/A11_Mahabharata.md) · [C89](../C_Global_Traditions/C89_Jain_Cosmology_Nonviolence.md) · [J04](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [D22](D22_Sacred_Architecture_Principles.md) · [D30](D30_Petra_Rock_Cut_Architecture.md)
 > **Reliability Tier:** Tier 1–2 (Tier 1 for architecture and art history; Tier 2 for dating disputes and ritual interpretations)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** High (structure, art history); Medium (precise dating, patronage attribution)
 
@@ -170,10 +170,10 @@ The Ajanta and Ellora cave complexes in Maharashtra, western India, represent th
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [D16 — Underground Cities & Caves](D16_Underground_Cities_Caves.md) | Rock-cut architecture and subterranean sacred spaces worldwide |
+| [D16 — Underground Cities & Caves](D16_Fibonacci_Sacred_Ratios.md) | Rock-cut architecture and subterranean sacred spaces worldwide |
 | [A11 — Mahabharata](../A_Foundations/A11_Mahabharata.md) | Epic narratives depicted in Ellora sculptural programs |
-| [C89 — Hindu Traditions](../C_Global_Traditions/C89_Hindu_Traditions.md) | Shaivite theology and Kailash cosmology embodied in Cave 16 |
-| [J04 — Megalithic Construction](../J_Ancient_Technology/J04_Megalithic_Construction.md) | Rock-cutting techniques, mass excavation, top-down engineering |
+| [C89 — Hindu Traditions](../C_Global_Traditions/C89_Jain_Cosmology_Nonviolence.md) | Shaivite theology and Kailash cosmology embodied in Cave 16 |
+| [J04 — Megalithic Construction](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Rock-cutting techniques, mass excavation, top-down engineering |
 | [D22 — Sacred Architecture](D22_Sacred_Architecture_Principles.md) | Vastu Shastra, cosmic mountain modeling, axis mundi representation |
 | [D30 — Petra](D30_Petra_Rock_Cut_Architecture.md) | Comparative rock-cut architectural traditions across civilizations |
 

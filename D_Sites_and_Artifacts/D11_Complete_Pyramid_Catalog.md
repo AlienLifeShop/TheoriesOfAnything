@@ -341,3 +341,10 @@ Images to seek for this catalog:
 ---
 
 *D11 — Deep Scan Expansion Document — February 2026*
+
+## Bibliography
+
+1. Lehner, Mark, "The Complete Pyramids: Solving the Ancient Mysteries" (Thames and Hudson, 1997)
+2. Arnold, Dieter, "Building in Egypt: Pharaonic Stone Masonry" (Oxford University Press, 1991)
+3. Kendall, Timothy, "Kerma and the Kingdom of Kush: The Archaeological Discovery of an Ancient Nubian Empire" (National Museum of African Art, 1997)
+4. Evans, Susan Toby, "Ancient Mexico and Central America: Archaeology and Culture History" (Thames and Hudson, 2004)

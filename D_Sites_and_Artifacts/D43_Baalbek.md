@@ -3,7 +3,7 @@
 > **Document ID:** D43
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Baalbek, Heliopolis, Trilithon, Stone of the Pregnant Woman, Jupiter temple, Bacchus temple, Venus temple, Roman, Phoenician, megalithic, quarry, Bekaa Valley, Lebanon, colossal stones, monolith transport, oracle
-> **Cross-References:** [J04](../J_Ancient_Technology/J04_Megalithic_Construction.md) · [D01](D01_Gobekli_Tepe_Site_Analysis.md) · [F01](../F_Lost_Connections/F01_Lost_Civilizations_Overview.md) · [A01](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) · [J06](../J_Ancient_Technology/J06_Metallurgy_Ancient_World.md) · [D05](D05_Megalithic_Sites_Overview.md)
+> **Cross-References:** [J04](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [D01](D01_Gobekli_Tepe.md) · [F01](../F_Lost_Connections/F01_Atlantis.md) · [A01](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) · [J06](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) · [D05](D05_Megalithic_Impossible_Engineering.md)
 > **Reliability Tier:** Tier 1–2 (Tier 1 for Roman temples and quarry evidence; Tier 2 for pre-Roman platform claims and transport engineering)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** High (Roman phase); Medium–Low (pre-Roman substructure dating, transport methods)
 
@@ -174,12 +174,12 @@ Baalbek (ancient Heliopolis — "City of the Sun") is one of the most monumental
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [J04 — Megalithic Construction](../J_Ancient_Technology/J04_Megalithic_Construction.md) | Trilithon transport engineering, quarry techniques, massive stone handling |
-| [D01 — Göbekli Tepe](D01_Gobekli_Tepe_Site_Analysis.md) | Pre-Roman monumental construction debate, megaliths and ritual sites |
-| [F01 — Lost Civilizations](../F_Lost_Connections/F01_Lost_Civilizations_Overview.md) | Pre-Roman platform attribution debate, "older-than-believed" architecture claims |
+| [J04 — Megalithic Construction](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Trilithon transport engineering, quarry techniques, massive stone handling |
+| [D01 — Göbekli Tepe](D01_Gobekli_Tepe.md) | Pre-Roman monumental construction debate, megaliths and ritual sites |
+| [F01 — Lost Civilizations](../F_Lost_Connections/F01_Atlantis.md) | Pre-Roman platform attribution debate, "older-than-believed" architecture claims |
 | [A01 — Sumerian Texts](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) | Near Eastern religious traditions, Baal-Hadad worship, Semitic sanctuary traditions |
-| [J06 — Metallurgy](../J_Ancient_Technology/J06_Metallurgy_Ancient_World.md) | Roman engineering tools, quarrying technology, iron tool capabilities |
-| [D05 — Megalithic Sites Overview](D05_Megalithic_Sites_Overview.md) | Global context of colossal stone architecture, comparative engineering |
+| [J06 — Metallurgy](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Roman engineering tools, quarrying technology, iron tool capabilities |
+| [D05 — Megalithic Sites Overview](D05_Megalithic_Impossible_Engineering.md) | Global context of colossal stone architecture, comparative engineering |
 
 ---
 *Consolidated from 18 sources. Last Updated: Feb 28, 2026*

@@ -434,4 +434,23 @@ Since the Last Glacial Maximum (~26,500–19,000 BP), global sea levels have ris
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Flemming, N.C. "Cities under the Sea." *The Geographic Journal* 137 (1971).
+2. Gaffney, Vincent et al. *Europe's Lost World: The Rediscovery of Doggerland*. Council for British Archaeology, 2009.
+3. Galili, Ehud et al. "Atlit-Yam: A Prehistoric Site on the Sea Floor off the Israeli Coast." *Journal of Field Archaeology* 20.2 (1993).
+4. Galili, Ehud & Rosen, Baruch. "Submerged Neolithic Settlements off the Carmel Coast, Israel." *Paléorient* 34.1 (2008).
+5. Goddio, Franck. *Sunken Egypt: Alexandria*. Periplus, 2004.
+6. Goddio, Franck & Fabre, David (eds.). *Egypt's Sunken Treasures*. Prestel, 2006.
+7. Henderson, Jon C. et al. "Mapping Pavlopetri." *Internet Archaeology* 30 (2011).
+8. Lambeck, Kurt et al. "Sea Level and Global Ice Volumes from the Last Glacial Maximum to the Holocene." *PNAS* 111.43 (2014): 15296–15303.
+9. McCoy, Mark D. et al. "Earliest Direct Evidence of Monument Building at Nan Madol." *Quaternary Research* 86.2 (2016).
+10. McKusick, Marshall & Shinn, Eugene A. "Bahamian Atlantis Reconsidered." *Nature* 287 (1980): 11–12.
+11. Peltier, W.R. et al. "Space Geodesy Constrains Ice Age Terminal Deglaciation." *Geophysical Research Letters* 42 (2015).
+12. Gaur, A.S. et al. "Underwater Exploration at Dwarka." *Man and Environment* 26.1 (2001).
+13. Nunn, Patrick D. & Reid, Nicholas J. "Aboriginal Memories of Inundation of the Australian Coast." *Australian Geographer* 47.1 (2015): 11–47.
+14. Oppenheimer, Stephen. *Eden in the East: The Drowned Continent of Southeast Asia*. Weidenfeld & Nicolson, 1998.
+15. Rao, S.R. *The Lost City of Dvaraka*. National Institute of Oceanography, 1999.
+16. Rose, Jeffrey I. "New Light on Human Prehistory in the Arabo-Persian Gulf Oasis." *Current Anthropology* 51.6 (2010): 849–883.
+17. Walker, James et al. "A Great Wave: The Storegga Tsunami and the End of Doggerland?" *Antiquity* 94.378 (2020): 1409–1425.
+18. Hancock, Graham. *Underworld: The Mysterious Origins of Civilization*. Crown, 2002.
+19. Kimura, Masaaki. "Diving Survey Report for Submarine Ruins Off Yonaguni." *Marine Science and Technology* 12.3 (2004).
+20. Pawson, Michael & Buisseret, David. *Port Royal, Jamaica*. University of the West Indies Press, 2000.

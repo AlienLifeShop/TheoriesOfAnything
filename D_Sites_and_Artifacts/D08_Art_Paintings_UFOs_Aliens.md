@@ -372,4 +372,12 @@ In virtually ALL ancient art:
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Panofsky, Erwin. *Studies in Iconology: Humanistic Themes in the Art of the Renaissance*. Oxford University Press, 1939.
+2. Lhote, Henri. *The Search for the Tassili Frescoes*. Hutchinson, 1959.
+3. von Däniken, Erich. *Chariots of the Gods?* Souvenir Press, 1968.
+4. Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
+5. Crivelli, Carlo. "The Annunciation with Saint Emidius" (1486). National Gallery, London.
+6. de Gelder, Aert. "The Baptism of Christ" (1710). Fitzwilliam Museum, Cambridge. See Sumowski, Werner. *Gemälde der Rembrandt-Schüler*, Vol. 2. Landau/Pfalz, 1983.
+7. Salimbeni, Ventura. "Glorification of the Eucharist" (~1600). Church of San Pietro, Montalcino.
+8. Robertson, Merle Greene. *The Sculpture of Palenque*. Princeton University Press, 1983–1991.
+9. Reiche, Maria. *Mystery on the Desert*. 1949.

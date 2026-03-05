@@ -3,7 +3,7 @@
 > **Document ID:** D41
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Karahan Tepe, Taş Tepeler, Pre-Pottery Neolithic, T-shaped pillars, Structure AB, phallus room, carved heads, Şanlıurfa, Upper Mesopotamia, Neolithic ritual, pre-agricultural, Göbekli Tepe, monumental architecture, early sedentism, Sayburç
-> **Cross-References:** [D01](D01_Gobekli_Tepe_Site_Analysis.md) · [J04](../J_Ancient_Technology/J04_Megalithic_Construction.md) · [E22](../E_Cataclysms_and_Chronology/E22_Younger_Dryas.md) · [F01](../F_Lost_Connections/F01_Lost_Civilizations_Overview.md) · [D05](D05_Megalithic_Sites_Overview.md) · [D33](D33_Bimaran_Casket_and_Gandhara.md)
+> **Cross-References:** [D01](D01_Gobekli_Tepe.md) · [J04](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [E22](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [F01](../F_Lost_Connections/F01_Atlantis.md) · [D05](D05_Megalithic_Impossible_Engineering.md) · [D33](D33_Rock_Art_Worldwide.md)
 > **Reliability Tier:** Tier 1–2 (Tier 1 for excavation evidence; Tier 2 for interpretive models and pre-agricultural complexity debate)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 16 scholarly sources | **Confidence:** High (material culture); Medium–Low (functional interpretations — excavation ongoing since 2019)
 
@@ -169,12 +169,12 @@ Karahan Tepe is a Pre-Pottery Neolithic (PPN) site in southeastern Turkey (Şanl
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [D01 — Göbekli Tepe](D01_Gobekli_Tepe_Site_Analysis.md) | Sister site — T-shaped pillars, PPN ritual complex, pre-agricultural monumentality |
-| [J04 — Megalithic Construction](../J_Ancient_Technology/J04_Megalithic_Construction.md) | Bedrock quarrying, pillar extraction, monumental stone construction by pre-state societies |
-| [E22 — Younger Dryas](../E_Cataclysms_and_Chronology/E22_Younger_Dryas.md) | Climatic context — PPN sites emerge immediately post-Younger Dryas |
-| [F01 — Lost Civilizations](../F_Lost_Connections/F01_Lost_Civilizations_Overview.md) | Pre-agricultural complexity challenges traditional civilization models |
-| [D05 — Megalithic Sites](D05_Megalithic_Sites_Overview.md) | Global survey of megalithic traditions — comparative context |
-| [D33 — Bimaran Casket](D33_Bimaran_Casket_and_Gandhara.md) | Regional cross-cultural interaction and exchange network evidence |
+| [D01 — Göbekli Tepe](D01_Gobekli_Tepe.md) | Sister site — T-shaped pillars, PPN ritual complex, pre-agricultural monumentality |
+| [J04 — Megalithic Construction](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Bedrock quarrying, pillar extraction, monumental stone construction by pre-state societies |
+| [E22 — Younger Dryas](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Climatic context — PPN sites emerge immediately post-Younger Dryas |
+| [F01 — Lost Civilizations](../F_Lost_Connections/F01_Atlantis.md) | Pre-agricultural complexity challenges traditional civilization models |
+| [D05 — Megalithic Sites](D05_Megalithic_Impossible_Engineering.md) | Global survey of megalithic traditions — comparative context |
+| [D33 — Bimaran Casket](D33_Rock_Art_Worldwide.md) | Regional cross-cultural interaction and exchange network evidence |
 
 ---
 *Consolidated from 16 sources. Last Updated: Feb 28, 2026*

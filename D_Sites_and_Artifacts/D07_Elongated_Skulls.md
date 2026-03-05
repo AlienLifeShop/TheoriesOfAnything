@@ -360,4 +360,16 @@ If Paracas DNA results are accurate (European/Near Eastern haplogroups in pre-Co
 
 ## Bibliography
 
-- Lewis & Clark. *Journals of the Lewis and Clark Expedition*. 1805.
+1. Tiesler, Vera. *The Bioarchaeology of Artificial Cranial Modifications: New Approaches to Head Shaping and Its Meanings in Pre-Columbian Mesoamerica and Beyond*. Springer, 2014.
+2. Dembo, Adolfo & Imbelloni, José. *Deformaciones Intencionales del Cuerpo Humano de Carácter Étnico*. Buenos Aires, 1938.
+3. Hawass, Zahi et al. "Ancestry and Pathology in King Tutankhamun's Family." *JAMA* 303.7 (2010): 638–647.
+4. Mallowan, Max E.L. "The Excavations at Tall Arpachiyah, 1933." *Iraq* 2.1 (1935): 1–178.
+5. Hoshower, Lisa M. et al. "Artificial Cranial Deformation at the Omo M10 Site." *American Journal of Physical Anthropology* 98.1 (1995).
+6. Gerszten, Peter C. "An Investigation into the Practice of Cranial Deformation Among Pre-Columbian Peoples of Northern Chile." *International Journal of Osteoarchaeology* 3.2 (1993).
+7. Tello, Julio C. *Paracas: Primera Parte*. Lima, 1959.
+8. Zammit, Themistocles. "The Hal-Saflieni Prehistoric Hypogeum." Malta, 1910.
+9. Lewis, Meriwether & Clark, William. *Journals of the Lewis and Clark Expedition* (1805–1806). University of Nebraska Press.
+10. Foerster, Brien. *The Enigma of Cranial Deformation*. CreateSpace, 2012.
+11. Foerster, Brien. *Beyond the Black Mat*. 2020.
+12. Nakatsuka, Nathan et al. "A Paleogenomic Reconstruction of the Deep Population History of the Andes." *Cell* 181.5 (2020): 1131–1145.
+13. Posth, Cosimo et al. "Reconstructing the Deep Population History of Central and South America." *Cell* 175.5 (2018): 1185–1197.

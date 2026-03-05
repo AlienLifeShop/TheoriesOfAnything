@@ -323,12 +323,15 @@ The Tápu'at is still used in Hopi ceremonial life. The center of the labyrinth 
 
 ## Bibliography
 
-- Artress. *Walking a Sacred Path*. 1995.
-- Doob. *The Idea of the Labyrinth from Classical Antiquity through the Middle Ages*. 1990.
-- Kern. *Through the Labyrinth: Designs and Meanings over 5,000 Years*. 2000.
-- Narby. *The Cosmic Serpent*. 1998.
-- Petrie. *Hawara, Biahmu, and Arsinoe*. 1889.
-- Sandor & Froman. *Journal of Holistic Nursing* 24 (2006).
-- Saward. *Labyrinths and Mazes: A Complete Guide*. 2003.
-- Williams. *The Mind in the Cave*. 2002.
-- Wright. *The Maze and the Warrior*. 2001.
+1. Kern, Hermann. *Through the Labyrinth: Designs and Meanings over 5,000 Years*. Prestel, 2000.
+2. Saward, Jeff. *Labyrinths and Mazes: A Complete Guide to Magical Paths of the World*. Gaia Books, 2003.
+3. Doob, Penelope Reed. *The Idea of the Labyrinth from Classical Antiquity through the Middle Ages*. Cornell University Press, 1990.
+4. Wright, Craig. *The Maze and the Warrior: Symbols in Architecture, Theology, and Music*. Harvard University Press, 2001.
+5. Artress, Lauren. *Walking a Sacred Path: Rediscovering the Labyrinth as a Spiritual Practice*. Riverhead Books, 1995.
+6. Lewis-Williams, David. *The Mind in the Cave: Consciousness and the Origins of Art*. Thames & Hudson, 2002.
+7. Narby, Jeremy. *The Cosmic Serpent: DNA and the Origins of Knowledge*. Jeremy P. Tarcher, 1998.
+8. Petrie, W.M.F. *Hawara, Biahmu, and Arsinoe*. Field & Tuer, 1889.
+9. Evans, Arthur. *The Palace of Minos at Knossos*. 4 vols. Macmillan, 1921–1935.
+10. Sandor, Mary Kreitzer & Froman, Robin D. "Exploring the Effects of Walking the Labyrinth." *Journal of Holistic Nursing* 24.2 (2006): 103–108.
+11. Herodotus. *Histories* II.148. c. 440 BCE.
+12. Plutarch. *Life of Theseus*. c. 100 CE.

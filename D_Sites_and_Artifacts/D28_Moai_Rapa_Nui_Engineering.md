@@ -3,7 +3,7 @@
 > **Document ID:** D28
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** moai, Rapa Nui, Easter Island, Rano Raraku, pukao, ahu, Polynesian, rongorongo, walking moai, ecocide, collapse, megalithic statues, volcanic tuff, red scoria, birdman cult, Makemake, oral tradition
-> **Cross-References:** [C38](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md) · [D05](D05_Megalithic_Impossible_Engineering.md) · [D11](D11_Complete_Pyramid_Catalog.md) · [D20](D20_Ancient_Writing_Systems_Compared.md) · [M06](../M_Forbidden_Archaeology/M06_Anomalous_Megaliths.md)
+> **Cross-References:** [C38](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md) · [D05](D05_Megalithic_Impossible_Engineering.md) · [D11](D11_Complete_Pyramid_Catalog.md) · [D20](D20_Ancient_Writing_Systems_Compared.md) · [M06](../M_Forbidden_Archaeology/M06_Anomalous_Megaliths_Engineering.md)
 > **Reliability Tier:** Tier 1–2 (well-documented archaeology; transport mechanisms and collapse causation debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 11 scholarly sources | **Confidence:** High (statues and chronology); Medium (transport method and societal trajectory)
 
@@ -143,8 +143,8 @@ The moai of Rapa Nui (Easter Island) are among the most recognizable monumental 
 | [D05 — Megalithic Impossible Engineering](D05_Megalithic_Impossible_Engineering.md) | Transport of multi-tonne statues; megalithic platform construction |
 | [D11 — Pyramid Catalog](D11_Complete_Pyramid_Catalog.md) | Ahu platforms as monumental architecture |
 | [D20 — Ancient Writing Systems](D20_Ancient_Writing_Systems_Compared.md) | Rongorongo as independent writing invention |
-| [M06 — Anomalous Megaliths](../M_Forbidden_Archaeology/M06_Anomalous_Megaliths.md) | El Gigante (270 tonnes); transport mystery |
-| [E01 — Collapse Events](../E_Cataclysms_and_Chronology/E01_Global_Flood_Myths.md) | Ecocide/collapse debate |
+| [M06 — Anomalous Megaliths](../M_Forbidden_Archaeology/M06_Anomalous_Megaliths_Engineering.md) | El Gigante (270 tonnes); transport mystery |
+| [E01 — Collapse Events](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Ecocide/collapse debate |
 
 ---
 

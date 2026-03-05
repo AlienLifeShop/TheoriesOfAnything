@@ -3,7 +3,7 @@
 > **Document ID:** D40
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Lalibela, rock-hewn churches, Bete Giyorgis, Zagwe dynasty, Ethiopia, New Jerusalem, monolithic, subterranean, Ark of the Covenant, Ethiopian Orthodox, Roha, King Lalibela, drainage tunnels, cruciform plan
-> **Cross-References:** [C110](../C_Global_Traditions/C110_Ethiopian_Christianity.md) · [A10](../A_Foundations/A10_Kebra_Nagast.md) · [D22](D22_Sacred_Architecture_Principles.md) · [J04](../J_Ancient_Technology/J04_Megalithic_Construction.md) · [D30](D30_Petra_Rock_Cut_Architecture.md) · [D39](D39_Ellora_Ajanta_Caves.md)
+> **Cross-References:** [C110](../C_Global_Traditions/C110_Coptic_Ethiopian_Christian_Mystical_Traditions.md) · [A10](../A_Foundations/A10_Kebra_Nagast.md) · [D22](D22_Sacred_Architecture_Principles.md) · [J04](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [D30](D30_Petra_Rock_Cut_Architecture.md) · [D39](D39_Ellora_Ajanta_Caves.md)
 > **Reliability Tier:** Tier 1–2 (Tier 1 for architecture and excavation evidence; Tier 2 for dating debates and theological interpretations)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 17 scholarly sources | **Confidence:** High (site structure); Medium (precise dating, political context)
 
@@ -171,10 +171,10 @@ The rock-hewn churches of Lalibela in northern Ethiopia constitute one of the mo
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C110 — Ethiopian Christianity](../C_Global_Traditions/C110_Ethiopian_Christianity.md) | Ethiopian Orthodox Tewahedo theology, liturgical practices, New Jerusalem concept |
+| [C110 — Ethiopian Christianity](../C_Global_Traditions/C110_Coptic_Ethiopian_Christian_Mystical_Traditions.md) | Ethiopian Orthodox Tewahedo theology, liturgical practices, New Jerusalem concept |
 | [A10 — Kebra Nagast](../A_Foundations/A10_Kebra_Nagast.md) | Solomonic lineage, Ark of the Covenant traditions, Ethiopia as Second Holy Land |
 | [D22 — Sacred Architecture](D22_Sacred_Architecture_Principles.md) | Rock-hewn sacred space, cosmic symbolism, Aksumite architectural heritage |
-| [J04 — Megalithic Construction](../J_Ancient_Technology/J04_Megalithic_Construction.md) | Top-down rock excavation, iron tool technology, mass stone removal |
+| [J04 — Megalithic Construction](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Top-down rock excavation, iron tool technology, mass stone removal |
 | [D30 — Petra](D30_Petra_Rock_Cut_Architecture.md) | Comparative rock-cut architecture traditions across cultures |
 | [D39 — Ellora & Ajanta](D39_Ellora_Ajanta_Caves.md) | Top-down monolithic excavation comparison (Kailasa Temple); multi-religious rock-cut sites |
 

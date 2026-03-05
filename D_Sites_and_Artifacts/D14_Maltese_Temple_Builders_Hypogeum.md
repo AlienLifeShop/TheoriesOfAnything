@@ -51,7 +51,7 @@ The Maltese Temple Period (~3600–2500 BCE) produced the oldest free-standing s
 
 ### 2.1 The 110 Hz Oracle Chamber Effect [3/5 sources]
 - **Cook et al. (2008, *Time and Mind*):** the Oracle Chamber resonates at approximately 110 Hz. Non-coincidentally, 110 Hz has specific neurological effects:
-  - EEG studies show 110 Hz stimulation shifts activity from the LEFT prefrontal cortex (associated with language, analytical processing) to the RIGHT (associated with emotional processing, spatial cognition, and non-verbal ideation)
+  - Their EEG data show 110 Hz stimulation shifts activity from the LEFT prefrontal cortex (associated with language, analytical processing) to the RIGHT (associated with emotional processing, spatial cognition, and non-verbal ideation)
   - This shift is NOT observed at other nearby frequencies (90 Hz, 130 Hz)
   - The effect is consistent with reports of altered states of consciousness — reduced verbal thought, increased emotional/visionary experience
 - **Independent finding:** Ian Cook (UCLA) confirmed the frequency-specific brain shift. The effect occurs regardless of the person's beliefs or expectations.

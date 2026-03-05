@@ -3,7 +3,7 @@
 > **Document ID:** D36
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Pompeii, Herculaneum, Vesuvius, AD 79 eruption, pyroclastic flow, plaster casts, Villa of the Papyri, Philodemus, scrolls, Vesuvius Challenge, X-ray tomography, House of Mysteries, thermopolium, Roman painting, Fiorelli
-> **Cross-References:** [C108](../C_Global_Traditions/C108_Roman_Religion.md) · [E01](../E_Cataclysms_and_Chronology/E01_Catastrophism_Overview.md) · [J06](../J_Ancient_Technology/J06_Ancient_Engineering.md) · [O13](../O_Earth_Anomalies/O13_Plate_Tectonics.md) · [A08](../A_Foundations/A08_Hermetic_Tradition.md)
+> **Cross-References:** [C108](../C_Global_Traditions/C108_Roman_Religion_Augury_Imperial_Cult.md) · [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [J06](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [O13](../O_Earth_Anomalies/O13_Plate_Tectonics_Continental_Drift.md) · [A08](../A_Foundations/A08_Hermetic_Tradition.md)
 > **Reliability Tier:** Tier 1–2 (Tier 1 for volcanology and archaeology; Tier 2 for scroll contents and mystery-cult interpretations)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High (eruption, architecture, material culture); Medium (scroll decipherment, ritual interpretation)
 
@@ -157,7 +157,7 @@ The Roman cities of Pompeii (~11,000 population) and Herculaneum (~5,000 populat
 11. Berry, Joanne. *The Complete Pompeii.* London: Thames & Hudson, 2007.
 12. Wallace-Hadrill, Andrew. *Herculaneum: Past and Future.* London: Frances Lincoln, 2011.
 13. Cooley, Alison E. & M.G.L. Cooley. *Pompeii and Herculaneum: A Sourcebook.* 2nd ed. London: Routledge, 2014.
-14. Pliny the Younger. *Epistulae* VI.16, VI.20 (letters to Tacitus on the eruption). Various editions.
+14. Pliny the Younger. *Epistulae* VI.16, VI.20 (letters to Tacitus on the eruption). c. 100 CE. Various editions.
 15. Capasso, Luigi. *I Fuggiaschi di Ercolano.* Rome: L'Erma di Bretschneider, 2001.
 16. Ling, Roger. *Roman Painting.* Cambridge: Cambridge University Press, 1991.
 17. Zanella, Elena et al. "Temperatures of the Pyroclastic Density Currents during AD 79 Eruption." *Journal of Volcanology and Geothermal Research* 169 (2007): 154–166.
@@ -171,10 +171,10 @@ The Roman cities of Pompeii (~11,000 population) and Herculaneum (~5,000 populat
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C108 — Roman Religion](../C_Global_Traditions/C108_Roman_Religion.md) | Dionysiac mysteries, domestic cult practices, household lararia |
-| [E01 — Catastrophism Overview](../E_Cataclysms_and_Chronology/E01_Catastrophism_Overview.md) | Vesuvius eruption as catastrophist case study; volcanic destruction of civilizations |
-| [J06 — Ancient Engineering](../J_Ancient_Technology/J06_Ancient_Engineering.md) | Roman water distribution, amphitheater construction, urban planning |
-| [O13 — Plate Tectonics](../O_Earth_Anomalies/O13_Plate_Tectonics.md) | Campanian volcanic arc, subduction zone volcanism |
+| [C108 — Roman Religion](../C_Global_Traditions/C108_Roman_Religion_Augury_Imperial_Cult.md) | Dionysiac mysteries, domestic cult practices, household lararia |
+| [E01 — Catastrophism Overview](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Vesuvius eruption as catastrophist case study; volcanic destruction of civilizations |
+| [J06 — Ancient Engineering](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Roman water distribution, amphitheater construction, urban planning |
+| [O13 — Plate Tectonics](../O_Earth_Anomalies/O13_Plate_Tectonics_Continental_Drift.md) | Campanian volcanic arc, subduction zone volcanism |
 | [A08 — Hermetic Tradition](../A_Foundations/A08_Hermetic_Tradition.md) | Mystery cult connections; Dionysiac and Orphic initiation parallels |
 
 ---

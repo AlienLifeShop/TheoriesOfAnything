@@ -3,7 +3,7 @@
 > **Document ID:** D31
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Great Wall of China, Wanli Changcheng, tamped earth, hangtu, brick, signal towers, beacon fires, Ming dynasty, Qin dynasty, Han dynasty, dragon vein, feng shui, Meng Jiangnu, fortification, defense, nomadic, Xiongnu, Mongol, rammed earth, lime mortar, sticky rice mortar
-> **Cross-References:** [C12](../C_Global_Traditions/C12_Chinese_Dragon_Tradition.md) · [J05](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) · [D05](D05_Megalithic_Impossible_Engineering.md) · [C32](../C_Global_Traditions/C32_Daoism_Daoist_Cosmology.md) · [D22](D22_Sacred_Architecture_Principles.md)
+> **Cross-References:** [C12](../C_Global_Traditions/C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) · [J05](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) · [D05](D05_Megalithic_Impossible_Engineering.md) · [C32](../C_Global_Traditions/C32_Daoism_Chinese_Alchemy.md) · [D22](D22_Sacred_Architecture_Principles.md)
 > **Reliability Tier:** Tier 1–2 (construction history Tier 1; mythology and feng shui associations Tier 2–3)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 10 scholarly sources | **Confidence:** High (engineering and history); Medium (cultural interpretation)
 
@@ -138,12 +138,12 @@ The Great Wall of China is not a single wall but a vast network of fortification
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C12 — Chinese Dragon Tradition](../C_Global_Traditions/C12_Chinese_Dragon_Tradition.md) | Dragon vein (longmai); wall as dragon's spine |
+| [C12 — Chinese Dragon Tradition](../C_Global_Traditions/C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) | Dragon vein (longmai); wall as dragon's spine |
 | [J05 — Ancient Metallurgy](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Iron tools, brick kilns, metallurgical technology |
 | [D05 — Megalithic Engineering](D05_Megalithic_Impossible_Engineering.md) | Scale of construction; labor organization |
-| [C32 — Daoism / Daoist Cosmology](../C_Global_Traditions/C32_Daoism_Daoist_Cosmology.md) | Feng shui principles; qi flow; geomantic landscape design |
+| [C32 — Daoism / Daoist Cosmology](../C_Global_Traditions/C32_Daoism_Chinese_Alchemy.md) | Feng shui principles; qi flow; geomantic landscape design |
 | [D22 — Sacred Architecture](D22_Sacred_Architecture_Principles.md) | Cosmic orientation; gate placement principles |
-| [E01 — Global Cataclysms](../E_Cataclysms_and_Chronology/E01_Global_Flood_Myths.md) | Wall as response to existential threat (nomadic invasion as recurring "cataclysm") |
+| [E01 — Global Cataclysms](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Wall as response to existential threat (nomadic invasion as recurring "cataclysm") |
 
 ---
 

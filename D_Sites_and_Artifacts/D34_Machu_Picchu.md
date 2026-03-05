@@ -3,7 +3,7 @@
 > **Document ID:** D34
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Machu Picchu, Pachacuti, Inca, Intihuatana, solstice alignment, ashlar masonry, Cusco, Vilcanota, anti-seismic, sacred landscape, Urubamba, Huayna Picchu, terraces, hydraulic engineering, royal estate, ceque system
-> **Cross-References:** [C28](../C_Global_Traditions/C28_Inca_Cosmology.md) · [D01](D01_Gobekli_Tepe.md) · [J04](../J_Ancient_Technology/J04_Megalithic_Construction.md) · [E22](../E_Cataclysms_and_Chronology/E22_Younger_Dryas.md) · [D08](D08_Art_Paintings_UFOs_Aliens.md) · [D19](D19_Archaeoastronomy_Synthesis.md) · [D27](D27_Tiwanaku_Puma_Punku_Deep_Dive.md)
+> **Cross-References:** [C28](../C_Global_Traditions/C41_Andean_Civilizations.md) · [D01](D01_Gobekli_Tepe.md) · [J04](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [E22](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [D08](D08_Art_Paintings_UFOs_Aliens.md) · [D19](D19_Archaeoastronomy_Synthesis.md) · [D27](D27_Tiwanaku_Puma_Punku_Deep_Dive.md)
 > **Reliability Tier:** Tier 1–2 (Tier 1 for archaeology and construction; Tier 2 for astronomical interpretations)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High (architecture, chronology); Medium (astronomical claims, site function)
 
@@ -168,10 +168,10 @@ Machu Picchu, located at 2,430 m asl on a narrow ridge between the peaks of Mach
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C28 — Inca Cosmology](../C_Global_Traditions/C28_Inca_Cosmology.md) | Apus, mayu (celestial rivers), and sacred landscape concepts underlying Machu Picchu's placement |
+| [C28 — Inca Cosmology](../C_Global_Traditions/C41_Andean_Civilizations.md) | Apus, mayu (celestial rivers), and sacred landscape concepts underlying Machu Picchu's placement |
 | [D01 — Göbekli Tepe](D01_Gobekli_Tepe.md) | Comparative pre-literate monumental construction; deliberate astronomical orientation |
-| [J04 — Megalithic Construction](../J_Ancient_Technology/J04_Megalithic_Construction.md) | Ashlar masonry, anti-seismic engineering, terrace construction techniques |
-| [E22 — Younger Dryas](../E_Cataclysms_and_Chronology/E22_Younger_Dryas.md) | Andean paleoclimate context for earlier occupation claims |
+| [J04 — Megalithic Construction](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Ashlar masonry, anti-seismic engineering, terrace construction techniques |
+| [E22 — Younger Dryas](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Andean paleoclimate context for earlier occupation claims |
 | [D08 — Astronomical Alignments](D08_Art_Paintings_UFOs_Aliens.md) | Solstice windows, Intihuatana gnomon, Pleiades tracking |
 | [D19 — Archaeoastronomy Synthesis](D19_Archaeoastronomy_Synthesis.md) | Inca astronomical practices in broader global archaeoastronomy context |
 | [D27 — Tiwanaku & Puma Punku](D27_Tiwanaku_Puma_Punku_Deep_Dive.md) | Pre-Inca Andean megalithic traditions influencing later Inca construction |

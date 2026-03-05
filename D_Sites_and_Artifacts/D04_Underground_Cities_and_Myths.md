@@ -467,3 +467,10 @@ The recurrence of underground city/realm traditions across unconnected cultures 
 ---
 *[D04 COMPLETE — Derinkuyu, Cappadocia, Longyou, Midyat, Agartha/Shambhala/Xibalba/Patala, cross-cultural pattern analysis, Hollow Earth debunked]*
 *Feb 28: Merged unique D12 content — 40+ additional sites with GPS coordinates, 14 additional mythological traditions, 11 alleged entrance locations, 7 major cave systems, expanded modern facilities with coordinates, additional bibliography entries*
+
+## Bibliography
+
+1. Ousterhout, Robert, "A Byzantine Settlement in Cappadocia" (Dumbarton Oaks, 2005)
+2. Taylor, Timothy, "The Buried Soul: How Humans Invented Death" (Beacon Press, 2002)
+3. Bernbaum, Edwin, "Sacred Mountains of the World" (University of California Press, 1997)
+4. Eliade, Mircea, "Patterns in Comparative Religion" (Sheed and Ward, 1958)

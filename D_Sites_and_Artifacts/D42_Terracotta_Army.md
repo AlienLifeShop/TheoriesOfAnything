@@ -3,7 +3,7 @@
 > **Document ID:** D42
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Terracotta Army, Qin Shi Huang, terracotta warriors, Pit 1, Pit 2, Pit 3, bronze chariots, mercury, chromium, crossbow trigger, Xi'an, Lintong, Qin dynasty, mausoleum, First Emperor, mass production, modular assembly
-> **Cross-References:** [J06](../J_Ancient_Technology/J06_Metallurgy_Ancient_World.md) · [C12](../C_Global_Traditions/C12_Chinese_Mythology.md) · [J11](../J_Ancient_Technology/J11_Ancient_Mass_Production.md) · [P17](../P_Philosophy_Meaning/P17_Death_Afterlife_Beliefs.md) · [S04](../S_Future_Technology/S04_Advanced_Materials.md) · [D31](D31_Angkor_Wat.md)
+> **Cross-References:** [J06](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) · [C12](../C_Global_Traditions/C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) · [J11](../J_Ancient_Technology/J11_Ancient_Automata_Proto_Robotics.md) · [P17](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) · [S04](../S_Future_Technology/S04_Brain_Computer_Interfaces.md) · [D31](D31_Great_Wall_China_Engineering.md)
 > **Reliability Tier:** Tier 1–2 (Tier 1 for excavated material; Tier 2 for unexcavated tomb chamber and interpretive questions)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High (excavated pits, workshop analysis); Medium–Low (unexcavated central tomb — based on ancient texts and remote sensing)
 
@@ -171,12 +171,12 @@ The Terracotta Army is a collection of approximately **8,000 life-sized clay sol
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [J06 — Metallurgy](../J_Ancient_Technology/J06_Metallurgy_Ancient_World.md) | Qin bronze casting, tin alloys, crossbow trigger precision, Chinese purple synthesis |
-| [C12 — Chinese Mythology](../C_Global_Traditions/C12_Chinese_Mythology.md) | Cosmological tomb design, afterlife ideologies, Five Elements, Mandate of Heaven |
-| [J11 — Ancient Mass Production](../J_Ancient_Technology/J11_Ancient_Mass_Production.md) | Modular assembly system, workshop inscriptions, quality-control standardization |
-| [P17 — Death & Afterlife Beliefs](../P_Philosophy_Meaning/P17_Death_Afterlife_Beliefs.md) | Imperial afterlife ideology, substitution burial, cosmological tomb architecture |
-| [S04 — Advanced Materials](../S_Future_Technology/S04_Advanced_Materials.md) | Chinese purple quantum properties, synthetic pigment chemistry |
-| [D31 — Angkor Wat](D31_Angkor_Wat.md) | Monumental state-directed construction programs, cosmic architectural symbolism |
+| [J06 — Metallurgy](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Qin bronze casting, tin alloys, crossbow trigger precision, Chinese purple synthesis |
+| [C12 — Chinese Mythology](../C_Global_Traditions/C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) | Cosmological tomb design, afterlife ideologies, Five Elements, Mandate of Heaven |
+| [J11 — Ancient Mass Production](../J_Ancient_Technology/J11_Ancient_Automata_Proto_Robotics.md) | Modular assembly system, workshop inscriptions, quality-control standardization |
+| [P17 — Death & Afterlife Beliefs](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) | Imperial afterlife ideology, substitution burial, cosmological tomb architecture |
+| [S04 — Advanced Materials](../S_Future_Technology/S04_Brain_Computer_Interfaces.md) | Chinese purple quantum properties, synthetic pigment chemistry |
+| [D31 — Angkor Wat](D31_Great_Wall_China_Engineering.md) | Monumental state-directed construction programs, cosmic architectural symbolism |
 
 ---
 *Consolidated from 20 sources. Last Updated: Feb 28, 2026*

@@ -343,4 +343,14 @@ Göbekli Tepe is the crux of the handbag mystery. Without it, the motif can be e
 
 ## Bibliography
 
-- Best. *The Whare Wānanga*. 1923.
+1. Schmidt, Klaus. *Sie bauten die ersten Tempel: Das rätselhafte Heiligtum der Steinzeitjäger*. C.H. Beck, 2006.
+2. Dietrich, Oliver et al. "The Role of Cult and Feasting in the Emergence of Neolithic Communities." *Antiquity* 86.333 (2012): 674–695.
+3. Sweatman, Martin B. & Tsikritsis, Dimitrios. "Decoding Göbekli Tepe with Archaeoastronomy: What Does the Fox Say?" *Mediterranean Archaeology and Archaeometry* 17.1 (2017): 233–250.
+4. Coe, Michael D. & Diehl, Richard A. *In the Land of the Olmec*. University of Texas Press, 1980.
+5. Best, Elsdon. *The Māori School of Learning (The Whare Wānanga)*. Dominion Museum Monograph No. 6. Wellington, 1923.
+6. Kramer, Samuel Noah. *The Sumerians: Their History, Culture, and Character*. University of Chicago Press, 1963.
+7. Collon, Dominique. *Catalogue of Western Asiatic Seals in the British Museum: Cylinder Seals V*. British Museum Press, 2001.
+8. Wiggermann, F.A.M. *Mesopotamian Protective Spirits: The Ritual Texts*. Styx Publications, 1992.
+9. Hancock, Graham. *Magicians of the Gods*. Coronet, 2015.
+10. Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
+11. Childress, David Hatcher. *Technology of the Gods: The Incredible Sciences of the Ancients*. Adventures Unlimited Press, 2000.

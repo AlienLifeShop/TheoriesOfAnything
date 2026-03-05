@@ -3,7 +3,7 @@
 > **Document ID:** D29
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Newgrange, Knowth, Dowth, Brú na Bóinne, Boyne Valley, passage tomb, winter solstice, light box, roof box, triskele, triple spiral, megalithic art, kerbstones, Neolithic Ireland, acoustic resonance, orthostats, cairn, standing stone basin
-> **Cross-References:** [D19](D19_Archaeoastronomy_Synthesis.md) · [C34](../C_Global_Traditions/C34_Paleolithic_Religion_Cave_Art.md) · [D25](D25_Carnac_Avebury_European_Alignments.md) · [J07](../J_Ancient_Technology/J07_110Hz_Acoustic_Resonance.md) · [D10](D10_Sacred_Geometry.md) · [D05](D05_Megalithic_Impossible_Engineering.md)
+> **Cross-References:** [D19](D19_Archaeoastronomy_Synthesis.md) · [C34](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md) · [D25](D25_Carnac_Avebury_European_Alignments.md) · [J07](../J_Ancient_Technology/J07_110Hz_Acoustic_Altered_States.md) · [D10](D10_Sacred_Geometry.md) · [D05](D05_Megalithic_Impossible_Engineering.md)
 > **Reliability Tier:** Tier 1–2 (extensively excavated; solstice alignment Tier 1; symbolic interpretation Tier 2–3)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 11 scholarly sources | **Confidence:** High (archaeology and alignment); Medium (symbolic meaning)
 
@@ -89,7 +89,7 @@ Newgrange, constructed around 3200 BCE in the Boyne Valley (Brú na Bóinne) of 
 
 ### 3.2 Pan-European Passage Tomb Network [2/5 sources]
 - Passage tombs share architectural features across Atlantic Europe (Iberia, Brittany, Britain, Ireland, Scandinavia) suggesting cultural transmission along maritime routes.
-- Whether this constitutes a unified "religion" or a loose family of related traditions is unclear. Recent genetic studies show population connections but also local continuity.
+- Whether this constitutes a unified "religion" or a loose family of related traditions is unclear. Recent genetic studies (Cassidy et al., 2020) show population connections but also local continuity.
 
 ### 3.3 Intentional Geometric Ratios [2/5 sources]
 - Some researchers claim the mound dimensions incorporate mathematical ratios (π, √2, golden ratio). Analysis is complicated by the mound's irregular preservation and O'Kelly's reconstruction choices.
@@ -140,12 +140,12 @@ Newgrange, constructed around 3200 BCE in the Boyne Valley (Brú na Bóinne) of 
 | Related Doc | Connection |
 |-------------|-----------|
 | [D19 — Archaeoastronomy Synthesis](D19_Archaeoastronomy_Synthesis.md) | Winter solstice alignment; equinox alignment at Knowth |
-| [C34 — Paleolithic/Celtic Religion](../C_Global_Traditions/C34_Paleolithic_Religion_Cave_Art.md) | Neolithic ritual practices; spiral art continuity |
+| [C34 — Paleolithic/Celtic Religion](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md) | Neolithic ritual practices; spiral art continuity |
 | [D25 — European Megalithic Alignments](D25_Carnac_Avebury_European_Alignments.md) | Atlantic European megalithic tradition; passage tomb network |
-| [J07 — 110Hz Acoustic Resonance](../J_Ancient_Technology/J07_110Hz_Acoustic_Resonance.md) | Chamber resonance at ~110 Hz; ritual acoustics |
+| [J07 — 110Hz Acoustic Resonance](../J_Ancient_Technology/J07_110Hz_Acoustic_Altered_States.md) | Chamber resonance at ~110 Hz; ritual acoustics |
 | [D10 — Sacred Geometry](D10_Sacred_Geometry.md) | Spiral art; possible geometric encoding |
 | [D05 — Megalithic Engineering](D05_Megalithic_Impossible_Engineering.md) | Corbelled roof; stone transport over 80 km |
-| [K16 — Entoptic Phenomena](../K_Consciousness/K16_Entoptic_Phenomena.md) | Lewis-Williams model of spiral/geometric art as entoptic patterns |
+| [K16 — Entoptic Phenomena](../K_Consciousness/K16_Entoptic_Phenomena_Phosphene_Patterns.md) | Lewis-Williams model of spiral/geometric art as entoptic patterns |
 
 ---
 

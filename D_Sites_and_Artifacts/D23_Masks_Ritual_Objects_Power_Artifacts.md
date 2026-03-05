@@ -147,13 +147,13 @@ The **Ark of the Covenant** represents the most prominent "power object" in the 
 |----------|------------|
 | [C63 — Initiation Rites](../C_Global_Traditions/C63_Initiation_Rites_Coming_of_Age.md) | Masks in initiation ceremonies |
 | [B16 — Shape-Shifting](../B_Beings_and_Entities/B16_Shape_Shifting_Therianthropy.md) | Masks as transformation technology |
-| [K15 — Shamanism](../K_Consciousness/K15_Shamanism_Global_Tradition.md) | Shamanic ritual objects |
+| [K15 — Shamanism](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Shamanic ritual objects |
 | [B04 — Solomon](../B_Beings_and_Entities/B04_Solomon_and_the_Jinn.md) | Ark of the Covenant |
-| [C34 — Paleolithic Religion](../C_Global_Traditions/C34_Paleolithic_Religion_Cave_Art.md) | Earliest masks and ritual objects |
+| [C34 — Paleolithic Religion](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md) | Earliest masks and ritual objects |
 | [A08 — Hermetic Tradition](../A_Foundations/A08_Hermetic_Tradition.md) | Talismanic magic; object enchantment |
 | [C65 — Death Rituals](../C_Global_Traditions/C65_Death_Rituals_Funerary_Architecture.md) | Death masks; funerary objects |
-| [G05 — Entheogen Theory](../G_Modern_Frameworks/G05_Entheogen_Theory.md) | Shamanic plant preparations as ritual objects |
-| [C53 — Axis Mundi](../C_Global_Traditions/C53_Axis_Mundi_World_Tree_Cosmic_Pillar.md) | Staff/wand as miniature world axis |
+| [G05 — Entheogen Theory](../G_Modern_Frameworks/G05_Shamanism_Entheogens_Serpent_Visions.md) | Shamanic plant preparations as ritual objects |
+| [C53 — Axis Mundi](../C_Global_Traditions/C53_Sacred_Trees_Axis_Mundi.md) | Staff/wand as miniature world axis |
 
 ---
 

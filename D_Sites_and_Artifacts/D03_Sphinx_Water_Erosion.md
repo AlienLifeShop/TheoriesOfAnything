@@ -374,3 +374,10 @@ No purely geological explanation limited to the 4th Dynasty timeframe has satisf
 *Date: February 9, 2026 | Updated: February 21, 2026*
 *Feb 21: Added Haghani & Sobey 2024 CFD erosion modeling study (Physical Review Fluids)*
 *Approach: Neutral — presenting all interpretations without choosing a side*
+
+## Bibliography
+
+1. Schoch, Robert M., "Voices of the Rocks: A Scientist Looks at Catastrophes and Ancient Civilizations" (Harmony Books, 1999)
+2. Lehner, Mark, "The Complete Pyramids" (Thames and Hudson, 1997)
+3. Reader, Colin, "A Geomorphological Study of the Giza Necropolis" (Archaeometry, 2001)
+4. Hawass, Zahi, "The Secrets of the Sphinx" (American University in Cairo Press, 1998)

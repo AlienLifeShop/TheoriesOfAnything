@@ -3,7 +3,7 @@
 > **Document ID:** D26
 > **Section:** D_Sites_and_Artifacts
 > **Keywords:** Teotihuacan, Pyramid of the Sun, Pyramid of the Moon, Temple of the Feathered Serpent, Quetzalcoatl, Street of the Dead, mica, mercury, Mesoamerica, Aztec, obsidian, multi-ethnic, urban planning, 15.5 degrees, Ciudadela, talud-tablero, mural painting
-> **Cross-References:** [D02](D02_Pyramids_Worldwide.md) · [C36](../C_Global_Traditions/C36_Aztec_Fifth_Sun_Cosmic_Cycles.md) · [D19](D19_Archaeoastronomy_Synthesis.md) · [D22](D22_Sacred_Architecture_Principles.md) · [M01](../M_Forbidden_Archaeology/M01_Out_of_Place_Artifacts.md) · [D10](D10_Sacred_Geometry.md)
+> **Cross-References:** [D02](D02_Pyramids_Worldwide.md) · [C36](../C_Global_Traditions/C36_Aztec_Cosmology_Five_Suns.md) · [D19](D19_Archaeoastronomy_Synthesis.md) · [D22](D22_Sacred_Architecture_Principles.md) · [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) · [D10](D10_Sacred_Geometry.md)
 > **Reliability Tier:** Tier 1–2 (extensively excavated; builders' identity and symbolic system debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 12 scholarly sources | **Confidence:** High (material record); Medium (interpretation of purpose)
 
@@ -137,10 +137,10 @@ Teotihuacan — the name itself meaning "the place where gods were born" in Nahu
 | Related Doc | Connection |
 |-------------|-----------|
 | [D02 — Pyramids Worldwide](D02_Pyramids_Worldwide.md) | Pyramid of the Sun as one of world's largest pyramids |
-| [C36 — Aztec Fifth Sun](../C_Global_Traditions/C36_Aztec_Fifth_Sun_Cosmic_Cycles.md) | Aztec mythologization of Teotihuacan as birthplace of current Sun |
+| [C36 — Aztec Fifth Sun](../C_Global_Traditions/C36_Aztec_Cosmology_Five_Suns.md) | Aztec mythologization of Teotihuacan as birthplace of current Sun |
 | [D19 — Archaeoastronomy](D19_Archaeoastronomy_Synthesis.md) | 15.5° alignment; August zenith passage; pecked cross-circles |
 | [D22 — Sacred Architecture](D22_Sacred_Architecture_Principles.md) | Talud-tablero; cosmological urban planning |
-| [M01 — OOPArts](../M_Forbidden_Archaeology/M01_Out_of_Place_Artifacts.md) | Mica import mystery; mercury deposits |
+| [M01 — OOPArts](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Mica import mystery; mercury deposits |
 | [D10 — Sacred Geometry](D10_Sacred_Geometry.md) | Grid plan ratios; pecked cross-circle geometry |
 | [D21 — Crystal/Piezoelectric](D21_Crystal_Stone_Piezoelectric_Technology.md) | Speculative mica properties |
 

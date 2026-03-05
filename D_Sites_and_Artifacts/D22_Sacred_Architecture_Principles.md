@@ -155,13 +155,13 @@
 
 | Document | Connection |
 |----------|------------|
-| [D05 — Megalithic Engineering](D05_Megalithic_Engineering.md) | Construction techniques for monumental sacred structures |
+| [D05 — Megalithic Engineering](D05_Megalithic_Impossible_Engineering.md) | Construction techniques for monumental sacred structures |
 | [D10 — Sacred Geometry](D10_Sacred_Geometry.md) | Mathematical principles underlying sacred design |
-| [D12 — Pythagorean Harmony](D12_Pythagorean_Harmony_Cosmic_Sound.md) | Musical ratios in architectural proportion |
+| [D12 — Pythagorean Harmony](D12_Pythagorean_Harmony_Sacred_Sound.md) | Musical ratios in architectural proportion |
 | [D01 — Göbekli Tepe](D01_Gobekli_Tepe.md) | Earliest known monumental sacred architecture |
-| [D19 — Archaeoastronomy](D19_Archaeoastronomy_Star_Maps.md) | Astronomical alignments in sacred structures |
+| [D19 — Archaeoastronomy](D19_Archaeoastronomy_Synthesis.md) | Astronomical alignments in sacred structures |
 | [C53 — Sacred Trees / Axis Mundi](../C_Global_Traditions/C53_Sacred_Trees_Axis_Mundi.md) | World-pillar symbolism encoded in architecture |
-| [J04 — Acoustic Technology](../J_Ancient_Technology/J04_Acoustic_Technology_Ancient.md) | Sound design in sacred spaces |
+| [J04 — Acoustic Technology](../J_Ancient_Technology/J04_Acoustic_Vibrational_Technology.md) | Sound design in sacred spaces |
 | [C51 — Angkor Wat](../C_Global_Traditions/C51_Mesopotamian_Underworld_Ereshkigal.md) | Hindu-Buddhist temple mountain architecture |
 
 ---
