@@ -3,7 +3,7 @@
 > **Document ID:** M14
 > **Section:** M_Forbidden_Archaeology
 > **Keywords:** ancient nuclear war, Mahabharata, brahmastra, Mohenjo-daro, radioactive skeletons, Libyan desert glass, trinitite, Davenport, Rajasthan, Indus Valley, vitrification, debunked
-> **Cross-References:** [A11](../A_Foundations/A11_Mahabharata.md) · [M13](../M_Forbidden_Archaeology/M13_Vitrified_Forts_Scotland_Beyond.md) · [J23](../J_Ancient_Technology/J23_Warfare_Technology.md) · [S19](../S_Future_Technology/S19_Autonomous_Weapons.md) · [E01](../E_Cataclysms_and_Chronology/E01_Catastrophism.md)
+> **Cross-References:** [A11](../A_Foundations/A11_Mahabharata.md) · [M13](../M_Forbidden_Archaeology/M13_Vitrified_Forts_Scotland_Beyond.md) · [J23](../J_Ancient_Technology/J23_Ancient_Warfare_Technology.md) · [S19](../S_Future_Technology/S19_Autonomous_Weapons_Systems.md) · [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md)
 > **Reliability Tier:** Tier 2-4 (ancient texts are real at Tier 1; weapon descriptions are literary at Tier 2; radioactive/vitrification evidence claims are debunked Tier 4)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High for debunking; Low for the theory itself
 
@@ -172,9 +172,9 @@ However, rigorous archaeological and scientific investigation has systematically
 |----------|-------------|-----------|
 | [A11](../A_Foundations/A11_Mahabharata.md) | Source text | The Mahabharata's weapon descriptions are the literary basis for the ancient nuclear theory |
 | [M13](../M_Forbidden_Archaeology/M13_Vitrified_Forts_Scotland_Beyond.md) | Vitrification | Vitrified forts are cited alongside Mohenjo-daro; both have mundane explanations |
-| [J23](../J_Ancient_Technology/J23_Warfare_Technology.md) | Ancient weapons | Historical incendiary weapons provide context for mythological weapon descriptions |
-| [S19](../S_Future_Technology/S19_Autonomous_Weapons.md) | Modern weapons | Contemporary WMD technology contrasts sharply with ancient capabilities |
-| [E01](../E_Cataclysms_and_Chronology/E01_Catastrophism.md) | Catastrophism | The theory fits within catastrophist narratives of civilizational destruction and reset |
+| [J23](../J_Ancient_Technology/J23_Ancient_Warfare_Technology.md) | Ancient weapons | Historical incendiary weapons provide context for mythological weapon descriptions |
+| [S19](../S_Future_Technology/S19_Autonomous_Weapons_Systems.md) | Modern weapons | Contemporary WMD technology contrasts sharply with ancient capabilities |
+| [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Catastrophism | The theory fits within catastrophist narratives of civilizational destruction and reset |
 | [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) | Ancient complexity | Genuine ancient sophistication exists without requiring nuclear technology |
 
 ---

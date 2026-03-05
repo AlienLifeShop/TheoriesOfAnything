@@ -3,7 +3,7 @@
 > **Document ID:** M09
 > **Section:** M_Forbidden_Archaeology
 > **Keywords:** Antikythera mechanism, analog computer, Greek technology, bronze gears, Saros cycle, eclipse prediction, differential gearing, ancient astronomy, Archimedes, shipwreck
-> **Cross-References:** [J03](../J_Ancient_Technology/J03_Lost_Material_Science.md) · [J11](../J_Ancient_Technology/J11_Ancient_Automata.md) · [M01](../M_Forbidden_Archaeology/M01_OOPArts.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy.md) · [J15](../J_Ancient_Technology/J15_Chinese_Tech.md)
+> **Cross-References:** [J03](../J_Ancient_Technology/J03_Lost_Material_Science.md) · [J11](../J_Ancient_Technology/J11_Ancient_Automata_Proto_Robotics.md) · [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [J15](../J_Ancient_Technology/J15_Chinese_Ancient_Technology.md)
 > **Reliability Tier:** Tier 1-2 (physical artifact verified; some reconstructed functions debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 16 scholarly sources | **Confidence:** High
 
@@ -122,10 +122,10 @@ The Antikythera Mechanism is a corroded bronze device recovered from a Roman-era
 | Related Doc | Connection |
 |-------------|-----------|
 | [J03](../J_Ancient_Technology/J03_Lost_Material_Science.md) | Lost material science and manufacturing techniques |
-| [J11](../J_Ancient_Technology/J11_Ancient_Automata.md) | Greek automata tradition (Hero, Ctesibius) |
-| [M01](../M_Forbidden_Archaeology/M01_OOPArts.md) | Out-of-place artifacts context |
-| [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy.md) | Astronomical knowledge encoded in artifacts |
-| [J15](../J_Ancient_Technology/J15_Chinese_Tech.md) | Comparative ancient technological traditions |
+| [J11](../J_Ancient_Technology/J11_Ancient_Automata_Proto_Robotics.md) | Greek automata tradition (Hero, Ctesibius) |
+| [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Out-of-place artifacts context |
+| [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Astronomical knowledge encoded in artifacts |
+| [J15](../J_Ancient_Technology/J15_Chinese_Ancient_Technology.md) | Comparative ancient technological traditions |
 | [M12](../M_Forbidden_Archaeology/M12_Gobekli_Tepe_Pillar_43_Comet.md) | Ancient astronomical encoding comparison |
 
 ---

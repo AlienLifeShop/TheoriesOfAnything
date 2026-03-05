@@ -160,10 +160,10 @@ While the physical evidence for a "race of giants" is absent, **giant motifs** a
 
 | Document | Connection |
 |----------|------------|
-| [M01 — Forbidden Archaeology Overview](M01_Forbidden_Archaeology.md) | Parent category for out-of-place evidence claims |
+| [M01 — Forbidden Archaeology Overview](M01_OOPArts_Catalog.md) | Parent category for out-of-place evidence claims |
 | [B10 — Nephilim and Giants](../B_Beings_and_Entities/B10_Nephilim_Giants_Comprehensive.md) | Biblical and cross-cultural giant traditions |
 | [B02 — Anunnaki Connection](../B_Beings_and_Entities/B02_Anunnaki_Connection.md) | Ancient extraterrestrial/Nephilim creation claims |
-| [H01 — Suppression Thesis](../H_Suppression_and_Thesis/H01_Suppression_Thesis.md) | Knowledge suppression frameworks |
+| [H01 — Suppression Thesis](../H_Suppression_and_Thesis/H01_Suppression_of_Ancient_Knowledge.md) | Knowledge suppression frameworks |
 | [H08 — Academic Gatekeeping](../H_Suppression_and_Thesis/H08_Academic_Gatekeeping_Paradigm_Resistance.md) | Institutional resistance patterns vs. conspiracy claims |
 | [I10 — Ancient Astronaut Theory](../I_UAP_Disclosure/I10_Ancient_Astronaut_Theory.md) | Alternative frameworks for interpreting ancient constructions |
 | [E18 — Ice Age Civilizations](../E_Cataclysms_and_Chronology/E18_Ice_Age_Civilizations_LGM.md) | Pre-Holocene human achievement claims |

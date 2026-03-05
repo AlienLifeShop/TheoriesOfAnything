@@ -206,7 +206,7 @@ Real examples of mainstream archaeology initially rejecting discoveries later pr
 5. Cremo, Michael A. & Richard L. Thompson. *Forbidden Archeology*. Bhaktivedanta Institute, 1993.
 6. EAA. "Statement on Visoko, Bosnia." December 2006.
 7. Natawidjaja, D.H. et al. "Geo-archaeological Prospecting of Gunung Padang." *Archaeological Prospection*, 2023 (contested).
-8. Feder, Kenneth L. *Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology*. McGraw-Hill, multiple editions.
+8. Feder, Kenneth L. *Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology*. McGraw-Hill, 1990 (multiple editions).
 9. Woodard, Colin. "The Mystery of Bosnia's Ancient Pyramids." *Smithsonian Magazine*, 2009.
 
 ---

@@ -421,4 +421,15 @@ This document draws on well-established archaeological and anthropological schol
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Snir, A. et al. "The Origin of Cultivation and Proto-Weeds, Long Before Neolithic Farming." *PLOS ONE* 10.7 (2015): e0131422.
+2. Schmidt, K. *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Turkey.* Berlin: ex oriente, 2012.
+3. Bar-Yosef, O. "The Natufian Culture in the Levant, Threshold to the Origins of Agriculture." *Evolutionary Anthropology* 6.5 (1998): 159–177.
+4. Scott, J.C. *Against the Grain: A Deep History of the Earliest States.* New Haven: Yale University Press, 2017.
+5. Pascoe, B. *Dark Emu: Aboriginal Australians and the Birth of Agriculture.* London: Scribe Publications, 2018.
+6. Diamond, J. *Guns, Germs, and Steel: The Fates of Human Societies.* New York: W.W. Norton, 1997.
+7. Mann, C.C. *1491: New Revelations of the Americas Before Columbus.* New York: Knopf, 2005.
+8. Hillman, G.C. et al. "New Evidence of Lateglacial Cereal Cultivation at Abu Hureyra on the Euphrates." *The Holocene* 11.4 (2001): 383–393.
+9. Heckenberger, M.J. et al. "Amazonia 1492: Pristine Forest or Cultural Parkland?" *Science* 301.5640 (2003): 1710–1714.
+10. Gammage, B. *The Biggest Estate on Earth: How Aborigines Made Australia.* Sydney: Allen & Unwin, 2011.
+11. Fuller, D.Q. et al. "Convergent Evolution and Parallelism in Plant Domestication Revealed by an Expanding Archaeological Record." *Proceedings of the National Academy of Sciences* 111.17 (2014): 6147–6152.
+12. Dietrich, O. et al. "The Role of Cult and Feasting in the Emergence of Neolithic Communities." *Antiquity* 86.333 (2012): 674–695.

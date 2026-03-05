@@ -3,7 +3,7 @@
 > **Document ID:** M16
 > **Section:** M_Forbidden_Archaeology
 > **Keywords:** Yonaguni, underwater structure, Japan, Masaaki Kimura, Robert Schoch, submerged monument, natural formation, terraces, Last Glacial Maximum, Ryukyu, sandstone, megalith
-> **Cross-References:** [F01](../F_Lost_Connections/F01_Pre_Flood_Civilization.md) · [E27](../E_Cataclysms_and_Chronology/E27_Doggerland_Submergence.md) · [C27](../C_Global_Traditions/C27_Jomon_Enigma.md) · [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) · [O13](../O_Earth_Anomalies/O13_Plate_Tectonics.md)
+> **Cross-References:** [F01](../F_Lost_Connections/F01_Atlantis.md) · [E27](../E_Cataclysms_and_Chronology/E27_Doggerland_Sundaland_Drowned_Shelves.md) · [C27](../C_Global_Traditions/C27_Jomon_People_Pre_Yamato_Japan.md) · [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) · [O13](../O_Earth_Anomalies/O13_Plate_Tectonics_Continental_Drift.md)
 > **Reliability Tier:** Tier 1-3 (underwater structure exists at Tier 1; natural vs. man-made interpretation is Tier 2-3; lost civilization claims are Tier 3-4)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 19 scholarly sources | **Confidence:** High for geological description; Moderate-Low for human origin claims
 
@@ -171,12 +171,12 @@ The debate remains unresolved and exemplifies the broader tension between altern
 
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
-| [F01](../F_Lost_Connections/F01_Pre_Flood_Civilization.md) | Submerged civilization | Yonaguni is often cited as evidence for pre-flood human settlements drowned by sea-level rise |
-| [E27](../E_Cataclysms_and_Chronology/E27_Doggerland_Submergence.md) | Sea-level submergence | Doggerland demonstrates verified large-scale submergence of inhabited land — methodological comparison |
-| [C27](../C_Global_Traditions/C27_Jomon_Enigma.md) | Japanese prehistory | Jomon culture is the necessary cultural context for any human-made interpretation |
+| [F01](../F_Lost_Connections/F01_Atlantis.md) | Submerged civilization | Yonaguni is often cited as evidence for pre-flood human settlements drowned by sea-level rise |
+| [E27](../E_Cataclysms_and_Chronology/E27_Doggerland_Sundaland_Drowned_Shelves.md) | Sea-level submergence | Doggerland demonstrates verified large-scale submergence of inhabited land — methodological comparison |
+| [C27](../C_Global_Traditions/C27_Jomon_People_Pre_Yamato_Japan.md) | Japanese prehistory | Jomon culture is the necessary cultural context for any human-made interpretation |
 | [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) | Ancient monumentality | Göbekli Tepe proved pre-agricultural monumental construction possible — relevant dating comparison |
-| [O13](../O_Earth_Anomalies/O13_Plate_Tectonics.md) | Tectonic context | Ryukyu arc tectonics directly shapes the geological formations at Yonaguni |
-| [J04](../J_Ancient_Technology/J04_Megalithic_Construction.md) | Construction comparison | If man-made, Yonaguni would represent an unprecedented megalithic achievement for its era |
+| [O13](../O_Earth_Anomalies/O13_Plate_Tectonics_Continental_Drift.md) | Tectonic context | Ryukyu arc tectonics directly shapes the geological formations at Yonaguni |
+| [J04](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Construction comparison | If man-made, Yonaguni would represent an unprecedented megalithic achievement for its era |
 
 ---
 *Consolidated from 19 sources. Last Updated: Feb 28, 2026*

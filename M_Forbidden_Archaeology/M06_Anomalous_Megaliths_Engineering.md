@@ -240,10 +240,10 @@ The greatest "mystery" may not be technological but **organizational**:
 | [D11](../D_Sites_and_Artifacts/D11_Complete_Pyramid_Catalog.md) | Pyramid catalog — construction scale comparison |
 | [M03](../M_Forbidden_Archaeology/M03_Impossible_Precision_Ancient.md) | Anomalous precision — machining debate |
 | [M05](../M_Forbidden_Archaeology/M05_Archaeological_Dating_Disputes.md) | Dating disputes — chronology of megaliths |
-| [J04](../J_Ancient_Technology/J04_Acoustic_Properties_Ancient_Structures.md) | Acoustic properties — levitation hypotheses |
+| [J04](../J_Ancient_Technology/J04_Acoustic_Vibrational_Technology.md) | Acoustic properties — levitation hypotheses |
 | [D14](../D_Sites_and_Artifacts/D14_Maltese_Temple_Builders_Hypogeum.md) | Malta temple builders — Mediterranean megaliths |
 | [C07](../C_Global_Traditions/C07_Pacific_Island_Traditions.md) | Pacific traditions — Nan Madol cultural context |
-| [E14](../E_Cataclysms_and_Chronology/E14_Younger_Dryas_Impact_Theory.md) | Younger Dryas — lost civilization hypothesis context |
+| [E14](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Younger Dryas — lost civilization hypothesis context |
 | [D13](../D_Sites_and_Artifacts/D13_Submerged_Structures_Underwater_Archaeology.md) | Submerged structures — pre-sea-level-rise construction |
 
 ---

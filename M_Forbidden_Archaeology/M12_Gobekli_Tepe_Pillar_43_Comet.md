@@ -3,7 +3,7 @@
 > **Document ID:** M12
 > **Section:** M_Forbidden_Archaeology
 > **Keywords:** Göbekli Tepe, Pillar 43, Vulture Stone, Enclosure D, Younger Dryas impact, Sweatman, Tsikritsis, constellation encoding, precession, headless figure, comet, archaeoastronomy
-> **Cross-References:** [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) · [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy.md) · [M01](../M_Forbidden_Archaeology/M01_OOPArts.md) · [E02](../E_Cataclysms_and_Chronology/E02_Meteor_Impacts.md)
+> **Cross-References:** [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) · [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) · [E02](../E_Cataclysms_and_Chronology/E02_Meteor_and_Asteroid_Impacts.md)
 > **Reliability Tier:** Tier 2-3 (physical artifact Tier 1; astronomical interpretation debated and contested)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 16 scholarly sources | **Confidence:** Medium
 
@@ -139,9 +139,9 @@ Pillar 43, also known as the "Vulture Stone," is one of the most elaborately car
 |-------------|-----------|
 | [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) | Main Göbekli Tepe overview document |
 | [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Younger Dryas impact hypothesis |
-| [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy.md) | Archaeoastronomy methods and sites |
-| [M01](../M_Forbidden_Archaeology/M01_OOPArts.md) | Out-of-place artifacts context |
-| [E02](../E_Cataclysms_and_Chronology/E02_Meteor_Impacts.md) | Impact events in Earth history |
+| [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Archaeoastronomy methods and sites |
+| [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Out-of-place artifacts context |
+| [E02](../E_Cataclysms_and_Chronology/E02_Meteor_and_Asteroid_Impacts.md) | Impact events in Earth history |
 | [M10](../M_Forbidden_Archaeology/M10_Nazca_Lines_Purpose_Astronomy.md) | Monumental landscape encoding comparison |
 
 ---

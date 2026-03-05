@@ -3,7 +3,7 @@
 > **Document ID:** M10
 > **Section:** M_Forbidden_Archaeology
 > **Keywords:** Nazca Lines, geoglyphs, Nazca Plateau, Peru, Nazca culture, Maria Reiche, astronomical calendar, water ritual, AI discovery, Palpa, sacred landscape, hummingbird, spider, condor
-> **Cross-References:** [M01](../M_Forbidden_Archaeology/M01_OOPArts.md) · [C41](../C_Global_Traditions/C41_Andean.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy.md) · [O07](../O_Earth_Anomalies/O07_Sacred_Water.md) · [D33](../D_Sites_and_Artifacts/D33_Rock_Art.md)
+> **Cross-References:** [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) · [C41](../C_Global_Traditions/C41_Andean_Civilizations.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [O07](../O_Earth_Anomalies/O07_Sacred_Water_Wells_Springs.md) · [D33](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md)
 > **Reliability Tier:** Tier 1-3 (physical existence verified; purpose theories range from credible to speculative)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 17 scholarly sources | **Confidence:** Medium-High
 
@@ -131,11 +131,11 @@ The Nazca Lines are a collection of over 1,500 geoglyphs etched into the arid Na
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [M01](../M_Forbidden_Archaeology/M01_OOPArts.md) | Out-of-place artifacts and anomalous constructions |
-| [C41](../C_Global_Traditions/C41_Andean.md) | Andean cultural and cosmological traditions |
-| [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy.md) | Astronomical alignments in ancient sites |
-| [O07](../O_Earth_Anomalies/O07_Sacred_Water.md) | Sacred water traditions and ritual hydrology |
-| [D33](../D_Sites_and_Artifacts/D33_Rock_Art.md) | Rock art and landscape modification traditions |
+| [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Out-of-place artifacts and anomalous constructions |
+| [C41](../C_Global_Traditions/C41_Andean_Civilizations.md) | Andean cultural and cosmological traditions |
+| [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Astronomical alignments in ancient sites |
+| [O07](../O_Earth_Anomalies/O07_Sacred_Water_Wells_Springs.md) | Sacred water traditions and ritual hydrology |
+| [D33](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md) | Rock art and landscape modification traditions |
 | [M09](../M_Forbidden_Archaeology/M09_Antikythera_Mechanism_Deep_Dive.md) | Ancient technological sophistication comparison |
 
 ---

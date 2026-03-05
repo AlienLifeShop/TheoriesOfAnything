@@ -3,7 +3,7 @@
 > **Document ID:** M15
 > **Section:** M_Forbidden_Archaeology
 > **Keywords:** stone spheres, Las Bolas, Diquís Delta, Costa Rica, petrosferas, sphericity, UNESCO, Diquís culture, pecking, grinding, Lotería Farm, alignment, pre-Columbian
-> **Cross-References:** [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [D08](../D_Sites_and_Artifacts/D08_Astronomical_Alignments.md) · [J04](../J_Ancient_Technology/J04_Megalithic_Construction.md) · [M01](../M_Forbidden_Archaeology/M01_Out_of_Place_Artifacts.md) · [C28](../C_Global_Traditions/C28_Inca_Connection.md)
+> **Cross-References:** [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [D08](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [J04](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) · [C28](../C_Global_Traditions/C28_Dying_Rising_Deity_Pattern.md)
 > **Reliability Tier:** Tier 1-4 (existence, manufacturing technique, and cultural context are Tier 1; alignment hypotheses Tier 2-3; alien/Atlantean claims Tier 4)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** High for archaeological data; Low for speculative interpretations
 
@@ -171,11 +171,11 @@ Designated a UNESCO World Heritage Site in 2014, Las Bolas remain among the most
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
 | [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Geometric symbolism | Perfect spheres represent the most fundamental geometric solid — cosmological significance |
-| [D08](../D_Sites_and_Artifacts/D08_Astronomical_Alignments.md) | Alignment claims | Proposed celestial alignments of sphere placements require critical evaluation |
-| [J04](../J_Ancient_Technology/J04_Megalithic_Construction.md) | Stone-working | Pecking and grinding techniques connect to broader megalithic construction traditions |
-| [M01](../M_Forbidden_Archaeology/M01_Out_of_Place_Artifacts.md) | OOPArt classification | Spheres are frequently misclassified as "out of place" despite well-documented cultural context |
-| [C28](../C_Global_Traditions/C28_Inca_Connection.md) | Regional connections | Diquís chiefdoms participated in broader Central/South American exchange networks |
-| [J06](../J_Ancient_Technology/J06_Ancient_Engineering.md) | Engineering skill | Production of near-perfect spheres demonstrates sophisticated empirical geometry |
+| [D08](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Alignment claims | Proposed celestial alignments of sphere placements require critical evaluation |
+| [J04](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Stone-working | Pecking and grinding techniques connect to broader megalithic construction traditions |
+| [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | OOPArt classification | Spheres are frequently misclassified as "out of place" despite well-documented cultural context |
+| [C28](../C_Global_Traditions/C28_Dying_Rising_Deity_Pattern.md) | Regional connections | Diquís chiefdoms participated in broader Central/South American exchange networks |
+| [J06](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Engineering skill | Production of near-perfect spheres demonstrates sophisticated empirical geometry |
 
 ---
 *Consolidated from 18 sources. Last Updated: Feb 28, 2026*

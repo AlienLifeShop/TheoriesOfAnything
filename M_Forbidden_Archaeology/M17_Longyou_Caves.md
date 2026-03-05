@@ -3,7 +3,7 @@
 > **Document ID:** M17
 > **Section:** M_Forbidden_Archaeology
 > **Keywords:** Longyou Caves, Zhejiang, hand-carved, cavern, chiseling, fish-tail pattern, siltstone, structural engineering, ancient quarry, dating, China, underground, mystery
-> **Cross-References:** [J04](../J_Ancient_Technology/J04_Megalithic_Construction.md) · [D39](../D_Sites_and_Artifacts/D39_Ellora_Caves.md) · [J06](../J_Ancient_Technology/J06_Ancient_Engineering.md) · [M01](../M_Forbidden_Archaeology/M01_Out_of_Place_Artifacts.md) · [D40](../D_Sites_and_Artifacts/D40_Lalibela.md)
+> **Cross-References:** [J04](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [D39](../D_Sites_and_Artifacts/D39_Ellora_Ajanta_Caves.md) · [J06](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) · [D40](../D_Sites_and_Artifacts/D40_Lalibela_Rock_Hewn_Churches.md)
 > **Reliability Tier:** Tier 1-3 (physical existence is Tier 1; construction methods are Tier 1-2; purpose and dating remain Tier 2-3 due to absence of records)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 17 scholarly sources | **Confidence:** High for physical description; Moderate-Low for dating and purpose
 
@@ -169,11 +169,11 @@ The caves display sophisticated structural engineering — including load-bearin
 
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
-| [J04](../J_Ancient_Technology/J04_Megalithic_Construction.md) | Construction technology | Longyou demonstrates large-scale subtractive stone engineering comparable to rock-cut architecture |
-| [D39](../D_Sites_and_Artifacts/D39_Ellora_Caves.md) | Rock-cut parallel | Ellora's Kailasa Temple involved similar massive rock removal — validated comparison for scale |
-| [J06](../J_Ancient_Technology/J06_Ancient_Engineering.md) | Engineering achievement | Structural calculations (pillar placement, ceiling thickness) demonstrate advanced practical engineering |
-| [M01](../M_Forbidden_Archaeology/M01_Out_of_Place_Artifacts.md) | Mystery classification | Absence of historical records makes Longyou appear anomalous despite conventional construction methods |
-| [D40](../D_Sites_and_Artifacts/D40_Lalibela.md) | Rock-hewn churches | Lalibela's monolithic churches demonstrate comparable subtractive architecture in a different context |
+| [J04](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Construction technology | Longyou demonstrates large-scale subtractive stone engineering comparable to rock-cut architecture |
+| [D39](../D_Sites_and_Artifacts/D39_Ellora_Ajanta_Caves.md) | Rock-cut parallel | Ellora's Kailasa Temple involved similar massive rock removal — validated comparison for scale |
+| [J06](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Engineering achievement | Structural calculations (pillar placement, ceiling thickness) demonstrate advanced practical engineering |
+| [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Mystery classification | Absence of historical records makes Longyou appear anomalous despite conventional construction methods |
+| [D40](../D_Sites_and_Artifacts/D40_Lalibela_Rock_Hewn_Churches.md) | Rock-hewn churches | Lalibela's monolithic churches demonstrate comparable subtractive architecture in a different context |
 | [M13](../M_Forbidden_Archaeology/M13_Vitrified_Forts_Scotland_Beyond.md) | Archaeological mystery | Both sites represent genuine puzzles with conventional explanations resisting fringe claims |
 
 ---

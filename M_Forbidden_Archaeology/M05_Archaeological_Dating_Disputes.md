@@ -132,7 +132,7 @@ Radiocarbon dating assumes that atmospheric ¹⁴C production has been relativel
 
 ### 3.5 Younger Dryas Impact and Chronological Implications [3/5 sources]
 
-The **Younger Dryas Impact Hypothesis** (see [E14](../E_Cataclysms_and_Chronology/E14_Younger_Dryas_Impact_Theory.md)) proposes a cosmic impact event at ~12,800 BP that could have:
+The **Younger Dryas Impact Hypothesis** (see [E14](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md)) proposes a cosmic impact event at ~12,800 BP that could have:
 - Destroyed evidence of earlier civilizations
 - Disrupted C-14 calibration through atmospheric disruption
 - Created a "reset" that makes pre-impact civilization archaeologically invisible
@@ -203,13 +203,13 @@ The challenge is distinguishing legitimate conservatism from paradigm protection
 | [D03](../D_Sites_and_Artifacts/D03_Sphinx_Water_Erosion.md) | Sphinx dating controversy — geological vs. archaeological methods |
 | [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) | Göbekli Tepe — pre-agricultural monumentalism dates |
 | [D05](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Megalithic dating challenges |
-| [E14](../E_Cataclysms_and_Chronology/E14_Younger_Dryas_Impact_Theory.md) | Younger Dryas — chronological disruption hypothesis |
+| [E14](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Younger Dryas — chronological disruption hypothesis |
 | [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Out-of-place artifacts — dating anomalies |
 | [M03](../M_Forbidden_Archaeology/M03_Impossible_Precision_Ancient.md) | Anomalous precision — dating implications |
 | [M02](../M_Forbidden_Archaeology/M02_Suppressed_Discoveries.md) | Suppressed discoveries — institutional resistance |
 | [D13](../D_Sites_and_Artifacts/D13_Submerged_Structures_Underwater_Archaeology.md) | Submerged structures — sea-level dating |
-| [E01](../E_Cataclysms_and_Chronology/E01_Climate_Catastrophism_Overview.md) | Climate catastrophism — chronological frameworks |
-| [O01](../O_Earth_Anomalies/O01_Earth_Geological_Anomalies.md) | Geological anomalies — dating geological features |
+| [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Climate catastrophism — chronological frameworks |
+| [O01](../O_Earth_Anomalies/O01_Ley_Lines_Earth_Grid.md) | Geological anomalies — dating geological features |
 
 ---
 

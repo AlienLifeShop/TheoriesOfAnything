@@ -3,7 +3,7 @@
 > **Document ID:** M11
 > **Section:** M_Forbidden_Archaeology
 > **Keywords:** Iron Pillar of Delhi, corrosion resistance, Gupta period, wrought iron, phosphorus, misawite, Chandragupta II, Qutb Minar, ancient metallurgy, wootz steel, Damascus steel
-> **Cross-References:** [J05](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) · [M01](../M_Forbidden_Archaeology/M01_OOPArts.md) · [J03](../J_Ancient_Technology/J03_Lost_Material_Science.md) · [J14](../J_Ancient_Technology/J14_Roman_Engineering.md)
+> **Cross-References:** [J05](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) · [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) · [J03](../J_Ancient_Technology/J03_Lost_Material_Science.md) · [J14](../J_Ancient_Technology/J14_Roman_Engineering_Roads_Aqueducts_Concrete.md)
 > **Reliability Tier:** Tier 1-2 (physical artifact verified and analyzed; corrosion mechanism scientifically explained)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 15 scholarly sources | **Confidence:** High
 
@@ -129,9 +129,9 @@ The Iron Pillar of Delhi is a 7.21-meter, 6.5-tonne wrought iron column standing
 | Related Doc | Connection |
 |-------------|-----------|
 | [J05](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Ancient metallurgical traditions worldwide |
-| [M01](../M_Forbidden_Archaeology/M01_OOPArts.md) | Out-of-place artifacts context |
+| [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Out-of-place artifacts context |
 | [J03](../J_Ancient_Technology/J03_Lost_Material_Science.md) | Lost material science and manufacturing knowledge |
-| [J14](../J_Ancient_Technology/J14_Roman_Engineering.md) | Roman engineering comparison (concrete vs. iron) |
+| [J14](../J_Ancient_Technology/J14_Roman_Engineering_Roads_Aqueducts_Concrete.md) | Roman engineering comparison (concrete vs. iron) |
 | [M09](../M_Forbidden_Archaeology/M09_Antikythera_Mechanism_Deep_Dive.md) | Ancient technological sophistication comparison |
 
 ---

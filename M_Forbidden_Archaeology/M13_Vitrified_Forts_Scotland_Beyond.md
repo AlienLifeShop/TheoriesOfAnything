@@ -3,7 +3,7 @@
 > **Document ID:** M13
 > **Section:** M_Forbidden_Archaeology
 > **Keywords:** vitrified fort, vitrification, Scotland, hillfort, Tap o' Noth, Craig Phadrig, Dun Deardail, timber-laced wall, experimental archaeology, Gordon Childe, fused stone, high temperature
-> **Cross-References:** [M14](../M_Forbidden_Archaeology/M14_Ancient_Nuclear_War_Theory.md) · [J06](../J_Ancient_Technology/J06_Ancient_Engineering.md) · [E07](../E_Cataclysms_and_Chronology/E07_Bronze_Age_Collapse.md) · [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) · [J23](../J_Ancient_Technology/J23_Warfare_Technology.md)
+> **Cross-References:** [M14](../M_Forbidden_Archaeology/M14_Ancient_Nuclear_War_Theory.md) · [J06](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [E07](../F_Lost_Connections/F08_Sea_Peoples_Bronze_Age_Collapse.md) · [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) · [J23](../J_Ancient_Technology/J23_Ancient_Warfare_Technology.md)
 > **Reliability Tier:** Tier 1-4 (vitrification is archaeologically documented at Tier 1; mechanism debate sits at Tier 2; intentional vs. accidental explanations at Tier 2-3; nuclear/plasma weapon theories at Tier 4)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High for existence; Moderate for mechanism; Low for fringe theories
 
@@ -172,10 +172,10 @@ Despite this, the purpose and intentionality of the process remain debated, and 
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
 | [M14](../M_Forbidden_Archaeology/M14_Ancient_Nuclear_War_Theory.md) | Fringe comparison | Nuclear weapon claims often cite vitrified forts alongside Mohenjo-daro — both debunked |
-| [J06](../J_Ancient_Technology/J06_Ancient_Engineering.md) | Construction tech | Timber-lacing represents sophisticated Iron Age engineering |
-| [E07](../E_Cataclysms_and_Chronology/E07_Bronze_Age_Collapse.md) | Chronological context | Some vitrified forts date to the Late Bronze Age / Early Iron Age transition |
+| [J06](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Construction tech | Timber-lacing represents sophisticated Iron Age engineering |
+| [E07](../F_Lost_Connections/F08_Sea_Peoples_Bronze_Age_Collapse.md) | Chronological context | Some vitrified forts date to the Late Bronze Age / Early Iron Age transition |
 | [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) | Monumental construction | Both represent large-scale communal construction projects with debated purposes |
-| [J23](../J_Ancient_Technology/J23_Warfare_Technology.md) | Military technology | Vitrified forts are key data points in understanding Iron Age defensive warfare |
+| [J23](../J_Ancient_Technology/J23_Ancient_Warfare_Technology.md) | Military technology | Vitrified forts are key data points in understanding Iron Age defensive warfare |
 | [M13](../M_Forbidden_Archaeology/M13_Vitrified_Forts_Scotland_Beyond.md) | Self-reference | Primary document for the vitrification phenomenon |
 
 ---
