@@ -3,7 +3,7 @@
 > **Document ID:** F16
 > **Section:** F_Lost_Connections
 > **Keywords:** Polynesian, South America, sweet potato, kumara, Kon-Tiki, Heyerdahl, chicken DNA, Rapanui, Easter Island, Ioannidis, trans-Pacific, bottle gourd, pre-Columbian contact
-> **Cross-References:** [F02](F02_Trans_Oceanic_Contact.md) · [C38](../C_Global_Traditions/C38_Polynesian_Navigation.md) · [C41](../C_Global_Traditions/C41_Andean_Civilizations.md) · [F05](F05_Maritime_Technology.md)
+> **Cross-References:** [F02](F02_Trans_Oceanic_Contact.md) · [C38](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md) · [C41](../C_Global_Traditions/C41_Andean_Civilizations.md) · [F05](F05_Ancient_Maritime_Technology.md)
 > **Reliability Tier:** Tier 1-2 (Sweet potato transfer widely accepted; chicken DNA debated; genomic evidence strong but recent)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 19 scholarly sources | **Confidence:** High (contact occurred); Medium (mechanisms and direction)
 
@@ -150,12 +150,12 @@ The question of pre-Columbian contact between Polynesia and South America has mo
 | Related Doc | Connection |
 |-------------|-----------|
 | [F02](F02_Trans_Oceanic_Contact.md) | Framework for evaluating trans-oceanic contact evidence |
-| [C38](../C_Global_Traditions/C38_Polynesian_Navigation.md) | Polynesian navigation methods making trans-Pacific contact possible |
+| [C38](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md) | Polynesian navigation methods making trans-Pacific contact possible |
 | [C41](../C_Global_Traditions/C41_Andean_Civilizations.md) | South American civilizations as contact recipients |
-| [F05](F05_Maritime_Technology.md) | Polynesian and South American maritime vessel technologies |
+| [F05](F05_Ancient_Maritime_Technology.md) | Polynesian and South American maritime vessel technologies |
 | [F14](F14_Viking_Settlement_Americas.md) | Comparative pre-Columbian contact case (Norse in North America) |
-| [L04](../L_Genetics_Origins/L04_Human_Migration.md) | Genetic evidence of human population movements across the Pacific |
-| [R08](../R_Biology_Evolution/R08_Convergent_Evolution.md) | Parallel cultural developments vs. contact diffusion debate |
+| [L04](../L_Genetics_Origins/L04_Mitochondrial_Eve_Y_Adam.md) | Genetic evidence of human population movements across the Pacific |
+| [R08](../R_Biology_Evolution/R08_Convergent_Evolution_Aquatic_Ape.md) | Parallel cultural developments vs. contact diffusion debate |
 
 ---
 

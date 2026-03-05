@@ -3,7 +3,7 @@
 > **Document ID:** F14
 > **Section:** F_Lost_Connections
 > **Keywords:** Viking, Norse, L'Anse aux Meadows, Vinland, Leif Erikson, Newfoundland, Norse sagas, dendrochronology, Point Rosee, Skraelings, pre-Columbian, Norse exploration
-> **Cross-References:** [F02](F02_Trans_Oceanic_Contact.md) · [A12](../A_Foundations/A12_Norse_Eddas.md) · [F05](F05_Maritime_Technology.md) · [C68](../C_Global_Traditions/C68_Native_American_Contact.md)
+> **Cross-References:** [F02](F02_Trans_Oceanic_Contact.md) · [A12](../A_Foundations/A12_Norse_Eddas.md) · [F05](F05_Ancient_Maritime_Technology.md) · [C68](../C_Global_Traditions/C68_Native_American_Great_Plains_Vision_Quest.md)
 > **Reliability Tier:** Tier 1-2 (L'Anse aux Meadows is confirmed; broader Norse exploration debated but supported)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (core site); Medium (extended presence)
 
@@ -151,7 +151,7 @@ L'Anse aux Meadows in Newfoundland, Canada, stands as the only confirmed Norse s
 19. Fagan, B. (2000). *The Little Ice Age: How Climate Made History*. Basic Books.
 20. Bloch, D. (2012). "Norse trade goods in North America." *Arctic Anthropology*, 49(2), 41-59.
 21. Brown, N. (2015). *Ivory Vikings: The Mystery of the Most Famous Chessmen in the World*. St. Martin's Press.
-22. Vinland Sagas. Manuscript AM 557 4to (Flateyjarbók) and Hauksbók (14th century). Árni Magnússon Institute, Reykjavík.
+22. Halldórsson, Ólafur (ed.). *Vinland Sagas*. Manuscript AM 557 4to (Flateyjarbók) and Hauksbók (14th century). Árni Magnússon Institute, Reykjavík. Critical ed.: Hið íslenzka fornritafélag, 1985.
 
 ---
 
@@ -161,9 +161,9 @@ L'Anse aux Meadows in Newfoundland, Canada, stands as the only confirmed Norse s
 |-------------|-----------|
 | [F02](F02_Trans_Oceanic_Contact.md) | L'Anse aux Meadows as the definitive proof case for pre-Columbian contact |
 | [A12](../A_Foundations/A12_Norse_Eddas.md) | Norse literary tradition and mythology contextualizing the sagas |
-| [F05](F05_Maritime_Technology.md) | Norse longship technology enabling North Atlantic crossings |
-| [C68](../C_Global_Traditions/C68_Native_American_Contact.md) | Indigenous perspectives on Norse-Indigenous encounters |
-| [E14](../E_Cataclysms_and_Chronology/E14_Bronze_Age_Collapse.md) | Climate change as factor in Norse expansion and retreat |
+| [F05](F05_Ancient_Maritime_Technology.md) | Norse longship technology enabling North Atlantic crossings |
+| [C68](../C_Global_Traditions/C68_Native_American_Great_Plains_Vision_Quest.md) | Indigenous perspectives on Norse-Indigenous encounters |
+| [E14](../F_Lost_Connections/F08_Sea_Peoples_Bronze_Age_Collapse.md) | Climate change as factor in Norse expansion and retreat |
 | [F13](F13_Phoenician_Carthaginian_Atlantic.md) | Comparative Atlantic exploration by earlier Mediterranean civilizations |
 | [F12](F12_Cocaine_Nicotine_Egyptian_Mummies.md) | Contrasting case: contested vs. confirmed pre-Columbian contact |
 

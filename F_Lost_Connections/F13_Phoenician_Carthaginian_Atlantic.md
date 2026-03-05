@@ -3,7 +3,7 @@
 > **Document ID:** F13
 > **Section:** F_Lost_Connections
 > **Keywords:** Phoenician, Carthaginian, Hanno, Himilco, Atlantic, circumnavigation, Africa, Tin Islands, Tarshish, Tartessos, Necho II, Herodotus, celestial navigation, Polaris
-> **Cross-References:** [F02](F02_Trans_Oceanic_Contact.md) · [F05](F05_Maritime_Technology.md) · [F03](F03_Bronze_Age_Trade.md) · [C71](../C_Global_Traditions/C71_Phoenician_Maritime.md)
+> **Cross-References:** [F02](F02_Trans_Oceanic_Contact.md) · [F05](F05_Ancient_Maritime_Technology.md) · [F03](F03_Bronze_Age_Trade_Networks.md) · [C71](../C_Global_Traditions/C71_Phoenician_Civilization_Alphabet_Navigation.md)
 > **Reliability Tier:** Tier 1-3 (Range from well-attested ancient accounts to speculative Atlantic crossing claims)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** Medium-High (for Mediterranean/coastal voyages); Low (for transatlantic claims)
 
@@ -121,7 +121,7 @@ The Phoenicians and their Carthaginian successors were the ancient world's supre
 ## BIBLIOGRAPHY
 
 1. Aubet, M. E. (2001). *The Phoenicians and the West: Politics, Colonies and Trade*. Cambridge University Press.
-2. Herodotus. *Histories*, Book IV.42. (Trans. A. D. Godley, Loeb Classical Library).
+2. Herodotus. *Histories*, Book IV.42. c. 440 BCE. (Trans. A. D. Godley, Loeb Classical Library).
 3. Harden, D. (1962). *The Phoenicians*. Thames & Hudson.
 4. Warmington, B. H. (1960). *Carthage*. Robert Hale.
 5. Carpenter, R. (1966). *Beyond the Pillars of Heracles: The Classical World Seen Through the Eyes of Its Discoverers*. Delacorte Press.
@@ -130,8 +130,8 @@ The Phoenicians and their Carthaginian successors were the ancient world's supre
 8. González de Canales, F., et al. (2004). *El emporio fenicio precolonial de Huelva*. Biblioteca Nueva.
 9. Roller, D. W. (2006). *Through the Pillars of Herakles: Greco-Roman Exploration of the Atlantic*. Routledge.
 10. Medas, S. (2000). *La marineria cartaginese: Le navi, gli uomini, la navigazione*. Sardinia.
-11. Strabo. *Geography*, Books III and XVII. (Trans. H. L. Jones, Loeb Classical Library).
-12. Diodorus Siculus. *Bibliotheca Historica*, Book V.19-20. (Trans. C. H. Oldfather, Loeb Classical Library).
+11. Strabo. *Geography*, Books III and XVII. c. 7 BCE. (Trans. H. L. Jones, Loeb Classical Library).
+12. Diodorus Siculus. *Bibliotheca Historica*, Book V.19-20. c. 60 BCE. (Trans. C. H. Oldfather, Loeb Classical Library).
 13. Gordon, C. H. (1968). "The Authenticity of the Phoenician Text from Parahyba." *Orientalia*, 37, 75-80.
 14. Cross, F. M. (1968). "The Phoenician Inscription from Brazil: A Nineteenth-Century Forgery." *Orientalia*, 37, 437-460.
 15. Hoyos, D. (2010). *The Carthaginians*. Routledge.
@@ -149,12 +149,12 @@ The Phoenicians and their Carthaginian successors were the ancient world's supre
 | Related Doc | Connection |
 |-------------|-----------|
 | [F02](F02_Trans_Oceanic_Contact.md) | Overarching framework for pre-Columbian trans-oceanic contact debates |
-| [F05](F05_Maritime_Technology.md) | Phoenician ship technology and navigation capabilities |
-| [F03](F03_Bronze_Age_Trade.md) | Bronze Age tin trade as economic driver for Atlantic exploration |
-| [C71](../C_Global_Traditions/C71_Phoenician_Maritime.md) | Phoenician cultural traditions and maritime mythology |
+| [F05](F05_Ancient_Maritime_Technology.md) | Phoenician ship technology and navigation capabilities |
+| [F03](F03_Bronze_Age_Trade_Networks.md) | Bronze Age tin trade as economic driver for Atlantic exploration |
+| [C71](../C_Global_Traditions/C71_Phoenician_Civilization_Alphabet_Navigation.md) | Phoenician cultural traditions and maritime mythology |
 | [F12](F12_Cocaine_Nicotine_Egyptian_Mummies.md) | Phoenicians as potential intermediaries for anomalous substance trade |
 | [A17](../A_Foundations/A17_Ugaritic_Literature_Baal_Cycle.md) | Canaanite/Phoenician religious context (Ba'al Hammon) |
-| [E14](../E_Cataclysms_and_Chronology/E14_Bronze_Age_Collapse.md) | Collapse event affecting Phoenician predecessor states |
+| [E14](../F_Lost_Connections/F08_Sea_Peoples_Bronze_Age_Collapse.md) | Collapse event affecting Phoenician predecessor states |
 
 ---
 

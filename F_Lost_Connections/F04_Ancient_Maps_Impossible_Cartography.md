@@ -299,4 +299,12 @@ In marginal notes on the map, Piri Reis stated he used ~20 source maps including
 
 ## Bibliography
 
-- Menzies. *1421: The Year China Discovered America*. 2003.
+1. Hapgood, Charles H. *Maps of the Ancient Sea Kings: Evidence of Advanced Civilization in the Ice Age*. Chilton Books, 1966 (reprint: Adventures Unlimited Press, 1996).
+2. Hapgood, Charles H. *Earth's Shifting Crust*. Foreword by Albert Einstein. Pantheon, 1958.
+3. Campbell, Tony. "Portolan Charts from the Late Thirteenth Century to 1500." In Harley, J.B. & Woodward, David (eds.), *The History of Cartography, Vol. 1*. University of Chicago Press, 1987.
+4. Soucek, Svat. *Piri Reis and Turkish Mapmaking after Columbus*. Nour Foundation, 2013.
+5. Woodward, David. *The History of Cartography, Vol. 3: Cartography in the European Renaissance*. University of Chicago Press, 2007.
+6. Edson, Evelyn. *The World Map, 1300–1492: The Persistence of Tradition and Transformation*. Johns Hopkins University Press, 2007.
+7. Hancock, Graham. *Fingerprints of the Gods*. Crown, 1995.
+8. Flem-Ath, Rand & Flem-Ath, Rose. *When the Sky Fell: In Search of Atlantis*. St. Martin's Press, 1995.
+9. Menzies, Gavin. *1421: The Year China Discovered America*. William Morrow, 2003.

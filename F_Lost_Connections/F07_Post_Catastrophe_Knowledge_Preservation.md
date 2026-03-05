@@ -521,4 +521,10 @@ Understanding how knowledge is *lost* is as important as understanding how it is
 
 ## Bibliography
 
-- Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. 1969.
+1. de Santillana, Giorgio & von Dechend, Hertha. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969.
+2. Schmidt, Klaus. *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*. Ex Oriente, 2012.
+3. Nunn, Patrick D. & Reid, Nicholas J. "Aboriginal Memories of Inundation of the Australian Coast Dating from More Than 7000 Years Ago." *Australian Geographer* 47.1 (2016): 11–47.
+4. Ebeling, Florian. *The Secret History of Hermes Trismegistus: Hermeticism from Ancient to Modern Times*. Cornell University Press, 2007.
+5. Josephus, Flavius. *Antiquities of the Jews*. c. 93–94 CE.
+6. Berossus. *Babyloniaca*. c. 290 BCE.
+7. Isbell, Lynne A. *The Fruit, the Tree, and the Serpent: Why We See So Well*. Harvard University Press, 2009.

@@ -121,11 +121,11 @@ The **Sogdians** — Iranian-language speakers from the Zeravshan Valley (modern
 
 | Document | Connection |
 |----------|------------|
-| [F03 — Diffusion vs. Independent Invention](../F_Lost_Connections/F03_Diffusion_vs_Independent_Invention.md) | Transmission vs. independent development debate |
-| [C11 — Chinese Traditions](../C_Global_Traditions/C11_Chinese_Traditions.md) | Chinese civilization and export culture |
-| [C06 — Hindu Traditions](../C_Global_Traditions/C06_Hindu_Traditions.md) | Indian religious transmission eastward |
-| [D20 — Greco-Buddhist Art](../D_Sites_and_Artifacts/D20_Greco_Buddhist_Art_Gandhara.md) | Hellenistic-Buddhist artistic fusion |
-| [C08 — Islamic Esotericism](../C_Global_Traditions/C08_Islamic_Esotericism.md) | Islamic civilization and knowledge transmission |
+| [F03 — Diffusion vs. Independent Invention](../F_Lost_Connections/F03_Bronze_Age_Trade_Networks.md) | Transmission vs. independent development debate |
+| [C11 — Chinese Traditions](../C_Global_Traditions/C11_India_Naga_Traditions.md) | Chinese civilization and export culture |
+| [C06 — Hindu Traditions](../C_Global_Traditions/C06_Indonesian_Naga_SE_Asian_Traditions.md) | Indian religious transmission eastward |
+| [D20 — Greco-Buddhist Art](../D_Sites_and_Artifacts/D20_Ancient_Writing_Systems_Compared.md) | Hellenistic-Buddhist artistic fusion |
+| [C08 — Islamic Esotericism](../C_Global_Traditions/C57_Sufi_Mysticism_Islamic_Esotericism.md) | Islamic civilization and knowledge transmission |
 | [C69 — Angkor Wat/Khmer](../C_Global_Traditions/C69_Angkor_Wat_Khmer_Cosmology.md) | Hindu-Buddhist temple civilizations in Southeast Asia |
 | [N09 — Kabbalah](../N_Secret_Societies/N09_Kabbalah_Jewish_Mysticism.md) | Jewish communities along Silk Road |
 

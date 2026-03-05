@@ -334,4 +334,17 @@ Mainstream history asserts that the Americas were isolated from the Old World fr
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Balabanova, Svetlana et al. "First Identification of Drugs in Egyptian Mummies." *Naturwissenschaften* 79 (1992): 358.
+2. Ioannidis, Alexander G. et al. "Native American Gene Flow into Polynesia Predating Easter Island Settlement." *Nature* 583 (2020): 572–577.
+3. Skoglund, Pontus et al. "Genetic Evidence for Two Founding Populations of the Americas." *Nature* 525 (2015): 104–108.
+4. Roullier, Caroline et al. "Historical Collections Reveal Patterns of Diffusion of Sweet Potato in Oceania." *PNAS* 110.6 (2013): 2205–2210.
+5. Storey, Alice A. et al. "Radiocarbon and DNA Evidence for Pre-Columbian Introduction of Polynesian Chickens to Chile." *PNAS* 104.25 (2007): 10335–10339.
+6. Erickson, D.L. et al. "An Asian Origin for a 10,000-Year-Old Domesticated Plant in the Americas." *PNAS* 102.51 (2005): 18315–18320.
+7. Heyerdahl, Thor. *Kon-Tiki: Across the Pacific by Raft*. Rand McNally, 1948.
+8. Heyerdahl, Thor. *The Ra Expeditions*. Doubleday, 1971.
+9. Van Sertima, Ivan. *They Came Before Columbus*. Random House, 1976.
+10. Sorenson, John L. & Johannessen, Carl L. *World Trade and Biological Exchanges Before 1492*. iUniverse, 2009.
+11. Ingstad, Helge & Ingstad, Anne Stine. *The Viking Discovery of America*. Checkmark Books, 2001.
+12. Kuitems, Margot et al. "Evidence for European Presence in the Americas in AD 1021." *Nature* 601 (2022).
+13. Lewis, David. *We, the Navigators: The Ancient Art of Landfinding in the Pacific*. University of Hawaii Press, 1972.
+14. Finney, Ben. *Voyage of Rediscovery: A Cultural Odyssey through Polynesia*. University of California Press, 1994.

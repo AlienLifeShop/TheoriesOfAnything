@@ -3,7 +3,7 @@
 > **Document ID:** F17
 > **Section:** F_Lost_Connections
 > **Keywords:** Sub-Saharan Africa, Indian Ocean trade, dhow, Kilwa, Great Zimbabwe, Sofala, monsoon sailing, trans-Saharan, gold trade, Swahili coast, Bantu expansion, outrigger, maritime Africa
-> **Cross-References:** [C40](../C_Global_Traditions/C40_Bantu.md) · [C79](../C_Global_Traditions/C79_Great_Zimbabwe.md) · [C80](../C_Global_Traditions/C80_Swahili_Coast.md) · [F05](F05_Maritime_Technology.md) · [F03](F03_Bronze_Age_Trade.md)
+> **Cross-References:** [C40](../C_Global_Traditions/C40_Bantu_Cosmology_Migration_Iron.md) · [C79](../C_Global_Traditions/C79_Great_Zimbabwe_Southern_African.md) · [C80](../C_Global_Traditions/C80_Swahili_Coast_Maritime_Trade.md) · [F05](F05_Ancient_Maritime_Technology.md) · [F03](F03_Bronze_Age_Trade_Networks.md)
 > **Reliability Tier:** Tier 1-2 (Indian Ocean trade well-attested; some peripheral claims debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High
 
@@ -156,13 +156,13 @@ Sub-Saharan Africa was deeply integrated into global trade networks for millenni
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C40](../C_Global_Traditions/C40_Bantu.md) | Bantu expansion and its role in creating trade network infrastructure |
-| [C79](../C_Global_Traditions/C79_Great_Zimbabwe.md) | Great Zimbabwe as economic hub of southeastern African gold trade |
-| [C80](../C_Global_Traditions/C80_Swahili_Coast.md) | Swahili coast cities as Indian Ocean trade nodes |
-| [F05](F05_Maritime_Technology.md) | African maritime technologies: sewn boats, outriggers, reed craft |
-| [F03](F03_Bronze_Age_Trade.md) | Long-distance trade networks in comparative perspective |
+| [C40](../C_Global_Traditions/C40_Bantu_Cosmology_Migration_Iron.md) | Bantu expansion and its role in creating trade network infrastructure |
+| [C79](../C_Global_Traditions/C79_Great_Zimbabwe_Southern_African.md) | Great Zimbabwe as economic hub of southeastern African gold trade |
+| [C80](../C_Global_Traditions/C80_Swahili_Coast_Maritime_Trade.md) | Swahili coast cities as Indian Ocean trade nodes |
+| [F05](F05_Ancient_Maritime_Technology.md) | African maritime technologies: sewn boats, outriggers, reed craft |
+| [F03](F03_Bronze_Age_Trade_Networks.md) | Long-distance trade networks in comparative perspective |
 | [F15](F15_Chinese_Maritime_Zheng_He.md) | Zheng He's fleet visiting East African ports |
-| [F11](F11_Silk_Road.md) | Maritime Silk Road connecting to East African coast |
+| [F11](F11_Silk_Road_Knowledge_Exchange.md) | Maritime Silk Road connecting to East African coast |
 
 ---
 

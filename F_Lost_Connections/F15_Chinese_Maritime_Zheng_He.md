@@ -3,7 +3,7 @@
 > **Document ID:** F15
 > **Section:** F_Lost_Connections
 > **Keywords:** Zheng He, treasure fleet, Ming Dynasty, Song Dynasty, compass, maritime Silk Road, Haijin, sea ban, 1421 hypothesis, Gavin Menzies, Chinese exploration, junk ships, Indian Ocean
-> **Cross-References:** [F05](F05_Maritime_Technology.md) · [F02](F02_Trans_Oceanic_Contact.md) · [C12](../C_Global_Traditions/C12_Chinese_Dragon.md) · [J15](../J_Ancient_Technology/J15_Chinese_Technology.md)
+> **Cross-References:** [F05](F05_Ancient_Maritime_Technology.md) · [F02](F02_Trans_Oceanic_Contact.md) · [C12](../C_Global_Traditions/C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) · [J15](../J_Ancient_Technology/J15_Chinese_Ancient_Technology.md)
 > **Reliability Tier:** Tier 1-3 (Zheng He voyages are well-documented; fleet size debated; transpacific claims largely rejected)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High (core voyages); Very Low (Menzies hypothesis)
 
@@ -155,13 +155,13 @@ China possessed the world's most advanced maritime technology for centuries, cul
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [F05](F05_Maritime_Technology.md) | Chinese ship technology innovations (compass, rudder, bulkheads) |
+| [F05](F05_Ancient_Maritime_Technology.md) | Chinese ship technology innovations (compass, rudder, bulkheads) |
 | [F02](F02_Trans_Oceanic_Contact.md) | Zheng He's voyages as proven long-distance maritime expeditions |
-| [C12](../C_Global_Traditions/C12_Chinese_Dragon.md) | Dragon symbolism in Chinese maritime culture |
-| [J15](../J_Ancient_Technology/J15_Chinese_Technology.md) | Chinese technological innovations enabling maritime expansion |
-| [F11](F11_Silk_Road.md) | Maritime Silk Road as complement to overland routes |
+| [C12](../C_Global_Traditions/C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) | Dragon symbolism in Chinese maritime culture |
+| [J15](../J_Ancient_Technology/J15_Chinese_Ancient_Technology.md) | Chinese technological innovations enabling maritime expansion |
+| [F11](F11_Silk_Road_Knowledge_Exchange.md) | Maritime Silk Road as complement to overland routes |
 | [F17](F17_Sub_Saharan_African_Trade_Networks.md) | Chinese trade goods in East African archaeological record |
-| [C80](../C_Global_Traditions/C80_Swahili_Coast.md) | Swahili coast ports visited by Zheng He's fleet |
+| [C80](../C_Global_Traditions/C80_Swahili_Coast_Maritime_Trade.md) | Swahili coast ports visited by Zheng He's fleet |
 
 ---
 

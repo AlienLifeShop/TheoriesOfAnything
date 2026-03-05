@@ -283,4 +283,16 @@ Bronze Age trade networks provide a **documented, testable middle ground** betwe
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Cline, Eric H. *1177 B.C.: The Year Civilization Collapsed*. Princeton University Press, 2014 (revised 2021).
+2. Berger, Daniel et al. "Tin Isotope Fingerprints of Ore Deposits and Ancient Bronzes." *PLOS ONE* 14.6 (2019): e0218326.
+3. Powell, Wayne et al. "Tin from the Uluburun Shipwreck." *Journal of Archaeological Science* 122 (2020).
+4. Bass, George F. "Oldest Known Shipwreck Reveals Splendors of the Bronze Age." *National Geographic* 172.6 (1987): 693–733.
+5. Pulak, Cemal. "The Uluburun Shipwreck and Late Bronze Age Trade." In Aruz, Joan et al. (eds.), *Beyond Babylon*. Metropolitan Museum of Art, 2008.
+6. Renfrew, Colin. *Before Civilization: The Radiocarbon Revolution and Prehistoric Europe*. Cambridge University Press, 1973.
+7. Renfrew, Colin, Dixon, J.E. & Cann, J.R. "Obsidian and Early Cultural Contact in the Near East." *Proceedings of the Prehistoric Society* 32 (1966): 30–72.
+8. Kristiansen, Kristian & Larsson, Thomas B. *The Rise of Bronze Age Society: Travels, Transmissions and Transformations*. Cambridge University Press, 2005.
+9. Van De Mieroop, Marc. *The Eastern Mediterranean in the Age of Ramesses II*. Wiley-Blackwell, 2007.
+10. Moran, William L. *The Amarna Letters*. Johns Hopkins University Press, 1992.
+11. Rainey, Anson F. *The El-Amarna Correspondence*. 2 vols. Brill, 2015.
+12. Ratnagar, Shereen. *Encounters: The Westerly Trade of the Harappa Civilization*. Oxford University Press, 1981.
+13. Potts, Daniel T. *The Arabian Gulf in Antiquity*. 2 vols. Oxford University Press, 1990.

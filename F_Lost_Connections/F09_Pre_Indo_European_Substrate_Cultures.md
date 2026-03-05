@@ -628,4 +628,18 @@ The project's central thesis — that serpent-beings played a role in the transm
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Gimbutas, Marija. *The Goddesses and Gods of Old Europe, 7000–3500 B.C.: Myths and Cult Images*. Thames & Hudson, 1982 (orig. 1974).
+2. Gimbutas, Marija. *The Language of the Goddess*. Harper & Row, 1989.
+3. Gimbutas, Marija. *The Civilization of the Goddess: The World of Old Europe*. HarperSanFrancisco, 1991.
+4. Anthony, David W. *The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World*. Princeton University Press, 2007.
+5. Renfrew, Colin. *Archaeology and Language: The Puzzle of Indo-European Origins*. Jonathan Cape, 1987.
+6. Haak, Wolfgang et al. "Massive Migration from the Steppe Was a Source for Indo-European Languages in Europe." *Nature* 522 (2015): 207–211.
+7. Allentoft, Morten E. et al. "Population Genomics of Bronze Age Eurasia." *Nature* 522 (2015): 167–172.
+8. Olalde, Iñigo et al. "The Beaker Phenomenon and the Genomic Transformation of Northwest Europe." *Nature* 555 (2018): 190–196.
+9. Vennemann, Theo. *Europa Vasconica — Europa Semitica*. Trends in Linguistics. Mouton de Gruyter, 2003.
+10. Krahe, Hans. *Unsere ältesten Flussnamen*. Otto Harrassowitz, 1964.
+11. Ucko, Peter. *Anthropomorphic Figurines of Predynastic Egypt and Neolithic Crete*. Royal Anthropological Institute, 1968.
+12. Meskell, Lynn. "Goddesses, Gimbutas, and 'New Age' Archaeology." *Antiquity* 69 (1995).
+13. Eisler, Riane. *The Chalice and the Blade*. Harper & Row, 1987.
+14. Haarmann, Harald. *Early Civilization and Literacy in Europe*. Mouton de Gruyter, 1995.
+15. Koch, John T. *Tartessian: Celtic from the Southwest at the Dawn of History*. Aberystwyth: Celtic Studies Publications, 2009.

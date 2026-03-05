@@ -400,4 +400,10 @@ The only elements reaching Tier 2/3 are specific interpretive claims like the Mi
 
 ## Bibliography
 
-- Reeves. *Jewish Lore in Manichaean Cosmogony: Studies in the Book of Giants Traditions*. 1992.
+1. Reeves, John C. *Jewish Lore in Manichaean Cosmogony: Studies in the Book of Giants Traditions*. Hebrew Union College Press, 1992.
+2. Klimkeit, Hans-Joachim. *Gnosis on the Silk Road: Gnostic Texts from Central Asia*. HarperSanFrancisco, 1993.
+3. Lieu, Samuel N.C. *Manichaeism in the Later Roman Empire and Medieval China*. Manchester University Press, 1985 (2nd ed. 1992).
+4. Gardner, Iain & Lieu, Samuel N.C. *Manichaean Texts from the Roman Empire*. Cambridge University Press, 2004.
+5. BeDuhn, Jason David. *The Manichaean Body: In Discipline and Ritual*. Johns Hopkins University Press, 2000.
+6. Augustine of Hippo. *Confessions*. 397–400 CE.
+7. Augustine of Hippo. *Contra Faustum Manichaeum*. c. 400 CE.

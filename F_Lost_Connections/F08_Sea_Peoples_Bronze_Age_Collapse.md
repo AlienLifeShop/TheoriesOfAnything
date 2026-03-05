@@ -487,4 +487,15 @@ The Bronze Age Collapse fits the project's broader framework of recurring civili
 
 ## Bibliography
 
-- Finkelstein. *The Bible Unearthed*. 2001.
+1. Cline, Eric H. *1177 B.C.: The Year Civilization Collapsed*. Princeton University Press, 2014 (revised 2021).
+2. Drews, Robert. *The End of the Bronze Age: Changes in Warfare and the Catastrophe ca. 1200 B.C.* Princeton University Press, 1993.
+3. Nur, Amos & Burgess, Dawn. *Apocalypse: Earthquakes, Archaeology, and the Wrath of God*. Princeton University Press, 2008.
+4. Bryce, Trevor. *The Kingdom of the Hittites*. Oxford University Press, 2005.
+5. Dickinson, Oliver. *The Aegean from Bronze Age to Iron Age*. Routledge, 2006.
+6. Killebrew, Ann E. & Lehmann, Gunnar (eds.). *The Philistines and Other "Sea Peoples" in Text and Archaeology*. SBL Press, 2013.
+7. Middleton, Guy D. *Understanding Collapse: Ancient History and Modern Myths*. Cambridge University Press, 2017.
+8. Drake, Brandon. "The Influence of Climatic Change on the Late Bronze Age Collapse and the Greek Dark Ages." *Journal of Archaeological Science* 39.6 (2012): 1862–1870.
+9. Moran, William L. *The Amarna Letters*. Johns Hopkins University Press, 1992.
+10. Kitchen, K.A. *Ramesside Inscriptions*. Vols. IV–V. Blackwell, 1982–1983.
+11. Tainter, Joseph A. *The Collapse of Complex Societies*. Cambridge University Press, 1988.
+12. Finkelstein, Israel & Silberman, Neil Asher. *The Bible Unearthed*. Free Press, 2001.

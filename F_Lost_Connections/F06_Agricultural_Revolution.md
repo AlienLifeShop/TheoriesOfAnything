@@ -37,7 +37,7 @@ The Agricultural Revolution (~10,000 BCE) — the transition from hunting-gather
 - **Infections:** tuberculosis, brucellosis, plague, smallpox — all zoonotic diseases from living close to livestock. The first pandemic diseases required AGRICULTURE to exist (dense populations + animal contact).
 - **Nutrition:** narrowed diet (wheat/rice mono-diets) → iron deficiency anemia (porotic hyperostosis, cribra orbitalia in skeletal remains), vitamin deficiencies, pellagra (maize-dependent populations).
 - **Labor:** arthritis and degenerative joint disease increased dramatically. Repetitive grinding motion → severe wear on knees, back, and wrists.
-- **Lifespan:** debated, but many paleodemographic studies show decreased life expectancy at the transition.
+- **Lifespan:** debated, but paleodemographic studies (Bocquet-Appel & Bar-Yosef, 2008) show decreased life expectancy at the transition.
 - **Cohen & Armelagos, *Paleopathology at the Origins of Agriculture* (1984):** the definitive comparative study. All 23 contributing analyses from different regions showed the same pattern: health declined at the agricultural transition.
 
 ### 1.3 Independent Invention Rules Out "Single Cause" [4/5 sources]

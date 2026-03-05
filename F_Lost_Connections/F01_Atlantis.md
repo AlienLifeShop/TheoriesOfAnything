@@ -331,4 +331,16 @@ If Plato (via Egyptian sources) was describing the Americas in 360 BCE, this con
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Plato. *Timaeus* and *Critias*. Trans. Desmond Lee. Penguin Classics, 1977.
+2. Vidal-Naquet, Pierre. *The Atlantis Story: A Short History of Plato's Myth*. University of Exeter Press, 2007.
+3. Gill, Christopher. *Plato: The Atlantis Story*. Bristol Classical Press, 1980.
+4. Nesselrath, Heinz-Günter. *Platon und die Erfindung von Atlantis*. Ugarit-Verlag, 2006.
+5. Galanopoulos, A.G. & Bacon, Edward. *Atlantis: The Truth Behind the Legend*. Bobbs-Merrill, 1969.
+6. Luce, J.V. *The End of Atlantis: New Light on an Old Legend*. Thames & Hudson, 1969.
+7. Donnelly, Ignatius. *Atlantis: The Antediluvian World*. Harper & Brothers, 1882.
+8. Hapgood, Charles H. *Maps of the Ancient Sea Kings: Evidence of Advanced Civilization in the Ice Age*. Chilton Books, 1966.
+9. Flem-Ath, Rand & Flem-Ath, Rose. *When the Sky Fell: In Search of Atlantis*. St. Martin's Press, 1995.
+10. Hancock, Graham. *Fingerprints of the Gods*. Crown, 1995.
+11. Hancock, Graham. *Magicians of the Gods*. Thomas Dunne Books, 2015.
+12. Gaffney, Vincent et al. *Europe's Lost World: The Rediscovery of Doggerland*. Council for British Archaeology, 2009.
+13. Natawidjaja, Danny Hilman et al. "Geo-archaeological Prospecting of Gunung Padang." *Archaeological Prospection* (2023).

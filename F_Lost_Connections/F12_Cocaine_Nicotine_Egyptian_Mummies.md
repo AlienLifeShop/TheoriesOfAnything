@@ -3,7 +3,7 @@
 > **Document ID:** F12
 > **Section:** F_Lost_Connections
 > **Keywords:** cocaine, nicotine, Egyptian mummies, Balabanova, trans-oceanic contact, contamination, New World plants, toxicology, museum specimens, pre-Columbian trade
-> **Cross-References:** [F02](F02_Trans_Oceanic_Contact.md) · [F05](F05_Maritime_Technology.md) · [H08](../H_Suppression_and_Thesis/H08_Academic_Gatekeeping.md) · [F03](F03_Bronze_Age_Trade.md)
+> **Cross-References:** [F02](F02_Trans_Oceanic_Contact.md) · [F05](F05_Ancient_Maritime_Technology.md) · [H08](../H_Suppression_and_Thesis/H08_Academic_Gatekeeping_Paradigm_Resistance.md) · [F03](F03_Bronze_Age_Trade_Networks.md)
 > **Reliability Tier:** Tier 2-3 (Peer-reviewed toxicological findings with contested interpretation; contamination questions unresolved)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** Medium-Low
 
@@ -136,12 +136,12 @@ In 1992, German toxicologist Svetlana Balabanova published findings of cocaine, 
 | Related Doc | Connection |
 |-------------|-----------|
 | [F02](F02_Trans_Oceanic_Contact.md) | Core framework for evaluating pre-Columbian trans-oceanic contact evidence |
-| [F05](F05_Maritime_Technology.md) | Ancient maritime capabilities enabling theoretical Atlantic crossings |
-| [F03](F03_Bronze_Age_Trade.md) | Established long-distance Bronze Age trade as context for anomalous finds |
+| [F05](F05_Ancient_Maritime_Technology.md) | Ancient maritime capabilities enabling theoretical Atlantic crossings |
+| [F03](F03_Bronze_Age_Trade_Networks.md) | Established long-distance Bronze Age trade as context for anomalous finds |
 | [F13](F13_Phoenician_Carthaginian_Atlantic.md) | Phoenicians as most plausible intermediary traders for Atlantic routes |
-| [H08](../H_Suppression_and_Thesis/H08_Academic_Gatekeeping.md) | Institutional resistance to paradigm-challenging findings |
+| [H08](../H_Suppression_and_Thesis/H08_Academic_Gatekeeping_Paradigm_Resistance.md) | Institutional resistance to paradigm-challenging findings |
 | [A19](../A_Foundations/A19_Egyptian_Book_of_the_Dead.md) | Egyptian funerary practices and mummification context |
-| [D08](../D_Sites_and_Artifacts/D08_Egyptian_Anomalies.md) | Anomalous artifacts and findings in Egyptology |
+| [D08](../D_Sites_and_Artifacts/D08_Art_Paintings_UFOs_Aliens.md) | Anomalous artifacts and findings in Egyptology |
 
 ---
 
