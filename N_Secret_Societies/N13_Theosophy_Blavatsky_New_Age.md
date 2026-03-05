@@ -3,7 +3,7 @@
 > **Document ID:** N13
 > **Section:** N_Secret_Societies
 > **Keywords:** Theosophy, Helena Blavatsky, Theosophical Society, Secret Doctrine, root races, Mahatmas, Annie Besant, Leadbeater, Krishnamurti, Ariosophy, New Age, Anthroposophy, Steiner
-> **Cross-References:** [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [G06](../G_Modern_Frameworks/G06_Conspiracy_Analysis.md) · [F01](../F_Lost_Connections/F01_Atlantis.md) · [H06](../H_Suppression_and_Thesis/H06_Demonization.md)
+> **Cross-References:** [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [G06](../G_Modern_Frameworks/G06_Modern_Conspiracy_Analysis.md) · [F01](../F_Lost_Connections/F01_Atlantis.md) · [H06](../H_Suppression_and_Thesis/H06_Demonization_Timeline.md)
 > **Reliability Tier:** Tier 2-4 (historical movement documented; doctrinal claims range from philosophical to unfounded)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 17 scholarly sources | **Confidence:** Medium
 
@@ -130,9 +130,9 @@ Theosophy, founded by Helena Petrovna Blavatsky and Henry Steel Olcott in New Yo
 |-------------|-----------|
 | [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) | Esoteric tradition lineage |
 | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Mystery school tradition that Theosophy claimed to continue |
-| [G06](../G_Modern_Frameworks/G06_Conspiracy_Analysis.md) | Conspiracy analysis frameworks |
+| [G06](../G_Modern_Frameworks/G06_Modern_Conspiracy_Analysis.md) | Conspiracy analysis frameworks |
 | [F01](../F_Lost_Connections/F01_Atlantis.md) | Atlantis as fourth root race homeland |
-| [H06](../H_Suppression_and_Thesis/H06_Demonization.md) | Demonization and appropriation of esoteric traditions |
+| [H06](../H_Suppression_and_Thesis/H06_Demonization_Timeline.md) | Demonization and appropriation of esoteric traditions |
 | [N14](../N_Secret_Societies/N14_Rosicrucian_Manifestos_Invisible_College.md) | Rosicrucian influence on Theosophical lineage claims |
 
 ---

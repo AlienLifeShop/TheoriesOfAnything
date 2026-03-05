@@ -3,7 +3,7 @@
 > **Document ID:** N12
 > **Section:** N_Secret_Societies
 > **Keywords:** Eleusinian Mysteries, Eleusis, Demeter, Persephone, kykeon, ergot, telesterion, epopteia, initiation, Theodosius, mystery religion, Alcibiades, Cicero, entheogens
-> **Cross-References:** [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [K18](../K_Consciousness/K18_Classical_Entheogens.md) · [K17](../K_Consciousness/K17_Ergot.md) · [H10](../H_Suppression_and_Thesis/H10_Gnostic_Suppression.md) · [C42](../C_Global_Traditions/C42_Minoan.md)
+> **Cross-References:** [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [K18](../K_Consciousness/K18_Classical_Antiquity_Entheogens_Synthesis.md) · [K17](../K_Consciousness/K17_Ergot_Sacred_Pharmacology_History.md) · [H10](../H_Suppression_and_Thesis/H10_Gnostic_Heterodox_Christianity_Suppression.md) · [C42](../C_Global_Traditions/C42_Minoan_Civilization_Bull_Cult.md)
 > **Reliability Tier:** Tier 1-3 (historical existence Tier 1; ritual details range from documented to speculative)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** Medium-High
 
@@ -130,7 +130,7 @@ The Eleusinian Mysteries were the most prestigious and longest-running initiator
 12. Graf, F. & Johnston, S.I. (2013). *Ritual Texts for the Afterlife: Orpheus and the Bacchic Gold Tablets*. 2nd ed. Routledge.
 13. Bremmer, J.N. (2014). *Initiation into the Mysteries of the Ancient World*. De Gruyter.
 14. Parker, R. (2005). *Polytheism and Society at Athens*. Oxford University Press. (Chapter on Eleusis.)
-15. "Homeric Hymn to Demeter" (c. 7th century BCE). Various translations.
+15. Foley, Helene P. (ed.). *The Homeric Hymn to Demeter: Translation, Commentary, and Interpretive Essays* (c. 7th century BCE text). Princeton University Press, 1994.
 16. Clement of Alexandria (c. 200 CE). *Protrepticus* (Exhortation to the Greeks). Various translations.
 17. Plutarch (c. 100 CE). *De Iside et Osiride*; fragments on Eleusis. Various translations.
 18. Samorini, G. (2019). "The oldest archaeological data evidencing the relationship of Homo sapiens with psychoactive plants." *Journal of Psychedelic Studies*, 3(2), 63-80.
@@ -142,10 +142,10 @@ The Eleusinian Mysteries were the most prestigious and longest-running initiator
 | Related Doc | Connection |
 |-------------|-----------|
 | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Mystery school tradition overview |
-| [K18](../K_Consciousness/K18_Classical_Entheogens.md) | Classical-era entheogen use |
-| [K17](../K_Consciousness/K17_Ergot.md) | Ergot and psychoactive properties |
-| [H10](../H_Suppression_and_Thesis/H10_Gnostic_Suppression.md) | Suppression of alternative religious traditions |
-| [C42](../C_Global_Traditions/C42_Minoan.md) | Minoan cultural precursors |
+| [K18](../K_Consciousness/K18_Classical_Antiquity_Entheogens_Synthesis.md) | Classical-era entheogen use |
+| [K17](../K_Consciousness/K17_Ergot_Sacred_Pharmacology_History.md) | Ergot and psychoactive properties |
+| [H10](../H_Suppression_and_Thesis/H10_Gnostic_Heterodox_Christianity_Suppression.md) | Suppression of alternative religious traditions |
+| [C42](../C_Global_Traditions/C42_Minoan_Civilization_Bull_Cult.md) | Minoan cultural precursors |
 | [N11](../N_Secret_Societies/N11_Pythagorean_Brotherhood.md) | Greek initiatory tradition parallels |
 
 ---

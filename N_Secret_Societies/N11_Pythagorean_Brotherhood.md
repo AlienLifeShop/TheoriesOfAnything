@@ -3,7 +3,7 @@
 > **Document ID:** N11
 > **Section:** N_Secret_Societies
 > **Keywords:** Pythagoras, Pythagorean brotherhood, Croton, Music of the Spheres, tetractys, akousmatikoi, mathematikoi, sacred numbers, beans taboo, Plato, mystery school, metempsychosis
-> **Cross-References:** [D12](../D_Sites_and_Artifacts/D12_Pythagorean_Harmony.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [P04](../P_Philosophy_Meaning/P04_Mathematics.md) · [G18](../G_Modern_Frameworks/G18_Cymatics.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md)
+> **Cross-References:** [D12](../D_Sites_and_Artifacts/D12_Pythagorean_Harmony_Sacred_Sound.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [P04](../P_Philosophy_Meaning/P04_Mathematics_Discovered_Invented.md) · [G18](../G_Modern_Frameworks/G18_Cymatics_Visible_Sound.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md)
 > **Reliability Tier:** Tier 1-3 (mathematical contributions verified; biographical details range from historical to legendary)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 17 scholarly sources | **Confidence:** Medium-High
 
@@ -116,7 +116,7 @@ Pythagoras of Samos (~570-495 BCE) was a Greek philosopher, mathematician, and m
 7. Iamblichus (c. 300 CE). *On the Pythagorean Life*. Trans. Clark, G. (1989). Liverpool University Press.
 8. Porphyry (c. 270 CE). *Life of Pythagoras*. Trans. Guthrie, K.S. (1920).
 9. Diogenes Laertius (c. 230 CE). *Lives and Opinions of Eminent Philosophers*, Book VIII. Various translations.
-10. Aristotle. *Metaphysics*, Book I, Chapters 5-6. Various translations.
+10. Aristotle. *Metaphysics*, Book I, Chapters 5-6. c. 350 BCE. Various translations.
 11. Cornelli, G. (2013). *In Search of Pythagoreanism: Pythagoreanism as an Historiographical Category*. De Gruyter.
 12. Guthrie, W.K.C. (1962). *A History of Greek Philosophy*, Vol. I. Cambridge University Press.
 13. Schofield, M. (2012). "Pythagoreanism." *Oxford Handbook of Presocratic Philosophy*. Oxford University Press.
@@ -131,10 +131,10 @@ Pythagoras of Samos (~570-495 BCE) was a Greek philosopher, mathematician, and m
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [D12](../D_Sites_and_Artifacts/D12_Pythagorean_Harmony.md) | Musical ratios and harmonic principles |
+| [D12](../D_Sites_and_Artifacts/D12_Pythagorean_Harmony_Sacred_Sound.md) | Musical ratios and harmonic principles |
 | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Mystery school tradition context |
-| [P04](../P_Philosophy_Meaning/P04_Mathematics.md) | Philosophy of mathematics |
-| [G18](../G_Modern_Frameworks/G18_Cymatics.md) | Sound-pattern relationships |
+| [P04](../P_Philosophy_Meaning/P04_Mathematics_Discovered_Invented.md) | Philosophy of mathematics |
+| [G18](../G_Modern_Frameworks/G18_Cymatics_Visible_Sound.md) | Sound-pattern relationships |
 | [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Sacred geometry and number symbolism |
 | [N12](../N_Secret_Societies/N12_Eleusinian_Mysteries_Deep_Dive.md) | Parallel Greek initiatory tradition |
 

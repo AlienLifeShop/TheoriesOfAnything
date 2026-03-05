@@ -3,7 +3,7 @@
 > **Document ID:** N18
 > **Section:** N_Secret_Societies
 > **Keywords:** Gurdjieff, Fourth Way, self-remembering, Ouspensky, enneagram, Beelzebub's Tales, sacred dances, Movements, Sarmoung Brotherhood, octave law, hydrogens, man is a machine, esoteric school, conscience
-> **Cross-References:** [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [K10](../K_Consciousness/K10_Meditation_Neuroscience.md) · [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) · [U02](../U_Art_Music_Culture/U02_Sacred_Dance.md) · [T01](../T_Psychology_Social/T01_Social_Psychology.md)
+> **Cross-References:** [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [K10](../K_Consciousness/K08_Meditation_Neuroplasticity.md) · [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) · [U02](../U_Art_Music_Culture/U02_Sacred_Dance_Ritual_Movement.md) · [T01](../T_Psychology_Social/T01_Social_Psychology_Conformity_Obedience.md)
 > **Reliability Tier:** Tier 2-3 (biographical facts verifiable; inner teaching claims unverifiable by design)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** Moderate
 
@@ -157,22 +157,22 @@ George Ivanovich Gurdjieff (c. 1866-1949) was one of the most enigmatic and infl
 | Topic | Document | Relationship |
 |---|---|---|
 | Mystery Schools | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Esoteric school tradition |
-| Meditation Neuroscience | [K10](../K_Consciousness/K10_Meditation_Neuroscience.md) | Self-remembering as awareness practice |
+| Meditation Neuroscience | [K10](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Self-remembering as awareness practice |
 | Perennial Philosophy | [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) | Universal truth claim |
-| Sacred Dance | [U02](../U_Art_Music_Culture/U02_Sacred_Dance.md) | Movements as embodied practice |
-| Social Psychology | [T01](../T_Psychology_Social/T01_Social_Psychology.md) | Mechanical behavior / automaticity |
+| Sacred Dance | [U02](../U_Art_Music_Culture/U02_Sacred_Dance_Ritual_Movement.md) | Movements as embodied practice |
+| Social Psychology | [T01](../T_Psychology_Social/T01_Social_Psychology_Conformity_Obedience.md) | Mechanical behavior / automaticity |
 | Sufi Orders | [N08](../N_Secret_Societies/N08_Sufi_Orders_Islamic_Esotericism.md) | Probable source tradition |
 | Theosophy | [N13](../N_Secret_Societies/N13_Theosophy_Blavatsky_New_Age.md) | Cosmological parallels |
 | Kabbalah | [N09](../N_Secret_Societies/N09_Kabbalah_Jewish_Mysticism.md) | Enneagram / Tree of Life structural analogies |
 | Pythagorean Brotherhood | [N11](../N_Secret_Societies/N11_Pythagorean_Brotherhood.md) | Sacred mathematics and music |
 | Hermetic Tradition | [A08](../A_Foundations/A08_Hermetic_Tradition.md) | "As above, so below" cosmology |
-| Zoroastrianism | [C12](../C_Global_Traditions/C12_Zoroastrianism.md) | Central Asian spiritual tradition |
+| Zoroastrianism | [C12](../A_Foundations/A26_Avestan_Texts_Gathas_Vendidad_Yasna.md) | Central Asian spiritual tradition |
 | Golden Dawn | [N20](../N_Secret_Societies/N20_Golden_Dawn_Ceremonial_Magic.md) | Parallel esoteric revival movement |
-| Kundalini | [K06](../K_Consciousness/K06_Kundalini.md) | Energy centers / chakra parallels |
-| Sacred Music | [U01](../U_Art_Music_Culture/U01_Ancient_Music.md) | Gurdjieff/de Hartmann compositions |
-| Consciousness Studies | [K01](../K_Consciousness/K01_Consciousness_Overview.md) | "Waking sleep" and awareness |
+| Kundalini | [K06](../K_Consciousness/K06_Kundalini_Serpent_Energy.md) | Energy centers / chakra parallels |
+| Sacred Music | [U01](../U_Art_Music_Culture/U01_Music_Theory_Harmonic_Series_Physics_of_Sound.md) | Gurdjieff/de Hartmann compositions |
+| Consciousness Studies | [K01](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | "Waking sleep" and awareness |
 | Eleusinian Mysteries | [N12](../N_Secret_Societies/N12_Eleusinian_Mysteries_Deep_Dive.md) | Ancient initiation parallels |
-| Shamanism | [C05](../C_Global_Traditions/C05_Shamanism_Cross_Cultural.md) | Central Asian spiritual practices |
+| Shamanism | [C05](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Central Asian spiritual practices |
 
 ---
 

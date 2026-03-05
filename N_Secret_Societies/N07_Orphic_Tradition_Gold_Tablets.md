@@ -354,7 +354,7 @@ Across these traditions — Egyptian, Orphic, Tibetan Buddhist, Maya — a commo
 - **Metempsychosis**: Pythagoras taught the transmigration of souls. He claimed to remember his own previous lives (Iamblichus, *De Vita Pythagorica* 63; Diogenes Laertius 8.4–5). This doctrine is central to Orphism.
 - **Vegetarianism**: Pythagorean dietary restrictions included abstention from meat (or at least certain meats) and beans. These rules parallel Orphic purificatory practices.
 - **Purification**: the Pythagorean life (bios Pythagorikos) involved mathematical study, musical practice, communal living, and ascetic discipline — all understood as purification of the soul.
-- **Silence and secrecy**: Pythagorean initiates underwent a period of silence (five years, according to some sources) and were forbidden from disclosing the community's teachings to outsiders — parallel to mystery religion secrecy.
+- **Silence and secrecy**: Pythagorean initiates underwent a period of silence (five years, according to Iamblichus, *De Vita Pythagorica* 72) and were forbidden from disclosing the community's teachings to outsiders — parallel to mystery religion secrecy.
 - **Geographic overlap**: Pythagoreanism flourished in exactly the same region of southern Italy where Orphic gold tablets are most commonly found.
 
 The question of priority — did Pythagoras borrow from Orphism, or vice versa? — is unresolvable with current evidence. Ion of Chios (5th century BCE, *fr.* 116 Leurini) attributed doctrines to Pythagoras that he had composed under the name of Orpheus. The traditions were likely intertwined from an early date, influencing each other in ways that cannot be cleanly separated.
@@ -463,4 +463,13 @@ This document draws on well-established classical scholarship:
 
 ## Bibliography
 
-- Huxley. *The Perennial Philosophy*. 1945.
+1. Graf, F. & Johnston, S.I. *Ritual Texts for the Afterlife: Orpheus and the Bacchic Gold Tablets.* 2nd ed. London: Routledge, 2013.
+2. Bernabé, A. & Jiménez San Cristóbal, A.I. *Instructions for the Netherworld: The Orphic Gold Tablets.* Leiden: Brill, 2008.
+3. Edmonds, R.G. III. *Redefining Ancient Orphism: A Study in Greek Religion.* Cambridge: Cambridge University Press, 2013.
+4. Burkert, W. *Ancient Mystery Cults.* Cambridge: Harvard University Press, 1987.
+5. Guthrie, W.K.C. *Orpheus and Greek Religion: A Study of the Orphic Movement.* London: Methuen, 1952.
+6. West, M.L. *The Orphic Poems.* Oxford: Clarendon Press, 1983.
+7. Kouremenos, T., Parássoglou, G.M. & Tsantsanoglou, K. *The Derveni Papyrus.* Florence: Leo S. Olschki, 2006.
+8. Kern, O. *Orphicorum Fragmenta.* Berlin: Weidmann, 1922.
+9. Bremmer, J.N. *Initiation into the Mysteries of the Ancient World.* Berlin: De Gruyter, 2014.
+10. Huxley, A. *The Perennial Philosophy.* New York: Harper & Brothers, 1945.

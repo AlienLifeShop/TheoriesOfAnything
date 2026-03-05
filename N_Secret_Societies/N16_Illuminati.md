@@ -3,7 +3,7 @@
 > **Document ID:** N16
 > **Section:** N_Secret_Societies
 > **Keywords:** Illuminati, Adam Weishaupt, Bavaria, Minerval, Enlightenment, Karl Theodor, Robison, Barruel, conspiracy theory, secret society, rationalism, New World Order, Robert Anton Wilson, QAnon
-> **Cross-References:** [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [H13](../H_Suppression_and_Thesis/H13_Inquisition_Heresy_Suppression.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md) · [T07](../T_Psychology_Social/T07_Propaganda_Psychology.md)
+> **Cross-References:** [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [H13](../H_Suppression_and_Thesis/H13_Inquisition_Systematic_Knowledge_Suppression.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md) · [T07](../T_Psychology_Social/T07_Propaganda_Persuasion_Information_Warfare.md)
 > **Reliability Tier:** Tier 1-4 (documented historical society through modern conspiracy mythology)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High (historical); Low (conspiracy claims)
 
@@ -160,13 +160,13 @@ The Order of the Illuminati (Illuminatenorden) was a real secret society founded
 |---|---|---|
 | Freemasonry | [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) | Infiltrated host organization |
 | Mystery Schools | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Historical secret society tradition |
-| Inquisition / Suppression | [H13](../H_Suppression_and_Thesis/H13_Inquisition_Heresy_Suppression.md) | Suppression of heterodox organizations |
+| Inquisition / Suppression | [H13](../H_Suppression_and_Thesis/H13_Inquisition_Systematic_Knowledge_Suppression.md) | Suppression of heterodox organizations |
 | Political Philosophy | [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md) | Enlightenment rationalism context |
-| Propaganda Psychology | [T07](../T_Psychology_Social/T07_Propaganda_Psychology.md) | Conspiracy mythology mechanisms |
+| Propaganda Psychology | [T07](../T_Psychology_Social/T07_Propaganda_Persuasion_Information_Warfare.md) | Conspiracy mythology mechanisms |
 | Rosicrucian Manifestos | [N14](../N_Secret_Societies/N14_Rosicrucian_Manifestos_Invisible_College.md) | Earlier secret-society reformation project |
 | Pythagorean Brotherhood | [N11](../N_Secret_Societies/N11_Pythagorean_Brotherhood.md) | Secrecy and intellectual brotherhood |
 | Kabbalah | [N09](../N_Secret_Societies/N09_Kabbalah_Jewish_Mysticism.md) | Grade system comparison |
-| Scientific Censorship | [H15](../H_Suppression_and_Thesis/H15_Scientific_Censorship.md) | Suppression of Enlightenment ideas |
+| Scientific Censorship | [H15](../H_Suppression_and_Thesis/H15_Scientific_Censorship_Paradigm_Defense.md) | Suppression of Enlightenment ideas |
 | Theosophy | [N13](../N_Secret_Societies/N13_Theosophy_Blavatsky_New_Age.md) | Later secret society / hidden masters |
 | Golden Dawn | [N20](../N_Secret_Societies/N20_Golden_Dawn_Ceremonial_Magic.md) | Grade system evolution |
 | Gurdjieff | [N18](../N_Secret_Societies/N18_Gurdjieff_Fourth_Way.md) | Esoteric school secrecy parallels |

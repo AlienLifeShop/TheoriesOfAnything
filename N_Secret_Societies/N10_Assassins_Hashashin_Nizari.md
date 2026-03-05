@@ -3,7 +3,7 @@
 > **Document ID:** N10
 > **Section:** N_Secret_Societies
 > **Keywords:** Assassins, Hashashin, Hassan-i Sabbah, Alamut, Nizari Ismaili, fidai, Shia Islam, targeted killing, Mongol destruction, Aga Khan, Elburz Mountains, Old Man of the Mountain
-> **Cross-References:** [N04](../N_Secret_Societies/N04_Knights_Templar.md) · [N08](../N_Secret_Societies/N08_Sufi_Orders.md) · [C61](../C_Global_Traditions/C61_Persian.md) · [M07](../M_Forbidden_Archaeology/M07_Library_Destructions.md)
+> **Cross-References:** [N04](../N_Secret_Societies/N04_Knights_Templar.md) · [N08](../N_Secret_Societies/N08_Sufi_Orders_Islamic_Esotericism.md) · [C61](../C_Global_Traditions/C61_Persian_Civilization_Achaemenid_Magi.md) · [M07](../M_Forbidden_Archaeology/M07_Library_Destructions_Lost_Knowledge.md)
 > **Reliability Tier:** Tier 1-3 (historical existence Tier 1; many popular legends Tier 3-4)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 16 scholarly sources | **Confidence:** Medium-High
 
@@ -135,9 +135,9 @@ The Assassins — more accurately the Nizari Ismaili Order — were a medieval S
 | Related Doc | Connection |
 |-------------|-----------|
 | [N04](../N_Secret_Societies/N04_Knights_Templar.md) | Templar-Assassin diplomatic contacts and structural parallels |
-| [N08](../N_Secret_Societies/N08_Sufi_Orders.md) | Islamic mystical order parallels |
-| [C61](../C_Global_Traditions/C61_Persian.md) | Persian cultural and religious context |
-| [M07](../M_Forbidden_Archaeology/M07_Library_Destructions.md) | Destruction of the Alamut library by Mongols |
+| [N08](../N_Secret_Societies/N08_Sufi_Orders_Islamic_Esotericism.md) | Islamic mystical order parallels |
+| [C61](../C_Global_Traditions/C61_Persian_Civilization_Achaemenid_Magi.md) | Persian cultural and religious context |
+| [M07](../M_Forbidden_Archaeology/M07_Library_Destructions_Lost_Knowledge.md) | Destruction of the Alamut library by Mongols |
 | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Initiatory knowledge structure comparison |
 | [N12](../N_Secret_Societies/N12_Eleusinian_Mysteries_Deep_Dive.md) | Multi-level initiation parallels |
 

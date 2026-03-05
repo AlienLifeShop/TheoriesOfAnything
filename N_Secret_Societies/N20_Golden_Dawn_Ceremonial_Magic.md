@@ -3,7 +3,7 @@
 > **Document ID:** N20
 > **Section:** N_Secret_Societies
 > **Keywords:** Golden Dawn, Hermetic Order, Mathers, Westcott, Cipher Manuscripts, Enochian magic, John Dee, ceremonial magic, tarot, Aleister Crowley, Thelema, Israel Regardie, Wicca, grade system, Western esotericism
-> **Cross-References:** [A08](../A_Foundations/A08_Hermetic_Tradition.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [N09](../N_Secret_Societies/N09_Kabbalah_Jewish_Mysticism.md) · [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) · [K06](../K_Consciousness/K06_Kundalini.md)
+> **Cross-References:** [A08](../A_Foundations/A08_Hermetic_Tradition.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [N09](../N_Secret_Societies/N09_Kabbalah_Jewish_Mysticism.md) · [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) · [K06](../K_Consciousness/K06_Kundalini_Serpent_Energy.md)
 > **Reliability Tier:** Tier 1-3 (historical organization well-documented; magical efficacy claims unverifiable)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** Moderate-High (historical); N/A (magical claims)
 
@@ -165,7 +165,7 @@ The Hermetic Order of the Golden Dawn, founded in London in 1888 by William Wynn
 | Mystery Schools | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Initiatory tradition context |
 | Kabbalah | [N09](../N_Secret_Societies/N09_Kabbalah_Jewish_Mysticism.md) | Tree of Life / grade structure |
 | Freemasonry | [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) | Grade system and Rosicrucian links |
-| Kundalini | [K06](../K_Consciousness/K06_Kundalini.md) | Energy work / Middle Pillar exercise |
+| Kundalini | [K06](../K_Consciousness/K06_Kundalini_Serpent_Energy.md) | Energy work / Middle Pillar exercise |
 | Theosophy | [N13](../N_Secret_Societies/N13_Theosophy_Blavatsky_New_Age.md) | Hidden masters / Secret Chiefs parallel |
 | Rosicrucian Manifestos | [N14](../N_Secret_Societies/N14_Rosicrucian_Manifestos_Invisible_College.md) | Claimed lineage |
 | Eleusinian Mysteries | [N12](../N_Secret_Societies/N12_Eleusinian_Mysteries_Deep_Dive.md) | Ancient initiation model |
@@ -173,7 +173,7 @@ The Hermetic Order of the Golden Dawn, founded in London in 1888 by William Wynn
 | Gurdjieff | [N18](../N_Secret_Societies/N18_Gurdjieff_Fourth_Way.md) | Parallel esoteric school, enneagram |
 | Sufi Orders | [N08](../N_Secret_Societies/N08_Sufi_Orders_Islamic_Esotericism.md) | Initiatory grade structures |
 | Egyptian Mythology | [A19](../A_Foundations/A19_Egyptian_Book_of_the_Dead.md) | Godform visualization / Egyptian symbolism |
-| Consciousness | [K01](../K_Consciousness/K01_Consciousness_Overview.md) | Altered states in ritual |
+| Consciousness | [K01](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Altered states in ritual |
 
 ---
 

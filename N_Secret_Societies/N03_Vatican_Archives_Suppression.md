@@ -233,7 +233,7 @@ While conspiracy theories about hidden alien records are unfounded, the Vatican 
 6. Consolmagno, Guy. *Brother Astronomer: Adventures of a Vatican Scientist*. McGraw-Hill, 2000.
 7. Maffeo, Sabino. *The Vatican Observatory: In the Service of Nine Popes*. 2001.
 8. Lanciani, Rodolfo. *The Destruction of Ancient Rome*. 1899.
-9. Large Binocular Telescope Observatory (LBTO). Official technical documentation. https://www.lbto.org
+9. Large Binocular Telescope Observatory (LBTO). *Official Technical Documentation* (2005–present). Mount Graham, Arizona. https://www.lbto.org
 
 ---
 *Consolidated from 4 AI sources. Last Updated: Feb 26, 2026*

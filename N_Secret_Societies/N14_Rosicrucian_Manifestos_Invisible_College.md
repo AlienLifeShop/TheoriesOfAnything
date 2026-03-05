@@ -120,8 +120,8 @@ The Rosicrucian manifestos — the *Fama Fraternitatis* (1614), *Confessio Frate
 1. Yates, F.A. (1972). *The Rosicrucian Enlightenment*. Routledge & Kegan Paul.
 2. McIntosh, C. (2011). *The Rosicrucians: The History, Mythology, and Rituals of an Esoteric Order*. 3rd ed. Weiser Books.
 3. Andreae, J.V. (1616). *Chymische Hochzeit Christiani Rosencreutz*. Strasbourg. English trans.: *The Chemical Wedding of Christian Rosenkreuz*. (Multiple editions.)
-4. *Fama Fraternitatis* (1614). Kassel. Various modern editions and translations.
-5. *Confessio Fraternitatis* (1615). Kassel. Various modern editions and translations.
+4. Anonymous [attr. Andreae, Johann Valentin]. *Fama Fraternitatis* (1614). Kassel. Modern critical ed.: Edighoffer, Roland. Presses Universitaires de France, 1982.
+5. Anonymous [attr. Andreae, Johann Valentin]. *Confessio Fraternitatis* (1615). Kassel. Modern critical ed.: Edighoffer, Roland. Presses Universitaires de France, 1982.
 6. Gilly, C. (1998). "The Rosicrucian Manifestos and Their Context." *Rosenkreuz als europäisches Phänomen im 17. Jahrhundert*. Bibliotheca Philosophica Hermetica.
 7. Dickson, D.R. (1998). *The Tessera of Antilia: Utopian Brotherhoods and Secret Societies in the Early Seventeenth Century*. Brill.
 8. Montgomery, J.W. (1973). *Cross and Crucible: Johann Valentin Andreae (1586-1654) — Phoenix of the Theologians*. 2 vols. Martinus Nijhoff.

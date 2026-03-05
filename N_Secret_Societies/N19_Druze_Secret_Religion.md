@@ -3,7 +3,7 @@
 > **Document ID:** N19
 > **Section:** N_Secret_Societies
 > **Keywords:** Druze, al-Hakim, Fatimid, taqammus, reincarnation, Hikma, Book of Wisdom, ajawid, juhhal, Ismaili, Jethro, Shu'ayb, five cosmic principles, closed community, Tawhid, Levant
-> **Cross-References:** [A21](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [N17](../N_Secret_Societies/N17_Cathars_Albigensians_Grail_Heresy.md) · [P17](../P_Philosophy_Meaning/P17_Afterlife_Reincarnation.md) · [L13](../L_Genetics_Origins/L13_Y_Chromosome.md)
+> **Cross-References:** [A21](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [N17](../N_Secret_Societies/N17_Cathars_Albigensians_Grail_Heresy.md) · [P17](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) · [L13](../L_Genetics_Origins/L13_Y_Chromosome_Phylogeny_Patrilineal_Deep_History.md)
 > **Reliability Tier:** Tier 1-3 (historical origins well-documented; inner doctrines restricted; genetic studies ongoing)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 19 scholarly sources | **Confidence:** Moderate
 
@@ -164,15 +164,15 @@ The Druze are a distinct ethno-religious community of approximately 1-2 million 
 | Quranic Cosmology | [A21](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md) | Parent theological tradition |
 | Mystery Schools | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Initiated/uninitiated structure |
 | Cathars | [N17](../N_Secret_Societies/N17_Cathars_Albigensians_Grail_Heresy.md) | Dualism parallel (contrast) |
-| Reincarnation | [P17](../P_Philosophy_Meaning/P17_Afterlife_Reincarnation.md) | Taqammus doctrine |
-| Y-Chromosome Studies | [L13](../L_Genetics_Origins/L13_Y_Chromosome.md) | Founder effect / genetic isolation |
+| Reincarnation | [P17](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) | Taqammus doctrine |
+| Y-Chromosome Studies | [L13](../L_Genetics_Origins/L13_Y_Chromosome_Phylogeny_Patrilineal_Deep_History.md) | Founder effect / genetic isolation |
 | Ismaili Islam | [N08](../N_Secret_Societies/N08_Sufi_Orders_Islamic_Esotericism.md) | Theological precursor |
 | Gnostic Texts | [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) | Neoplatonic emanation parallels |
 | Hermetic Tradition | [A08](../A_Foundations/A08_Hermetic_Tradition.md) | Emanation cosmology parallels |
-| Neoplatonism | [P05](../P_Philosophy_Meaning/P05_Neoplatonism.md) | Plotinian influence on theology |
+| Neoplatonism | [P05](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) | Plotinian influence on theology |
 | Perennial Philosophy | [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) | Unity of monotheistic traditions |
-| Consciousness Studies | [K01](../K_Consciousness/K01_Consciousness_Overview.md) | Past-life memory research |
-| Zoroastrianism | [C12](../C_Global_Traditions/C12_Zoroastrianism.md) | Cosmological parallels |
+| Consciousness Studies | [K01](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Past-life memory research |
+| Zoroastrianism | [C12](../A_Foundations/A26_Avestan_Texts_Gathas_Vendidad_Yasna.md) | Cosmological parallels |
 
 ---
 

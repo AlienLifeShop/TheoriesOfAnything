@@ -3,7 +3,7 @@
 > **Document ID:** N15
 > **Section:** N_Secret_Societies
 > **Keywords:** Mithras, Mithraism, tauroctony, Mithraeum, Sol Invictus, Roman mystery cult, seven grades, Cumont, Ulansey, Platonic astronomy, bull-slaying, pater, military religion
-> **Cross-References:** [C108](../C_Global_Traditions/C108_Roman_Religion.md) · [C107](../C_Global_Traditions/C107_Greek_Religion.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels.md) · [A08](../A_Foundations/A08_Hermetic_Tradition.md)
+> **Cross-References:** [C108](../C_Global_Traditions/C108_Roman_Religion_Augury_Imperial_Cult.md) · [C107](../C_Global_Traditions/C107_Greek_Religion_Lived_Practice.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels_Subterranean_Networks.md) · [A08](../A_Foundations/A08_Hermetic_Tradition.md)
 > **Reliability Tier:** Tier 1-3 (archaeological evidence is abundant; theological meaning remains debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Moderate-High
 
@@ -162,18 +162,18 @@ The Mysteries of Mithras constituted one of the most widespread and architectura
 |---|---|---|
 | Mystery Schools Overview | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Parent tradition framework |
 | Hermetic Tradition | [A08](../A_Foundations/A08_Hermetic_Tradition.md) | Shared Hellenistic esoteric milieu |
-| Roman Religion | [C108](../C_Global_Traditions/C108_Roman_Religion.md) | Host culture and state religion context |
-| Greek Religion | [C107](../C_Global_Traditions/C107_Greek_Religion.md) | Eleusinian and Orphic parallels |
-| Sacred Architecture | [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels.md) | Underground temple construction |
+| Roman Religion | [C108](../C_Global_Traditions/C108_Roman_Religion_Augury_Imperial_Cult.md) | Host culture and state religion context |
+| Greek Religion | [C107](../C_Global_Traditions/C107_Greek_Religion_Lived_Practice.md) | Eleusinian and Orphic parallels |
+| Sacred Architecture | [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels_Subterranean_Networks.md) | Underground temple construction |
 | Freemasonry | [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) | Grade system analogies |
 | Eleusinian Mysteries | [N12](../N_Secret_Societies/N12_Eleusinian_Mysteries_Deep_Dive.md) | Competing Roman-era mystery cult |
 | Pythagorean Brotherhood | [N11](../N_Secret_Societies/N11_Pythagorean_Brotherhood.md) | Numerical symbolism in grade system |
 | Sufi Orders | [N08](../N_Secret_Societies/N08_Sufi_Orders_Islamic_Esotericism.md) | Initiation and grade structures |
 | Knights Templar | [N04](../N_Secret_Societies/N04_Knights_Templar.md) | Underground worship accusations |
 | Orphic Tradition | [N07](../N_Secret_Societies/N07_Orphic_Tradition_Gold_Tablets.md) | Afterlife / salvation theology |
-| Christianity Origins | [C20](../C_Global_Traditions/C20_Early_Christianity.md) | Rival mystery tradition; meal/baptism parallels |
-| Solar Mythology | [C40](../C_Global_Traditions/C40_Solar_Mythology.md) | Sol Invictus / solar symbolism |
-| Sacred Architecture | [D10](../D_Sites_and_Artifacts/D10_Sacred_Architecture.md) | Mithraeum design and cosmic symbolism |
+| Christianity Origins | [C20](../C_Global_Traditions/C20_Seven_Level_Cosmology_Seven_Gates.md) | Rival mystery tradition; meal/baptism parallels |
+| Solar Mythology | [C40](../C_Global_Traditions/C40_Bantu_Cosmology_Migration_Iron.md) | Sol Invictus / solar symbolism |
+| Sacred Architecture | [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Mithraeum design and cosmic symbolism |
 
 ---
 

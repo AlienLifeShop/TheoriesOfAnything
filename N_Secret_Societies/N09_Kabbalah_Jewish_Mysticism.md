@@ -174,11 +174,11 @@ Kabbalah (קַבָּלָה, "reception/tradition") is the **esoteric and mystica
 | Document | Connection |
 |----------|------------|
 | [A08 — Hermetic Tradition](../A_Foundations/A08_Hermetic_Tradition.md) | Hermeticism and Neoplatonism share emanationist framework with Kabbalah |
-| [C53 — Axis Mundi](../C_Global_Traditions/C53_Axis_Mundi_World_Tree_Cosmic_Pillar.md) | Tree of Life as axis mundi variant |
-| [N02 — Golden Dawn](../N_Secret_Societies/N02_Hidden_Hand_Secret_Societies.md) | Hermetic Qabalah as backbone of Golden Dawn system |
-| [P04 — Epistemology](../P_Philosophy_Meaning/P04_Epistemological_Frameworks.md) | Kabbalah as alternative epistemological system |
-| [N01 — Secret Societies Overview](../N_Secret_Societies/N01_Secret_Societies_Overview.md) | Kabbalistic influence on Western esotericism |
-| [K02 — Meditation Traditions](../K_Consciousness/K02_Meditation_Prayer_Consciousness.md) | Kabbalistic meditation practices |
+| [C53 — Axis Mundi](../C_Global_Traditions/C53_Sacred_Trees_Axis_Mundi.md) | Tree of Life as axis mundi variant |
+| [N02 — Golden Dawn](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) | Hermetic Qabalah as backbone of Golden Dawn system |
+| [P04 — Epistemology](../P_Philosophy_Meaning/P04_Mathematics_Discovered_Invented.md) | Kabbalah as alternative epistemological system |
+| [N01 — Secret Societies Overview](../N_Secret_Societies/N01_Mystery_Schools.md) | Kabbalistic influence on Western esotericism |
+| [K02 — Meditation Traditions](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Kabbalistic meditation practices |
 | [B14 — Angels, Celestial Hierarchies](../B_Beings_and_Entities/B14_Angels_Celestial_Hierarchies.md) | Angelic hierarchies in Hekhalot and Kabbalistic tradition |
 | [A03 — Nag Hammadi Gnostic Texts](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) | Gnostic parallels to Kabbalistic emanationism |
 

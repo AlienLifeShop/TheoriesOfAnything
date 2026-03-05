@@ -3,7 +3,7 @@
 > **Document ID:** N17
 > **Section:** N_Secret_Societies
 > **Keywords:** Cathar, Albigensian, dualism, parfait, consolamentum, Montségur, Crusade, Languedoc, demiurge, Otto Rahn, Holy Grail, Gnosticism, endura, troubadour, Inquisition
-> **Cross-References:** [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) · [H13](../H_Suppression_and_Thesis/H13_Inquisition_Heresy_Suppression.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) · [B05](../B_Beings_and_Entities/B05_Mandaeism.md)
+> **Cross-References:** [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) · [H13](../H_Suppression_and_Thesis/H13_Inquisition_Systematic_Knowledge_Suppression.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) · [B05](../B_Beings_and_Entities/B05_Mandaeism_Living_Gnostic_Religion.md)
 > **Reliability Tier:** Tier 1-3 (documented historical events through speculative Grail connections)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** Moderate-High
 
@@ -163,18 +163,18 @@ The Cathars (from Greek *katharoi*, "pure ones") were a medieval Christian duali
 | Topic | Document | Relationship |
 |---|---|---|
 | Gnostic Texts | [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) | Theological ancestor (dualism, demiurge) |
-| Inquisition | [H13](../H_Suppression_and_Thesis/H13_Inquisition_Heresy_Suppression.md) | Suppression mechanism |
+| Inquisition | [H13](../H_Suppression_and_Thesis/H13_Inquisition_Systematic_Knowledge_Suppression.md) | Suppression mechanism |
 | Mystery Schools | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Secret initiation tradition |
 | Freemasonry | [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) | Claimed spiritual descendant |
-| Mandaeism | [B05](../B_Beings_and_Entities/B05_Mandaeism.md) | Parallel Gnostic survival tradition |
+| Mandaeism | [B05](../B_Beings_and_Entities/B05_Mandaeism_Living_Gnostic_Religion.md) | Parallel Gnostic survival tradition |
 | Bogomils | [N17](../N_Secret_Societies/N17_Cathars_Albigensians_Grail_Heresy.md) | Direct theological predecessor |
 | Knights Templar | [N04](../N_Secret_Societies/N04_Knights_Templar.md) | Contemporary crusading order, Grail mythology overlap |
 | Hermetic Tradition | [A08](../A_Foundations/A08_Hermetic_Tradition.md) | Gnostic-Hermetic cosmological parallels |
 | Kabbalah | [N09](../N_Secret_Societies/N09_Kabbalah_Jewish_Mysticism.md) | Dualist/emanationist comparisons |
 | Vatican Archives | [N03](../N_Secret_Societies/N03_Vatican_Archives_Suppression.md) | Inquisition documentation |
-| Troubadour Poetry | [U01](../U_Art_Music_Culture/U01_Ancient_Music.md) | Cultural context of courtly love |
-| Manichaean Religion | [C15](../C_Global_Traditions/C15_Manichaeism.md) | Dualist predecessor tradition |
-| Sacred Geometry | [V01](../V_Mathematics_Information/V01_Sacred_Geometry.md) | Montségur solar alignments (speculative) |
+| Troubadour Poetry | [U01](../U_Art_Music_Culture/U01_Music_Theory_Harmonic_Series_Physics_of_Sound.md) | Cultural context of courtly love |
+| Manichaean Religion | [C15](../F_Lost_Connections/F10_Manichaean_Transmission_Silk_Road.md) | Dualist predecessor tradition |
+| Sacred Geometry | [V01](../V_Mathematics_Information/V01_History_of_Zero.md) | Montségur solar alignments (speculative) |
 | Eleusinian Mysteries | [N12](../N_Secret_Societies/N12_Eleusinian_Mysteries_Deep_Dive.md) | Initiation into hidden knowledge |
 
 ---
