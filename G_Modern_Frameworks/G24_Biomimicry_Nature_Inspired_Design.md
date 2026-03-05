@@ -3,7 +3,7 @@
 > **Document ID:** G24
 > **Section:** G_Modern_Frameworks
 > **Keywords:** biomimicry, biomimetics, bioinspiration, termite mound, lotus effect, spider silk, Velcro, Eastgate Centre, Shinkansen, mycelium, nature-inspired design, convergent engineering, superhydrophobic
-> **Cross-References:** [R16](../R_Biology_Evolution/R16_Plant_Intelligence.md) · [O05](../O_Earth_Anomalies/O05_Biodiversity.md) · [G15](G15_Self_Organization.md) · [G03](G03_Mycelium.md) · [R08](../R_Biology_Evolution/R08_Convergent_Evolution.md)
+> **Cross-References:** [R16](../R_Biology_Evolution/R16_Plant_Intelligence_Botanical_Communication.md) · [O05](../O_Earth_Anomalies/O05_Biodiversity_Ecosystem_Intelligence.md) · [G15](G15_Self_Organization_Emergence.md) · [G03](G03_Mycelium_Network.md) · [R08](../R_Biology_Evolution/R08_Convergent_Evolution_Aquatic_Ape.md)
 > **Reliability Tier:** Tier 1-2 (Well-established engineering discipline with proven commercial applications; some ancient biomimicry claims less documented)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 19 scholarly sources | **Confidence:** High
 
@@ -169,12 +169,12 @@ Biomimicry—the practice of designing technologies, materials, and systems insp
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [R16](../R_Biology_Evolution/R16_Plant_Intelligence.md) | Plant intelligence as inspiration for adaptive systems design |
-| [O05](../O_Earth_Anomalies/O05_Biodiversity.md) | Biodiversity as repository of untapped biomimetic solutions |
-| [G15](G15_Self_Organization.md) | Self-organizing biological systems as engineering models |
-| [G03](G03_Mycelium.md) | Mycelial networks as model for decentralized communication architectures |
-| [R08](../R_Biology_Evolution/R08_Convergent_Evolution.md) | Convergent evolution demonstrating nature's repeated solutions to similar problems |
-| [J04](../J_Ancient_Technology/J04_Acoustic_Technology.md) | Ancient architecture utilizing natural acoustic principles |
+| [R16](../R_Biology_Evolution/R16_Plant_Intelligence_Botanical_Communication.md) | Plant intelligence as inspiration for adaptive systems design |
+| [O05](../O_Earth_Anomalies/O05_Biodiversity_Ecosystem_Intelligence.md) | Biodiversity as repository of untapped biomimetic solutions |
+| [G15](G15_Self_Organization_Emergence.md) | Self-organizing biological systems as engineering models |
+| [G03](G03_Mycelium_Network.md) | Mycelial networks as model for decentralized communication architectures |
+| [R08](../R_Biology_Evolution/R08_Convergent_Evolution_Aquatic_Ape.md) | Convergent evolution demonstrating nature's repeated solutions to similar problems |
+| [J04](../J_Ancient_Technology/J04_Acoustic_Vibrational_Technology.md) | Ancient architecture utilizing natural acoustic principles |
 | [G23](G23_Network_Science_Ancient_Trade.md) | Biological network models applied to understanding ancient trade systems |
 
 ---

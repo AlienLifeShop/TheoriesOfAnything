@@ -141,14 +141,14 @@ Sheldrake's strongest intuitive argument:
 
 | Document | Connection |
 |----------|------------|
-| [G07 — Collective Consciousness](G07_Collective_Consciousness_Global_Mind.md) | Morphic resonance as mechanism for collective consciousness |
-| [G03 — Mycelium Networks](G03_Mycelial_Networks_Consciousness.md) | Non-neural information processing in biological systems |
-| [R04 — Epigenetics](../R_Biology_Evolution/R04_Epigenetics_Lamarckian_Echoes.md) | Heritable non-genetic changes; partial overlap |
-| [O05 — Ecosystem Intelligence](../O_Earth_Anomalies/O05_Ecosystem_Collapse_Biodiversity.md) | Emergent intelligence in ecological systems |
-| [P05 — Panpsychism](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Revival.md) | Consciousness as fundamental; compatible with morphic fields |
+| [G07 — Collective Consciousness](G07_Collective_Consciousness.md) | Morphic resonance as mechanism for collective consciousness |
+| [G03 — Mycelium Networks](G03_Mycelium_Network.md) | Non-neural information processing in biological systems |
+| [R04 — Epigenetics](../R_Biology_Evolution/R04_Epigenetics_Ancestral_Memory.md) | Heritable non-genetic changes; partial overlap |
+| [O05 — Ecosystem Intelligence](../O_Earth_Anomalies/O05_Biodiversity_Ecosystem_Intelligence.md) | Emergent intelligence in ecological systems |
+| [P05 — Panpsychism](../P_Philosophy_Meaning/P05_Panpsychism_Modern_Philosophy.md) | Consciousness as fundamental; compatible with morphic fields |
 | [G10 — IIT](../G_Modern_Frameworks/G10_Integrated_Information_Theory.md) | Information-based consciousness theories |
-| [R06 — Gaia Theory](../R_Biology_Evolution/R06_Gaia_Theory_Living_Earth.md) | Earth-as-system; Sheldrake invokes Gaia compatibility |
-| [K19 — Terminal Lucidity](../K_Consciousness/K19_Terminal_Lucidity_Paradoxical.md) | Anomalous consciousness phenomena |
+| [R06 — Gaia Theory](../R_Biology_Evolution/R06_Gaia_Theory.md) | Earth-as-system; Sheldrake invokes Gaia compatibility |
+| [K19 — Terminal Lucidity](../K_Consciousness/K19_Terminal_Lucidity.md) | Anomalous consciousness phenomena |
 
 ---
 

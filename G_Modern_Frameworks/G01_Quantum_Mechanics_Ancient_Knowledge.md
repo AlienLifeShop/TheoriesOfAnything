@@ -485,3 +485,10 @@ Proposal (*Annalen der Physik*): inertial mass arises from interaction of matter
 *G01 — Consolidated Research Document*
 *Generated: February 9, 2026*
 *Sources: Gemini/40, Gemini/37 (Quantum section), GPT5.2/40, Master/40, Raptor/40 addendum*
+
+## Bibliography
+
+1. Capra, Fritjof, "The Tao of Physics: An Exploration of the Parallels Between Modern Physics and Eastern Mysticism" (Shambhala, 1975)
+2. Penrose, Roger and Hameroff, Stuart, "Consciousness in the Universe: A Review of the Orch OR Theory" (Physics of Life Reviews, 2014)
+3. Bohm, David, "Wholeness and the Implicate Order" (Routledge, 1980)
+4. Schrodinger, Erwin, "My View of the World" (Cambridge University Press, 1961)

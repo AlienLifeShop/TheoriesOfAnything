@@ -394,3 +394,10 @@ Several prominent theoretical physicists have offered specific technical objecti
 *G02 — Consolidated Research Document*
 *Generated: February 9, 2026*
 *Sources: Gemini/42, Gemini/37 (Simulation section), GPT5.2/42, Master/42, Raptor/42 addendum*
+
+## Bibliography
+
+1. Bostrom, Nick, "Are You Living in a Computer Simulation?" (Philosophical Quarterly, 2003)
+2. Virk, Rizwan, "The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics and Eastern Mystics All Agree We Are in a Video Game" (Bayview Books, 2019)
+3. Lloyd, Seth, "Programming the Universe: A Quantum Computer Scientist Takes on the Cosmos" (Knopf, 2006)
+4. Beane, Silas R. et al., "Constraints on the Universe as a Numerical Simulation" (European Physical Journal A, 2014)

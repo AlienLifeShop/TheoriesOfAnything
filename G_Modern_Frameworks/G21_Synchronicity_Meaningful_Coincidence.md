@@ -3,7 +3,7 @@
 > **Document ID:** G21
 > **Section:** G_Modern_Frameworks
 > **Keywords:** synchronicity, Jung, Pauli, meaningful coincidence, acausal, seriality, Kammerer, psyche-matter, Pauli Effect, base rate neglect, clustering illusion, archetype
-> **Cross-References:** [G07](G07_Collective_Consciousness.md) · [P15](../P_Philosophy_Meaning/P15_Prophecy_Divination.md) · [K14](../K_Consciousness/K14_Limitation_Motif.md) · [Q08](../Q_Cosmology_Physics/Q08_Time.md) · [G01](G01_Quantum_Mechanics.md)
+> **Cross-References:** [G07](G07_Collective_Consciousness.md) · [P15](../P_Philosophy_Meaning/P15_Prophecy_Divination_Oracular.md) · [K14](../K_Consciousness/K14_Limitation_of_Consciousness_Motif.md) · [Q08](../Q_Cosmology_Physics/Q08_Time_Physics_Philosophy.md) · [G01](G01_Quantum_Mechanics_Ancient_Knowledge.md)
 > **Reliability Tier:** Tier 2-3 (Concept well-documented in academic psychology; empirical evidence for acausal connections remains undemonstrated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 19 scholarly sources | **Confidence:** Medium (as psychological phenomenon); Low (as ontological claim)
 
@@ -163,12 +163,12 @@ Synchronicity—defined by Carl Jung as "meaningful coincidence with no causal c
 | Related Doc | Connection |
 |-------------|-----------|
 | [G07](G07_Collective_Consciousness.md) | Collective unconscious as proposed medium for synchronistic phenomena |
-| [P15](../P_Philosophy_Meaning/P15_Prophecy_Divination.md) | Synchronicity parallels with divinatory practices and premonition |
-| [K14](../K_Consciousness/K14_Limitation_Motif.md) | Limitations of reductionist frameworks in accounting for meaning |
-| [Q08](../Q_Cosmology_Physics/Q08_Time.md) | Temporal anomalies and retrocausality in physics |
-| [G01](G01_Quantum_Mechanics.md) | Quantum entanglement as analogy for acausal connection |
+| [P15](../P_Philosophy_Meaning/P15_Prophecy_Divination_Oracular.md) | Synchronicity parallels with divinatory practices and premonition |
+| [K14](../K_Consciousness/K14_Limitation_of_Consciousness_Motif.md) | Limitations of reductionist frameworks in accounting for meaning |
+| [Q08](../Q_Cosmology_Physics/Q08_Time_Physics_Philosophy.md) | Temporal anomalies and retrocausality in physics |
+| [G01](G01_Quantum_Mechanics_Ancient_Knowledge.md) | Quantum entanglement as analogy for acausal connection |
 | [G22](G22_Cognitive_Science_Religion.md) | Cognitive biases underlying pattern recognition and meaning attribution |
-| [K08](../K_Consciousness/K08_Meditation.md) | Heightened psychic states and synchronistic experiences |
+| [K08](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Heightened psychic states and synchronistic experiences |
 
 ---
 

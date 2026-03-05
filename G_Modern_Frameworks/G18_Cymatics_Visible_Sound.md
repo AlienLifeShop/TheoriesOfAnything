@@ -120,12 +120,12 @@ These observations are archaeologically documented (Tier 1-2), but the claim tha
 
 | Document | Connection |
 |----------|------------|
-| [Q03 — Quantum Theory Applications](../Q_Cosmology_Physics/Q03_Quantum_Theory_Applications.md) | Quantum vibration and wave-particle duality |
+| [Q03 — Quantum Theory Applications](../Q_Cosmology_Physics/Q03_Ancient_Cosmologies_Compared.md) | Quantum vibration and wave-particle duality |
 | [D22 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) | Archaeoacoustics and temple design |
-| [G06 — Harmonic Theory](../G_Modern_Frameworks/G06_Harmonic_Theory.md) | Frequency, resonance, and harmonic relationships |
-| [K02 — Meditation and Consciousness](../K_Consciousness/K02_Meditation_Consciousness.md) | Mantra, chanting, and vibrational practices |
-| [J05 — Ancient Acoustics](../J_Ancient_Technology/J05_Ancient_Acoustics.md) | Sound technology in antiquity |
-| [K21 — Psychoacoustics](../K_Consciousness/K21_Psychoacoustics_Binaural_Entrainment.md) | Brainwave entrainment and binaural beats |
+| [G06 — Harmonic Theory](../G_Modern_Frameworks/G06_Modern_Conspiracy_Analysis.md) | Frequency, resonance, and harmonic relationships |
+| [K02 — Meditation and Consciousness](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Mantra, chanting, and vibrational practices |
+| [J05 — Ancient Acoustics](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Sound technology in antiquity |
+| [K21 — Psychoacoustics](../K_Consciousness/K21_Reincarnation_Research_Stevenson_Tucker.md) | Brainwave entrainment and binaural beats |
 
 ---
 

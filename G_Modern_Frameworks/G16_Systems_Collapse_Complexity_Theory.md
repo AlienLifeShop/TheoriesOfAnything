@@ -533,10 +533,23 @@ The theoretical frameworks assembled in this document are drawn from well-establ
 
 ## Bibliography
 
-- Curtis & Brenner. *Quaternary Research*. 1995.
-- Khaldun. *Muqaddimah*. 1377.
-- Richardson. *Statistics of Deadly Quarrels*. 1960.
-- Sigl et al.. *Nature* 523 (2015).
-- Smith. *The Cycle of Cosmic Catastrophes*. 2006.
-- Spengler. *The Decline of the West*. 1918.
-- Weiss et al.. *Science* 261 (1993).
+1. Tainter, Joseph A. *The Collapse of Complex Societies*. Cambridge University Press, 1988.
+2. Turchin, Peter. *Historical Dynamics: Why States Rise and Fall*. Princeton University Press, 2003.
+3. Turchin, Peter & Nefedov, Sergey A. *Secular Cycles*. Princeton University Press, 2009.
+4. Turchin, Peter. *Ages of Discord: A Structural-Demographic Analysis of American History*. Beresta Books, 2016.
+5. Turchin, Peter. *End Times: Elites, Counter-Elites, and the Path of Political Disintegration*. Allen Lane, 2023.
+6. Bak, Per, Tang, Chao & Wiesenfeld, Kurt. "Self-Organized Criticality: An Explanation of 1/f Noise." *Physical Review Letters* 59 (1987): 381–384.
+7. Bak, Per. *How Nature Works: The Science of Self-Organized Criticality*. Copernicus/Springer, 1996.
+8. Taleb, Nassim Nicholas. *The Black Swan: The Impact of the Highly Improbable*. Random House, 2007.
+9. Diamond, Jared. *Collapse: How Societies Choose to Fail or Succeed*. Viking Press, 2005.
+10. Ibn Khaldun. *Muqaddimah*. 1377. Trans. Franz Rosenthal. Princeton University Press, 1958.
+11. Spengler, Oswald. *The Decline of the West*. 1918–1922. Trans. Charles Francis Atkinson. Knopf, 1926–1928.
+12. Toynbee, Arnold. *A Study of History*. 12 vols. Oxford University Press, 1934–1961.
+13. Cline, Eric H. *1177 B.C.: The Year Civilization Collapsed*. Princeton University Press, 2014.
+14. Barabási, Albert-László. *Linked: The New Science of Networks*. Perseus, 2002.
+15. Sornette, Didier. *Why Stock Markets Crash: Critical Events in Complex Financial Systems*. Princeton University Press, 2003.
+16. Richardson, Lewis Fry. *Statistics of Deadly Quarrels*. Quadrangle Books, 1960.
+17. Anderson, Philip. "More Is Different." *Science* 177 (1972): 393–396.
+18. Weiss, Harvey et al. "The Genesis and Collapse of Third Millennium North Mesopotamian Civilization." *Science* 261 (1993): 995–1004.
+19. Sigl, Michael et al. "Timing and Climate Forcing of Volcanic Eruptions for the Past 2,500 Years." *Nature* 523 (2015): 543–549.
+20. McAnany, Patricia & Yoffee, Norman (eds.). *Questioning Collapse: Human Resilience, Ecological Vulnerability, and the Aftermath of Empire*. Cambridge University Press, 2010.

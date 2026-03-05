@@ -387,3 +387,10 @@ There is a sophisticated defense of conspiracy thinking that deserves examinatio
 *G06 — Consolidated Research Document*
 *Generated: February 9, 2026*
 *Sources: Claude/08, Gemini/08, GPT5.2/08, Master/08, Raptor/08*
+
+## Bibliography
+
+1. Butter, Michael and Knight, Peter (eds.), "Routledge Handbook of Conspiracy Theories" (Routledge, 2020)
+2. Hofstadter, Richard, "The Paranoid Style in American Politics and Other Essays" (Harvard University Press, 1964)
+3. Barkun, Michael, "A Culture of Conspiracy: Apocalyptic Visions in Contemporary America" (University of California Press, 2003)
+4. Robertson, David G., "UFOs, Conspiracy Theories and the New Age" (Bloomsbury, 2016)

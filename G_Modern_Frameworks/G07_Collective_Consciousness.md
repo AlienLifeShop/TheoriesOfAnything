@@ -303,6 +303,13 @@ When searching for images related to collective consciousness:
 
 ## Bibliography
 
-- Durkheim. *The Division of Labour in Society*. 1893.
-- Sheldrake. *A New Science of Life*. 1981.
-- Stavish. *Egregores: The Occult Entities That Watch Over Human Destiny*. 2018.
+1. Durkheim, Émile. *The Division of Labour in Society*. 1893. Trans. W.D. Halls, Free Press, 1984.
+2. Jung, Carl Gustav. *The Archetypes and the Collective Unconscious*. Collected Works, Vol. 9.I. Princeton University Press, 1959.
+3. Sheldrake, Rupert. *A New Science of Life: The Hypothesis of Morphic Resonance*. Blond & Briggs, 1981.
+4. Stavish, Mark. *Egregores: The Occult Entities That Watch Over Human Destiny*. Inner Traditions, 2018.
+5. László, Ervin. *Science and the Akashic Field: An Integral Theory of Everything*. Inner Traditions, 2004.
+6. Teilhard de Chardin, Pierre. *The Phenomenon of Man*. Harper, 1959.
+7. Nelson, Roger D. et al. "Correlations of Continuous Random Data with Major World Events." *Foundations of Physics Letters* 15.6 (2002): 537–550.
+8. Penrose, Roger & Hameroff, Stuart. "Consciousness in the Universe: A Review of the 'Orch OR' Theory." *Physics of Life Reviews* 11.1 (2014): 39–78.
+9. Follett, Mary Parker. *Creative Experience*. Longmans, Green, 1924.
+10. Blavatsky, Helena P. *Isis Unveiled*. J.W. Bouton, 1877.

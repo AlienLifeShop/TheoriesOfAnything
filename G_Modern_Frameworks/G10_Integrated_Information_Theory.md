@@ -13,7 +13,7 @@
 
 **Keywords:** IIT, Integrated Information Theory, phi, Φ, Tononi, consciousness, panpsychism, qualia, Templeton, GNWT, Global Workspace, Perturbational Complexity Index, PCI, Christof Koch, Anil Seth, David Chalmers, Scott Aaronson, IIT 4.0, adversarial collaboration
 
-**Cross-references:** [G01_Quantum_Mechanics_Ancient_Knowledge.md](G01_Quantum_Mechanics_Ancient_Knowledge.md) | [G07_Collective_Consciousness.md](G07_Collective_Consciousness.md) | [G09_Third_Eye_Pineal_Gland.md](G09_Third_Eye_Pineal_Gland.md) | [A08_Hermetic_Tradition.md](../A_Foundations/A08_Hermetic_Tradition.md)
+**Cross-references:** [G01_Quantum_Mechanics_Ancient_Knowledge.md](G01_Quantum_Mechanics_Ancient_Knowledge.md) | [G07_Collective_Consciousness.md](G07_Collective_Consciousness.md) | [G09_Third_Eye_Pineal_Gland.md](G09_Astrology_Political_Force.md) | [A08_Hermetic_Tradition.md](../A_Foundations/A08_Hermetic_Tradition.md)
 
 ---
 
@@ -232,4 +232,10 @@ IIT's central claim — that consciousness is intrinsic to matter based on its i
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Tononi, Giulio. "An Information Integration Theory of Consciousness." *BMC Neuroscience* 5.42 (2004).
+2. Oizumi, Masafumi, Albantakis, Larissa & Tononi, Giulio. "From the Phenomenology to the Mechanisms of Consciousness: Integrated Information Theory 3.0." *PLOS Computational Biology* 10.5 (2014).
+3. Albantakis, Larissa et al. "Integrated Information Theory (IIT) 4.0." *arXiv:2212.14787* (2023).
+4. Casali, Adenauer G. et al. "A Theoretically Based Index of Consciousness Independent of Sensory Processing and Behavior." *Science Translational Medicine* 5.198 (2013).
+5. Doerig, Adrien et al. "Hard Criteria for Empirical Theories of Consciousness." *Cognitive Neuroscience* 10.4 (2019).
+6. Melloni, Lucia et al. "An Adversarial Collaboration to Critically Evaluate Theories of Consciousness." *Nature* (2025).
+7. Koch, Christof. *The Feeling of Life Itself: Why Consciousness Is Widespread but Can't Be Computed*. MIT Press, 2019.

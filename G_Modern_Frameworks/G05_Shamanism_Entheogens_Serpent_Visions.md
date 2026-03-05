@@ -393,3 +393,11 @@ If millions of humans across all cultures, when accessing altered states, consis
 *Generated: February 9, 2026*
 *Sources: Gemini/28, GPT5.2/28, Master/28, Raptor/28 addendum + Deep Scan*
 *Updated: February 21, 2026 — Added FDA MDMA rejection (Aug 2024), Australia TGA psilocybin/MDMA rescheduling (July 2023), Oregon/Colorado regulatory developments*
+
+## Bibliography
+
+1. Narby, Jeremy, "The Cosmic Serpent: DNA and the Origins of Knowledge" (Jeremy P. Tarcher/Putnam, 1998)
+2. Strassman, Rick, "DMT: The Spirit Molecule" (Park Street Press, 2001)
+3. Eliade, Mircea, "Shamanism: Archaic Techniques of Ecstasy" (Princeton University Press, 1964)
+4. Schultes, Richard Evans and Hofmann, Albert, "Plants of the Gods: Their Sacred, Healing, and Hallucinogenic Powers" (Healing Arts Press, 1992)
+5. Muraresku, Brian C., "The Immortality Key: The Secret History of the Religion with No Name" (St. Martin's Press, 2020)

@@ -401,3 +401,10 @@ Modern remote viewing protocols strip the ritual from ancient practices while co
 *Generated: February 9, 2026*
 *Sources: Claude/17, Gemini/17, GPT5.2/17, Master/17, Raptor/17 + Deep Scan*
 *Updated: February 21, 2026 — Added GCP 2.0 (2023 reboot with pre-registered protocols); Neuralink/Synchron commercial BCI developments (2024)*
+
+## Bibliography
+
+1. Radin, Dean, "The Conscious Universe: The Scientific Truth of Psychic Phenomena" (HarperOne, 1997)
+2. Bem, Daryl J., "Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on Cognition and Affect" (Journal of Personality and Social Psychology, 2011)
+3. Mack, John E., "Abduction: Human Encounters with Aliens" (Scribner, 1994)
+4. Sheldrake, Rupert, "The Sense of Being Stared At and Other Unexplained Powers of the Human Mind" (Crown, 2003)

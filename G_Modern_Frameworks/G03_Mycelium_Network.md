@@ -372,3 +372,10 @@ The mathematical equivalence between mycelial network topology, neural architect
 *G03 — Consolidated Research Document*
 *Generated: February 9, 2026*
 *Sources: Gemini/41, Gemini/37 (Mycelium section), GPT5.2/41, Master/41, Raptor/41 addendum*
+
+## Bibliography
+
+1. Simard, Suzanne, "Finding the Mother Tree: Discovering the Wisdom of the Forest" (Knopf, 2021)
+2. Stamets, Paul, "Mycelium Running: How Mushrooms Can Help Save the World" (Ten Speed Press, 2005)
+3. Sheldrake, Merlin, "Entangled Life: How Fungi Make Our Worlds, Change Our Minds, and Shape Our Futures" (Random House, 2020)
+4. McKenna, Terence, "Food of the Gods: The Search for the Original Tree of Knowledge" (Bantam, 1992)

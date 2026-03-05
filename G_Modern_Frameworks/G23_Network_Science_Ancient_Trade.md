@@ -3,7 +3,7 @@
 > **Document ID:** G23
 > **Section:** G_Modern_Frameworks
 > **Keywords:** network science, complex systems, scale-free networks, small-world, collapse cascade, agent-based modeling, Dunbar's number, trade networks, graph theory, hub cities, Bronze Age, resilience
-> **Cross-References:** [G16](G16_Systems_Collapse.md) · [F03](../F_Lost_Connections/F03_Bronze_Age_Trade.md) · [G15](G15_Self_Organization.md) · [F11](../F_Lost_Connections/F11_Silk_Road.md)
+> **Cross-References:** [G16](G16_Systems_Collapse_Complexity_Theory.md) · [F03](../F_Lost_Connections/F03_Bronze_Age_Trade_Networks.md) · [G15](G15_Self_Organization_Emergence.md) · [F11](../F_Lost_Connections/F11_Silk_Road_Knowledge_Exchange.md)
 > **Reliability Tier:** Tier 1-2 (Network science methodology well-established; archaeological applications emerging and promising)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High (methodology); Medium (specific historical applications)
 
@@ -155,11 +155,11 @@ Network science—the mathematical study of complex interconnected systems—has
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [G16](G16_Systems_Collapse.md) | Collapse cascade modeling applied to civilizational collapse |
-| [F03](../F_Lost_Connections/F03_Bronze_Age_Trade.md) | Bronze Age trade networks as primary case study |
-| [G15](G15_Self_Organization.md) | Self-organizing properties of trade network emergence |
-| [F11](../F_Lost_Connections/F11_Silk_Road.md) | Silk Road as long-distance trade network exemplar |
-| [E14](../E_Cataclysms_and_Chronology/E14_Bronze_Age_Collapse.md) | Bronze Age Collapse as network fragility case study |
+| [G16](G16_Systems_Collapse_Complexity_Theory.md) | Collapse cascade modeling applied to civilizational collapse |
+| [F03](../F_Lost_Connections/F03_Bronze_Age_Trade_Networks.md) | Bronze Age trade networks as primary case study |
+| [G15](G15_Self_Organization_Emergence.md) | Self-organizing properties of trade network emergence |
+| [F11](../F_Lost_Connections/F11_Silk_Road_Knowledge_Exchange.md) | Silk Road as long-distance trade network exemplar |
+| [E14](../F_Lost_Connections/F08_Sea_Peoples_Bronze_Age_Collapse.md) | Bronze Age Collapse as network fragility case study |
 | [G21](G21_Synchronicity_Meaningful_Coincidence.md) | Network connectivity and non-obvious connections between systems |
 | [F17](../F_Lost_Connections/F17_Sub_Saharan_African_Trade_Networks.md) | African trade networks as comparative case |
 

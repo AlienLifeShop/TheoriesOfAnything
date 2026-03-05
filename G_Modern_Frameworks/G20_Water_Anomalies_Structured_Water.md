@@ -140,9 +140,9 @@ In the late 1960s, Soviet scientist **Boris Derjaguin** reported a new form of w
 
 | Document | Connection |
 |----------|------------|
-| [G06 — Harmonic Theory](G06_Harmonic_Theory.md) | Resonance and vibrational effects |
-| [Q03 — Quantum Theory](../Q_Cosmology_Physics/Q03_Quantum_Theory_Applications.md) | Quantum coherence claims |
-| [K02 — Meditation/Consciousness](../K_Consciousness/K02_Meditation_Consciousness.md) | Consciousness-water interaction claims |
+| [G06 — Harmonic Theory](G06_Modern_Conspiracy_Analysis.md) | Resonance and vibrational effects |
+| [Q03 — Quantum Theory](../Q_Cosmology_Physics/Q03_Ancient_Cosmologies_Compared.md) | Quantum coherence claims |
+| [K02 — Meditation/Consciousness](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Consciousness-water interaction claims |
 | [G18 — Cymatics](G18_Cymatics_Visible_Sound.md) | Sound effects on water |
 | [R16 — Plant Intelligence](../R_Biology_Evolution/R16_Plant_Intelligence_Botanical_Communication.md) | Water in biological systems |
 | [L08 — Human Microbiome](../L_Genetics_Origins/L08_Human_Microbiome_Gut_Brain_Axis.md) | Water in biological context |

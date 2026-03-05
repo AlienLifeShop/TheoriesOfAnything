@@ -502,4 +502,15 @@ No single one of these is conclusive. Together, they constitute a **paradigm shi
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Shannon, Claude E. "A Mathematical Theory of Communication." *Bell System Technical Journal* 27 (1948): 379–423, 623–656.
+2. Landauer, Rolf. "Irreversibility and Heat Generation in the Computing Process." *IBM Journal of Research and Development* 5.3 (1961): 183–191.
+3. Bekenstein, Jacob D. "Black Holes and Entropy." *Physical Review D* 7.8 (1973): 2333–2346.
+4. Maldacena, Juan. "The Large N Limit of Superconformal Field Theories and Supergravity." *Advances in Theoretical and Mathematical Physics* 2 (1998): 231–252.
+5. Wheeler, John Archibald. "Information, Physics, Quantum: The Search for Links." In Zurek, W.H. (ed.), *Complexity, Entropy, and the Physics of Information*. Addison-Wesley, 1990.
+6. Tegmark, Max. *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality*. Knopf, 2014.
+7. Lloyd, Seth. *Programming the Universe: A Quantum Computer Scientist Takes on the Cosmos*. Knopf, 2006.
+8. Wolfram, Stephen. *A New Kind of Science*. Wolfram Media, 2002.
+9. Verlinde, Erik. "On the Origin of Gravity and the Laws of Newton." *Journal of High Energy Physics* 2011.4 (2011): 29.
+10. Van Raamsdonk, Mark. "Building Up Spacetime with Quantum Entanglement." *General Relativity and Gravitation* 42.10 (2010): 2323–2329.
+11. Bostrom, Nick. "Are You Living in a Computer Simulation?" *Philosophical Quarterly* 53.211 (2003): 243–255.
+12. Vazza, Franco & Feletti, Alberto. "The Quantitative Comparison Between the Neuronal Network and the Cosmic Web." *Frontiers in Physics* 8 (2020): 525731.

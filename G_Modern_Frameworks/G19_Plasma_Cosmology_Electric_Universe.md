@@ -107,10 +107,10 @@ Modern astrophysics fully incorporates plasma physics:
 
 | Document | Connection |
 |----------|------------|
-| [Q01 — Cosmology Overview](../Q_Cosmology_Physics/Q01_Cosmology_Overview.md) | Big Bang model and observational cosmology |
-| [Q02 — Cosmological Models](../Q_Cosmology_Physics/Q02_Cosmological_Models.md) | Dark matter, dark energy, ΛCDM |
+| [Q01 — Cosmology Overview](../Q_Cosmology_Physics/Q01_Anthropic_Principle_Fine_Tuning.md) | Big Bang model and observational cosmology |
+| [Q02 — Cosmological Models](../Q_Cosmology_Physics/Q02_Big_Bang_Alternative_Cosmologies.md) | Dark matter, dark energy, ΛCDM |
 | [Q16 — Gravity](../Q_Cosmology_Physics/Q16_Gravity_Gravitational_Waves.md) | Gravitational vs. electromagnetic forces |
-| [G06 — Harmonic Theory](G06_Harmonic_Theory.md) | Resonance and wave phenomena |
+| [G06 — Harmonic Theory](G06_Modern_Conspiracy_Analysis.md) | Resonance and wave phenomena |
 | [S12 — Energy Futures](../S_Future_Technology/S12_Energy_Futures_Fusion_Thorium.md) | Plasma fusion research |
 
 ---

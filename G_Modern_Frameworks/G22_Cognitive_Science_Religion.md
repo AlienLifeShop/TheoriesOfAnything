@@ -3,7 +3,7 @@
 > **Document ID:** G22
 > **Section:** G_Modern_Frameworks
 > **Keywords:** cognitive science of religion, CSR, HADD, agency detection, minimally counterintuitive, Boyer, Atran, costly signaling, Theory of Mind, ritual, Whitehouse, modes of religiosity, supernatural belief
-> **Cross-References:** [C09](../C_Global_Traditions/C09_Cognitive_Anthropology.md) · [P18](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred.md) · [G07](G07_Collective_Consciousness.md) · [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) · [R02](../R_Biology_Evolution/R02_Brain_Evolution.md)
+> **Cross-References:** [C09](../C_Global_Traditions/C09_Cognitive_Anthropology_Serpent_Archetypes.md) · [P18](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred.md) · [G07](G07_Collective_Consciousness.md) · [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) · [R02](../R_Biology_Evolution/R02_Human_Brain_Evolution.md)
 > **Reliability Tier:** Tier 1-2 (Well-established academic field with robust experimental findings; some theoretical debates ongoing)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
 
@@ -168,13 +168,13 @@ The Cognitive Science of Religion (CSR) is an interdisciplinary field that expla
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C09](../C_Global_Traditions/C09_Cognitive_Anthropology.md) | Cognitive anthropology as foundational framework for CSR |
+| [C09](../C_Global_Traditions/C09_Cognitive_Anthropology_Serpent_Archetypes.md) | Cognitive anthropology as foundational framework for CSR |
 | [P18](../P_Philosophy_Meaning/P18_Ritual_Symbol_Sacred.md) | Ritual behavior as evolved group-binding mechanism |
 | [G07](G07_Collective_Consciousness.md) | Jungian collective unconscious vs. CSR's cognitive universals |
 | [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) | Cross-cultural religious convergence: common experience or common cognition? |
-| [R02](../R_Biology_Evolution/R02_Brain_Evolution.md) | Neural evolution enabling Theory of Mind and religious cognition |
+| [R02](../R_Biology_Evolution/R02_Human_Brain_Evolution.md) | Neural evolution enabling Theory of Mind and religious cognition |
 | [G21](G21_Synchronicity_Meaningful_Coincidence.md) | Pattern recognition biases underlying both synchronicity and religious belief |
-| [K08](../K_Consciousness/K08_Meditation.md) | Contemplative practices as cognitive training interacting with HADD/ToM |
+| [K08](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Contemplative practices as cognitive training interacting with HADD/ToM |
 
 ---
 

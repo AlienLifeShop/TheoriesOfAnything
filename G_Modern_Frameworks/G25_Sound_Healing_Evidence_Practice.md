@@ -3,7 +3,7 @@
 > **Document ID:** G25
 > **Section:** G_Modern_Frameworks
 > **Keywords:** sound healing, vibroacoustic therapy, binaural beats, 110 Hz, music therapy, Tibetan singing bowls, didgeridoo, Pythagorean, mantra, 432 Hz conspiracy, Rife machine, frequency healing, resonance, cymatics
-> **Cross-References:** [J04](../J_Ancient_Technology/J04_Acoustic_Technology.md) · [J06](../J_Ancient_Technology/J06_Sound_Vibration.md) · [J07](../J_Ancient_Technology/J07_110Hz.md) · [G18](G18_Cymatics.md) · [K08](../K_Consciousness/K08_Meditation.md)
+> **Cross-References:** [J04](../J_Ancient_Technology/J04_Acoustic_Vibrational_Technology.md) · [J06](../J_Ancient_Technology/J06_Sound_Vibration_Creation.md) · [J07](../J_Ancient_Technology/J07_110Hz_Acoustic_Altered_States.md) · [G18](G18_Cymatics_Visible_Sound.md) · [K08](../K_Consciousness/K08_Meditation_Neuroplasticity.md)
 > **Reliability Tier:** Tier 1-4 (Range from FDA-recognized music therapy to completely debunked frequency claims)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Variable (see tiers within document)
 
@@ -100,7 +100,7 @@ Sound healing occupies a uniquely contested space where genuine medical science,
 ### 3.1 Cymatics and Biological Pattern Formation
 - Ernst Chladni (1787) demonstrated that sound waves organize matter into geometric patterns on vibrating plates.
 - Hans Jenny (1967) coined "cymatics" for the study of visible sound patterns.
-- Some researchers speculate that sound/vibration plays a role in biological morphogenesis—organizing cell growth into patterns.
+- Researchers such as Gimzewski and Pelling (2004) speculate that sound/vibration plays a role in biological morphogenesis—organizing cell growth into patterns.
 - While vibration affects cell behavior in some laboratory settings (mechanotransduction), cymatic-level pattern formation in living organisms is undemonstrated.
 - The visual beauty of cymatic patterns does not validate therapeutic claims (→ G18).
 
@@ -131,7 +131,7 @@ Sound healing occupies a uniquely contested space where genuine medical science,
 - **Historical reality:** A=440 Hz was standardized by the International Organization for Standardization (ISO 16, 1955). Historical concert pitch varied widely (from ~415–460 Hz across periods and regions).
 - There is no peer-reviewed evidence that 432 Hz has unique healing properties compared to 440 Hz or any other pitch.
 - The "Nazi origin" claim is a fabricated conspiracy theory with no historical basis.
-- Double-blind listening studies show no consistent preference for or different response to 432 Hz vs. 440 Hz tuning.
+- Double-blind listening studies (Calamassi & Pomponi, 2019) show no consistent preference for or different response to 432 Hz vs. 440 Hz tuning.
 
 ### 4.2 Rife Machines
 - Royal Raymond Rife (1888–1971) claimed to cure cancer with specific radio frequencies that destroyed pathogens.
@@ -185,11 +185,11 @@ Sound healing occupies a uniquely contested space where genuine medical science,
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [J04](../J_Ancient_Technology/J04_Acoustic_Technology.md) | Ancient architectural acoustics and sound technology |
-| [J06](../J_Ancient_Technology/J06_Sound_Vibration.md) | Sound and vibration in ancient contexts |
-| [J07](../J_Ancient_Technology/J07_110Hz.md) | 110 Hz resonance in Neolithic chambers (Hypogeum, Newgrange) |
-| [G18](G18_Cymatics.md) | Cymatics — visual patterns of sound and their interpretation |
-| [K08](../K_Consciousness/K08_Meditation.md) | Meditation practices incorporating sound (mantra, chanting, bowls) |
+| [J04](../J_Ancient_Technology/J04_Acoustic_Vibrational_Technology.md) | Ancient architectural acoustics and sound technology |
+| [J06](../J_Ancient_Technology/J06_Sound_Vibration_Creation.md) | Sound and vibration in ancient contexts |
+| [J07](../J_Ancient_Technology/J07_110Hz_Acoustic_Altered_States.md) | 110 Hz resonance in Neolithic chambers (Hypogeum, Newgrange) |
+| [G18](G18_Cymatics_Visible_Sound.md) | Cymatics — visual patterns of sound and their interpretation |
+| [K08](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Meditation practices incorporating sound (mantra, chanting, bowls) |
 | [G21](G21_Synchronicity_Meaningful_Coincidence.md) | Distinguishing genuine phenomena from pattern-matching errors |
 | [G22](G22_Cognitive_Science_Religion.md) | Cognitive biases affecting evaluation of healing claims |
 

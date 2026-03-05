@@ -277,4 +277,12 @@ Deutsch & Hayden (2000) explain quantum teleportation through the Many-Worlds in
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Bennett, Charles H. et al. "Teleporting an Unknown Quantum State via Dual Classical and Einstein-Podolsky-Rosen Channels." *Physical Review Letters* 70.13 (1993): 1895–1899.
+2. Bell, John S. "On the Einstein Podolsky Rosen Paradox." *Physics Physique Физика* 1.3 (1964): 195–200.
+3. Aspect, Alain, Dalibard, Jean & Roger, Gérard. "Experimental Test of Bell's Inequalities Using Time-Varying Analyzers." *Physical Review Letters* 49.25 (1982): 1804–1807.
+4. Hensen, B. et al. "Loophole-Free Bell Inequality Violation Using Electron Spins Separated by 1.3 Kilometres." *Nature* 526 (2015): 682–686.
+5. Pan, Jian-Wei et al. "Satellite-to-Ground Entanglement Distribution." *Science* 356.6343 (2017): 1140–1144.
+6. Bouwmeester, D. et al. "Experimental Quantum Teleportation." *Nature* 390 (1997): 575–579.
+7. Riebe, M. et al. "Deterministic Quantum Teleportation with Atoms." *Nature* 429 (2004): 734–737.
+8. Ma, Xiao-Song et al. "Quantum Teleportation over 143 Kilometres Using Active Feed-Forward." *Nature* 489 (2012): 269–273.
+9. Tegmark, Max. *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality*. Knopf, 2014.

@@ -139,7 +139,7 @@ The National Center for Complementary and Integrative Health (NCCIH) has evaluat
 |---------|--------|
 | **Definition** | "Biofield" refers to putative energy fields said to surround and permeate the human body |
 | **Measurable mechanism** | **None confirmed** — no biofield has been reliably detected by physical instruments |
-| **Clinical evidence** | **Mixed** — some studies show benefits (pain reduction, anxiety), but most have significant methodological limitations (no blinding, small samples, no sham controls) |
+| **Clinical evidence** | **Mixed** — some studies (Jain & Mills, 2010) show benefits (pain reduction, anxiety), but most have significant methodological limitations (no blinding, small samples, no sham controls) |
 | **Assessment** | Classified under "energy therapies" — mechanism unknown; benefits, where observed, may involve placebo, expectation, relaxation, or therapeutic touch/attention |
 
 ### 4.2 Project Relevance
@@ -214,4 +214,10 @@ Despite the lack of evidence for modern frequency healing claims, many ancient t
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Schumann, Winfried O. "Über die strahlungslosen Eigenschwingungen einer leitenden Kugel." *Zeitschrift für Naturforschung A* 7.2 (1952).
+2. Balser, M. & Wagner, C.A. "Observations of Earth-Ionosphere Cavity Resonances." *Nature* 188 (1960).
+3. Williams, Earle R. "The Schumann Resonance: A Global Tropical Thermometer." *Science* 256.5060 (1992).
+4. Cherry, Neil. "Schumann Resonances, a Plausible Biophysical Mechanism for the Human Health Effects of Solar/Geomagnetic Activity." *Natural Hazards* 26 (2002).
+5. Persinger, M.A. "Schumann Resonance Frequencies Found Within Quantitative Electroencephalographic Activity." *International Letters of Chemistry, Physics and Astronomy* 30 (2014).
+6. Saroka, K.S. & Persinger, M.A. "Quantitative Evidence for Direct Effects Between Earth-Ionosphere Schumann Resonances and Human Cerebral Cortical Activity." *International Letters of Chemistry, Physics and Astronomy* 39 (2014).
+7. Horowitz, Leonard G. & Puleo, Joseph. *Healing Codes for the Biological Apocalypse*. 1999.
