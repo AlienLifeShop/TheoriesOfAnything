@@ -3,7 +3,7 @@
 > **Document ID:** S22
 > **Section:** S_Future_Technology
 > **Keywords:** internet, ARPANET, TCP/IP, World Wide Web, Tim Berners-Lee, Vint Cerf, Bob Kahn, social media, ICANN, deep web, dark web, Tor, attention economy, platform monopoly, network effects, blockchain, Web3, digital divide, digital preservation, AI-generated content, misinformation, Section 230, net neutrality
-> **Cross-References:** [V06](../V_Mathematics_Information/V06_Cybernetics_Norbert_Wiener.md) · [G31](../G_Modern_Frameworks/G31_Network_Science_Small_World.md) · [G29](../G_Modern_Frameworks/G29_Memetics_Cultural_Evolution.md) · [S21](S21_Surveillance_Technology.md) · [V04](../V_Mathematics_Information/V04_Algorithmic_Information_Theory.md)
+> **Cross-References:** [V06](../V_Mathematics_Information/V06_Information_Theory.md) · [G31](../G_Modern_Frameworks/G23_Network_Science_Ancient_Trade.md) · [G29](../G_Modern_Frameworks/G29_Memetics_Cultural_Evolution.md) · [S21](S21_Surveillance_Technology.md) · [V04](../V_Mathematics_Information/V04_Infinity_Paradoxes_Mathematical_Philosophy.md)
 > **Reliability Tier:** Tier 1-3 (ranges from documented internet history and technical specifications to speculative Web3 and AI-mediated futures)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** High (Tier 1-2), Moderate (Tier 3), Low (Tier 4)
 
@@ -166,14 +166,14 @@ Bitcoin and other cryptocurrencies occupy a significant but niche financial role
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [V06 — Cybernetics](../V_Mathematics_Information/V06_Cybernetics_Norbert_Wiener.md) | Information theory and feedback systems underlying internet architecture |
-| [G31 — Network Science](../G_Modern_Frameworks/G31_Network_Science_Small_World.md) | Scale-free networks, small-world properties, and internet topology |
+| [V06 — Cybernetics](../V_Mathematics_Information/V06_Information_Theory.md) | Information theory and feedback systems underlying internet architecture |
+| [G31 — Network Science](../G_Modern_Frameworks/G23_Network_Science_Ancient_Trade.md) | Scale-free networks, small-world properties, and internet topology |
 | [G29 — Memetics](../G_Modern_Frameworks/G29_Memetics_Cultural_Evolution.md) | Viral information spread and cultural evolution in digital ecosystems |
 | [S21 — Surveillance](S21_Surveillance_Technology.md) | Internet as surveillance infrastructure, Snowden revelations |
-| [V04 — Algorithmic Information Theory](../V_Mathematics_Information/V04_Algorithmic_Information_Theory.md) | Computational complexity and information processing underlying internet systems |
-| [T07 — Social Media Psychology](../T_Psychology_Social/T07_Social_Media_Psychology.md) | Psychological effects of social media on individuals and societies |
-| [S01 — Artificial Intelligence](S01_AI_Artificial_Intelligence.md) | AI-generated content and algorithmic recommendation systems |
-| [V07 — Information Theory](../V_Mathematics_Information/V07_Information_Theory_Shannon_Entropy.md) | Shannon's framework applied to digital communication and compression |
+| [V04 — Algorithmic Information Theory](../V_Mathematics_Information/V04_Infinity_Paradoxes_Mathematical_Philosophy.md) | Computational complexity and information processing underlying internet systems |
+| [T07 — Social Media Psychology](../T_Psychology_Social/T07_Propaganda_Persuasion_Information_Warfare.md) | Psychological effects of social media on individuals and societies |
+| [S01 — Artificial Intelligence](S01_AGI_Existential_Risk.md) | AI-generated content and algorithmic recommendation systems |
+| [V07 — Information Theory](../V_Mathematics_Information/V07_Cryptography.md) | Shannon's framework applied to digital communication and compression |
 
 ---
 

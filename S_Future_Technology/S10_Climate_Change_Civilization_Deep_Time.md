@@ -158,14 +158,14 @@ Key inference from the historical record:
 
 | Document | Connection |
 |----------|------------|
-| [O06 — Volcanism](../O_Earth_Anomalies/O06_Supervolcanoes_Catastrophism.md) | Volcanic climate forcing historically |
+| [O06 — Volcanism](../O_Earth_Anomalies/O06_Volcanism_Supervolcanoes.md) | Volcanic climate forcing historically |
 | [E09 — Rise and Fall of Civilizations](../E_Cataclysms_and_Chronology/E09_Rise_Fall_Civilizations.md) | Climate as civilizational driver |
-| [S07 — Existential Risk](S07_Existential_Risk_Assessment.md) | Climate as existential/catastrophic risk |
-| [E13 — 536 CE](../E_Cataclysms_and_Chronology/E13_536_CE_Worst_Year.md) | Volcanic winter and civilizational collapse |
-| [R06 — Gaia Theory](../R_Biology_Evolution/R06_Gaia_Theory_Living_Earth.md) | Earth system self-regulation and limits |
-| [O05 — Biodiversity](../O_Earth_Anomalies/O05_Ecosystem_Collapse_Biodiversity.md) | 6th mass extinction driven by climate + habitat loss |
-| [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Myths.md) | Cultural memory of past climate catastrophes |
-| [Q02 — Big Bang/Cosmology](../Q_Cosmology_Physics/Q02_Big_Bang_Cosmic_Origins.md) | Cosmic context for planetary climate |
+| [S07 — Existential Risk](S07_Existential_Risk_Taxonomy.md) | Climate as existential/catastrophic risk |
+| [E13 — 536 CE](../E_Cataclysms_and_Chronology/E13_536_CE_Climate_Catastrophe.md) | Volcanic winter and civilizational collapse |
+| [R06 — Gaia Theory](../R_Biology_Evolution/R06_Gaia_Theory.md) | Earth system self-regulation and limits |
+| [O05 — Biodiversity](../O_Earth_Anomalies/O05_Biodiversity_Ecosystem_Intelligence.md) | 6th mass extinction driven by climate + habitat loss |
+| [E12 — Cyclical Destruction](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) | Cultural memory of past climate catastrophes |
+| [Q02 — Big Bang/Cosmology](../Q_Cosmology_Physics/Q02_Big_Bang_Alternative_Cosmologies.md) | Cosmic context for planetary climate |
 
 ---
 

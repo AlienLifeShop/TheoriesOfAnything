@@ -3,7 +3,7 @@
 > **Document ID:** S24
 > **Section:** S_Future_Technology
 > **Keywords:** space mining, asteroid mining, asteroid resources, C-type asteroid, S-type asteroid, M-type asteroid, Psyche, Planetary Resources, Deep Space Industries, Luxembourg space law, Outer Space Treaty, helium-3, lunar mining, O'Neill cylinder, space debris, in-situ resource utilization, ISRU, off-world economics, platinum group metals, asteroid capture, Kessler syndrome
-> **Cross-References:** [Q23](../Q_Cosmology_Physics/Q23_Exoplanet_Discovery_Habitable_Worlds.md) · [Q08](../Q_Cosmology_Physics/Q08_Stellar_Evolution_Nucleosynthesis.md) · [J22](../J_Ancient_Technology/J22_Ancient_Mining_Metallurgy.md) · [S05](S05_Post_Human_Futures.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy_Social_Contract.md)
+> **Cross-References:** [Q23](../Q_Cosmology_Physics/Q23_Exoplanets_Habitable_Zones.md) · [Q08](../Q_Cosmology_Physics/Q08_Time_Physics_Philosophy.md) · [J22](../J_Ancient_Technology/J22_Ancient_Mining_Metallurgy_Beyond_Bronze.md) · [S05](S05_Post_Human_Futures.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md)
 > **Reliability Tier:** Tier 1-3 (ranges from established planetary science and spacecraft missions to speculative off-world economic models)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High (Tier 1), Moderate (Tier 2), Low-Moderate (Tier 3-4)
 
@@ -178,11 +178,11 @@ Claims that ancient astronauts mined Earth's gold for their home planet (Sitchin
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [Q23 — Exoplanets](../Q_Cosmology_Physics/Q23_Exoplanet_Discovery_Habitable_Worlds.md) | Planetary formation processes and resource distribution in stellar systems |
-| [Q08 — Stellar Evolution](../Q_Cosmology_Physics/Q08_Stellar_Evolution_Nucleosynthesis.md) | Nucleosynthesis as origin of metallic and silicate asteroid composition |
-| [J22 — Ancient Mining](../J_Ancient_Technology/J22_Ancient_Mining_Metallurgy.md) | Historical continuity of resource extraction from Bronze Age to space |
+| [Q23 — Exoplanets](../Q_Cosmology_Physics/Q23_Exoplanets_Habitable_Zones.md) | Planetary formation processes and resource distribution in stellar systems |
+| [Q08 — Stellar Evolution](../Q_Cosmology_Physics/Q08_Time_Physics_Philosophy.md) | Nucleosynthesis as origin of metallic and silicate asteroid composition |
+| [J22 — Ancient Mining](../J_Ancient_Technology/J22_Ancient_Mining_Metallurgy_Beyond_Bronze.md) | Historical continuity of resource extraction from Bronze Age to space |
 | [S05 — Post-Human Futures](S05_Post_Human_Futures.md) | Space settlement and O'Neill habitats as post-human trajectory |
-| [P30 — Political Philosophy](../P_Philosophy_Meaning/P30_Political_Philosophy_Social_Contract.md) | Governance of space commons, property rights, and justice beyond Earth |
+| [P30 — Political Philosophy](../P_Philosophy_Meaning/P30_Political_Philosophy.md) | Governance of space commons, property rights, and justice beyond Earth |
 | [S12 — Fusion Energy](S12_Energy_Futures_Fusion_Thorium.md) | Helium-3 lunar mining contingent on D-³He fusion reactor viability |
 | [S15 — Asteroid Deflection](S15_Asteroid_Deflection_Planetary_Defense.md) | DART mission technology overlap with asteroid capture and mining operations |
 | [A09 — Enki, Enlil](../A_Foundations/A09_Enki_Enlil_and_Sumerian_Leaders.md) | Anunnaki mining narratives and their relationship to space mining claims |

@@ -3,7 +3,7 @@
 > **Document ID:** S25
 > **Section:** S_Future_Technology
 > **Keywords:** food security, agricultural technology, Green Revolution, Norman Borlaug, GMO, genetically modified organisms, Bt crops, Golden Rice, CRISPR agriculture, vertical farming, lab-grown meat, cultivated meat, insect protein, precision agriculture, soil depletion, peak phosphorus, food waste, climate agriculture, regenerative farming, IR8, food sovereignty, agroecology
-> **Cross-References:** [J21](../J_Ancient_Technology/J21_Ancient_Agriculture_Irrigation.md) · [R31](../R_Biology_Evolution/R31_Microbiome_Holobiont.md) · [L14](../L_Genetics_Origins/L14_Epigenetics_Transgenerational_Inheritance.md) · [S18](S18_Synthetic_Biology.md) · [O12](../O_Earth_Anomalies/O12_Soil_Science_Pedogenesis.md)
+> **Cross-References:** [J21](../J_Ancient_Technology/J21_Ancient_Food_Technology_Fermentation.md) · [R31](../L_Genetics_Origins/L08_Human_Microbiome_Gut_Brain_Axis.md) · [L14](../R_Biology_Evolution/R04_Epigenetics_Ancestral_Memory.md) · [S18](S18_Synthetic_Biology.md) · [O12](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md)
 > **Reliability Tier:** Tier 1-3 (ranges from established agricultural science to speculative post-traditional food futures)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** High (Tier 1), Moderate (Tier 2), Low-Moderate (Tier 3-4)
 
@@ -126,7 +126,7 @@ Entomophagy (insect consumption) is practiced traditionally by ~2 billion people
 
 - **Efficiency:** Insects convert feed to edible protein approximately 12× more efficiently than cattle, 5× more than pigs, and 2× more than poultry (van Huis et al., FAO, 2013). Crickets require 12× less feed per kg of edible protein than beef, 5× less water, and negligible land.
 - **Commercial species:** Black soldier fly (*Hermetia illucens*) — primarily for animal feed and waste processing; mealworm (*Tenebrio molitor*) — approved for human consumption in EU (2021); cricket (*Acheta domesticus*) — approved in EU (2023), popular in Thailand and other SE Asian markets. Lesser mealworm (*Alphitobius diaperinus*) also EU-approved (2023).
-- **Nutritional profile:** Cricket powder: ~60–70% protein by weight, complete essential amino acid profile, high in vitamin B12 (5× more than beef), iron, zinc, and omega-3 fatty acids. Chitin content may provide prebiotic fiber benefits for gut microbiome (→ [R31](../R_Biology_Evolution/R31_Microbiome_Holobiont.md)).
+- **Nutritional profile:** Cricket powder: ~60–70% protein by weight, complete essential amino acid profile, high in vitamin B12 (5× more than beef), iron, zinc, and omega-3 fatty acids. Chitin content may provide prebiotic fiber benefits for gut microbiome (→ [R31](../L_Genetics_Origins/L08_Human_Microbiome_Gut_Brain_Axis.md)).
 - **Consumer acceptance:** The primary barrier in Western markets. Insect-derived ingredients incorporated into products (protein bars, pasta, flour blends) face less resistance than whole insects. Insect meal for animal feed (aquaculture, poultry, pet food) faces minimal consumer resistance and represents the largest near-term market — potentially replacing unsustainable fishmeal in aquaculture diets.
 
 ### 3.4 Synthetic Biology and Precision Fermentation
@@ -188,13 +188,13 @@ Claims that wheat, maize, or other crops were domesticated too rapidly for natur
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [J21 — Ancient Agriculture](../J_Ancient_Technology/J21_Ancient_Agriculture_Irrigation.md) | Historical continuity from Neolithic crop domestication to modern agricultural systems |
-| [R31 — Microbiome](../R_Biology_Evolution/R31_Microbiome_Holobiont.md) | Soil microbiome health underlying plant nutrition, and insect chitin as prebiotic |
-| [L14 — Epigenetics](../L_Genetics_Origins/L14_Epigenetics_Transgenerational_Inheritance.md) | Transgenerational crop trait modification and CRISPR epigenetic editing |
+| [J21 — Ancient Agriculture](../J_Ancient_Technology/J21_Ancient_Food_Technology_Fermentation.md) | Historical continuity from Neolithic crop domestication to modern agricultural systems |
+| [R31 — Microbiome](../L_Genetics_Origins/L08_Human_Microbiome_Gut_Brain_Axis.md) | Soil microbiome health underlying plant nutrition, and insect chitin as prebiotic |
+| [L14 — Epigenetics](../R_Biology_Evolution/R04_Epigenetics_Ancestral_Memory.md) | Transgenerational crop trait modification and CRISPR epigenetic editing |
 | [S18 — Synthetic Biology](S18_Synthetic_Biology.md) | Precision fermentation and engineered organisms for food ingredient production |
-| [O12 — Soil Science](../O_Earth_Anomalies/O12_Soil_Science_Pedogenesis.md) | Soil degradation science underlying the food security crisis |
+| [O12 — Soil Science](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md) | Soil degradation science underlying the food security crisis |
 | [S20 — Geoengineering](S20_Geoengineering.md) | Climate intervention impacts on monsoon patterns and agricultural regions |
-| [E01 — Younger Dryas](../E_Cataclysms_and_Chronology/E01_Younger_Dryas.md) | Climate catastrophe precedents and their effects on early agriculture |
+| [E01 — Younger Dryas](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Climate catastrophe precedents and their effects on early agriculture |
 | [S23 — Longevity Research](S23_Longevity_Research.md) | Caloric restriction research linking nutrition to aging and lifespan |
 
 ---

@@ -142,7 +142,7 @@ CRISPR-Cas9 is the most transformative biotechnology discovery of the 21st centu
 5. Komor, A.C. et al. "Programmable editing of a target base in genomic DNA without double-stranded DNA cleavage." *Nature* 533 (2016): 420–424.
 6. Frangoul, H. et al. "CRISPR-Cas9 Gene Editing for Sickle Cell Disease and β-Thalassemia." *NEJM* 384 (2021): 252–260.
 7. Hammond, A. et al. "A CRISPR-Cas9 gene drive system targeting female reproduction in Anopheles gambiae." *Nature Biotechnology* 34 (2016): 78–83.
-8. WHO Expert Advisory Committee on Developing Global Standards for Governance and Oversight of Human Genome Editing. (2021).
+8. WHO Expert Advisory Committee on Developing Global Standards for Governance and Oversight of Human Genome Editing. *Human Genome Editing: Recommendations*. World Health Organization, 2021.
 9. Greely, H.T. *CRISPR People: The Science and Ethics of Editing Humans*. MIT Press, 2021.
 10. Musunuru, K. et al. "In vivo CRISPR base editing of PCSK9 durably lowers cholesterol." *Nature* 593 (2021): 429–434.
 

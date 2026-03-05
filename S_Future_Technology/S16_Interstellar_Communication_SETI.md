@@ -174,7 +174,7 @@ The Fermi Paradox — Enrico Fermi's 1950 question "Where is everybody?" — rem
 | [S09 — Space Exploration](../S_Future_Technology/S09_Space_Exploration_Astrobiology.md) | Astrobiology context for biosignature and technosignature searches |
 | [Q15 — Ancient-Modern Parallels](../Q_Cosmology_Physics/Q15_Ancient_Modern_Scientific_Parallels.md) | Ancient cosmological frameworks paralleling modern SETI questions |
 | [S07 — Existential Risk](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md) | SETI null result and Great Filter within existential risk framework |
-| [K01 — Consciousness](../K_Consciousness/K01_Consciousness_Hard_Problem.md) | Nature of consciousness as prerequisite for understanding alien minds |
+| [K01 — Consciousness](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Nature of consciousness as prerequisite for understanding alien minds |
 
 ---
 

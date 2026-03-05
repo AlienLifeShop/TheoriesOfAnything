@@ -3,7 +3,7 @@
 > **Document ID:** S23
 > **Section:** S_Future_Technology
 > **Keywords:** longevity, aging, geroscience, Hayflick limit, telomere, telomerase, Elizabeth Blackburn, caloric restriction, rapamycin, mTOR, hallmarks of aging, senolytics, dasatinib, quercetin, NAD+, NMN, NR, nicotinamide, metformin, TAME trial, Yamanaka factors, partial reprogramming, parabiosis, GDF11, SENS, Aubrey de Grey, cryonics, Alcor, life extension, sirtuin, resveratrol, epigenetic clock, Horvath clock
-> **Cross-References:** [R22](../R_Biology_Evolution/R22_Evolutionary_Medicine.md) · [B07](../B_Beings_and_Entities/B07_Long_Lived_Patriarchs.md) · [A31](../A_Foundations/A31_Philosophical_Foundations_Immortality_Myths.md) · [S18](S18_Synthetic_Biology.md) · [L14](../L_Genetics_Origins/L14_Epigenetics_Transgenerational_Inheritance.md)
+> **Cross-References:** [R22](../R_Biology_Evolution/R22_Aging_Longevity_Biology_of_Death.md) · [B07](../B_Beings_and_Entities/B07_Ancient_Rulers_Lifespans.md) · [A31](../A_Foundations/A31_Epic_of_Gilgamesh_Oldest_Literary_Work.md) · [S18](S18_Synthetic_Biology.md) · [L14](../R_Biology_Evolution/R04_Epigenetics_Ancestral_Memory.md)
 > **Reliability Tier:** Tier 1-3 (ranges from Nobel Prize-winning telomere biology to speculative cryonics and radical life extension)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (Tier 1), Moderate (Tier 2), Low-Moderate (Tier 3-4)
 
@@ -121,7 +121,7 @@ Despite significant media hype, large-scale human studies have not demonstrated 
 
 ### 4.2 "Ancient Patriarchs Lived 900+ Years Literally"
 
-Biblical patriarchs (Methuselah: 969 years, Noah: 950 years, Adam: 930 years — Genesis 5) and Sumerian King List entries (kings reigning 28,800–43,200 years) are presented literally by some traditions. **Assessment:** These figures likely represent numerological symbolism, different calendrical systems, or mythological conventions common to ancient Near Eastern literature. No biological mechanism is known that could support such extreme longevity; the maximum documented human lifespan is 122 years (Jeanne Calment, 1875–1997). (→ [B07](../B_Beings_and_Entities/B07_Long_Lived_Patriarchs.md))
+Biblical patriarchs (Methuselah: 969 years, Noah: 950 years, Adam: 930 years — Genesis 5) and Sumerian King List entries (kings reigning 28,800–43,200 years) are presented literally by some traditions. **Assessment:** These figures likely represent numerological symbolism, different calendrical systems, or mythological conventions common to ancient Near Eastern literature. No biological mechanism is known that could support such extreme longevity; the maximum documented human lifespan is 122 years (Jeanne Calment, 1875–1997). (→ [B07](../B_Beings_and_Entities/B07_Ancient_Rulers_Lifespans.md))
 
 ### 4.3 "Immortality Is Achievable Within 20 Years"
 
@@ -168,13 +168,13 @@ Consumer products marketed as "telomere lengthening" supplements (TA-65, derived
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [R22 — Evolutionary Medicine](../R_Biology_Evolution/R22_Evolutionary_Medicine.md) | Evolutionary theories of aging (antagonistic pleiotropy, disposable soma) |
-| [B07 — Long-Lived Patriarchs](../B_Beings_and_Entities/B07_Long_Lived_Patriarchs.md) | Ancient longevity narratives and their cultural significance |
-| [A31 — Immortality Myths](../A_Foundations/A31_Philosophical_Foundations_Immortality_Myths.md) | Cross-cultural pursuit of immortality from Gilgamesh to transhumanism |
+| [R22 — Evolutionary Medicine](../R_Biology_Evolution/R22_Aging_Longevity_Biology_of_Death.md) | Evolutionary theories of aging (antagonistic pleiotropy, disposable soma) |
+| [B07 — Long-Lived Patriarchs](../B_Beings_and_Entities/B07_Ancient_Rulers_Lifespans.md) | Ancient longevity narratives and their cultural significance |
+| [A31 — Immortality Myths](../A_Foundations/A31_Epic_of_Gilgamesh_Oldest_Literary_Work.md) | Cross-cultural pursuit of immortality from Gilgamesh to transhumanism |
 | [S18 — Synthetic Biology](S18_Synthetic_Biology.md) | Gene therapy and synthetic biology tools for aging intervention |
-| [L14 — Epigenetics](../L_Genetics_Origins/L14_Epigenetics_Transgenerational_Inheritance.md) | Epigenetic clocks, reprogramming, and heritable aging signatures |
-| [G28 — Transhumanism](../G_Modern_Frameworks/G28_Transhumanism_Movement.md) | Life extension as a core transhumanist objective |
-| [K01 — Consciousness](../K_Consciousness/K01_Consciousness_Studies.md) | Personal identity continuity in cryonics and mind uploading scenarios |
+| [L14 — Epigenetics](../R_Biology_Evolution/R04_Epigenetics_Ancestral_Memory.md) | Epigenetic clocks, reprogramming, and heritable aging signatures |
+| [G28 — Transhumanism](../G_Modern_Frameworks/G28_Artificial_Life_Emergence_Digital_Evolution.md) | Life extension as a core transhumanist objective |
+| [K01 — Consciousness](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Personal identity continuity in cryonics and mind uploading scenarios |
 
 ---
 

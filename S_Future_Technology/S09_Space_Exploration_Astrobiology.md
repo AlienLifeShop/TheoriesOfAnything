@@ -155,14 +155,14 @@ Humanity stands at the threshold of becoming a **multi-planetary species** — a
 
 | Document | Connection |
 |----------|------------|
-| [Q04 — Fermi Paradox](../Q_Cosmology_Physics/Q04_Fermi_Paradox_Great_Filter.md) | If space colonization is possible, where is everyone? |
-| [R07 — Extremophiles](../R_Biology_Evolution/R07_Extremophile_Life_Limits.md) | Life in extreme environments informs astrobiology |
-| [S07 — Existential Risk](S07_Existential_Risk_Assessment.md) | Space colonization as existential risk mitigation |
-| [R01 — Abiogenesis](../R_Biology_Evolution/R01_Origin_of_Life_Abiogenesis.md) | How life begins — key for recognizing alien biology |
-| [I03 — UAP Technology](../I_UAP_Disclosure/I03_UAP_Five_Observables.md) | Propulsion technology claims relevant to interstellar travel |
-| [S06 — Transhumanism](S06_Transhumanism_Human_Enhancement.md) | Human enhancement for space survival |
-| [Q02 — Cosmology/Big Bang](../Q_Cosmology_Physics/Q02_Big_Bang_Cosmic_Origins.md) | Cosmic context for humanity's future |
-| [L01 — Human Origins](../L_Genetics_Origins/L01_Human_Origins_Genetic_Evidence.md) | Where we came from before asking where we're going |
+| [Q04 — Fermi Paradox](../Q_Cosmology_Physics/Q04_Fermi_Paradox_Drake_Equation.md) | If space colonization is possible, where is everyone? |
+| [R07 — Extremophiles](../R_Biology_Evolution/R07_Extremophile_Biology.md) | Life in extreme environments informs astrobiology |
+| [S07 — Existential Risk](S07_Existential_Risk_Taxonomy.md) | Space colonization as existential risk mitigation |
+| [R01 — Abiogenesis](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) | How life begins — key for recognizing alien biology |
+| [I03 — UAP Technology](../I_UAP_Disclosure/I03_UAP_Technology_Five_Observables.md) | Propulsion technology claims relevant to interstellar travel |
+| [S06 — Transhumanism](S06_Bioethics_Human_Enhancement.md) | Human enhancement for space survival |
+| [Q02 — Cosmology/Big Bang](../Q_Cosmology_Physics/Q02_Big_Bang_Alternative_Cosmologies.md) | Cosmic context for humanity's future |
+| [L01 — Human Origins](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Where we came from before asking where we're going |
 
 ---
 

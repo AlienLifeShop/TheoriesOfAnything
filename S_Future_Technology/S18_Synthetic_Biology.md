@@ -3,7 +3,7 @@
 > **Document ID:** S18
 > **Section:** S_Future_Technology
 > **Keywords:** synthetic biology, synbio, Craig Venter, Mycoplasma mycoides, syn1.0, syn3.0, minimal genome, CRISPR-Cas9, gene drive, BioBricks, iGEM, xenobiology, XNA, synthetic gene circuits, toggle switch, repressilator, de-extinction, woolly mammoth, biohacking, cell-free synthetic biology, DNA synthesis, bioethics, dual-use, gain-of-function, biosecurity
-> **Cross-References:** [S01](S01_AI_Artificial_Intelligence.md) · [R06](../R_Biology_Evolution/R06_RNA_World_Hypothesis.md) · [L14](../L_Genetics_Origins/L14_Epigenetics_Transgenerational_Inheritance.md) · [G28](../G_Modern_Frameworks/G28_Transhumanism_Movement.md) · [R31](../R_Biology_Evolution/R31_Microbiome_Holobiont.md)
+> **Cross-References:** [S01](S01_AGI_Existential_Risk.md) · [R06](../R_Biology_Evolution/R06_Gaia_Theory.md) · [L14](../R_Biology_Evolution/R04_Epigenetics_Ancestral_Memory.md) · [G28](../G_Modern_Frameworks/G28_Artificial_Life_Emergence_Digital_Evolution.md) · [R31](../L_Genetics_Origins/L08_Human_Microbiome_Gut_Brain_Axis.md)
 > **Reliability Tier:** Tier 1-3 (ranges from peer-reviewed genome synthesis and CRISPR engineering to speculative xenobiology and de-extinction)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (Tier 1-2), Moderate-Low (Tier 3-4)
 
@@ -166,11 +166,11 @@ While the lab-leak hypothesis for SARS-CoV-2 origin remains under investigation,
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [S01 — Artificial Intelligence](S01_AI_Artificial_Intelligence.md) | AI-driven design of synthetic genetic circuits and protein engineering |
-| [R06 — RNA World](../R_Biology_Evolution/R06_RNA_World_Hypothesis.md) | Synthetic biology's relationship to origin-of-life research and abiogenesis |
-| [L14 — Epigenetics](../L_Genetics_Origins/L14_Epigenetics_Transgenerational_Inheritance.md) | Gene editing implications for heritable epigenetic modifications |
-| [G28 — Transhumanism](../G_Modern_Frameworks/G28_Transhumanism_Movement.md) | Synthetic biology as enabler of human enhancement and post-biological futures |
-| [R31 — Microbiome](../R_Biology_Evolution/R31_Microbiome_Holobiont.md) | Engineered probiotics and synthetic microbiome modification |
+| [S01 — Artificial Intelligence](S01_AGI_Existential_Risk.md) | AI-driven design of synthetic genetic circuits and protein engineering |
+| [R06 — RNA World](../R_Biology_Evolution/R06_Gaia_Theory.md) | Synthetic biology's relationship to origin-of-life research and abiogenesis |
+| [L14 — Epigenetics](../R_Biology_Evolution/R04_Epigenetics_Ancestral_Memory.md) | Gene editing implications for heritable epigenetic modifications |
+| [G28 — Transhumanism](../G_Modern_Frameworks/G28_Artificial_Life_Emergence_Digital_Evolution.md) | Synthetic biology as enabler of human enhancement and post-biological futures |
+| [R31 — Microbiome](../L_Genetics_Origins/L08_Human_Microbiome_Gut_Brain_Axis.md) | Engineered probiotics and synthetic microbiome modification |
 | [S23 — Longevity Research](S23_Longevity_Research.md) | Gene therapy and synthetic biology approaches to aging intervention |
 | [S25 — Food Security](S25_Food_Security_Agricultural_Technology.md) | Precision fermentation and engineered organisms for food production |
 | [A01 — Sumerian Texts](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) | Ancient creation narratives and claims of genetic engineering by gods |

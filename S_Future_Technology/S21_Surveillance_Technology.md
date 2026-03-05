@@ -3,7 +3,7 @@
 > **Document ID:** S21
 > **Section:** S_Future_Technology
 > **Keywords:** surveillance technology, mass surveillance, Panopticon, Bentham, Foucault, CCTV, NSA, Edward Snowden, PRISM, XKeyscore, Five Eyes, Clearview AI, facial recognition, Pegasus, NSO Group, social credit system, China, metadata, predictive policing, biometric surveillance, privacy, encryption, quantum-resistant cryptography
-> **Cross-References:** [V07](../V_Mathematics_Information/V07_Information_Theory_Shannon_Entropy.md) · [S01](S01_AI_Artificial_Intelligence.md) · [T07](../T_Psychology_Social/T07_Social_Media_Psychology.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy_Social_Contract.md) · [N14](../N_Secret_Societies/N14_Intelligence_Agencies_Deep_State.md)
+> **Cross-References:** [V07](../V_Mathematics_Information/V07_Cryptography.md) · [S01](S01_AGI_Existential_Risk.md) · [T07](../T_Psychology_Social/T07_Propaganda_Persuasion_Information_Warfare.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md) · [N14](../N_Secret_Societies/N14_Rosicrucian_Manifestos_Invisible_College.md)
 > **Reliability Tier:** Tier 1-3 (ranges from documented surveillance programs and leaked classified documents to speculative future surveillance states)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (Tier 1-2), Moderate (Tier 3), Low (Tier 4)
 
@@ -167,11 +167,11 @@ The persistent belief that smartphones continuously record audio conversations f
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [V07 — Information Theory](../V_Mathematics_Information/V07_Information_Theory_Shannon_Entropy.md) | Encryption, signal processing, and information-theoretic limits of surveillance |
-| [S01 — Artificial Intelligence](S01_AI_Artificial_Intelligence.md) | AI as enabling technology for facial recognition and predictive policing |
-| [T07 — Social Media Psychology](../T_Psychology_Social/T07_Social_Media_Psychology.md) | Platform surveillance, attention harvesting, and behavioral profiling |
-| [P30 — Political Philosophy](../P_Philosophy_Meaning/P30_Political_Philosophy_Social_Contract.md) | Privacy rights, state power, and the social contract |
-| [N14 — Intelligence Agencies](../N_Secret_Societies/N14_Intelligence_Agencies_Deep_State.md) | NSA, Five Eyes, and intelligence community institutional analysis |
+| [V07 — Information Theory](../V_Mathematics_Information/V07_Cryptography.md) | Encryption, signal processing, and information-theoretic limits of surveillance |
+| [S01 — Artificial Intelligence](S01_AGI_Existential_Risk.md) | AI as enabling technology for facial recognition and predictive policing |
+| [T07 — Social Media Psychology](../T_Psychology_Social/T07_Propaganda_Persuasion_Information_Warfare.md) | Platform surveillance, attention harvesting, and behavioral profiling |
+| [P30 — Political Philosophy](../P_Philosophy_Meaning/P30_Political_Philosophy.md) | Privacy rights, state power, and the social contract |
+| [N14 — Intelligence Agencies](../N_Secret_Societies/N14_Rosicrucian_Manifestos_Invisible_College.md) | NSA, Five Eyes, and intelligence community institutional analysis |
 | [S19 — Autonomous Weapons](S19_Autonomous_Weapons_Systems.md) | Surveillance-to-strike pipeline and targeting infrastructure |
 | [S22 — Internet](S22_Internet_Digital_Civilization.md) | Digital infrastructure enabling mass data collection |
 

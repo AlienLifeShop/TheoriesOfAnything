@@ -131,11 +131,11 @@ The 2016 Chemistry Nobel recognized three pioneers:
 
 | Document | Connection |
 |----------|------------|
-| [S01 — Future Technology Overview](../S_Future_Technology/S01_Future_Technology_Overview.md) | Technological trajectory and convergence |
-| [S07 — Biotechnology CRISPR](../S_Future_Technology/S07_Biotechnology_CRISPR.md) | Nanoscale biological engineering |
-| [J05 — Ancient Acoustics](../J_Ancient_Technology/J05_Ancient_Acoustics.md) | Material science through the ages |
-| [Q02 — Cosmological Models](../Q_Cosmology_Physics/Q02_Cosmological_Models.md) | Quantum effects at nanoscale |
-| [R01 — Evolution Overview](../R_Biology_Evolution/R01_Evolution_Overview.md) | Biological molecular machines as evolutionary products |
+| [S01 — Future Technology Overview](../S_Future_Technology/S01_AGI_Existential_Risk.md) | Technological trajectory and convergence |
+| [S07 — Biotechnology CRISPR](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md) | Nanoscale biological engineering |
+| [J05 — Ancient Acoustics](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Material science through the ages |
+| [Q02 — Cosmological Models](../Q_Cosmology_Physics/Q02_Big_Bang_Alternative_Cosmologies.md) | Quantum effects at nanoscale |
+| [R01 — Evolution Overview](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) | Biological molecular machines as evolutionary products |
 | [R17 — Symbiogenesis](../R_Biology_Evolution/R17_Symbiogenesis_Lynn_Margulis.md) | Biological self-assembly and cooperation |
 
 ---

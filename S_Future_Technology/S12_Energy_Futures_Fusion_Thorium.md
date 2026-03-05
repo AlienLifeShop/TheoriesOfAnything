@@ -138,11 +138,11 @@ Modern MSR startups: **Terrestrial Energy** (Canada), **ThorCon** (USA/Indonesia
 
 | Document | Connection |
 |----------|------------|
-| [S01 — Future Technology Overview](../S_Future_Technology/S01_Future_Technology_Overview.md) | Technological trajectory and convergence |
-| [Q02 — Cosmological Models](../Q_Cosmology_Physics/Q02_Cosmological_Models.md) | Vacuum energy, cosmological constant |
-| [Q01 — Cosmology Overview](../Q_Cosmology_Physics/Q01_Cosmology_Overview.md) | Stellar energy production, nucleosynthesis |
-| [J05 — Ancient Acoustics/Technology](../J_Ancient_Technology/J05_Ancient_Acoustics.md) | Historical energy technology |
-| [S07 — Biotechnology](../S_Future_Technology/S07_Biotechnology_CRISPR.md) | Bioenergy and photosynthesis |
+| [S01 — Future Technology Overview](../S_Future_Technology/S01_AGI_Existential_Risk.md) | Technological trajectory and convergence |
+| [Q02 — Cosmological Models](../Q_Cosmology_Physics/Q02_Big_Bang_Alternative_Cosmologies.md) | Vacuum energy, cosmological constant |
+| [Q01 — Cosmology Overview](../Q_Cosmology_Physics/Q01_Anthropic_Principle_Fine_Tuning.md) | Stellar energy production, nucleosynthesis |
+| [J05 — Ancient Acoustics/Technology](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Historical energy technology |
+| [S07 — Biotechnology](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md) | Bioenergy and photosynthesis |
 | [Q16 — Gravity](../Q_Cosmology_Physics/Q16_Gravity_Gravitational_Waves.md) | Gravitational energy and exotic propulsion claims |
 
 ---

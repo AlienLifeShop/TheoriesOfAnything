@@ -3,7 +3,7 @@
 > **Document ID:** S19
 > **Section:** S_Future_Technology
 > **Keywords:** autonomous weapons, LAWS, lethal autonomous weapons systems, killer robots, drone warfare, Phalanx CIWS, Aegis, Iron Dome, Kargu-2, loitering munition, meaningful human control, accountability gap, Campaign to Stop Killer Robots, drone swarms, Asimov laws of robotics, flash war, AI arms race, Convention on Certain Conventional Weapons, CCW, Predator drone, MQ-9 Reaper
-> **Cross-References:** [S01](S01_AI_Artificial_Intelligence.md) · [J23](../J_Ancient_Technology/J23_Ancient_Fortification_Siege_Technology.md) · [G27](../G_Modern_Frameworks/G27_Effective_Altruism.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy_Social_Contract.md) · [S21](S21_Surveillance_Technology.md)
+> **Cross-References:** [S01](S01_AGI_Existential_Risk.md) · [J23](../J_Ancient_Technology/J23_Ancient_Warfare_Technology.md) · [G27](../G_Modern_Frameworks/G27_Game_Theory_Strategic_Interaction_Cooperation.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md) · [S21](S21_Surveillance_Technology.md)
 > **Reliability Tier:** Tier 1-3 (ranges from documented weapons systems and IHL to speculative flash war scenarios)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High (Tier 1), Moderate (Tier 2), Low (Tier 3-4)
 
@@ -142,7 +142,7 @@ Claims that market competition, reputational risk, or military culture will natu
 
 1. Scharre, P. (2018). *Army of None: Autonomous Weapons and the Future of War*. W.W. Norton.
 2. Arkin, R.C. (2009). *Governing Lethal Behavior in Autonomous Robots*. CRC Press.
-3. United Nations (2021). Panel of Experts Report S/2021/229 (Libya).
+3. United Nations (2021). *Panel of Experts Report S/2021/229* (Libya).
 4. Human Rights Watch (2012). *Losing Humanity: The Case Against Killer Robots*. HRW.
 5. ICRC (2021). "ICRC Position on Autonomous Weapon Systems." Geneva.
 6. Kissinger, H., Schmidt, E., & Huttenlocher, D. (2021). *The Age of AI and Our Human Future*. Little, Brown.
@@ -168,13 +168,13 @@ Claims that market competition, reputational risk, or military culture will natu
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [S01 — Artificial Intelligence](S01_AI_Artificial_Intelligence.md) | AI as enabling technology for autonomous target selection and swarm coordination |
-| [J23 — Ancient Fortification](../J_Ancient_Technology/J23_Ancient_Fortification_Siege_Technology.md) | Historical evolution of warfare technology and defensive automation |
-| [G27 — Effective Altruism](../G_Modern_Frameworks/G27_Effective_Altruism.md) | Existential risk assessment applied to autonomous weapons proliferation |
-| [P30 — Political Philosophy](../P_Philosophy_Meaning/P30_Political_Philosophy_Social_Contract.md) | State monopoly on legitimate violence and social contract implications |
+| [S01 — Artificial Intelligence](S01_AGI_Existential_Risk.md) | AI as enabling technology for autonomous target selection and swarm coordination |
+| [J23 — Ancient Fortification](../J_Ancient_Technology/J23_Ancient_Warfare_Technology.md) | Historical evolution of warfare technology and defensive automation |
+| [G27 — Effective Altruism](../G_Modern_Frameworks/G27_Game_Theory_Strategic_Interaction_Cooperation.md) | Existential risk assessment applied to autonomous weapons proliferation |
+| [P30 — Political Philosophy](../P_Philosophy_Meaning/P30_Political_Philosophy.md) | State monopoly on legitimate violence and social contract implications |
 | [S21 — Surveillance Technology](S21_Surveillance_Technology.md) | Surveillance-to-strike pipeline and AI-enabled targeting systems |
 | [S22 — Internet](S22_Internet_Digital_Civilization.md) | Cyber-weapon integration with autonomous kinetic systems |
-| [K01 — Consciousness](../K_Consciousness/K01_Consciousness_Studies.md) | Question of machine consciousness and moral status of autonomous agents |
+| [K01 — Consciousness](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Question of machine consciousness and moral status of autonomous agents |
 
 ---
 

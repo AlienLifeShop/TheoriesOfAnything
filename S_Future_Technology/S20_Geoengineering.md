@@ -3,7 +3,7 @@
 > **Document ID:** S20
 > **Section:** S_Future_Technology
 > **Keywords:** geoengineering, climate engineering, climate intervention, solar radiation management, SRM, stratospheric aerosol injection, SAI, Pinatubo, carbon dioxide removal, CDR, direct air capture, DAC, Climeworks, BECCS, enhanced weathering, marine cloud brightening, ocean iron fertilization, space sunshade, termination shock, governance gap, moral hazard, chemtrails, albedo modification
-> **Cross-References:** [O12](../O_Earth_Anomalies/O12_Soil_Science_Pedogenesis.md) · [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas.md) · [R06](../R_Biology_Evolution/R06_RNA_World_Hypothesis.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy_Social_Contract.md) · [S25](S25_Food_Security_Agricultural_Technology.md)
+> **Cross-References:** [O12](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md) · [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [R06](../R_Biology_Evolution/R06_Gaia_Theory.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md) · [S25](S25_Food_Security_Agricultural_Technology.md)
 > **Reliability Tier:** Tier 1-3 (ranges from established atmospheric science to speculative space-based interventions)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** High (Tier 1), Moderate (Tier 2), Low-Moderate (Tier 3-4)
 
@@ -167,12 +167,12 @@ The claim that SRM deployment eliminates the need for decarbonization. **Assessm
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [O12 — Soil Science](../O_Earth_Anomalies/O12_Soil_Science_Pedogenesis.md) | Enhanced weathering using silicate minerals on agricultural soils |
-| [E01 — Younger Dryas](../E_Cataclysms_and_Chronology/E01_Younger_Dryas.md) | Rapid climate shifts as historical analogues for geoengineering scenarios |
-| [R06 — RNA World](../R_Biology_Evolution/R06_RNA_World_Hypothesis.md) | Ocean chemistry changes from CDR affecting prebiotic chemistry discussions |
-| [P30 — Political Philosophy](../P_Philosophy_Meaning/P30_Political_Philosophy_Social_Contract.md) | Global governance challenges, consent, and justice in planetary intervention |
+| [O12 — Soil Science](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md) | Enhanced weathering using silicate minerals on agricultural soils |
+| [E01 — Younger Dryas](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Rapid climate shifts as historical analogues for geoengineering scenarios |
+| [R06 — RNA World](../R_Biology_Evolution/R06_Gaia_Theory.md) | Ocean chemistry changes from CDR affecting prebiotic chemistry discussions |
+| [P30 — Political Philosophy](../P_Philosophy_Meaning/P30_Political_Philosophy.md) | Global governance challenges, consent, and justice in planetary intervention |
 | [S25 — Food Security](S25_Food_Security_Agricultural_Technology.md) | SRM impacts on monsoon patterns and agricultural productivity |
-| [Q08 — Stellar Evolution](../Q_Cosmology_Physics/Q08_Stellar_Evolution_Nucleosynthesis.md) | Solar radiation physics underlying SRM calculations |
+| [Q08 — Stellar Evolution](../Q_Cosmology_Physics/Q08_Time_Physics_Philosophy.md) | Solar radiation physics underlying SRM calculations |
 | [S24 — Space Mining](S24_Space_Mining_Asteroid_Resources.md) | Space sunshade concepts and orbital deployment logistics |
 
 ---
