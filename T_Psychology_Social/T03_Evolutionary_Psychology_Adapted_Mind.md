@@ -3,7 +3,7 @@
 > **Document ID:** T03
 > **Section:** T_Psychology_Social
 > **Keywords:** evolutionary psychology, adapted mind, modular mind, Tooby, Cosmides, EEA, mate selection, cheater detection, parental investment, kin selection, spandrels, mismatch hypothesis, just-so stories
-> **Cross-References:** [R01](../R_Biology_Evolution/R01_Darwin_Evolution.md) · [R24](../R_Biology_Evolution/R24_Sexual_Selection.md) · [R27](../R_Biology_Evolution/R27_Altruism.md) · [G29](../G_Modern_Frameworks/G29_Memetics.md) · [L14](../L_Genetics_Origins/L14_Domestication.md)
+> **Cross-References:** [R01](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) · [R24](../R_Biology_Evolution/R24_Sexual_Selection.md) · [R27](../R_Biology_Evolution/R27_Altruism_Cooperation.md) · [G29](../G_Modern_Frameworks/G29_Memetics_Cultural_Evolution.md) · [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md)
 > **Reliability Tier:** Tier 1-3 (strong theoretical foundation, variable empirical support across domains)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Moderate-High (core framework), Low-Moderate (specific adaptationist claims)
 
@@ -178,11 +178,11 @@ Evolutionary psychology employs distinctive methods that require careful evaluat
 
 | Document | Topic | Relationship |
 |----------|-------|--------------|
-| [R01](../R_Biology_Evolution/R01_Darwin_Evolution.md) | Darwin & Evolution | Foundational theory underpinning all evolutionary psychology |
+| [R01](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) | Darwin & Evolution | Foundational theory underpinning all evolutionary psychology |
 | [R24](../R_Biology_Evolution/R24_Sexual_Selection.md) | Sexual Selection | Mate choice and intrasexual competition as primary EP domain |
-| [R27](../R_Biology_Evolution/R27_Altruism.md) | Altruism & Cooperation | Kin selection and reciprocal altruism as evolved strategies |
-| [G29](../G_Modern_Frameworks/G29_Memetics.md) | Memetics | Cultural evolution as complement to genetic evolution |
-| [L14](../L_Genetics_Origins/L14_Domestication.md) | Domestication | Self-domestication hypothesis parallels mismatch framework |
+| [R27](../R_Biology_Evolution/R27_Altruism_Cooperation.md) | Altruism & Cooperation | Kin selection and reciprocal altruism as evolved strategies |
+| [G29](../G_Modern_Frameworks/G29_Memetics_Cultural_Evolution.md) | Memetics | Cultural evolution as complement to genetic evolution |
+| [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md) | Domestication | Self-domestication hypothesis parallels mismatch framework |
 
 ---
 *Consolidated from 22 sources. Last Updated: Feb 28, 2026*

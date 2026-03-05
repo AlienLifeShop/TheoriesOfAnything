@@ -3,7 +3,7 @@
 > **Document ID:** T01
 > **Section:** T_Psychology_Social
 > **Keywords:** conformity, obedience, Milgram, Asch, Stanford Prison Experiment, groupthink, bystander effect, cognitive dissonance, social identity theory, deindividuation, social facilitation
-> **Cross-References:** [T05](T05_Cult_Psychology.md) · [T07](T07_Propaganda_Persuasion_Information_Warfare.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md) · [N16](../N_Secret_Societies/N16_Illuminati.md) · [R27](../R_Biology_Evolution/R27_Altruism.md)
+> **Cross-References:** [T05](T05_Cult_Psychology.md) · [T07](T07_Propaganda_Persuasion_Information_Warfare.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md) · [N16](../N_Secret_Societies/N16_Illuminati.md) · [R27](../R_Biology_Evolution/R27_Altruism_Cooperation.md)
 > **Reliability Tier:** Tier 1-3 (peer-reviewed experimental work with noted replication concerns)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (core findings), Moderate (contested replications)
 
@@ -180,7 +180,7 @@ Classic social psychology experiments face several recurring methodological crit
 | [T07](T07_Propaganda_Persuasion_Information_Warfare.md) | Propaganda & Persuasion | Social influence principles applied at mass-media scale |
 | [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md) | Political Philosophy | Authority, legitimacy, and consent as philosophical counterparts |
 | [N16](../N_Secret_Societies/N16_Illuminati.md) | Illuminati / Group Influence | Claims of elite social-engineering leverage conformity research |
-| [R27](../R_Biology_Evolution/R27_Altruism.md) | Altruism & Cooperation | Evolutionary roots of prosocial vs. conformist behavior |
+| [R27](../R_Biology_Evolution/R27_Altruism_Cooperation.md) | Altruism & Cooperation | Evolutionary roots of prosocial vs. conformist behavior |
 
 ---
 *Consolidated from 22 sources. Last Updated: Feb 28, 2026*

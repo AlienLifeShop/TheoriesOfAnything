@@ -3,7 +3,7 @@
 > **Document ID:** T10
 > **Section:** T_Psychology_Social
 > **Keywords:** neurodiversity, Judy Singer, autism spectrum, Kanner, Asperger, ADHD, hunter-gatherer hypothesis, dyslexia, spatial advantage, synesthesia, savant syndrome, double empathy problem, Temple Grandin, neurodiversity movement, neurodivergent, neurotypical
-> **Cross-References:** [K34](../K_Consciousness/K34_Split_Brain.md) · [T09](T09_Developmental_Psychology.md) · [K04](../K_Consciousness/K04_Psychedelics_Consciousness.md) · [K22](../K_Consciousness/K22_Consciousness_Creativity.md) · [R01](../R_Biology_Evolution/R01_Evolution_Overview.md)
+> **Cross-References:** [K34](../K_Consciousness/K34_Split_Brain_Divided_Consciousness.md) · [T09](T09_Developmental_Psychology.md) · [K04](../K_Consciousness/K04_Quantum_Consciousness.md) · [K22](../K_Consciousness/K22_Anomalous_Human_Abilities_Siddhis.md) · [R01](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md)
 > **Reliability Tier:** Tier 1-2 (neurodevelopmental conditions well-established; neurodiversity paradigm interpretive)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 24 scholarly sources | **Confidence:** High (existence of conditions), Moderate (adaptive-advantage framing)
 
@@ -188,11 +188,11 @@ Neurodiversity research faces distinctive methodological challenges arising from
 
 | Document | Topic | Relationship |
 |----------|-------|--------------|
-| [K34](../K_Consciousness/K34_Split_Brain.md) | Split-Brain Research | Hemispheric specialization and atypical lateralization in neurodivergent brains |
+| [K34](../K_Consciousness/K34_Split_Brain_Divided_Consciousness.md) | Split-Brain Research | Hemispheric specialization and atypical lateralization in neurodivergent brains |
 | [T09](T09_Developmental_Psychology.md) | Developmental Psychology | Neurodevelopmental conditions as variations in developmental trajectories |
-| [K04](../K_Consciousness/K04_Psychedelics_Consciousness.md) | Psychedelics & Consciousness | Altered perception states parallel some neurodivergent perceptual differences |
-| [K22](../K_Consciousness/K22_Consciousness_Creativity.md) | Consciousness & Creativity | Creative cognition and neurodivergent thinking styles |
-| [R01](../R_Biology_Evolution/R01_Evolution_Overview.md) | Evolution Overview | Balanced polymorphism and frequency-dependent selection maintaining cognitive variation |
+| [K04](../K_Consciousness/K04_Quantum_Consciousness.md) | Psychedelics & Consciousness | Altered perception states parallel some neurodivergent perceptual differences |
+| [K22](../K_Consciousness/K22_Anomalous_Human_Abilities_Siddhis.md) | Consciousness & Creativity | Creative cognition and neurodivergent thinking styles |
+| [R01](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) | Evolution Overview | Balanced polymorphism and frequency-dependent selection maintaining cognitive variation |
 
 ---
 *Consolidated from 24 sources. Last Updated: Feb 28, 2026*

@@ -3,7 +3,7 @@
 > **Document ID:** T07
 > **Section:** T_Psychology_Social
 > **Keywords:** propaganda, persuasion, Edward Bernays, Walter Lippmann, manufactured consent, Goebbels, Chomsky, propaganda model, Cialdini, influence, Cambridge Analytica, deepfakes, psyops, information warfare, firehose of falsehood
-> **Cross-References:** [T01](T01_Social_Psychology_Conformity_Obedience.md) · [T05](T05_Cult_Psychology.md) · [S21](../S_Future_Technology/S21_Surveillance.md) · [S22](../S_Future_Technology/S22_Internet_Digital.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md)
+> **Cross-References:** [T01](T01_Social_Psychology_Conformity_Obedience.md) · [T05](T05_Cult_Psychology.md) · [S21](../S_Future_Technology/S21_Surveillance_Technology.md) · [S22](../S_Future_Technology/S22_Internet_Digital_Civilization.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md)
 > **Reliability Tier:** Tier 1-3 (historical documentation solid; contemporary threat assessment evolving)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** High (historical record), Moderate-High (contemporary analysis)
 
@@ -185,8 +185,8 @@ Propaganda and persuasion research spans multiple disciplines with varying metho
 |----------|-------|--------------|
 | [T01](T01_Social_Psychology_Conformity_Obedience.md) | Social Psychology | Social influence principles as psychological foundation of propaganda |
 | [T05](T05_Cult_Psychology.md) | Cult Psychology | Totalist information control as micro-scale propaganda |
-| [S21](../S_Future_Technology/S21_Surveillance.md) | Surveillance Technology | Data harvesting enables psychographic targeting |
-| [S22](../S_Future_Technology/S22_Internet_Digital.md) | Internet & Digital | Algorithmic amplification and deepfakes as propaganda evolution |
+| [S21](../S_Future_Technology/S21_Surveillance_Technology.md) | Surveillance Technology | Data harvesting enables psychographic targeting |
+| [S22](../S_Future_Technology/S22_Internet_Digital_Civilization.md) | Internet & Digital | Algorithmic amplification and deepfakes as propaganda evolution |
 | [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md) | Political Philosophy | Democratic theory challenged by manufactured opinion |
 
 ---

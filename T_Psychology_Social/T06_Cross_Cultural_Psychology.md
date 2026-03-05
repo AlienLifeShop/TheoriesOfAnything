@@ -3,7 +3,7 @@
 > **Document ID:** T06
 > **Section:** T_Psychology_Social
 > **Keywords:** cross-cultural psychology, Hofstede, cultural dimensions, WEIRD, Henrich, Vygotsky, zone of proximal development, Sapir-Whorf, linguistic relativity, individualism, collectivism, Ekman, emotional universals, honor culture, face culture
-> **Cross-References:** [H16](../H_Suppression_and_Thesis/H16_Linguistic_Extinction.md) · [C07](../C_Global_Traditions/C07_Oral_Tradition.md) · [P31](../P_Philosophy_Meaning/P31_Indian_Darshanas.md) · [T03](T03_Evolutionary_Psychology_Adapted_Mind.md) · [U05](../U_Art_Music_Culture/U05_Color_Symbolism.md)
+> **Cross-References:** [H16](../H_Suppression_and_Thesis/H16_Linguistic_Extinction_Lost_Knowledge_Systems.md) · [C07](../C_Global_Traditions/C07_Pacific_Island_Traditions.md) · [P31](../P_Philosophy_Meaning/P31_Indian_Darshanas.md) · [T03](T03_Evolutionary_Psychology_Adapted_Mind.md) · [U05](../U_Art_Music_Culture/U05_Color_Symbolism_Chromatic_Traditions.md)
 > **Reliability Tier:** Tier 1-3 (strong empirical tradition with ongoing theoretical revision)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (documented cultural variation), Moderate (universality claims)
 
@@ -178,11 +178,11 @@ Cross-cultural research presents unique methodological challenges that affect th
 
 | Document | Topic | Relationship |
 |----------|-------|--------------|
-| [H16](../H_Suppression_and_Thesis/H16_Linguistic_Extinction.md) | Linguistic Extinction | Language loss erases culture-specific cognitive tools (Sapir-Whorf implications) |
-| [C07](../C_Global_Traditions/C07_Oral_Tradition.md) | Oral Tradition | Cultural transmission modes shape memory, cognition, and identity |
+| [H16](../H_Suppression_and_Thesis/H16_Linguistic_Extinction_Lost_Knowledge_Systems.md) | Linguistic Extinction | Language loss erases culture-specific cognitive tools (Sapir-Whorf implications) |
+| [C07](../C_Global_Traditions/C07_Pacific_Island_Traditions.md) | Oral Tradition | Cultural transmission modes shape memory, cognition, and identity |
 | [P31](../P_Philosophy_Meaning/P31_Indian_Darshanas.md) | Indian Darshanas | Non-Western epistemologies as examples of culture-specific philosophical psychology |
 | [T03](T03_Evolutionary_Psychology_Adapted_Mind.md) | Evolutionary Psychology | Universals debate: evolved constraints vs. cultural construction |
-| [U05](../U_Art_Music_Culture/U05_Color_Symbolism.md) | Color Symbolism | Color perception and categorization as prime linguistic-relativity evidence |
+| [U05](../U_Art_Music_Culture/U05_Color_Symbolism_Chromatic_Traditions.md) | Color Symbolism | Color perception and categorization as prime linguistic-relativity evidence |
 
 ---
 *Consolidated from 22 sources. Last Updated: Feb 28, 2026*

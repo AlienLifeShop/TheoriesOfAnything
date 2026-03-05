@@ -3,7 +3,7 @@
 > **Document ID:** T09
 > **Section:** T_Psychology_Social
 > **Keywords:** developmental psychology, Piaget, cognitive stages, Vygotsky, scaffolding, Bowlby, attachment theory, Ainsworth, strange situation, Erikson, psychosocial stages, Kohlberg, moral development, critical periods, neuroplasticity, ACEs, epigenetic trauma
-> **Cross-References:** [T03](T03_Evolutionary_Psychology_Adapted_Mind.md) · [T06](T06_Cross_Cultural_Psychology.md) · [K34](../K_Consciousness/K34_Split_Brain.md) · [T10](T10_Neurodiversity.md) · [R30](../R_Biology_Evolution/R30_Self_Domestication.md)
+> **Cross-References:** [T03](T03_Evolutionary_Psychology_Adapted_Mind.md) · [T06](T06_Cross_Cultural_Psychology.md) · [K34](../K_Consciousness/K34_Split_Brain_Divided_Consciousness.md) · [T10](T10_Neurodiversity.md) · [R30](../R_Biology_Evolution/R30_Self_Domestication.md)
 > **Reliability Tier:** Tier 1-2 (large empirical foundation with ongoing refinement)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** High (attachment, stage theories), Moderate (epigenetic transmission)
 
@@ -185,7 +185,7 @@ Developmental psychology employs distinctive methods with characteristic strengt
 |----------|-------|--------------|
 | [T03](T03_Evolutionary_Psychology_Adapted_Mind.md) | Evolutionary Psychology | Attachment as evolved behavioral system; EEA as developmental context |
 | [T06](T06_Cross_Cultural_Psychology.md) | Cross-Cultural Psychology | Cultural variation in developmental trajectories and child-rearing norms |
-| [K34](../K_Consciousness/K34_Split_Brain.md) | Split-Brain Research | Hemispheric specialization as neurodevelopmental process |
+| [K34](../K_Consciousness/K34_Split_Brain_Divided_Consciousness.md) | Split-Brain Research | Hemispheric specialization as neurodevelopmental process |
 | [T10](T10_Neurodiversity.md) | Neurodiversity | Developmental variation as diversity rather than deficit |
 | [R30](../R_Biology_Evolution/R30_Self_Domestication.md) | Self-Domestication | Extended juvenile period as feature of human self-domestication |
 

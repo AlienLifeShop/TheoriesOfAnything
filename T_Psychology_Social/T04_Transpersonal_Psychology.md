@@ -3,7 +3,7 @@
 > **Document ID:** T04
 > **Section:** T_Psychology_Social
 > **Keywords:** transpersonal psychology, Maslow, self-transcendence, Stanislav Grof, holotropic breathwork, Ken Wilber, integral theory, AQAL, Charles Tart, psychosynthesis, peak experience, spiritual emergency, altered states
-> **Cross-References:** [K30](../K_Consciousness/K30_Mystical_Experience.md) · [K08](../K_Consciousness/K08_Psychedelics.md) · [K10](../K_Consciousness/K10_Meditation.md) · [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) · [T02](T02_Jungian_Archetypes_Collective_Unconscious.md)
+> **Cross-References:** [K30](../K_Consciousness/K30_Mystical_Experience_Neuroscience.md) · [K08](../K_Consciousness/K02_Altered_States_Psychedelics.md) · [K10](../K_Consciousness/K08_Meditation_Neuroplasticity.md) · [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) · [T02](T02_Jungian_Archetypes_Collective_Unconscious.md)
 > **Reliability Tier:** Tier 2-4 (ranges from peer-reviewed phenomenology to unfalsifiable metaphysical claims)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** Mixed (therapeutic innovations credible; ontological claims speculative)
 
@@ -181,9 +181,9 @@ Transpersonal psychology occupies a contested methodological space between empir
 
 | Document | Topic | Relationship |
 |----------|-------|--------------|
-| [K30](../K_Consciousness/K30_Mystical_Experience.md) | Mystical Experience | Transpersonal psychology's primary phenomenological domain |
-| [K08](../K_Consciousness/K08_Psychedelics.md) | Psychedelics | Grof's LSD research and modern psilocybin trials as transpersonal catalysts |
-| [K10](../K_Consciousness/K10_Meditation.md) | Meditation | Meditation as core transpersonal practice with verified neural correlates |
+| [K30](../K_Consciousness/K30_Mystical_Experience_Neuroscience.md) | Mystical Experience | Transpersonal psychology's primary phenomenological domain |
+| [K08](../K_Consciousness/K02_Altered_States_Psychedelics.md) | Psychedelics | Grof's LSD research and modern psilocybin trials as transpersonal catalysts |
+| [K10](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Meditation | Meditation as core transpersonal practice with verified neural correlates |
 | [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) | Perennial Philosophy | Wilber's integral theory draws heavily on perennialist assumptions |
 | [T02](T02_Jungian_Archetypes_Collective_Unconscious.md) | Jungian Archetypes | Jung's collective unconscious as direct precursor to transpersonal models |
 

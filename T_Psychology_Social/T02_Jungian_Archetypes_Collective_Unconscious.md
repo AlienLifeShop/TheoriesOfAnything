@@ -3,7 +3,7 @@
 > **Document ID:** T02
 > **Section:** T_Psychology_Social
 > **Keywords:** Carl Jung, collective unconscious, archetypes, Shadow, Anima, Animus, individuation, synchronicity, active imagination, mandala, Self, Trickster, Hero, Great Mother, analytical psychology
-> **Cross-References:** [C54](../C_Global_Traditions/C54_Heros_Journey.md) · [K30](../K_Consciousness/K30_Mystical_Experience.md) · [P11](../P_Philosophy_Meaning/P11_Personal_Identity.md) · [B25](../B_Beings_and_Entities/B25_Shadow_People.md) · [B23](../B_Beings_and_Entities/B23_Egregores.md)
+> **Cross-References:** [C54](../C_Global_Traditions/C54_Heros_Journey_Monomyth.md) · [K30](../K_Consciousness/K30_Mystical_Experience_Neuroscience.md) · [P11](../P_Philosophy_Meaning/P11_Personal_Identity_Continuity.md) · [B25](../B_Beings_and_Entities/B25_Shadow_People_Sleep_Paralysis_Dark_Figures.md) · [B23](../B_Beings_and_Entities/B23_Golems_Tulpas_Egregores_Created_Entities.md)
 > **Reliability Tier:** Tier 2-3 (influential theoretical framework with limited empirical falsifiability)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** Moderate (heuristically valuable, scientifically contested)
 
@@ -176,11 +176,11 @@ Jungian psychology presents distinctive methodological challenges that differ fr
 
 | Document | Topic | Relationship |
 |----------|-------|--------------|
-| [C54](../C_Global_Traditions/C54_Heros_Journey.md) | Hero's Journey | Campbell's monomyth directly extends Jung's Hero archetype |
-| [K30](../K_Consciousness/K30_Mystical_Experience.md) | Mystical Experience | Archetypal encounters as framework for interpreting mystical states |
-| [P11](../P_Philosophy_Meaning/P11_Personal_Identity.md) | Personal Identity | Individuation as psychological model of identity integration |
-| [B25](../B_Beings_and_Entities/B25_Shadow_People.md) | Shadow People | Paranormal shadow entities interpreted through Shadow archetype lens |
-| [B23](../B_Beings_and_Entities/B23_Egregores.md) | Egregores | Collective psychic entities parallel Jung's autonomous complexes |
+| [C54](../C_Global_Traditions/C54_Heros_Journey_Monomyth.md) | Hero's Journey | Campbell's monomyth directly extends Jung's Hero archetype |
+| [K30](../K_Consciousness/K30_Mystical_Experience_Neuroscience.md) | Mystical Experience | Archetypal encounters as framework for interpreting mystical states |
+| [P11](../P_Philosophy_Meaning/P11_Personal_Identity_Continuity.md) | Personal Identity | Individuation as psychological model of identity integration |
+| [B25](../B_Beings_and_Entities/B25_Shadow_People_Sleep_Paralysis_Dark_Figures.md) | Shadow People | Paranormal shadow entities interpreted through Shadow archetype lens |
+| [B23](../B_Beings_and_Entities/B23_Golems_Tulpas_Egregores_Created_Entities.md) | Egregores | Collective psychic entities parallel Jung's autonomous complexes |
 
 ---
 *Consolidated from 20 sources. Last Updated: Feb 28, 2026*

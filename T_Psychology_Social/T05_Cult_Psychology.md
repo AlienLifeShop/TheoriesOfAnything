@@ -3,7 +3,7 @@
 > **Document ID:** T05
 > **Section:** T_Psychology_Social
 > **Keywords:** cult psychology, thought reform, brainwashing, Robert Jay Lifton, Steven Hassan, BITE model, Margaret Singer, totalism, undue influence, loaded language, exit counseling, Heaven's Gate, Jonestown, cognitive dissonance
-> **Cross-References:** [T01](T01_Social_Psychology_Conformity_Obedience.md) · [T07](T07_Propaganda_Persuasion_Information_Warfare.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [K30](../K_Consciousness/K30_Mystical_Experience.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md)
+> **Cross-References:** [T01](T01_Social_Psychology_Conformity_Obedience.md) · [T07](T07_Propaganda_Persuasion_Information_Warfare.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [K30](../K_Consciousness/K30_Mystical_Experience_Neuroscience.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md)
 > **Reliability Tier:** Tier 1-3 (clinical documentation strong; theoretical models debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (documented cases), Moderate (influence models)
 
@@ -185,7 +185,7 @@ Cult psychology research faces distinctive methodological constraints:
 | [T01](T01_Social_Psychology_Conformity_Obedience.md) | Social Psychology | Conformity, obedience, and dissonance as foundational cult mechanisms |
 | [T07](T07_Propaganda_Persuasion_Information_Warfare.md) | Propaganda & Persuasion | Milieu control and loaded language as propaganda in closed systems |
 | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Mystery Schools | Historical continuum between initiatory traditions and high-demand groups |
-| [K30](../K_Consciousness/K30_Mystical_Experience.md) | Mystical Experience | Genuine altered states weaponized as "proof" of group doctrine |
+| [K30](../K_Consciousness/K30_Mystical_Experience_Neuroscience.md) | Mystical Experience | Genuine altered states weaponized as "proof" of group doctrine |
 | [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md) | Political Philosophy | Totalitarianism as political analogue of cult dynamics |
 
 ---

@@ -3,7 +3,7 @@
 > **Document ID:** T08
 > **Section:** T_Psychology_Social
 > **Keywords:** grief, bereavement, Kübler-Ross, five stages, continuing bonds, dual process model, terror management theory, complicated grief, post-traumatic growth, anticipatory grief, cultural mourning, death anxiety, mortality salience
-> **Cross-References:** [K33](../K_Consciousness/K33_Death_Neuroscience.md) · [P17](../P_Philosophy_Meaning/P17_Afterlife_Beliefs.md) · [K01](../K_Consciousness/K01_NDEs.md) · [P26](../P_Philosophy_Meaning/P26_Existentialism.md) · [C104](../C_Global_Traditions/C104_Sacrifice.md)
+> **Cross-References:** [K33](../K_Consciousness/K33_Neuroscience_of_Death.md) · [P17](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) · [K01](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) · [P26](../P_Philosophy_Meaning/P26_Existentialism.md) · [C104](../C_Global_Traditions/C104_Sacrifice_Offering_Across_Civilizations.md)
 > **Reliability Tier:** Tier 1-3 (robust TMT experimental base; clinical models increasingly evidence-based)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (TMT, clinical observations), Moderate (stage models)
 
@@ -182,11 +182,11 @@ Grief and death anxiety research confronts distinctive methodological challenges
 
 | Document | Topic | Relationship |
 |----------|-------|--------------|
-| [K33](../K_Consciousness/K33_Death_Neuroscience.md) | Death Neuroscience | Neurobiological processes at death interface with death-awareness psychology |
-| [P17](../P_Philosophy_Meaning/P17_Afterlife_Beliefs.md) | Afterlife Beliefs | Cultural worldviews providing symbolic immortality (TMT buffer mechanism) |
-| [K01](../K_Consciousness/K01_NDEs.md) | Near-Death Experiences | NDEs as potential modulators of death anxiety and grief processing |
+| [K33](../K_Consciousness/K33_Neuroscience_of_Death.md) | Death Neuroscience | Neurobiological processes at death interface with death-awareness psychology |
+| [P17](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) | Afterlife Beliefs | Cultural worldviews providing symbolic immortality (TMT buffer mechanism) |
+| [K01](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Near-Death Experiences | NDEs as potential modulators of death anxiety and grief processing |
 | [P26](../P_Philosophy_Meaning/P26_Existentialism.md) | Existentialism | Heidegger's Being-toward-death as philosophical parallel to TMT |
-| [C104](../C_Global_Traditions/C104_Sacrifice.md) | Sacrifice & Ritual Mourning | Cultural death rituals as collective grief processing and worldview maintenance |
+| [C104](../C_Global_Traditions/C104_Sacrifice_Offering_Across_Civilizations.md) | Sacrifice & Ritual Mourning | Cultural death rituals as collective grief processing and worldview maintenance |
 
 ---
 *Consolidated from 22 sources. Last Updated: Feb 28, 2026*
