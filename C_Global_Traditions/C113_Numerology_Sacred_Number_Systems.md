@@ -3,7 +3,7 @@
 > **Document ID:** C113
 > **Section:** C_Global_Traditions
 > **Keywords:** numerology, Pythagorean, tetractys, musica universalis, gematria, Kabbalah, abjad, sacred numbers, 108, Maya vigesimal, biblical numerology, Fibonacci, golden ratio, sacred geometry, number mysticism, mathematical cosmology
-> **Cross-References:** [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [P04](../P_Philosophy_Meaning/P04_Mathematics_Religion.md) · [V05](../V_Mathematics_Information/V05_Ethnomathematics.md) · [N09](../N_Secret_Societies/N09_Kabbalah.md) · [A27](../A_Foundations/A27_I_Ching.md) · [C37](C37_Maya_Epigraphy_Astronomy.md) · [Q08](../Q_Cosmology_Physics/Q08_Harmonic_Resonance.md)
+> **Cross-References:** [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [P04](../P_Philosophy_Meaning/P04_Mathematics_Discovered_Invented.md) · [V05](../V_Mathematics_Information/V05_Ethnomathematics_Indigenous_Systems.md) · [N09](../N_Secret_Societies/N09_Kabbalah_Jewish_Mysticism.md) · [A27](../A_Foundations/A27_I_Ching_Yijing_Classic_of_Changes.md) · [C37](C37_Maya_Epigraphy_Astronomy.md) · [Q08](../Q_Cosmology_Physics/Q08_Time_Physics_Philosophy.md)
 > **Reliability Tier:** Tier 1-3 (mathematical systems well-documented; Pythagorean philosophy extensively attested; gematria traditions textually verified; cosmological applications of number patterns range from verifiable to speculative; claims of universal mathematical "codes" in nature often confirmatory biased)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Moderate-High
 
@@ -168,12 +168,12 @@ The conviction that numbers possess intrinsic sacred, cosmological, or metaphysi
 | Related Doc | Connection |
 |-------------|-----------|
 | [D10 — Sacred Geometry](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Golden ratio and geometric principles in sacred architecture |
-| [P04 — Mathematics in Religion](../P_Philosophy_Meaning/P04_Mathematics_Religion.md) | Philosophical dimensions of mathematical mysticism |
-| [V05 — Ethnomathematics](../V_Mathematics_Information/V05_Ethnomathematics.md) | Cross-cultural mathematical systems |
-| [N09 — Kabbalah](../N_Secret_Societies/N09_Kabbalah.md) | Gematria and sefirotic number symbolism |
-| [A27 — I Ching](../A_Foundations/A27_I_Ching.md) | Binary mathematics and hexagram system |
+| [P04 — Mathematics in Religion](../P_Philosophy_Meaning/P04_Mathematics_Discovered_Invented.md) | Philosophical dimensions of mathematical mysticism |
+| [V05 — Ethnomathematics](../V_Mathematics_Information/V05_Ethnomathematics_Indigenous_Systems.md) | Cross-cultural mathematical systems |
+| [N09 — Kabbalah](../N_Secret_Societies/N09_Kabbalah_Jewish_Mysticism.md) | Gematria and sefirotic number symbolism |
+| [A27 — I Ching](../A_Foundations/A27_I_Ching_Yijing_Classic_of_Changes.md) | Binary mathematics and hexagram system |
 | [C37 — Maya Epigraphy](C37_Maya_Epigraphy_Astronomy.md) | Maya calendrical mathematics and zero |
-| [Q08 — Harmonic Resonance](../Q_Cosmology_Physics/Q08_Harmonic_Resonance.md) | Musica universalis and harmonic cosmology |
+| [Q08 — Harmonic Resonance](../Q_Cosmology_Physics/Q08_Time_Physics_Philosophy.md) | Musica universalis and harmonic cosmology |
 | [C57 — Sufi Mysticism](C57_Sufi_Mysticism_Islamic_Esotericism.md) | Islamic abjad numerology and Ibn Arabi |
 
 ---

@@ -3,7 +3,7 @@
 > **Document ID:** C101
 > **Section:** C_Global_Traditions
 > **Keywords:** phi spirits, nat worship, neak ta, Southeast Asia, Thai animism, Burmese 37 nats, Khmer land spirits, theravada-animism synthesis, Mount Meru, Angkor, naga, serpent, phi pop possession, mueang, spirit mediumship, guardian spirits
-> **Cross-References:** [C39](C39_Tibetan_Buddhism_Bon_Terma.md) · [D40](../D_Sites_and_Artifacts/D40_Borobudur_Cosmic_Mountain.md) · [B24](../B_Beings_and_Entities/B24_Nature_Spirits.md) · [C70](C70_Sacred_Mountains_Cosmic_Mountain.md) · [B01](../B_Beings_and_Entities/B01_Reptilian_Beings.md) · [C69](C69_Angkor_Wat_Khmer_Cosmology.md)
+> **Cross-References:** [C39](C39_Tibetan_Buddhism_Bon_Terma.md) · [D40](../D_Sites_and_Artifacts/D40_Lalibela_Rock_Hewn_Churches.md) · [B24](../B_Beings_and_Entities/B24_Nature_Spirits_Elementals_Land_Wights.md) · [C70](C70_Sacred_Mountains_Cosmic_Mountain.md) · [B01](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) · [C69](C69_Angkor_Wat_Khmer_Cosmology.md)
 > **Reliability Tier:** Tier 1-2 (extensive ethnographic literature; living traditions with millions of practitioners; archaeological record of temple cosmology well-established; spirit practices sometimes understudied due to modernization pressures)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
 
@@ -169,10 +169,10 @@ Southeast Asia presents one of the world's most complex religious landscapes, wh
 | Related Doc | Connection |
 |-------------|-----------|
 | [C39 — Tibetan Buddhism / Bön / Terma](C39_Tibetan_Buddhism_Bon_Terma.md) | Buddhist-animist synthesis parallels; spirit integration into Buddhist framework |
-| [D40 — Borobudur / Cosmic Mountain](../D_Sites_and_Artifacts/D40_Borobudur_Cosmic_Mountain.md) | Mount Meru temple architecture; Javanese parallel to Angkorian cosmological building |
-| [B24 — Nature Spirits](../B_Beings_and_Entities/B24_Nature_Spirits.md) | Phi, nat, and neak ta as categories of nature/land spirits |
+| [D40 — Borobudur / Cosmic Mountain](../D_Sites_and_Artifacts/D40_Lalibela_Rock_Hewn_Churches.md) | Mount Meru temple architecture; Javanese parallel to Angkorian cosmological building |
+| [B24 — Nature Spirits](../B_Beings_and_Entities/B24_Nature_Spirits_Elementals_Land_Wights.md) | Phi, nat, and neak ta as categories of nature/land spirits |
 | [C70 — Sacred Mountains / Cosmic Mountain](C70_Sacred_Mountains_Cosmic_Mountain.md) | Mount Meru as architectural template; Mount Popa as nat pilgrimage center |
-| [B01 — Reptilian Beings](../B_Beings_and_Entities/B01_Reptilian_Beings.md) | Naga serpent traditions across Southeast Asian cultures |
+| [B01 — Reptilian Beings](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) | Naga serpent traditions across Southeast Asian cultures |
 | [C69 — Angkor Wat / Khmer Cosmology](C69_Angkor_Wat_Khmer_Cosmology.md) | Angkorian temple-mountain system; neak ta substrate beneath state religion |
 | [C11 — India Naga Traditions](C11_India_Naga_Traditions.md) | Indian naga origins of Southeast Asian serpent veneration |
 

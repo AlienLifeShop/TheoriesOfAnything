@@ -3,7 +3,7 @@
 > **Document ID:** C107
 > **Section:** C_Global_Traditions
 > **Keywords:** polis religion, Eleusinian Mysteries, Orphic rites, Delphic Oracle, Pythia, mystery cults, Dionysian, Samothracian, theoxenia, pharmakos, hero cult, votive offerings, temple economy, Greek religion, sacred law
-> **Cross-References:** [C18](C18_Prometheus_Forbidden_Knowledge_Archetype.md) · [C25](C25_Orpheus_Descent_Underworld_Archetype.md) · [A32](../A_Foundations/A32_Hesiod.md) · [C58](C58_Hittite_Hurrian_Mythology_Kumarbi.md) · [D32](../D_Sites_and_Artifacts/D32_Sacred_Architecture.md) · [C42](C42_Minoan_Civilization_Bull_Cult.md) · [C108](C108_Roman_Religion_Augury_Imperial_Cult.md)
+> **Cross-References:** [C18](C18_Prometheus_Forbidden_Knowledge_Archetype.md) · [C25](C25_Orpheus_Descent_Underworld_Archetype.md) · [A32](../A_Foundations/A32_Hesiod_Theogony_Works_and_Days.md) · [C58](C58_Hittite_Hurrian_Mythology_Kumarbi.md) · [D32](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) · [C42](C42_Minoan_Civilization_Bull_Cult.md) · [C108](C108_Roman_Religion_Augury_Imperial_Cult.md)
 > **Reliability Tier:** Tier 1-2 (extensive archaeological, epigraphic, and literary record; mystery cult inner workings intentionally obscured; some reconstructions depend on later sources)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
 
@@ -169,9 +169,9 @@ Greek religion as actually practiced bore little resemblance to the sanitized "m
 |-------------|-----------|
 | [C18 — Prometheus](C18_Prometheus_Forbidden_Knowledge_Archetype.md) | Prometheus myth as foundation of Greek sacrificial protocol |
 | [C25 — Orpheus Descent](C25_Orpheus_Descent_Underworld_Archetype.md) | Orphic tradition and afterlife eschatology |
-| [A32 — Hesiod](../A_Foundations/A32_Hesiod.md) | Theogony and Works and Days as religious source texts |
+| [A32 — Hesiod](../A_Foundations/A32_Hesiod_Theogony_Works_and_Days.md) | Theogony and Works and Days as religious source texts |
 | [C58 — Hittite-Hurrian](C58_Hittite_Hurrian_Mythology_Kumarbi.md) | Near Eastern influences on Greek theogonic tradition |
-| [D32 — Sacred Architecture](../D_Sites_and_Artifacts/D32_Sacred_Architecture.md) | Temple design and sacred space in Greek religion |
+| [D32 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) | Temple design and sacred space in Greek religion |
 | [C42 — Minoan Civilization](C42_Minoan_Civilization_Bull_Cult.md) | Bronze Age religious continuities |
 | [C108 — Roman Religion](C108_Roman_Religion_Augury_Imperial_Cult.md) | Roman reception and transformation of Greek cult |
 | [C105 — Sacred Sexuality](C105_Sacred_Sexuality_Hieros_Gamos_Fertility_Cults.md) | Dionysian ecstasy and Eleusinian fertility |

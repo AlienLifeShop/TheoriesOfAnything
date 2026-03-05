@@ -3,7 +3,7 @@
 > **Document ID:** C105
 > **Section:** C_Global_Traditions
 > **Keywords:** hieros gamos, sacred marriage, Inanna, Dumuzi, fertility cult, tantric maithuna, Asherah, temple prostitution, Dionysian ecstasy, kundalini, lingam-yoni, Eleusinian fertility, Ishtar, sacred sexuality, hierodule, shakti
-> **Cross-References:** [A01](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) · [C30](C30_Australian_Aboriginal_Dreamtime.md) · [K06](../K_Consciousness/K06_Kundalini.md) · [B06](../B_Beings_and_Entities/B06_Dynastic_Lineage.md) · [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) · [C23](C23_Mother_Goddess_Earth_Goddess.md) · [C86](C86_Anatolian_Mother_Goddess_Catalhoyuk.md)
+> **Cross-References:** [A01](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) · [C30](C30_Australian_Aboriginal_Dreamtime.md) · [K06](../K_Consciousness/K06_Kundalini_Serpent_Energy.md) · [B06](../B_Beings_and_Entities/B06_Dynastic_Serpent_Lineage.md) · [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) · [C23](C23_Mother_Goddess_Earth_Goddess.md) · [C86](C86_Anatolian_Mother_Goddess_Catalhoyuk.md)
 > **Reliability Tier:** Tier 1-3 (Sumerian textual evidence strong; archaeological evidence for temple economy well-documented; "sacred prostitution" debate unresolved; tantric lineage claims often undocumented)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Moderate-High
 
@@ -169,8 +169,8 @@ Sacred sexuality — the ritual enactment of sexual union as a cosmologically ge
 | [A01 — Sumerian Texts](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) | Primary sources for Inanna-Dumuzi sacred marriage rites |
 | [C23 — Mother Goddess](C23_Mother_Goddess_Earth_Goddess.md) | Broader goddess tradition and fertility symbolism |
 | [C86 — Anatolian Mother Goddess](C86_Anatolian_Mother_Goddess_Catalhoyuk.md) | Çatalhöyük figurines and Neolithic fertility questions |
-| [K06 — Kundalini](../K_Consciousness/K06_Kundalini.md) | Kundalini as sexual-spiritual energy transformation |
-| [B06 — Dynastic Lineage](../B_Beings_and_Entities/B06_Dynastic_Lineage.md) | Sacred marriage and royal legitimacy |
+| [K06 — Kundalini](../K_Consciousness/K06_Kundalini_Serpent_Energy.md) | Kundalini as sexual-spiritual energy transformation |
+| [B06 — Dynastic Lineage](../B_Beings_and_Entities/B06_Dynastic_Serpent_Lineage.md) | Sacred marriage and royal legitimacy |
 | [A03 — Nag Hammadi](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) | Gnostic bridal chamber sacrament |
 | [C30 — Aboriginal Dreamtime](C30_Australian_Aboriginal_Dreamtime.md) | Fertility rituals in indigenous Australian practice |
 | [C88 — Canaanite Religion](C88_Canaanite_Religion_Beyond_Ugarit.md) | Asherah cult and Levantine fertility worship |

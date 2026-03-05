@@ -3,7 +3,7 @@
 > **Document ID:** C100
 > **Section:** C_Global_Traditions
 > **Keywords:** Ainu, Hokkaido, kamuy, iyomante, bear ceremony, Okikurumi, yukar, epic oral tradition, chise, inaw, ekashi, Jomon, animism, oral cosmology, Sakhalin, Kuril Islands, cultural revitalization
-> **Cross-References:** [C27](C27_Jomon_People_Pre_Yamato_Japan.md) · [C99](C99_Shinto_Lived_Religion_Ritual_Purity.md) · [C07](C07_Pacific_Island_Traditions.md) · [B24](../B_Beings_and_Entities/B24_Nature_Spirits.md) · [U03](../U_Art_Music_Culture/U03_Oral_Literature.md) · [C46](C46_Siberian_Shamanism_Origin.md)
+> **Cross-References:** [C27](C27_Jomon_People_Pre_Yamato_Japan.md) · [C99](C99_Shinto_Lived_Religion_Ritual_Purity.md) · [C07](C07_Pacific_Island_Traditions.md) · [B24](../B_Beings_and_Entities/B24_Nature_Spirits_Elementals_Land_Wights.md) · [U03](../U_Art_Music_Culture/U03_Oral_Literature_Epic_Myth_Memory.md) · [C46](C46_Siberian_Shamanism_Origin.md)
 > **Reliability Tier:** Tier 1-2 (extensive ethnographic documentation from 1880s onward; archaeological record connects Ainu to Jōmon culture; living tradition undergoing revitalization; some ceremonial knowledge lost during assimilation period)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High
 
@@ -20,7 +20,7 @@ The Ainu are the Indigenous people of Hokkaido (northern Japan), Sakhalin, and t
 ### 1.1 Ainu-Jōmon Connection
 - Genetic studies (Adachi et al., 2011; Jinam et al., 2012) confirm that the Ainu carry a high proportion of Jōmon-period ancestry, distinctly different from the Yayoi-derived ancestry predominant in mainland Japanese populations.
 - Recent whole-genome sequencing (Kanzawa-Kiriyama et al., 2019) reveals that Ainu populations preserve the highest proportion of Jōmon-related ancestry of any living group, while also showing later admixture from Okhotsk Sea populations.
-- Mitochondrial DNA haplogroup studies show Ainu populations with high frequencies of haplogroups Y and D, linked to ancient Jōmon inhabitants — though Ainu are not simply "surviving Jōmon" but the product of complex admixture over millennia.
+- Mitochondrial DNA haplogroup studies (Tajima et al., 2004) show Ainu populations with high frequencies of haplogroups Y and D, linked to ancient Jōmon inhabitants — though Ainu are not simply "surviving Jōmon" but the product of complex admixture over millennia.
 - Ainu place names (toponyms) survive across all of Hokkaido, the southern Kuril Islands, Sakhalin, and even in northern Honshu (Tohoku), attesting to the vast historical extent of Ainu-speaking habitation.
 - Archaeological continuities between Jōmon material culture (particularly the Epi-Jōmon and Satsumon cultures, c. 300 BCE–1200 CE) and historic Ainu material culture are documented in settlement patterns, pottery traditions, and ritual practices.
 - The Ainu language is a language isolate — unrelated to Japanese or any other known language family — providing further evidence of deep independent cultural development.
@@ -172,8 +172,8 @@ The Ainu are the Indigenous people of Hokkaido (northern Japan), Sakhalin, and t
 | [C27 — Jōmon People / Pre-Yamato Japan](C27_Jomon_People_Pre_Yamato_Japan.md) | Genetic and cultural continuity; Jōmon-Ainu relationship |
 | [C99 — Shinto as Lived Religion](C99_Shinto_Lived_Religion_Ritual_Purity.md) | Kamuy/kami parallels; pre-Yamato religious substrata |
 | [C07 — Pacific Island Traditions](C07_Pacific_Island_Traditions.md) | Comparative oral tradition networks; maritime Indigenous peoples |
-| [B24 — Nature Spirits](../B_Beings_and_Entities/B24_Nature_Spirits.md) | Kamuy as nature spirits; animistic cosmology |
-| [U03 — Oral Literature](../U_Art_Music_Culture/U03_Oral_Literature.md) | Yukar epic tradition; kamuy yukar as literary form |
+| [B24 — Nature Spirits](../B_Beings_and_Entities/B24_Nature_Spirits_Elementals_Land_Wights.md) | Kamuy as nature spirits; animistic cosmology |
+| [U03 — Oral Literature](../U_Art_Music_Culture/U03_Oral_Literature_Epic_Myth_Memory.md) | Yukar epic tradition; kamuy yukar as literary form |
 | [C46 — Siberian Shamanism](C46_Siberian_Shamanism_Origin.md) | Circumpolar bear ceremonialism; shamanic practice parallels |
 | [C72 — Sami Shamanism](C72_Sami_Shamanism_Circumpolar_Traditions.md) | Circumpolar bear ritual comparisons; northern Indigenous parallels |
 

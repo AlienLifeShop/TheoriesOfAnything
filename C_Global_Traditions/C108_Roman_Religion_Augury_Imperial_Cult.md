@@ -3,7 +3,7 @@
 > **Document ID:** C108
 > **Section:** C_Global_Traditions
 > **Keywords:** Roman religion, augury, auspices, haruspicy, pontifex maximus, Vestal Virgins, Mithraism, Isis cult, imperial apotheosis, lararium, Saturnalia, interpretatio romana, civic theology, Varro, religio, superstitio
-> **Cross-References:** [C107](C107_Greek_Religion_Lived_Practice.md) · [N15](../N_Secret_Societies/N15_Mithraic_Mysteries.md) · [C09](C09_Cognitive_Anthropology_Serpent_Archetypes.md) · [D39](../D_Sites_and_Artifacts/D39_Pompeii.md) · [H08](../H_Suppression_and_Thesis/H08_Vatican_Archives.md) · [C43](C43_Etruscan_Religion_Mystery_Traditions.md) · [C61](C61_Persian_Civilization_Achaemenid_Magi.md)
+> **Cross-References:** [C107](C107_Greek_Religion_Lived_Practice.md) · [N15](../N_Secret_Societies/N15_Mithraic_Mysteries.md) · [C09](C09_Cognitive_Anthropology_Serpent_Archetypes.md) · [D39](../D_Sites_and_Artifacts/D39_Ellora_Ajanta_Caves.md) · [H08](../N_Secret_Societies/N03_Vatican_Archives_Suppression.md) · [C43](C43_Etruscan_Religion_Mystery_Traditions.md) · [C61](C61_Persian_Civilization_Achaemenid_Magi.md)
 > **Reliability Tier:** Tier 1-2 (extensive literary, epigraphic, and archaeological record; some reconstructions of ritual practice depend on late or hostile Christian sources; Mithraic interpretation actively debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
 
@@ -170,8 +170,8 @@ Roman religion was not a personal faith system but a civic technology — a comp
 | [C107 — Greek Religion](C107_Greek_Religion_Lived_Practice.md) | Greek foundations of Roman cult practice |
 | [N15 — Mithraic Mysteries](../N_Secret_Societies/N15_Mithraic_Mysteries.md) | Mithraism as Roman mystery cult |
 | [C43 — Etruscan Religion](C43_Etruscan_Religion_Mystery_Traditions.md) | Etruscan origins of haruspicy and Roman ritual |
-| [D39 — Pompeii](../D_Sites_and_Artifacts/D39_Pompeii.md) | Archaeological evidence for household religion (lararia) |
-| [H08 — Vatican Archives](../H_Suppression_and_Thesis/H08_Vatican_Archives.md) | Christian transformation of Roman sacral authority |
+| [D39 — Pompeii](../D_Sites_and_Artifacts/D39_Ellora_Ajanta_Caves.md) | Archaeological evidence for household religion (lararia) |
+| [H08 — Vatican Archives](../N_Secret_Societies/N03_Vatican_Archives_Suppression.md) | Christian transformation of Roman sacral authority |
 | [C61 — Persian Civilization](C61_Persian_Civilization_Achaemenid_Magi.md) | Persian elements in Mithraic iconography |
 | [C105 — Sacred Sexuality](C105_Sacred_Sexuality_Hieros_Gamos_Fertility_Cults.md) | Isis cult and Dionysian ecstatic traditions in Rome |
 | [C17 — Sacred Kingship](C17_Sacred_Kingship_Divine_Rulership.md) | Imperial apotheosis and divine rulership |

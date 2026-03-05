@@ -3,7 +3,7 @@
 > **Document ID:** C110
 > **Section:** C_Global_Traditions
 > **Keywords:** Ethiopian Tewahedo, Coptic Christianity, Lalibela, Kebra Nagast, Ark of the Covenant, Enochic tradition, Ge'ez, tabot, Desert Fathers, Anthony, Pachomius, Nag Hammadi, Debra Damo, monastic tradition, Ethiopian manuscript, Oriental Orthodox
-> **Cross-References:** [A10](../A_Foundations/A10_Kebra_Nagast.md) · [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) · [A04](../A_Foundations/A04_Book_of_Enoch_and_Watchers.md) · [D42](../D_Sites_and_Artifacts/D42_Lalibela.md) · [H08](../H_Suppression_and_Thesis/H08_Vatican_Archives.md) · [C57](C57_Sufi_Mysticism_Islamic_Esotericism.md) · [A08](../A_Foundations/A08_Hermetic_Tradition.md)
+> **Cross-References:** [A10](../A_Foundations/A10_Kebra_Nagast.md) · [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) · [A04](../A_Foundations/A04_Book_of_Enoch_and_Watchers.md) · [D42](../D_Sites_and_Artifacts/D40_Lalibela_Rock_Hewn_Churches.md) · [H08](../N_Secret_Societies/N03_Vatican_Archives_Suppression.md) · [C57](C57_Sufi_Mysticism_Islamic_Esotericism.md) · [A08](../A_Foundations/A08_Hermetic_Tradition.md)
 > **Reliability Tier:** Tier 1-2 (Ethiopian Church history well-documented; Kebra Nagast textual tradition established; Ark of the Covenant claims unverifiable; Desert Fathers extensively attested in primary sources; Coptic-Gnostic connections textually supported but debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Moderate-High
 
@@ -170,8 +170,8 @@ The Coptic and Ethiopian Christian traditions represent the oldest continuously 
 | [A10 — Kebra Nagast](../A_Foundations/A10_Kebra_Nagast.md) | Full treatment of the Kebra Nagast narrative |
 | [A03 — Nag Hammadi](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) | Coptic Gnostic library and early Egyptian Christianity |
 | [A04 — Book of Enoch](../A_Foundations/A04_Book_of_Enoch_and_Watchers.md) | Enochic tradition preserved in Ge'ez |
-| [D42 — Lalibela](../D_Sites_and_Artifacts/D42_Lalibela.md) | Rock-hewn churches as sacred architecture |
-| [H08 — Vatican Archives](../H_Suppression_and_Thesis/H08_Vatican_Archives.md) | Christian institutional knowledge suppression |
+| [D42 — Lalibela](../D_Sites_and_Artifacts/D40_Lalibela_Rock_Hewn_Churches.md) | Rock-hewn churches as sacred architecture |
+| [H08 — Vatican Archives](../N_Secret_Societies/N03_Vatican_Archives_Suppression.md) | Christian institutional knowledge suppression |
 | [C57 — Sufi Mysticism](C57_Sufi_Mysticism_Islamic_Esotericism.md) | Comparative mystical traditions in Northeast Africa |
 | [A08 — Hermetic Tradition](../A_Foundations/A08_Hermetic_Tradition.md) | Hermetic-Egyptian continuity with Coptic mysticism |
 | [C78 — Nubian Kingdom](C78_Nubian_Kingdom_Kerma_Kush_Meroe.md) | Nubian Christianity and Nile Valley connections |

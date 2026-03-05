@@ -3,7 +3,7 @@
 > **Document ID:** C102
 > **Section:** C_Global_Traditions
 > **Keywords:** Hmong, txiv neeb, shaman, ntuj, shamanic journey, funeral chant, Showing the Way, Qhuab Ke, paj ntaub, story cloth, soul concepts, multiple souls, animism, creation myth, flood myth, diaspora, opium shamanism, Miao, Hmong-Mien
-> **Cross-References:** [C07](C07_Pacific_Island_Traditions.md) · [B15](../B_Beings_and_Entities/B15_Psychopomp_Entities.md) · [C02](C02_Global_Flood_Stories.md) · [K08](../K_Consciousness/K08_Psychedelics_Consciousness.md) · [U05](../U_Art_Music_Culture/U05_Color_Symbolism.md) · [C46](C46_Siberian_Shamanism_Origin.md)
+> **Cross-References:** [C07](C07_Pacific_Island_Traditions.md) · [B15](../B_Beings_and_Entities/B15_Psychopomp_Traditions_Guides_Dead.md) · [C02](C02_Global_Flood_Stories.md) · [K08](../K_Consciousness/K02_Altered_States_Psychedelics.md) · [U05](../U_Art_Music_Culture/U05_Color_Symbolism_Chromatic_Traditions.md) · [C46](C46_Siberian_Shamanism_Origin.md)
 > **Reliability Tier:** Tier 2-3 (ethnographic documentation extensive since 1950s; oral tradition maintained through diaspora communities; ceremonial knowledge partially restricted; some variation between sub-groups complicates generalization)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 19 scholarly sources | **Confidence:** Medium-High
 
@@ -169,10 +169,10 @@ The Hmong — a Hmong-Mien-speaking people originating in highland southern Chin
 | Related Doc | Connection |
 |-------------|-----------|
 | [C07 — Pacific Island / Oral Traditions](C07_Pacific_Island_Traditions.md) | Comparative oral tradition systems; non-literate knowledge preservation |
-| [B15 — Psychopomp Entities](../B_Beings_and_Entities/B15_Psychopomp_Entities.md) | Txiv neeb as psychopomp; Qhuab Ke as soul-guiding journey |
+| [B15 — Psychopomp Entities](../B_Beings_and_Entities/B15_Psychopomp_Traditions_Guides_Dead.md) | Txiv neeb as psychopomp; Qhuab Ke as soul-guiding journey |
 | [C02 — Global Flood Stories](C02_Global_Flood_Stories.md) | Hmong brother-sister flood survival narrative |
-| [K08 — Psychedelics & Consciousness](../K_Consciousness/K08_Psychedelics_Consciousness.md) | Opium in shamanic context; pharmacological trance debate |
-| [U05 — Color Symbolism](../U_Art_Music_Culture/U05_Color_Symbolism.md) | Paj ntaub color symbolism; geometric encoding |
+| [K08 — Psychedelics & Consciousness](../K_Consciousness/K02_Altered_States_Psychedelics.md) | Opium in shamanic context; pharmacological trance debate |
+| [U05 — Color Symbolism](../U_Art_Music_Culture/U05_Color_Symbolism_Chromatic_Traditions.md) | Paj ntaub color symbolism; geometric encoding |
 | [C46 — Siberian Shamanism](C46_Siberian_Shamanism_Origin.md) | Structural parallels in shamanic trance, spirit combat, soul retrieval |
 | [C101 — SE Asian Spirit Traditions](C101_Southeast_Asian_Spirit_Traditions.md) | Hmong within broader Southeast Asian animist landscape |
 

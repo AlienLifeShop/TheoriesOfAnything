@@ -3,7 +3,7 @@
 > **Document ID:** C111
 > **Section:** C_Global_Traditions
 > **Keywords:** Mbuti, BaAka, Pygmy, forest cosmology, molimo ceremony, polyphonic music, egalitarian, Colin Turnbull, rainforest, honey ritual, trance dance, net hunting, Central Africa, Ituri Forest, forest as deity
-> **Cross-References:** [C40](C40_Bantu_Cosmology_Migration_Iron.md) · [C07](C07_Pacific_Island_Traditions.md) · [U04](../U_Art_Music_Culture/U04_Sacred_Music.md) · [U02](../U_Art_Music_Culture/U02_Sacred_Dance.md) · [R12](../R_Biology_Evolution/R12_Biodiversity.md) · [C94](C94_San_Bushmen_Rock_Art_Trance.md) · [K20](../K_Consciousness/K20_Entheogens.md)
+> **Cross-References:** [C40](C40_Bantu_Cosmology_Migration_Iron.md) · [C07](C07_Pacific_Island_Traditions.md) · [U04](../U_Art_Music_Culture/U04_Sacred_Music_Chant_Raga_Acoustic_Theology.md) · [U02](../U_Art_Music_Culture/U02_Sacred_Dance_Ritual_Movement.md) · [R12](../R_Biology_Evolution/R12_Horizontal_Gene_Transfer.md) · [C94](C94_San_Bushmen_Rock_Art_Trance.md) · [K20](../K_Consciousness/K02_Altered_States_Psychedelics.md)
 > **Reliability Tier:** Tier 1-3 (Turnbull's ethnography foundational but methodologically critiqued; BaAka musical studies well-documented; deep pre-history speculative; living traditions attested by multiple fieldworkers)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** Moderate
 
@@ -170,10 +170,10 @@ The forest-dwelling peoples of Central Africa — commonly grouped under the exo
 | [C40 — Bantu Cosmology](C40_Bantu_Cosmology_Migration_Iron.md) | Bantu-Pygmy interaction and cosmological exchange |
 | [C94 — San Bushmen](C94_San_Bushmen_Rock_Art_Trance.md) | Parallel deep-antiquity hunter-gatherer cosmologies |
 | [C07 — Oral Traditions](C07_Pacific_Island_Traditions.md) | Comparative oral tradition and transmission |
-| [U04 — Sacred Music](../U_Art_Music_Culture/U04_Sacred_Music.md) | BaAka polyphony as cosmic communication |
-| [U02 — Sacred Dance](../U_Art_Music_Culture/U02_Sacred_Dance.md) | Trance dance and communal ritual movement |
-| [R12 — Biodiversity](../R_Biology_Evolution/R12_Biodiversity.md) | Rainforest ecology and human-forest symbiosis |
-| [K20 — Entheogens](../K_Consciousness/K20_Entheogens.md) | Trance states in healing ceremonies |
+| [U04 — Sacred Music](../U_Art_Music_Culture/U04_Sacred_Music_Chant_Raga_Acoustic_Theology.md) | BaAka polyphony as cosmic communication |
+| [U02 — Sacred Dance](../U_Art_Music_Culture/U02_Sacred_Dance_Ritual_Movement.md) | Trance dance and communal ritual movement |
+| [R12 — Biodiversity](../R_Biology_Evolution/R12_Horizontal_Gene_Transfer.md) | Rainforest ecology and human-forest symbiosis |
+| [K20 — Entheogens](../K_Consciousness/K02_Altered_States_Psychedelics.md) | Trance states in healing ceremonies |
 | [C109 — Zulu Cosmologies](C109_Zulu_Southern_African_Cosmologies.md) | Broader African cosmological patterns |
 
 ---

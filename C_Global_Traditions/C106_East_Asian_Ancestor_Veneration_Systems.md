@@ -3,7 +3,7 @@
 > **Document ID:** C106
 > **Section:** C_Global_Traditions
 > **Keywords:** ancestor veneration, ancestral tablets, spirit tablets, zongci, filial piety, xiao, butsudan, jesa, Obon, Qingming, oracle bone divination, feng shui, Đạo Mẫu, Confucian ritual, ancestor intermediary, kami
-> **Cross-References:** [C99](C99_Shinto_Lived_Religion_Ritual_Purity.md) · [A15](../A_Foundations/A15_Kojiki.md) · [A27](../A_Foundations/A27_I_Ching.md) · [C07](C07_Pacific_Island_Traditions.md) · [P17](../P_Philosophy_Meaning/P17_Afterlife.md) · [C12](C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) · [C65](C65_Death_Rituals_Funerary_Architecture.md)
+> **Cross-References:** [C99](C99_Shinto_Lived_Religion_Ritual_Purity.md) · [A15](../A_Foundations/A15_Kojiki.md) · [A27](../A_Foundations/A27_I_Ching_Yijing_Classic_of_Changes.md) · [C07](C07_Pacific_Island_Traditions.md) · [P17](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) · [C12](C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) · [C65](C65_Death_Rituals_Funerary_Architecture.md)
 > **Reliability Tier:** Tier 1-2 (archaeological and textual record for Chinese, Japanese, and Korean ancestor practices extensive; some reconstructions of Shang-era practice debated; folk religion dimensions underrepresented in official scholarship)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High
 
@@ -169,9 +169,9 @@ Ancestor veneration — the ritual maintenance of relationships with deceased fa
 |-------------|-----------|
 | [C99 — Shinto Lived Religion](C99_Shinto_Lived_Religion_Ritual_Purity.md) | Shinto ancestral kami and shrine practices |
 | [A15 — Kojiki](../A_Foundations/A15_Kojiki.md) | Japanese mythological ancestors and imperial lineage |
-| [A27 — I Ching](../A_Foundations/A27_I_Ching.md) | Divination systems underlying ancestor communication |
+| [A27 — I Ching](../A_Foundations/A27_I_Ching_Yijing_Classic_of_Changes.md) | Divination systems underlying ancestor communication |
 | [C07 — Pacific Island Traditions](C07_Pacific_Island_Traditions.md) | Ancestor veneration in Polynesian and Oceanic contexts |
-| [P17 — Afterlife](../P_Philosophy_Meaning/P17_Afterlife.md) | Conceptions of post-death existence across traditions |
+| [P17 — Afterlife](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) | Conceptions of post-death existence across traditions |
 | [C12 — Chinese Dragon Mythology](C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) | Dragon as ancestral symbol in Chinese culture |
 | [C65 — Death Rituals](C65_Death_Rituals_Funerary_Architecture.md) | Funerary architecture and mortuary practice |
 | [C33 — Korean Shamanism](C33_Korean_Shamanism_Muism.md) | Muist shamanic ancestor communication in Korea |

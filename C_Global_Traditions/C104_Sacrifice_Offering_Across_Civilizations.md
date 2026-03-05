@@ -3,7 +3,7 @@
 > **Document ID:** C104
 > **Section:** C_Global_Traditions
 > **Keywords:** sacrifice, human sacrifice, animal sacrifice, offering, Aztec, Carthage, tophet, Celtic bog bodies, Shang dynasty, ashvamedha, hecatomb, korban, foundation sacrifice, Girard, scapegoat, substitution theology, potlatch, libation, first fruits, burnt offering
-> **Cross-References:** [C36](C36_Aztec_Cosmology_Five_Suns.md) · [A01](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) · [C34](C34_Celtic_Druidic_Traditions.md) · [P33](../P_Philosophy_Meaning/P33_Taboo_Sacred.md) · [E07](../E_Cataclysms_and_Chronology/E07_Bronze_Age_Collapse.md) · [C17](C17_Sacred_Kingship_Divine_Rulership.md)
+> **Cross-References:** [C36](C36_Aztec_Cosmology_Five_Suns.md) · [A01](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) · [C34](C34_Celtic_Druidic_Traditions.md) · [P33](../P_Philosophy_Meaning/P33_Taboo_Sacred_Transgression.md) · [E07](../F_Lost_Connections/F08_Sea_Peoples_Bronze_Age_Collapse.md) · [C17](C17_Sacred_Kingship_Divine_Rulership.md)
 > **Reliability Tier:** Tier 1-2 (archaeological record extensive for human and animal sacrifice across cultures; theoretical frameworks well-debated; some ancient practices reconstructed from fragmentary evidence)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 25 scholarly sources | **Confidence:** High
 
@@ -178,8 +178,8 @@ Sacrifice — the ritual destruction or relinquishment of something valuable to 
 | [C36 — Aztec Cosmology / Five Suns](C36_Aztec_Cosmology_Five_Suns.md) | Aztec human sacrifice; Fifth Sun cosmology requiring blood |
 | [A01 — Sumerian Texts and Tablets](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) | Royal Cemetery of Ur retainer sacrifice; Mesopotamian foundation deposits |
 | [C34 — Celtic / Druidic Traditions](C34_Celtic_Druidic_Traditions.md) | Celtic bog bodies; Druidic human sacrifice reports |
-| [P33 — Taboo and the Sacred](../P_Philosophy_Meaning/P33_Taboo_Sacred.md) | Girard's scapegoat theory; sacrifice as boundary between sacred and profane |
-| [E07 — Bronze Age Collapse](../E_Cataclysms_and_Chronology/E07_Bronze_Age_Collapse.md) | Shang dynasty sacrificial system; Late Bronze Age ritual intensification |
+| [P33 — Taboo and the Sacred](../P_Philosophy_Meaning/P33_Taboo_Sacred_Transgression.md) | Girard's scapegoat theory; sacrifice as boundary between sacred and profane |
+| [E07 — Bronze Age Collapse](../F_Lost_Connections/F08_Sea_Peoples_Bronze_Age_Collapse.md) | Shang dynasty sacrificial system; Late Bronze Age ritual intensification |
 | [C17 — Sacred Kingship](C17_Sacred_Kingship_Divine_Rulership.md) | Royal sacrifice; king-as-sacrificer; foundation sacrifice for sovereign power |
 | [C28 — Dying and Rising Deity](C28_Dying_Rising_Deity_Pattern.md) | Christ as ultimate sacrifice; Osiris/Tammuz dying-god patterns |
 | [C65 — Death Rituals / Funerary Architecture](C65_Death_Rituals_Funerary_Architecture.md) | Retainer sacrifice; mortuary offerings; grave goods as sacrifice |

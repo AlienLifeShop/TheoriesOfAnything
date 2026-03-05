@@ -3,7 +3,7 @@
 > **Document ID:** C109
 > **Section:** C_Global_Traditions
 > **Keywords:** Unkulunkulu, Nomkhubulwane, amadlozi, isangoma, inyanga, Zulu creation, umhlanga, bone-throwing divination, izibongo, Bantu cosmology, ubuntu, ancestor spirits, Southern Africa, sangoma, uMvelinqangi
-> **Cross-References:** [C38](C38_Polynesian_Navigation_Rapa_Nui.md) · [C40](C40_Bantu_Cosmology_Migration_Iron.md) · [C07](C07_Pacific_Island_Traditions.md) · [B15](../B_Beings_and_Entities/B15_Psychopomp.md) · [U03](../U_Art_Music_Culture/U03_Oral_Literature.md) · [K20](../K_Consciousness/K20_Entheogens.md) · [C94](C94_San_Bushmen_Rock_Art_Trance.md)
+> **Cross-References:** [C38](C38_Polynesian_Navigation_Rapa_Nui.md) · [C40](C40_Bantu_Cosmology_Migration_Iron.md) · [C07](C07_Pacific_Island_Traditions.md) · [B15](../B_Beings_and_Entities/B15_Psychopomp_Traditions_Guides_Dead.md) · [U03](../U_Art_Music_Culture/U03_Oral_Literature_Epic_Myth_Memory.md) · [K20](../K_Consciousness/K02_Altered_States_Psychedelics.md) · [C94](C94_San_Bushmen_Rock_Art_Trance.md)
 > **Reliability Tier:** Tier 1-3 (ethnographic and anthropological record substantial from 19th century onward; oral traditions recorded with varying methodological rigor; pre-colonial reconstruction heavily reliant on 19th-century colonial-era documentation; living traditions well-attested)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** Moderate-High
 
@@ -170,9 +170,9 @@ Zulu and broader Southern African cosmologies constitute one of the richest and 
 | [C40 — Bantu Cosmology](C40_Bantu_Cosmology_Migration_Iron.md) | Broader Bantu migration and cosmological systems |
 | [C94 — San Bushmen](C94_San_Bushmen_Rock_Art_Trance.md) | Pre-Bantu Khoisan trance-healing and rock art |
 | [C07 — Oral Traditions](C07_Pacific_Island_Traditions.md) | Comparative oral tradition transmission |
-| [B15 — Psychopomp](../B_Beings_and_Entities/B15_Psychopomp.md) | Ancestor spirits as intermediaries |
-| [U03 — Oral Literature](../U_Art_Music_Culture/U03_Oral_Literature.md) | Izibongo praise poetry as literary form |
-| [K20 — Entheogens](../K_Consciousness/K20_Entheogens.md) | Trance states and plant use in divination |
+| [B15 — Psychopomp](../B_Beings_and_Entities/B15_Psychopomp_Traditions_Guides_Dead.md) | Ancestor spirits as intermediaries |
+| [U03 — Oral Literature](../U_Art_Music_Culture/U03_Oral_Literature_Epic_Myth_Memory.md) | Izibongo praise poetry as literary form |
+| [K20 — Entheogens](../K_Consciousness/K02_Altered_States_Psychedelics.md) | Trance states and plant use in divination |
 | [C79 — Great Zimbabwe](C79_Great_Zimbabwe_Southern_African.md) | Southern African civilization and sacred architecture |
 | [C05 — Credo Mutwa](C05_Credo_Mutwa_African_Traditions.md) | Mutwa's ethnographic contributions and controversies |
 

@@ -3,7 +3,7 @@
 > **Document ID:** C103
 > **Section:** C_Global_Traditions
 > **Keywords:** pilgrimage, Hajj, Camino de Santiago, Kumbh Mela, Shikoku, Glastonbury, Varanasi, songlines, Sabarimala, Lourdes, Ise Jingu, liminality, communitas, Victor Turner, sacred journey, sacred geography, circumambulation
-> **Cross-References:** [C99](C99_Shinto_Lived_Religion_Ritual_Purity.md) · [C70](C70_Sacred_Mountains_Cosmic_Mountain.md) · [D32](../D_Sites_and_Artifacts/D32_Sacred_Architecture.md) · [K10](../K_Consciousness/K10_Meditation_Contemplation.md) · [C57](C57_Sufi_Mysticism_Islamic_Esotericism.md) · [C60](C60_Dreamtime_Songlines_Aboriginal_Navigation.md)
+> **Cross-References:** [C99](C99_Shinto_Lived_Religion_Ritual_Purity.md) · [C70](C70_Sacred_Mountains_Cosmic_Mountain.md) · [D32](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) · [K10](../K_Consciousness/K08_Meditation_Neuroplasticity.md) · [C57](C57_Sufi_Mysticism_Islamic_Esotericism.md) · [C60](C60_Dreamtime_Songlines_Aboriginal_Navigation.md)
 > **Reliability Tier:** Tier 1-2 (extensive historical, archaeological, and ethnographic documentation across all traditions; theoretical frameworks well-developed; comparative analysis supported by robust field research)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 24 scholarly sources | **Confidence:** High
 
@@ -170,8 +170,8 @@ Pilgrimage — the intentional journey to a sacred site for spiritual transforma
 |-------------|-----------|
 | [C99 — Shinto as Lived Religion](C99_Shinto_Lived_Religion_Ritual_Purity.md) | Shikoku 88 Temple pilgrimage; Ise Jingū pilgrimage |
 | [C70 — Sacred Mountains / Cosmic Mountain](C70_Sacred_Mountains_Cosmic_Mountain.md) | Mount Kailash, Arafat, Croagh Patrick as pilgrimage mountains |
-| [D32 — Sacred Architecture](../D_Sites_and_Artifacts/D32_Sacred_Architecture.md) | Temples, churches, and shrines as pilgrimage destinations |
-| [K10 — Meditation / Contemplation](../K_Consciousness/K10_Meditation_Contemplation.md) | Pilgrimage as moving meditation; walking practice |
+| [D32 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) | Temples, churches, and shrines as pilgrimage destinations |
+| [K10 — Meditation / Contemplation](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Pilgrimage as moving meditation; walking practice |
 | [C57 — Sufi Mysticism](C57_Sufi_Mysticism_Islamic_Esotericism.md) | Sufi pilgrimage traditions; ziyāra (shrine visitation) |
 | [C60 — Dreamtime Songlines](C60_Dreamtime_Songlines_Aboriginal_Navigation.md) | Songlines as the oldest pilgrimage tradition on earth |
 | [C63 — Initiation Rites](C63_Initiation_Rites_Coming_of_Age.md) | Pilgrimage as liminal initiation; Turner's rites of passage model |
