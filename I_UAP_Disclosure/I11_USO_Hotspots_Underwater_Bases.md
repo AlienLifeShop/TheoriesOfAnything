@@ -3,7 +3,7 @@
 > **Document ID:** I11
 > **Section:** I_UAP_Disclosure
 > **Keywords:** USO, unidentified submerged objects, trans-medium travel, Catalina Channel, Puerto Rico Trench, Lake Baikal, underwater anomalies, sonar contacts, North Sea, Persian Gulf, naval encounters, underwater bases
-> **Cross-References:** [I07](I07_USO_Trans_Medium.md) · [O03](../O_Earth_Anomalies/O03_Ocean_Mysteries.md) · [O02](../O_Earth_Anomalies/O02_Anomalous_Zones.md) · [I02](I02_Military_Encounters.md)
+> **Cross-References:** [I07](I07_USO_Trans_Medium.md) · [O03](../O_Earth_Anomalies/O03_Ocean_Mysteries_Deep_Sea.md) · [O02](../O_Earth_Anomalies/O02_Anomalous_Zones.md) · [I02](I02_Military_UAP_Encounters.md)
 > **Reliability Tier:** Tier 2-4 (Some military documentation exists; most claims lack independent verification)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 14 scholarly/investigative sources | **Confidence:** Low-Moderate (geographic clustering documented; explanations highly uncertain)
 
@@ -135,12 +135,12 @@ Unidentified Submerged Objects (USOs) — anomalous phenomena observed in or ent
 | Related Doc | Connection |
 |-------------|-----------|
 | [I07](I07_USO_Trans_Medium.md) | Core analysis of trans-medium travel phenomenon |
-| [I02](I02_Military_Encounters.md) | Military encounters including USS Nimitz water interaction |
-| [O03](../O_Earth_Anomalies/O03_Ocean_Mysteries.md) | Ocean anomalies and unexplained phenomena |
+| [I02](I02_Military_UAP_Encounters.md) | Military encounters including USS Nimitz water interaction |
+| [O03](../O_Earth_Anomalies/O03_Ocean_Mysteries_Deep_Sea.md) | Ocean anomalies and unexplained phenomena |
 | [O02](../O_Earth_Anomalies/O02_Anomalous_Zones.md) | Geographic zones of anomalous activity |
-| [I08](I08_Government_Investigation.md) | Government programs investigating UAP/USO phenomena |
+| [I08](I08_Government_Investigation_Anomalous_Phenomena.md) | Government programs investigating UAP/USO phenomena |
 | [I14](I14_Vallee_Control_System_Hypothesis.md) | Vallée's framework for interpreting persistent anomalous phenomena |
-| [Q05](../Q_Cosmology_Physics/Q05_Exotic_Propulsion.md) | Theoretical physics of trans-medium propulsion |
+| [Q05](../Q_Cosmology_Physics/Q05_Multiverse_Theories.md) | Theoretical physics of trans-medium propulsion |
 | [I13](I13_Close_Encounters_Classification.md) | Classification systems applicable to USO encounters |
 
 ---

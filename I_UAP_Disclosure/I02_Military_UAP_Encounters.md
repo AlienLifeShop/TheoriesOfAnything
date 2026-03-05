@@ -276,5 +276,12 @@ The Five Observables codified by Elizondo/AATIP:
 
 ## Bibliography
 
-- Hynek. *The UFO Experience*. 1972.
-- Ruppelt. *The Report on Unidentified Flying Objects*. 1956.
+1. Hynek, J. Allen. *The UFO Experience: A Scientific Inquiry*. Henry Regnery, 1972.
+2. Ruppelt, Edward J. *The Report on Unidentified Flying Objects*. Doubleday, 1956.
+3. Kean, Leslie. *UFOs: Generals, Pilots, and Government Officials Go on the Record*. Harmony Books, 2010.
+4. Dolan, Richard M. *UFOs and the National Security State, Vol. 1: Chronology of a Cover-Up*. Hampton Roads, 2002.
+5. Dolan, Richard M. *UFOs and the National Security State, Vol. 2: The Cover-Up Exposed*. Keyhole Publishing, 2009.
+6. Vallée, Jacques. *Passport to Magonia*. Henry Regnery, 1969.
+7. Knuth, Kevin H. et al. "Are We Alone? The Question Is Worthy of Serious Scientific Study." *Entropy* 21.10 (2019).
+8. COMETA Report. *UFOs and Defense: What Should We Prepare For?* 1999.
+9. Condon, Edward U. (dir.). *Scientific Study of Unidentified Flying Objects*. University of Colorado / Bantam Books, 1969.

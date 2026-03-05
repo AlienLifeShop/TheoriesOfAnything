@@ -455,3 +455,11 @@ Darnton's comparative study of censorship in Bourbon France, British India, and 
 *Consolidated from Claude (Doc 05), Gemini (Doc 05), GPT5.2 (Doc 05), Master (Doc 05), and Raptor (Doc 05 — Destruction of Ancient Artifacts). Raptor's artifact-destruction framing integrated throughout.*
 
 *Last Updated: February 9, 2026*
+
+## Bibliography
+
+1. Baez, Fernando, "A Universal History of the Destruction of Books" (Atlas and Co., 2008)
+2. Knuth, Rebecca, "Burning Books and Leveling Libraries: Extremist Violence and Cultural Destruction" (Praeger, 2006)
+3. Feder, Kenneth L., "Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology" (McGraw-Hill, 2019)
+4. Polastron, Lucien X., "Books on Fire: The Destruction of Libraries Throughout History" (Inner Traditions, 2007)
+5. Fritze, Ronald H., "Invented Knowledge: False History, Fake Science and Pseudo-Religions" (Reaktion Books, 2009)

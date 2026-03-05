@@ -3,7 +3,7 @@
 > **Document ID:** H12
 > **Section:** H_Suppression_and_Thesis
 > **Keywords:** Aboriginal Australians, Stolen Generations, songlines, Dreaming, Dreamtime, language extinction, Indigenous knowledge, fire-stick farming, colonial violence, intergenerational trauma, oral tradition, cultural genocide
-> **Cross-References:** [H07](H07_Indigenous_Suppression.md) · [C30](../C_Global_Traditions/C30_Aboriginal_Dreamtime.md) · [C13](../C_Global_Traditions/C13_Indigenous_Knowledge.md) · [H01](H01_Suppression_Overview.md)
+> **Cross-References:** [H07](H07_Indigenous_Knowledge_Suppression.md) · [C30](../C_Global_Traditions/C30_Australian_Aboriginal_Dreamtime.md) · [C13](../C_Global_Traditions/C13_Indigenous_Knowledge_Systems.md) · [H01](H01_Suppression_of_Ancient_Knowledge.md)
 > **Reliability Tier:** Tier 1-2 (Stolen Generations well-documented; pre-contact knowledge reconstruction inherently limited)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 16 scholarly sources | **Confidence:** High (colonial record and testimony); Moderate (scope of pre-contact knowledge)
 
@@ -145,14 +145,14 @@ The destruction of Aboriginal Australian knowledge systems represents the disrup
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [H07](H07_Indigenous_Suppression.md) | Global framework for colonial suppression of indigenous knowledge |
-| [C30](../C_Global_Traditions/C30_Aboriginal_Dreamtime.md) | The Dreaming cosmological system under threat |
-| [C13](../C_Global_Traditions/C13_Indigenous_Knowledge.md) | Aboriginal knowledge as exemplar of indigenous knowledge systems |
-| [H01](H01_Suppression_Overview.md) | Broader patterns of knowledge suppression |
+| [H07](H07_Indigenous_Knowledge_Suppression.md) | Global framework for colonial suppression of indigenous knowledge |
+| [C30](../C_Global_Traditions/C30_Australian_Aboriginal_Dreamtime.md) | The Dreaming cosmological system under threat |
+| [C13](../C_Global_Traditions/C13_Indigenous_Knowledge_Systems.md) | Aboriginal knowledge as exemplar of indigenous knowledge systems |
+| [H01](H01_Suppression_of_Ancient_Knowledge.md) | Broader patterns of knowledge suppression |
 | [H09](H09_Maya_Codex_Burning_Mesoamerican_Destruction.md) | Parallel colonial destruction of indigenous knowledge in Americas |
 | [H11](H11_Witch_Trials_Knowledge_Suppression.md) | Comparable targeting of oral knowledge traditions |
-| [E07](../E_Cataclysms_and_Chronology/E07_Sea_Level_Rise.md) | Aboriginal oral traditions potentially preserving sea-level rise memory |
-| [D15](../D_Sites_and_Artifacts/D15_Megalithic_Sites.md) | Budj Bim and other Aboriginal stone structures |
+| [E07](../E_Cataclysms_and_Chronology/E07_Complete_Meteor_Impact_Catalog.md) | Aboriginal oral traditions potentially preserving sea-level rise memory |
+| [D15](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Budj Bim and other Aboriginal stone structures |
 
 ---
 

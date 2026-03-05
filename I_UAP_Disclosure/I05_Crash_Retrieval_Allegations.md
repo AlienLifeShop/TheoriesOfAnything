@@ -49,6 +49,8 @@ This document catalogs the most significant alleged UFO crash retrieval events f
 - ICIG found his claims "urgent and credible" — procedural finding (not content verification)
 - Making materially false statements to Congress is a federal crime (18 U.S.C. § 1001)
 
+**Counter-Argument:** AARO's *Historical Record Report Vol. I* (March 2024) states it "found no evidence that any USG investigation, academic-sponsored research, or official review panel has confirmed that any sighting of a UAP represented extraterrestrial technology." The ICIG's "credible and urgent" finding is procedural — it means the complaint merited investigation, not that the claims of non-human craft are verified. Grusch acknowledged under questioning that he has not personally seen the alleged craft.
+
 ---
 
 ## 3. Credible Claims — Tier 2
@@ -158,9 +160,9 @@ This document catalogs the most significant alleged UFO crash retrieval events f
 3. USAF. *The Roswell Report: Fact vs. Fiction in the New Mexico Desert*. 1994.
 4. USAF. *The Roswell Report — Case Closed*. 1997.
 5. Kean, Leslie. *UFOs: Generals, Pilots, and Government Officials Go on the Record*. Crown, 2010.
-6. U.S. House Oversight Committee. UAP Hearing. July 26, 2023.
+6. U.S. House Oversight Committee. *UAP Hearing Transcript*. July 26, 2023.
 7. AARO. *Historical Record Report, Volume I*. Feb 2024.
-8. Knapp, George. KLAS-TV Needles investigation reports. 2008–2009.
+8. Knapp, George. *KLAS-TV Needles Investigation Reports*. 2008–2009.
 
 ---
 *[I05 COMPLETE — 10 cases + Grusch testimony, MJ-12 debunk, 4 images]*
@@ -286,7 +288,7 @@ This document catalogs the most significant alleged UFO crash retrieval events f
 10. Vallée, Jacques. *Forbidden Science* (4-vol. journal series). Anomalist Books, 1992–2019.
 11. Friedman, Stanton T. & Don Berliner. *Crash at Corona*. Paragon House, 1992.
 12. Pugh, Randall Jones & F.W. Holiday. *The Dyfed Enigma*. Faber & Faber, 1979.
-13. Dvuzhilny, Valeri. Dalnegorsk Height 611 investigation publications (Soviet Academy of Sciences, Far Eastern Branch), 1986–1990.
+13. Dvuzhilny, Valeri. *Dalnegorsk Height 611 Investigation Publications* (Soviet Academy of Sciences, Far Eastern Branch), 1986–1990.
 
 ---
 *[I05 SWEEP UPDATE COMPLETE — 4 new cases (Dalnegorsk, Ubatuba, Del Rio, Broad Haven), Cape Girardeau expansion, Aztec tier adjustment (→T4), chain-of-custody formal statement, survivorship bias, 5 new sources, 2 new images]*
@@ -295,5 +297,16 @@ This document catalogs the most significant alleged UFO crash retrieval events f
 
 ## Bibliography
 
-- Jacques. *Forbidden Science Vol. 2*. 2008.
-- Stonehill & Mantle. *Russia's USO Secrets*. 2020.
+1. Berlitz, Charles & William Moore. *The Roswell Incident*. Grosset & Dunlap, 1980.
+2. Carey, Thomas & Donald Schmitt. *Witness to Roswell*. New Page Books, 2009.
+3. USAF. *The Roswell Report: Fact vs. Fiction in the New Mexico Desert*. 1994.
+4. USAF. *The Roswell Report — Case Closed*. 1997.
+5. Kean, Leslie. *UFOs: Generals, Pilots, and Government Officials Go on the Record*. Crown, 2010.
+6. U.S. House Oversight Committee. *UAP Hearing Transcript*. July 26, 2023.
+7. AARO. *Historical Record Report, Volume I*. Feb 2024.
+8. Knapp, George. *KLAS-TV Needles Investigation Reports*. 2008–2009.
+9. Wood, Ryan S. *Majic Eyes Only*. Wood Enterprises, 2005.
+10. Vallée, Jacques. *Forbidden Science* (4-vol. series). Anomalist Books, 1992–2019.
+11. Friedman, Stanton T. & Don Berliner. *Crash at Corona*. Paragon House, 1992.
+12. Pugh, Randall Jones & F.W. Holiday. *The Dyfed Enigma*. Faber & Faber, 1979.
+13. Dvuzhilny, Valeri. *Dalnegorsk Height 611 Investigation Publications*. Soviet Academy of Sciences, 1986–1990.

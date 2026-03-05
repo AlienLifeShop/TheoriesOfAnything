@@ -123,7 +123,7 @@ Deep caves, beyond the reach of any natural light, provide the most complete dar
 Stone chambers and cave spaces resonate at specific frequencies determined by their geometry (see J07 for detailed treatment). Key observations:
 
 - Multiple ancient underground chambers resonate near **110 Hz** (Hal Saflieni Hypogeum, Newgrange, Chavín de Huántar passages)
-- Ian Cook et al. (UCLA, 2008): EEG studies show 110 Hz stimulation shifts brain activity from left-hemisphere dominance (analytical, linguistic) to right-hemisphere dominance (spatial, emotional, non-verbal) and reduces prefrontal cortex activity — the brain region associated with rational self-monitoring
+- Ian Cook et al. (UCLA, 2008): their EEG studies show 110 Hz stimulation shifts brain activity from left-hemisphere dominance (analytical, linguistic) to right-hemisphere dominance (spatial, emotional, non-verbal) and reduces prefrontal cortex activity — the brain region associated with rational self-monitoring
 - Standing waves in stone chambers create zones of constructive interference where sound pressure is physically felt in the body — a vibrotactile experience beyond ordinary hearing
 
 #### Layer 3: Rhythmic Sound — Chanting and Drumming
@@ -546,8 +546,18 @@ If cave technology reliably produces visual hallucinations (including therianthr
 
 ## Bibliography
 
-- Coffin. *The Gift of Life*. 1998.
-- Norbu. *Dream Yoga and the Practice of Natural Light*. 1992.
-- Rinpoche. *Wonders of the Natural Mind*. 1993.
-- Sharon. *Wizard of the Four Winds*. 1978.
-- Williams. *The Mind in the Cave*. 2002.
+1. Lewis-Williams, David. *The Mind in the Cave: Consciousness and the Origins of Art*. Thames & Hudson, 2002.
+2. Clottes, Jean & Lewis-Williams, David. *The Shamans of Prehistory: Trance and Magic in the Painted Caves*. Harry N. Abrams, 1998 (orig. French ed. 1996).
+3. Leroi-Gourhan, André. "The Flowers Found with Shanidar IV, a Neanderthal Burial in Iraq." *Science* 190.4214 (1975): 562–564.
+4. Azéma, Marc. "L'art des cavernes en action." *Errance*, 2012.
+5. Jaubert, Jacques et al. "Early Neanderthal Constructions Deep in Bruniquel Cave in Southwestern France." *Nature* 534 (2016): 111–114.
+6. Pike, Alistair W.G. et al. "U-Series Dating of Paleolithic Art in 11 Caves in Spain." *Science* 336.6087 (2012): 1409–1413.
+7. Aubert, M. et al. "Pleistocene Cave Art from Sulawesi, Indonesia." *Nature* 514 (2014): 223–227.
+8. Kedar, Yafit et al. "The Effect of Artificial Light on Flint Knapping Quality and Efficiency." *Time and Mind* 14.2 (2021).
+9. Kolar, Miriam A. "Tuned to the Senses: An Archaeoacoustic Perspective on Ancient Chavín." PhD dissertation, Stanford University, 2013.
+10. Cook, Ian A. et al. "Ancient Architectural Acoustic Resonance Patterns and Regional Brain Activity." *Time and Mind* 1.1 (2008): 95–104.
+11. Strassman, Rick. *DMT: The Spirit Molecule*. Park Street Press, 2001.
+12. Glass-Coffin, Bonnie. *The Gift of Life: Female Spirituality and Healing in Northern Peru*. University of New Mexico Press, 1998.
+13. Sharon, Douglas. *Wizard of the Four Winds: A Shaman's Story*. Free Press, 1978.
+14. Norbu, Namkhai. *Dream Yoga and the Practice of Natural Light*. Snow Lion Publications, 1992.
+15. Rinpoche, Tenzin Wangyal. *Wonders of the Natural Mind: The Essence of Dzogchen in the Native Bon Tradition*. Station Hill Press, 1993.

@@ -3,7 +3,7 @@
 > **Document ID:** H09
 > **Section:** H_Suppression_and_Thesis
 > **Keywords:** Maya codices, Diego de Landa, auto-da-fé, Maní, Dresden Codex, Madrid Codex, Paris Codex, Grolier Codex, Itzcoatl, Aztec book burning, Mixtec codices, Mesoamerican knowledge destruction, Spanish conquest, colonial suppression
-> **Cross-References:** [H01](H01_Suppression_Overview.md) · [M07](../M_Forbidden_Archaeology/M07_Library_Destructions.md) · [C37](../C_Global_Traditions/C37_Maya_Astronomy.md) · [H07](H07_Indigenous_Suppression.md)
+> **Cross-References:** [H01](H01_Suppression_of_Ancient_Knowledge.md) · [M07](../M_Forbidden_Archaeology/M07_Library_Destructions_Lost_Knowledge.md) · [C37](../C_Global_Traditions/C37_Maya_Epigraphy_Astronomy.md) · [H07](H07_Indigenous_Knowledge_Suppression.md)
 > **Reliability Tier:** Tier 1-3 (Colonial records well-documented; scope of lost knowledge necessarily speculative)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 14 scholarly sources | **Confidence:** High (destruction events); Moderate (content of lost materials)
 
@@ -132,12 +132,12 @@ The systematic destruction of Maya manuscripts represents one of history's most 
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [H01](H01_Suppression_Overview.md) | Parent overview of knowledge suppression patterns |
-| [H07](H07_Indigenous_Suppression.md) | Broader indigenous knowledge destruction framework |
-| [M07](../M_Forbidden_Archaeology/M07_Library_Destructions.md) | Library destructions as a recurring historical pattern |
-| [C37](../C_Global_Traditions/C37_Maya_Astronomy.md) | Maya astronomical knowledge partly preserved in codices |
+| [H01](H01_Suppression_of_Ancient_Knowledge.md) | Parent overview of knowledge suppression patterns |
+| [H07](H07_Indigenous_Knowledge_Suppression.md) | Broader indigenous knowledge destruction framework |
+| [M07](../M_Forbidden_Archaeology/M07_Library_Destructions_Lost_Knowledge.md) | Library destructions as a recurring historical pattern |
+| [C37](../C_Global_Traditions/C37_Maya_Epigraphy_Astronomy.md) | Maya astronomical knowledge partly preserved in codices |
 | [A13](../A_Foundations/A13_Popol_Vuh.md) | Popol Vuh as surviving example of Maya literary tradition |
-| [D06](../D_Sites_and_Artifacts/D06_Mesoamerican_Sites.md) | Physical sites where codex traditions flourished |
+| [D06](../D_Sites_and_Artifacts/D06_Serpent_Mound_Effigy_Mounds.md) | Physical sites where codex traditions flourished |
 | [H10](H10_Gnostic_Heterodox_Christianity_Suppression.md) | Parallel religious suppression via destruction of texts |
 | [H12](H12_Aboriginal_Knowledge_System_Destruction.md) | Comparable colonial destruction of indigenous knowledge |
 

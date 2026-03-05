@@ -440,4 +440,14 @@ Carried forward from the working notes scratchpad:
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Skoglund, Pontus et al. "Genetic Evidence for Two Founding Populations of the Americas." *Nature* 525 (2015): 104–108.
+2. Moreno-Mayar, J. Víctor et al. "Terminal Pleistocene Alaskan Genome Reveals First Founding Population of Native Americans." *Nature* 553 (2018): 203–207.
+3. Ioannidis, Alexander G. et al. "Native American Gene Flow into Polynesia Predating Easter Island Settlement." *Nature* 583 (2020): 572–577.
+4. Clube, Victor & Napier, Bill. *The Cosmic Serpent: A Catastrophist Manifesto*. 1982.
+5. Sweatman, Martin B. & Tsikritsis, Dimitrios. "Decoding Göbekli Tepe with Archaeoastronomy." *Mediterranean Archaeology and Archaeometry* 17.1 (2017): 233–250.
+6. Hancock, Graham. *Fingerprints of the Gods*. Crown, 1995.
+7. Temple, Robert. *The Sirius Mystery*. St. Martin's Press, 1976.
+8. Narby, Jeremy. *The Cosmic Serpent: DNA and the Origins of Knowledge*. Jeremy P. Tarcher, 1998.
+9. de Santillana, Giorgio & von Dechend, Hertha. *Hamlet's Mill*. Gambit, 1969.
+10. Boyer, Pascal. *Religion Explained: The Evolutionary Origins of Religious Thought*. Basic Books, 2001.
+11. Sagan, Carl. *The Dragons of Eden: Speculations on the Evolution of Human Intelligence*. Random House, 1977.

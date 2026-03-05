@@ -120,10 +120,10 @@ Contributing factors: **publication bias** (positive results published; negative
 
 | Document | Connection |
 |----------|------------|
-| [H01 — Suppression Thesis](H01_Suppression_Thesis.md) | Broader suppression of knowledge claims |
-| [H02 — Academic Suppression](H02_Academic_Suppression.md) | Specific academic suppression cases |
-| [P14 — Epistemology](../P_Philosophy_Meaning/P14_Epistemology_Knowledge_Belief.md) | How do we know what we know? |
-| [M01 — Forbidden Archaeology](../M_Forbidden_Archaeology/M01_Forbidden_Archaeology_Overview.md) | Suppressed archaeological findings |
+| [H01 — Suppression Thesis](H01_Suppression_of_Ancient_Knowledge.md) | Broader suppression of knowledge claims |
+| [H02 — Academic Suppression](H02_Key_Findings_and_Reliability.md) | Specific academic suppression cases |
+| [P14 — Epistemology](../P_Philosophy_Meaning/P19_Epistemology_How_We_Know.md) | How do we know what we know? |
+| [M01 — Forbidden Archaeology](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Suppressed archaeological findings |
 | [G19 — Plasma Cosmology](../G_Modern_Frameworks/G19_Plasma_Cosmology_Electric_Universe.md) | Alternative cosmology and mainstream resistance |
 | [R17 — Symbiogenesis](../R_Biology_Evolution/R17_Symbiogenesis_Lynn_Margulis.md) | Margulis: from heresy to textbook |
 

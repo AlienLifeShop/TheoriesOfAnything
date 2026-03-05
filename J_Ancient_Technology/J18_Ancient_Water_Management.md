@@ -3,7 +3,7 @@
 > **Document ID:** J18
 > **Section:** J_Ancient_Technology
 > **Keywords:** qanat, kariz, stepwell, vav, baoli, cistern, aqueduct, irrigation, water management, Petra, Angkor Wat, baray, Harappan drainage, Rani ki Vav, hydraulic engineering, Nabataean
-> **Cross-References:** [J14](J14_Roman_Engineering_Roads_Aqueducts_Concrete.md) · [D04](../D_Sites_and_Artifacts/D04_Underground_Cities.md) · [C52](../C_Global_Traditions/C52_Harappan.md) · [D30](../D_Sites_and_Artifacts/D30_Petra.md) · [O07](../O_Earth_Anomalies/O07_Sacred_Water.md) · [C69](../C_Global_Traditions/C69_Angkor_Wat.md)
+> **Cross-References:** [J14](J14_Roman_Engineering_Roads_Aqueducts_Concrete.md) · [D04](../D_Sites_and_Artifacts/D04_Underground_Cities_and_Myths.md) · [C52](../C_Global_Traditions/C52_Harappan_Indus_Valley_Civilization.md) · [D30](../D_Sites_and_Artifacts/D30_Petra_Rock_Cut_Architecture.md) · [O07](../O_Earth_Anomalies/O07_Sacred_Water_Wells_Springs.md) · [C69](../C_Global_Traditions/C69_Angkor_Wat_Khmer_Cosmology.md)
 > **Reliability Tier:** Tier 1-2 (well-documented archaeological and hydrological record with some dating debates)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
 
@@ -126,11 +126,11 @@ Ancient water management systems represent some of humanity's most sophisticated
 | Related Doc | Connection |
 |-------------|-----------|
 | [J14 — Roman Engineering](J14_Roman_Engineering_Roads_Aqueducts_Concrete.md) | Roman aqueducts as comparative water engineering tradition |
-| [D04 — Underground Cities](../D_Sites_and_Artifacts/D04_Underground_Cities.md) | Qanat tunneling techniques parallel to underground construction |
-| [C52 — Harappan Civilization](../C_Global_Traditions/C52_Harappan.md) | Indus Valley drainage and the Great Bath |
-| [D30 — Petra](../D_Sites_and_Artifacts/D30_Petra.md) | Nabataean desert water management systems |
-| [O07 — Sacred Water](../O_Earth_Anomalies/O07_Sacred_Water.md) | Ritual and spiritual dimensions of water management |
-| [C69 — Angkor Wat](../C_Global_Traditions/C69_Angkor_Wat.md) | Khmer hydraulic landscape and baray reservoirs |
+| [D04 — Underground Cities](../D_Sites_and_Artifacts/D04_Underground_Cities_and_Myths.md) | Qanat tunneling techniques parallel to underground construction |
+| [C52 — Harappan Civilization](../C_Global_Traditions/C52_Harappan_Indus_Valley_Civilization.md) | Indus Valley drainage and the Great Bath |
+| [D30 — Petra](../D_Sites_and_Artifacts/D30_Petra_Rock_Cut_Architecture.md) | Nabataean desert water management systems |
+| [O07 — Sacred Water](../O_Earth_Anomalies/O07_Sacred_Water_Wells_Springs.md) | Ritual and spiritual dimensions of water management |
+| [C69 — Angkor Wat](../C_Global_Traditions/C69_Angkor_Wat_Khmer_Cosmology.md) | Khmer hydraulic landscape and baray reservoirs |
 | [J17 — Inca Road System](J17_Inca_Road_System_Khipu.md) | Inca infrastructure parallels in non-Western engineering |
 
 ---

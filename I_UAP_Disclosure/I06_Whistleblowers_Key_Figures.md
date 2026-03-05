@@ -504,7 +504,14 @@ This document profiles 12 key individuals whose testimony, research, or institut
 
 ## Bibliography
 
-- Kean & Blumenthal. *The Debrief*. 2023.
-- Kelleher & Knapp. *Hunt for the Skinwalker*. 2005.
-- Kelleher & Knapp. *Inside the U.S. Government Covert UFO Program*. 2023.
-- Kelleher & Knapp. *Skinwalkers at the Pentagon*. 2021.
+1. Kean, Leslie. *UFOs: Generals, Pilots, and Government Officials Go on the Record*. Harmony Books, 2010.
+2. Hynek, J. Allen. *The UFO Experience: A Scientific Inquiry*. Henry Regnery, 1972.
+3. Vallée, Jacques. *Passport to Magonia*. Henry Regnery, 1969.
+4. Elizondo, Luis. *Imminent: Inside the Pentagon's Hunt for UFOs*. William Morrow, 2024.
+5. Lacatski, James T., Kelleher, Colm A. & Knapp, George. *Inside the U.S. Government Covert UFO Program*. RTMA, 2023.
+6. Kelleher, Colm A. & Knapp, George. *Hunt for the Skinwalker: Science Confronts the Unexplained on a Remote Ranch in Utah*. Paraview Pocket Books, 2005.
+7. Kelleher, Colm A. & Knapp, George. *Skinwalkers at the Pentagon*. RTMA, 2021.
+8. Pasulka, D.W. *American Cosmic: UFOs, Religion, Technology*. Oxford University Press, 2019.
+9. Loeb, Avi. *Extraterrestrial: The First Sign of Intelligent Life Beyond Earth*. Houghton Mifflin Harcourt, 2021.
+10. Coulthart, Ross. *In Plain Sight: An Investigation into UFOs and Impossible Science*. HarperCollins, 2021.
+11. Millis, Marc G. & Davis, Eric W. (eds.). *Frontiers of Propulsion Science*. AIAA, 2009.

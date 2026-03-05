@@ -3,7 +3,7 @@
 > **Document ID:** I13
 > **Section:** I_UAP_Disclosure
 > **Keywords:** close encounters, Hynek classification, Vallée classification, GEIPAN, Project Blue Book, CE-I, CE-II, CE-III, CE-IV, CE-V, UFO investigation methodology, witness reliability, case evaluation
-> **Cross-References:** [I02](I02_Military_Encounters.md) · [I09](I09_Abduction.md) · [I08](I08_Government_Investigation.md) · [I01](I01_UAP_Disclosure.md)
+> **Cross-References:** [I02](I02_Military_UAP_Encounters.md) · [I09](I09_Alien_Abduction_Phenomenon.md) · [I08](I08_Government_Investigation_Anomalous_Phenomena.md) · [I01](I01_UAP_Government_Disclosure_Timeline.md)
 > **Reliability Tier:** Tier 1-2 (Classification systems are published academic frameworks; case evaluations vary in quality)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 14 scholarly/investigative sources | **Confidence:** High (classification systems); Variable (individual case evaluations)
 
@@ -154,12 +154,12 @@ The systematic classification of UFO/UAP encounters provides the methodological 
 4. Condon, Edward U. *Scientific Study of Unidentified Flying Objects*. Bantam Books, 1969.
 5. Haines, Richard F. *CE-5: Close Encounters of the Fifth Kind*. Sourcebooks, 1999.
 6. Sturrock, Peter A. "An Analysis of the Condon Report on the Colorado UFO Project." *Journal of Scientific Exploration* 1, no. 1 (1987): 75-100.
-7. GEIPAN/CNES. *Annual Activity Reports*. Available at geipan.fr.
+7. GEIPAN/CNES. *Annual Activity Reports* (2005–present). Toulouse: Centre National d'Études Spatiales. Available at geipan.fr.
 8. Phillips, Ted. *Physical Traces Associated with UFO Sightings*. Center for UFO Studies, 1975.
 9. Swords, Michael D., and Robert Powell. *UFOs and Government: A Historical Inquiry*. Anomalist Books, 2012.
 10. Mack, John E. *Passport to the Cosmos: Human Transformation and Alien Encounters*. Crown Publishers, 1999.
 11. Dolan, Richard M. *UFOs and the National Security State*, Vol. 1. Keyhole Publishing, 2002.
-12. Scientific Coalition for UAP Studies. Technical Reports. Available at explorescu.org.
+12. Scientific Coalition for UAP Studies (SCU). *Technical Reports* (2017–present). Available at explorescu.org.
 13. Hynek, J. Allen. *The Hynek UFO Report*. Dell Publishing, 1977.
 14. Greer, Steven M. *Close Encounters of the Fifth Kind*. Documentary film, 2020.
 
@@ -169,10 +169,10 @@ The systematic classification of UFO/UAP encounters provides the methodological 
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [I02](I02_Military_Encounters.md) | Military cases providing highest-quality CE evidence |
-| [I09](I09_Abduction.md) | CE-IV (abduction) cases in detail |
-| [I08](I08_Government_Investigation.md) | Government investigation programs using these classification systems |
-| [I01](I01_UAP_Disclosure.md) | Current UAP disclosure context for classification modernization |
+| [I02](I02_Military_UAP_Encounters.md) | Military cases providing highest-quality CE evidence |
+| [I09](I09_Alien_Abduction_Phenomenon.md) | CE-IV (abduction) cases in detail |
+| [I08](I08_Government_Investigation_Anomalous_Phenomena.md) | Government investigation programs using these classification systems |
+| [I01](I01_UAP_Government_Disclosure_Timeline.md) | Current UAP disclosure context for classification modernization |
 | [I14](I14_Vallee_Control_System_Hypothesis.md) | Vallée's broader interpretive framework beyond classification |
 | [I11](I11_USO_Hotspots_Underwater_Bases.md) | USO phenomenon requiring classification system expansion |
 | [I12](I12_UFO_Religions_Cultural_Response.md) | Cultural responses to close encounter reports |

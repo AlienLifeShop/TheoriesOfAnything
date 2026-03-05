@@ -3,7 +3,7 @@
 > **Document ID:** H11
 > **Section:** H_Suppression_and_Thesis
 > **Keywords:** witch trials, Malleus Maleficarum, Salem, witch hunts, herbalism, midwifery, folk knowledge, ergotism, Heinrich Kramer, gender persecution, knowledge suppression, early modern Europe, colonial America
-> **Cross-References:** [K17](../K_Consciousness/K17_Ergot_Psychedelics.md) · [C31](../C_Global_Traditions/C31_Women_Gender.md) · [H01](H01_Suppression_Overview.md) · [H07](H07_Indigenous_Suppression.md) · [H10](H10_Gnostic_Heterodox_Christianity_Suppression.md)
+> **Cross-References:** [K17](../K_Consciousness/K17_Ergot_Sacred_Pharmacology_History.md) · [C31](../C_Global_Traditions/C31_Women_Gender_Ancient_Knowledge_Traditions.md) · [H01](H01_Suppression_of_Ancient_Knowledge.md) · [H07](H07_Indigenous_Knowledge_Suppression.md) · [H10](H10_Gnostic_Heterodox_Christianity_Suppression.md)
 > **Reliability Tier:** Tier 1-3 (Trial records well-documented; knowledge-loss thesis is interpretive)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 15 scholarly sources | **Confidence:** High (events and statistics); Moderate (scope of knowledge lost)
 
@@ -147,14 +147,14 @@ The European witch trials (c. 1450-1750) and their American extensions resulted 
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K17](../K_Consciousness/K17_Ergot_Psychedelics.md) | Ergot contamination as possible trigger for witch-trial symptoms |
-| [C31](../C_Global_Traditions/C31_Women_Gender.md) | Gender dimensions of targeted persecution |
-| [H01](H01_Suppression_Overview.md) | Broader knowledge suppression framework |
-| [H07](H07_Indigenous_Suppression.md) | Parallel persecution of indigenous knowledge holders |
+| [K17](../K_Consciousness/K17_Ergot_Sacred_Pharmacology_History.md) | Ergot contamination as possible trigger for witch-trial symptoms |
+| [C31](../C_Global_Traditions/C31_Women_Gender_Ancient_Knowledge_Traditions.md) | Gender dimensions of targeted persecution |
+| [H01](H01_Suppression_of_Ancient_Knowledge.md) | Broader knowledge suppression framework |
+| [H07](H07_Indigenous_Knowledge_Suppression.md) | Parallel persecution of indigenous knowledge holders |
 | [H10](H10_Gnostic_Heterodox_Christianity_Suppression.md) | Christian institutional suppression of heterodox traditions |
 | [H09](H09_Maya_Codex_Burning_Mesoamerican_Destruction.md) | Contemporaneous colonial knowledge destruction |
 | [H12](H12_Aboriginal_Knowledge_System_Destruction.md) | Comparable destruction of oral knowledge traditions |
-| [M07](../M_Forbidden_Archaeology/M07_Library_Destructions.md) | Broader pattern of knowledge destruction |
+| [M07](../M_Forbidden_Archaeology/M07_Library_Destructions_Lost_Knowledge.md) | Broader pattern of knowledge destruction |
 
 ---
 

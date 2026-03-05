@@ -3,7 +3,7 @@
 > **Document ID:** J20
 > **Section:** J_Ancient_Technology
 > **Keywords:** textiles, weaving, dyeing, Tyrian purple, silk, linen, quipu, indigo, fiber technology, warp-weighted loom, Shroud of Turin, Dzudzuana Cave, murex, Navajo weaving
-> **Cross-References:** [J06](J06_Ancient_Engineering_Techniques.md) · [C28](../C_Global_Traditions/C28_Inca_Quipu_Khipu_Recording.md) · [U05](../U_Art_Music_Culture/U05_Color_Symbolism_Chromatics.md) · [D19](../D_Sites_and_Artifacts/D19_Museum_Artifacts_Disputed.md) · [M01](../M_Forbidden_Archaeology/M01_Out_of_Place_Artifacts.md)
+> **Cross-References:** [J06](J06_Sound_Vibration_Creation.md) · [C28](../C_Global_Traditions/C41_Andean_Civilizations.md) · [U05](../U_Art_Music_Culture/U05_Color_Symbolism_Chromatic_Traditions.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md)
 > **Reliability Tier:** Tier 1-3 (archaeological evidence through speculative interpretations)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High for archaeology, Moderate for dating claims
 
@@ -167,12 +167,12 @@ Ancient textile production represents one of humanity's oldest and most sophisti
 
 | Document | Relation | Relevance |
 |----------|----------|-----------|
-| [J06](J06_Ancient_Engineering_Techniques.md) | Parent topic | Textile production as engineering discipline |
-| [C28](../C_Global_Traditions/C28_Inca_Quipu_Khipu_Recording.md) | Direct link | Quipu as textile-based information technology |
-| [U05](../U_Art_Music_Culture/U05_Color_Symbolism_Chromatics.md) | Thematic | Dye chemistry and color symbolism |
-| [D19](../D_Sites_and_Artifacts/D19_Museum_Artifacts_Disputed.md) | Artifact context | Shroud of Turin and other disputed textile artifacts |
-| [M01](../M_Forbidden_Archaeology/M01_Out_of_Place_Artifacts.md) | Anomalies | Textiles challenging conventional chronology |
-| [V07](../V_Mathematics_Information/V07_Cryptography_Codes_Ciphers.md) | Conceptual | Quipu binary encoding hypothesis |
+| [J06](J06_Sound_Vibration_Creation.md) | Parent topic | Textile production as engineering discipline |
+| [C28](../C_Global_Traditions/C41_Andean_Civilizations.md) | Direct link | Quipu as textile-based information technology |
+| [U05](../U_Art_Music_Culture/U05_Color_Symbolism_Chromatic_Traditions.md) | Thematic | Dye chemistry and color symbolism |
+| [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Artifact context | Shroud of Turin and other disputed textile artifacts |
+| [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Anomalies | Textiles challenging conventional chronology |
+| [V07](../V_Mathematics_Information/V07_Cryptography.md) | Conceptual | Quipu binary encoding hypothesis |
 | [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md) | Biological | Domestication of fiber-producing plants and animals |
 
 ---

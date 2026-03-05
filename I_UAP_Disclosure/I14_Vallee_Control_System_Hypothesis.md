@@ -3,7 +3,7 @@
 > **Document ID:** I14
 > **Section:** I_UAP_Disclosure
 > **Keywords:** Jacques Vallée, control system, Passport to Magonia, interdimensional hypothesis, ETH, IDH, fairy folklore, consciousness, AATIP, AAWSAP, Skinwalker Ranch, ultraterrestrial, cultural shaping, UFO mythology
-> **Cross-References:** [I08](I08_Government_Investigation.md) · [G06](../G_Modern_Frameworks/G06_Modern_Conspiracy.md) · [K14](../K_Consciousness/K14_Limitation_Motif.md) · [B13](../B_Beings_and_Entities/B13_Fairy_Fae.md) · [I13](I13_Close_Encounters_Classification.md)
+> **Cross-References:** [I08](I08_Government_Investigation_Anomalous_Phenomena.md) · [G06](../G_Modern_Frameworks/G06_Modern_Conspiracy_Analysis.md) · [K14](../K_Consciousness/K14_Limitation_of_Consciousness_Motif.md) · [B13](../B_Beings_and_Entities/B13_Fairy_Fae_Hidden_People.md) · [I13](I13_Close_Encounters_Classification.md)
 > **Reliability Tier:** Tier 2-3 (Vallée's research is peer-recognized; the hypothesis itself is a theoretical framework, not a verified claim)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 15 scholarly/investigative sources | **Confidence:** Moderate (framework is internally coherent and data-supported but unfalsifiable in key aspects)
 
@@ -170,11 +170,11 @@ Jacques Vallée — astrophysicist, computer scientist, and one of the most rigo
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [I08](I08_Government_Investigation.md) | Vallée's consultation for AATIP/AAWSAP government programs |
+| [I08](I08_Government_Investigation_Anomalous_Phenomena.md) | Vallée's consultation for AATIP/AAWSAP government programs |
 | [I13](I13_Close_Encounters_Classification.md) | Vallée's classification system as analytical alternative to Hynek |
-| [B13](../B_Beings_and_Entities/B13_Fairy_Fae.md) | Fairy folklore as historical manifestation of the same phenomenon |
-| [G06](../G_Modern_Frameworks/G06_Modern_Conspiracy.md) | Conspiracy analysis of UAP secrecy and the control system |
-| [K14](../K_Consciousness/K14_Limitation_Motif.md) | Consciousness limitation themes parallel to control system function |
+| [B13](../B_Beings_and_Entities/B13_Fairy_Fae_Hidden_People.md) | Fairy folklore as historical manifestation of the same phenomenon |
+| [G06](../G_Modern_Frameworks/G06_Modern_Conspiracy_Analysis.md) | Conspiracy analysis of UAP secrecy and the control system |
+| [K14](../K_Consciousness/K14_Limitation_of_Consciousness_Motif.md) | Consciousness limitation themes parallel to control system function |
 | [I12](I12_UFO_Religions_Cultural_Response.md) | UFO religions as cultural output of the control system |
 | [I10](I10_Ancient_Astronaut_Theory.md) | Ancient astronaut theory — ETH framework Vallée critiques |
 | [I11](I11_USO_Hotspots_Underwater_Bases.md) | USO phenomenon within control system framework |

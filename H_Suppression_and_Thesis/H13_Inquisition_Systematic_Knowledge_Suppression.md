@@ -5,11 +5,11 @@
 > **Keywords:** Inquisition, censorship, Index Librorum Prohibitorum, Galileo,
 > Giordano Bruno, auto-da-fé, heresy, Malleus Maleficarum, converso,
 > codex burning, Cathars, knowledge suppression
-> **Cross-References:** [H08](H08_Vatican_Archives.md) ·
-> [N18](../N_Secret_Societies/N18_Cathars_Bogomils_Gnostic_Movements.md) ·
-> [P26](../P_Philosophy_Meaning/P26_Greek_Philosophy_Lost_Schools.md) ·
-> [E29](../E_Cataclysms_and_Chronology/E29_Little_Ice_Age_Social_Collapse.md) ·
-> [C07](../C_Global_Traditions/C07_Oral_Tradition_Memory_Systems.md)
+> **Cross-References:** [H08](H08_Academic_Gatekeeping_Paradigm_Resistance.md) ·
+> [N18](../N_Secret_Societies/N17_Cathars_Albigensians_Grail_Heresy.md) ·
+> [P26](../P_Philosophy_Meaning/P25_Pre_Socratic_Philosophy.md) ·
+> [E29](../E_Cataclysms_and_Chronology/E29_Little_Ice_Age.md) ·
+> [C07](../U_Art_Music_Culture/U03_Oral_Literature_Epic_Myth_Memory.md)
 > **Reliability Tier:** Tier 1-2 (well-documented institutional history
 > with surviving archival records; some suppressed material irrecoverable)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources
@@ -226,11 +226,11 @@ to Protestant Holland, England, and the German states (Heilbron, 2010).
 
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
-| [H08](H08_Vatican_Archives.md) | Direct | Inquisition trial records |
-| [N18](../N_Secret_Societies/N18_Cathars_Bogomils_Gnostic_Movements.md) | Direct | Cathar text destruction |
-| [P26](../P_Philosophy_Meaning/P26_Greek_Philosophy_Lost_Schools.md) | Thematic | Knowledge suppression pattern |
-| [E29](../E_Cataclysms_and_Chronology/E29_Little_Ice_Age_Social_Collapse.md) | Contextual | Social instability intensified persecutions |
-| [C07](../C_Global_Traditions/C07_Oral_Tradition_Memory_Systems.md) | Thematic | Oral traditions as alternatives |
+| [H08](H08_Academic_Gatekeeping_Paradigm_Resistance.md) | Direct | Inquisition trial records |
+| [N18](../N_Secret_Societies/N17_Cathars_Albigensians_Grail_Heresy.md) | Direct | Cathar text destruction |
+| [P26](../P_Philosophy_Meaning/P25_Pre_Socratic_Philosophy.md) | Thematic | Knowledge suppression pattern |
+| [E29](../E_Cataclysms_and_Chronology/E29_Little_Ice_Age.md) | Contextual | Social instability intensified persecutions |
+| [C07](../U_Art_Music_Culture/U03_Oral_Literature_Epic_Myth_Memory.md) | Thematic | Oral traditions as alternatives |
 | [H14](H14_Colonial_Looting_Museum_Ethics_Repatriation.md) | Direct | Colonial knowledge destruction |
 | [H15](H15_Scientific_Censorship_Paradigm_Defense.md) | Thematic | Suppression continuity |
 | [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) | Contextual | Texts surviving suppression |

@@ -3,7 +3,7 @@
 > **Document ID:** J14
 > **Section:** J_Ancient_Technology
 > **Keywords:** Roman concrete, opus caementicium, self-healing concrete, Via Appia, aqueducts, Pantheon, Pont du Gard, Vitruvius, De Architectura, Roman roads, lime clasts, pozzolanic
-> **Cross-References:** [J03](J03_Lost_Material_Science.md) · [D05](../D_Sites_and_Artifacts/D05_Megalithic.md) · [J05](J05_Metallurgy.md) · [D22](../D_Sites_and_Artifacts/D22_Sacred_Architecture.md)
+> **Cross-References:** [J03](J03_Lost_Material_Science.md) · [D05](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [J05](J05_Ancient_Metallurgy.md) · [D22](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md)
 > **Reliability Tier:** Tier 1-2 (extensively documented archaeological and engineering record with active modern research)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 24 scholarly sources | **Confidence:** High
 
@@ -124,12 +124,12 @@ Roman engineering represents one of the most thoroughly documented technological
 | Related Doc | Connection |
 |-------------|-----------|
 | [J03 — Lost Material Science](J03_Lost_Material_Science.md) | Roman concrete as prime example of lost material formulations |
-| [D05 — Megalithic Construction](../D_Sites_and_Artifacts/D05_Megalithic.md) | Large-scale stone and concrete construction methods |
-| [J05 — Ancient Metallurgy](J05_Metallurgy.md) | Metal tools and clamps used in Roman construction |
-| [D22 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture.md) | Pantheon and temple construction as sacred engineering |
-| [D19 — Archaeoastronomy](../D_Sites_and_Artifacts/D19_Archaeoastronomy.md) | Pantheon oculus as astronomical alignment feature |
+| [D05 — Megalithic Construction](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Large-scale stone and concrete construction methods |
+| [J05 — Ancient Metallurgy](J05_Ancient_Metallurgy.md) | Metal tools and clamps used in Roman construction |
+| [D22 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) | Pantheon and temple construction as sacred engineering |
+| [D19 — Archaeoastronomy](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Pantheon oculus as astronomical alignment feature |
 | [J16 — Islamic Golden Age](J16_Islamic_Golden_Age_Scientific.md) | Preservation of Vitruvian knowledge through translation |
-| [E08 — Roman Collapse](../E_Cataclysms_and_Chronology/E08_Roman_Collapse.md) | Loss of engineering knowledge after Western Roman fall |
+| [E08 — Roman Collapse](../E_Cataclysms_and_Chronology/E13_536_CE_Climate_Catastrophe.md) | Loss of engineering knowledge after Western Roman fall |
 
 ---
 

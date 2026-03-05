@@ -3,7 +3,7 @@
 > **Document ID:** J19
 > **Section:** J_Ancient_Technology
 > **Keywords:** obelisk, Aswan, unfinished obelisk, quarrying, dolerite, Hatshepsut, Karnak, Luxor, Cleopatra's Needle, benben, bennu, pyramidion, gnomon, solar alignment, granite, Nile transport
-> **Cross-References:** [D02](../D_Sites_and_Artifacts/D02_Pyramids.md) · [D05](../D_Sites_and_Artifacts/D05_Megalithic.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy.md) · [A14](../A_Foundations/A14_Pyramid_Texts.md) · [J05](J05_Metallurgy.md)
+> **Cross-References:** [D02](../D_Sites_and_Artifacts/D02_Pyramids_Worldwide.md) · [D05](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [A14](../A_Foundations/A14_Pyramid_Texts.md) · [J05](J05_Ancient_Metallurgy.md)
 > **Reliability Tier:** Tier 1-2 (archaeological record well-documented; some transport and symbolic questions remain debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High
 
@@ -122,13 +122,13 @@ Egyptian obelisks — monolithic shafts of red granite quarried primarily at Asw
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [D02 — Pyramids of Giza](../D_Sites_and_Artifacts/D02_Pyramids.md) | Shared quarrying techniques and solar alignment principles |
-| [D05 — Megalithic Construction](../D_Sites_and_Artifacts/D05_Megalithic.md) | Monolithic stone transport and erection methods |
-| [D19 — Archaeoastronomy](../D_Sites_and_Artifacts/D19_Archaeoastronomy.md) | Obelisks as solar instruments and gnomon function |
+| [D02 — Pyramids of Giza](../D_Sites_and_Artifacts/D02_Pyramids_Worldwide.md) | Shared quarrying techniques and solar alignment principles |
+| [D05 — Megalithic Construction](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Monolithic stone transport and erection methods |
+| [D19 — Archaeoastronomy](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Obelisks as solar instruments and gnomon function |
 | [A14 — Pyramid Texts](../A_Foundations/A14_Pyramid_Texts.md) | Benben stone and Bennu bird mythology |
-| [J05 — Ancient Metallurgy](J05_Metallurgy.md) | Copper tools and electrum capstone production |
-| [B21 — Phoenix/Bennu](../B_Beings_and_Entities/B21_Phoenix_Bennu.md) | Bennu bird symbolism connected to obelisk capstones |
-| [D22 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture.md) | Obelisks as components of temple sacred geometry |
+| [J05 — Ancient Metallurgy](J05_Ancient_Metallurgy.md) | Copper tools and electrum capstone production |
+| [B21 — Phoenix/Bennu](../B_Beings_and_Entities/B21_Thunderbird_Avian_Supernatural_Beings.md) | Bennu bird symbolism connected to obelisk capstones |
+| [D22 — Sacred Architecture](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) | Obelisks as components of temple sacred geometry |
 
 ---
 

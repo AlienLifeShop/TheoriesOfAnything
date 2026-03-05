@@ -123,7 +123,7 @@ The **Polynesian star compass** (Hawaiian: *kealaikahiki*; Micronesian: *etak*) 
 | [J11 — Ancient Automata](J11_Ancient_Automata_Proto_Robotics.md) | Antikythera Mechanism and mechanical computing |
 | [F11 — Silk Road](../F_Lost_Connections/F11_Silk_Road_Knowledge_Exchange.md) | Compass and astrolabe transmission |
 | [C71 — Phoenician Navigation](../C_Global_Traditions/C71_Phoenician_Civilization_Alphabet_Navigation.md) | Ancient Mediterranean navigation |
-| [F05 — Trans-Oceanic Contact](../F_Lost_Connections/F05_Trans_Oceanic_Contact_Theories.md) | Open-ocean voyaging evidence |
+| [F05 — Trans-Oceanic Contact](../F_Lost_Connections/F05_Ancient_Maritime_Technology.md) | Open-ocean voyaging evidence |
 | [P17 — Art as Knowledge](../P_Philosophy_Meaning/P17_Art_as_Knowledge_Encoding.md) | Non-textual knowledge systems |
 
 ---

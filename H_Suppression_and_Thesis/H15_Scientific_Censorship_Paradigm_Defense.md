@@ -6,11 +6,11 @@
 > continental drift, cold fusion, Halton Arp, peer review,
 > journal gatekeeping, Lysenkoism, Velikovsky, retraction,
 > scientific orthodoxy, epistemic closure
-> **Cross-References:** [G12](../G_Modern_Frameworks/G12_Evolutionary_Dynamics.md) ·
-> [Q01](../Q_Cosmology_Physics/Q01_Unified_Field_Theory.md) ·
-> [M01](../M_Forbidden_Archaeology/M01_Out_of_Place_Artifacts.md) ·
-> [P29](../P_Philosophy_Meaning/P29_Philosophy_of_Science.md) ·
-> [H01](H01_Smithsonian_Coverups.md)
+> **Cross-References:** [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) ·
+> [Q01](../Q_Cosmology_Physics/Q01_Anthropic_Principle_Fine_Tuning.md) ·
+> [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) ·
+> [P29](../P_Philosophy_Meaning/P29_Islamic_Philosophy.md) ·
+> [H01](H01_Suppression_of_Ancient_Knowledge.md)
 > **Reliability Tier:** Tier 1-2 (well-documented cases from
 > history of science; interpretation of motives debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources
@@ -234,11 +234,11 @@ for systemic scientific progress (Stephan, 2012).
 
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
-| [G12](../G_Modern_Frameworks/G12_Evolutionary_Dynamics.md) | Thematic | Paradigm shifts in evolution |
-| [Q01](../Q_Cosmology_Physics/Q01_Unified_Field_Theory.md) | Contextual | Challenges to physics orthodoxy |
-| [M01](../M_Forbidden_Archaeology/M01_Out_of_Place_Artifacts.md) | Direct | Marginalized anomalous artifacts |
-| [P29](../P_Philosophy_Meaning/P29_Philosophy_of_Science.md) | Direct | Kuhn, Popper, Lakatos |
-| [H01](H01_Smithsonian_Coverups.md) | Thematic | Institutional gatekeeping |
+| [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) | Thematic | Paradigm shifts in evolution |
+| [Q01](../Q_Cosmology_Physics/Q01_Anthropic_Principle_Fine_Tuning.md) | Contextual | Challenges to physics orthodoxy |
+| [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Direct | Marginalized anomalous artifacts |
+| [P29](../P_Philosophy_Meaning/P29_Islamic_Philosophy.md) | Direct | Kuhn, Popper, Lakatos |
+| [H01](H01_Suppression_of_Ancient_Knowledge.md) | Thematic | Institutional gatekeeping |
 | [H13](H13_Inquisition_Systematic_Knowledge_Suppression.md) | Thematic | Historical suppression precedents |
 | [H14](H14_Colonial_Looting_Museum_Ethics_Repatriation.md) | Contextual | Museum interpretive control |
 

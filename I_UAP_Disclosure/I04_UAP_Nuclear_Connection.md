@@ -410,5 +410,9 @@ Three competing hypotheses for the nuclear-UAP pattern:
 
 ## Bibliography
 
-- Dolan. *UFOs and the National Security State Vol. 1*. 2002.
-- Salas & Klotz. *Unidentified: The UFO Phenomenon*. 2014.
+1. Hastings, Robert L. *UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites*. Author House, 2008 (revised 2017).
+2. Salas, Robert & Klotz, James. *Unidentified: The UFO Phenomenon — How World Governments Have Conspired to Conceal Humanity's Biggest Secret*. New Page Books, 2014.
+3. Salas, Robert. *Faded Giant*. BookSurge, 2005.
+4. Dolan, Richard M. *UFOs and the National Security State, Vol. 2: The Cover-Up Exposed*. Keyhole Publishing, 2009.
+5. Stonehill, Paul & Mantle, Philip. *Russia's USO Secrets: Unidentified Submersible Objects in Russian and International Waters*. 2020.
+6. Pope, Nick. *Open Skies, Closed Minds*. Simon & Schuster, 1996.

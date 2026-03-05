@@ -111,11 +111,11 @@ On **September 16, 1994**, approximately **62 children** (ages 5-12) at Ariel Sc
 
 | Document | Connection |
 |----------|------------|
-| [I01 — UAP Overview](I01_UAP_Overview.md) | Broader UAP phenomenon |
-| [I02 — UAP Disclosure](I02_UAP_Disclosure.md) | Government disclosure context |
+| [I01 — UAP Overview](I01_UAP_Government_Disclosure_Timeline.md) | Broader UAP phenomenon |
+| [I02 — UAP Disclosure](I02_Military_UAP_Encounters.md) | Government disclosure context |
 | [I10 — Ancient Astronaut Theory](I10_Ancient_Astronaut_Theory.md) | Historical alien contact claims |
-| [K01 — Consciousness Theories](../K_Consciousness/K01_Consciousness_Theories.md) | Consciousness-based explanations |
-| [K02 — Meditation/Consciousness](../K_Consciousness/K02_Meditation_Consciousness.md) | Altered states of consciousness |
+| [K01 — Consciousness Theories](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Consciousness-based explanations |
+| [K02 — Meditation/Consciousness](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Altered states of consciousness |
 | [B09 — Alien Races](../B_Beings_and_Entities/B09_Alien_Races_Origins.md) | Reported entity types |
 | [H08 — Academic Gatekeeping](../H_Suppression_and_Thesis/H08_Academic_Gatekeeping_Paradigm_Resistance.md) | Mack's Harvard investigation |
 

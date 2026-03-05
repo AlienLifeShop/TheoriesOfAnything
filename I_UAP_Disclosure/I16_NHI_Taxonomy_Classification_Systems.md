@@ -6,9 +6,9 @@
 > Vallée classification, ultraterrestrial, interdimensional,
 > crypto-terrestrial, biological NHI, non-biological NHI,
 > Bracewell probes, AI probe, close encounter, UAP taxonomy
-> **Cross-References:** [I01](I01_UAP_Overview.md) ·
+> **Cross-References:** [I01](I01_UAP_Government_Disclosure_Timeline.md) ·
 > [I09](I09_Alien_Abduction_Phenomenon.md) ·
-> [B01](../B_Beings_and_Entities/B01_Reptilian_Beings.md) ·
+> [B01](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) ·
 > [I15](I15_UAP_Consciousness_Interface_Psychic_Component.md) ·
 > [Q23](../Q_Cosmology_Physics/Q23_Exoplanets_Habitable_Zones.md)
 > **Reliability Tier:** Tier 2-3 (classification systems are scholarly
@@ -212,7 +212,7 @@ an AI probe require fundamentally different analytical frameworks.
 6. Hynek, J.A. (1972). *The UFO Experience*. Henry Regnery.
 7. Kean, L. (2010). *UFOs: Generals, Pilots*. Harmony Books.
 8. Keel, J.A. (1975). *The Mothman Prophecies*. Saturday Review Press.
-9. Kirkpatrick, S. (2023). Senate Armed Services testimony, April 19.
+9. Kirkpatrick, S. (2023). "Senate Armed Services Testimony," April 19.
 10. Kripal, J.J. (2010). *Authors of the Impossible*. Chicago UP.
 11. Lacatski, J. et al. (2021). *Skinwalkers at the Pentagon*. RTMA.
 12. Loeb, A. (2021). *Extraterrestrial*. Houghton Mifflin Harcourt.
@@ -231,9 +231,9 @@ an AI probe require fundamentally different analytical frameworks.
 
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
-| [I01](I01_UAP_Overview.md) | Framework | Foundational UAP context |
+| [I01](I01_UAP_Government_Disclosure_Timeline.md) | Framework | Foundational UAP context |
 | [I09](I09_Alien_Abduction_Phenomenon.md) | Direct | CE-4 encounters/entity types |
-| [B01](../B_Beings_and_Entities/B01_Reptilian_Beings.md) | Thematic | Cross-cultural entity typology |
+| [B01](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) | Thematic | Cross-cultural entity typology |
 | [I15](I15_UAP_Consciousness_Interface_Psychic_Component.md) | Direct | Consciousness-based NHI hypotheses |
 | [Q23](../Q_Cosmology_Physics/Q23_Exoplanets_Habitable_Zones.md) | Contextual | Exoplanet ETH support |
 | [I17](I17_Black_Programs_SAPs_UFO_Coverup.md) | Direct | Government NHI investigation |

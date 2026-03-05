@@ -3,7 +3,7 @@
 > **Document ID:** J15
 > **Section:** J_Ancient_Technology
 > **Keywords:** Four Great Inventions, Zhang Heng, seismoscope, compass, papermaking, printing, gunpowder, cast iron, crossbow, Su Song, south-pointing chariot, differential gear, blast furnace
-> **Cross-References:** [C12](../C_Global_Traditions/C12_Chinese_Dragon.md) · [F11](../F_Lost_Connections/F11_Silk_Road_Knowledge_Exchange.md) · [D20](../D_Sites_and_Artifacts/D20_Writing_Systems.md) · [J05](J05_Metallurgy.md)
+> **Cross-References:** [C12](../C_Global_Traditions/C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) · [F11](../F_Lost_Connections/F11_Silk_Road_Knowledge_Exchange.md) · [D20](../D_Sites_and_Artifacts/D20_Ancient_Writing_Systems_Compared.md) · [J05](J05_Ancient_Metallurgy.md)
 > **Reliability Tier:** Tier 1-2 (well-documented archaeological and textual record with some dating debates)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
 
@@ -116,13 +116,13 @@ Ancient China produced a series of technological innovations that preceded compa
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C12 — Chinese Dragon Traditions](../C_Global_Traditions/C12_Chinese_Dragon.md) | Dragon motifs on bronze vessels and seismoscope design |
+| [C12 — Chinese Dragon Traditions](../C_Global_Traditions/C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) | Dragon motifs on bronze vessels and seismoscope design |
 | [F11 — Silk Road Knowledge Exchange](../F_Lost_Connections/F11_Silk_Road_Knowledge_Exchange.md) | Transmission pathway for Chinese inventions westward |
-| [D20 — Ancient Writing Systems](../D_Sites_and_Artifacts/D20_Writing_Systems.md) | Printing technology and textual record preservation |
-| [J05 — Ancient Metallurgy](J05_Metallurgy.md) | Cast iron, bronze trigger mechanisms, blast furnace technology |
-| [J11 — Ancient Automata](J11_Automata.md) | Su Song's clock tower automata and mechanical devices |
+| [D20 — Ancient Writing Systems](../D_Sites_and_Artifacts/D20_Ancient_Writing_Systems_Compared.md) | Printing technology and textual record preservation |
+| [J05 — Ancient Metallurgy](J05_Ancient_Metallurgy.md) | Cast iron, bronze trigger mechanisms, blast furnace technology |
+| [J11 — Ancient Automata](J11_Ancient_Automata_Proto_Robotics.md) | Su Song's clock tower automata and mechanical devices |
 | [J16 — Islamic Golden Age](J16_Islamic_Golden_Age_Scientific.md) | Paper technology transfer after Battle of Talas |
-| [E15 — Calendar Systems](../E_Cataclysms_and_Chronology/E15_Calendar_Systems.md) | Astronomical observations and timekeeping technology |
+| [E15 — Calendar Systems](../E_Cataclysms_and_Chronology/E15_Calendar_Systems_Ancient_Timekeeping.md) | Astronomical observations and timekeeping technology |
 
 ---
 

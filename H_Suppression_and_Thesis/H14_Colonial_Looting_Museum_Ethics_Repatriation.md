@@ -5,10 +5,10 @@
 > **Keywords:** colonial looting, repatriation, Elgin Marbles, Benin Bronzes,
 > NAGPRA, Kennewick Man, museum ethics, UNESCO 1970, provenance,
 > Rosetta Stone, cultural patrimony, Humboldt Forum, decolonization
-> **Cross-References:** [D19](../D_Sites_and_Artifacts/D19_Baghdad_Museum_Looting.md) ·
-> [H01](H01_Smithsonian_Coverups.md) ·
-> [M01](../M_Forbidden_Archaeology/M01_Out_of_Place_Artifacts.md) ·
-> [C38](../C_Global_Traditions/C38_African_Oral_Traditions.md) ·
+> **Cross-References:** [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) ·
+> [H01](H01_Suppression_of_Ancient_Knowledge.md) ·
+> [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) ·
+> [C38](../C_Global_Traditions/C05_Credo_Mutwa_African_Traditions.md) ·
 > [H13](H13_Inquisition_Systematic_Knowledge_Suppression.md)
 > **Reliability Tier:** Tier 1-2 (extensively documented legal and
 > historical record; ethical debates ongoing)
@@ -228,10 +228,10 @@ international black market (Rothfield, 2009).
 
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
-| [D19](../D_Sites_and_Artifacts/D19_Baghdad_Museum_Looting.md) | Direct | Iraq Museum looting parallel |
-| [H01](H01_Smithsonian_Coverups.md) | Thematic | Institutional narrative control |
-| [M01](../M_Forbidden_Archaeology/M01_Out_of_Place_Artifacts.md) | Contextual | Suppressed anomalous artifacts |
-| [C38](../C_Global_Traditions/C38_African_Oral_Traditions.md) | Direct | African knowledge disrupted |
+| [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Direct | Iraq Museum looting parallel |
+| [H01](H01_Suppression_of_Ancient_Knowledge.md) | Thematic | Institutional narrative control |
+| [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Contextual | Suppressed anomalous artifacts |
+| [C38](../C_Global_Traditions/C05_Credo_Mutwa_African_Traditions.md) | Direct | African knowledge disrupted |
 | [H13](H13_Inquisition_Systematic_Knowledge_Suppression.md) | Thematic | Colonial codex destruction |
 | [H16](H16_Linguistic_Extinction_Lost_Knowledge_Systems.md) | Thematic | Parallel knowledge destruction |
 | [A01](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) | Contextual | Mesopotamian provenance issues |

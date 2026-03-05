@@ -384,4 +384,10 @@ The two factions may be real. The two factions may be mythic. But the PATTERN of
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Lambert, W.G. & Millard, A.R. *Atra-Hasis: The Babylonian Story of the Flood*. Clarendon Press, 1969.
+2. Robinson, James M. (ed.). *The Nag Hammadi Library in English*. Harper & Row, 1977 (revised 1988).
+3. Nickelsburg, George W.E. *1 Enoch: A Commentary on the Book of 1 Enoch*. Hermeneia. Fortress Press, 2001.
+4. Hesiod. *Theogony* and *Works and Days*. Trans. M.L. West. Oxford University Press, 1988.
+5. Aeschylus. *Prometheus Bound*. c. 430 BCE.
+6. Lévi-Strauss, Claude. *Structural Anthropology*. Trans. Claire Jacobson & Brooke Grundfest Schoepf. Basic Books, 1963.
+7. Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.

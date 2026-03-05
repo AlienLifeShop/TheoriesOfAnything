@@ -246,14 +246,14 @@ This system dominated Western medicine for **2,000 years** (Hippocrates through 
 
 | Document | Connection |
 |----------|------------|
-| [J09 — Ancient Metallurgy](J09_Ancient_Metallurgy_Alloys.md) | Metal surgical instruments; material science |
-| [K02 — Psychedelics](../K_Consciousness/K02_Psychedelics_Sacred_Plants.md) | Soma, ayahuasca, and healing — pharmacological dimension |
-| [K17 — Sound Healing](../K_Consciousness/K17_Sound_Vibration_Healing.md) | Therapeutic uses of chanting, mantra, vibration |
-| [G05 — WHO Traditional Medicine](../G_Modern_Frameworks/G05_WHO_Traditional_Medicine.md) | Modern institutional recognition of traditional medicine |
-| [C32 — Aboriginal Dreamtime](../C_Global_Traditions/C32_Aboriginal_Dreamtime_Cosmology.md) | Bush medicine traditions of Aboriginal Australians |
+| [J09 — Ancient Metallurgy](J09_Trepanation_Ancient_Neurosurgery.md) | Metal surgical instruments; material science |
+| [K02 — Psychedelics](../K_Consciousness/K02_Altered_States_Psychedelics.md) | Soma, ayahuasca, and healing — pharmacological dimension |
+| [K17 — Sound Healing](../K_Consciousness/K17_Ergot_Sacred_Pharmacology_History.md) | Therapeutic uses of chanting, mantra, vibration |
+| [G05 — WHO Traditional Medicine](../G_Modern_Frameworks/G05_Shamanism_Entheogens_Serpent_Visions.md) | Modern institutional recognition of traditional medicine |
+| [C32 — Aboriginal Dreamtime](../C_Global_Traditions/C30_Australian_Aboriginal_Dreamtime.md) | Bush medicine traditions of Aboriginal Australians |
 | [C46 — Siberian Shamanism](../C_Global_Traditions/C46_Siberian_Shamanism_Origin.md) | Shamanic healing as medicine |
 | [A08 — Hermetic Tradition](../A_Foundations/A08_Hermetic_Tradition.md) | Hermetic/alchemical medicine (Paracelsus connection) |
-| [C11 — Indian Naga](../C_Global_Traditions/C11_Indian_Naga_Traditions.md) | Ayurvedic context within Indian civilization |
+| [C11 — Indian Naga](../C_Global_Traditions/C11_India_Naga_Traditions.md) | Ayurvedic context within Indian civilization |
 
 ---
 

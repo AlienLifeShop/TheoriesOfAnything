@@ -6,11 +6,11 @@
 > Wilson-Davis memo, Skunkworks, breakaway civilization, crash retrieval,
 > David Grusch, ICIG, UFO cover-up, reverse engineering,
 > compartmentalization
-> **Cross-References:** [I01](I01_UAP_Overview.md) ·
-> [I04](I04_Roswell_Incident.md) ·
-> [H01](../H_Suppression_and_Thesis/H01_Smithsonian_Coverups.md) ·
-> [N14](../N_Secret_Societies/N14_Intelligence_Community_Deep_State.md) ·
-> [S05](../S_Future_Technology/S05_Metamaterials_Advanced_Materials.md)
+> **Cross-References:** [I01](I01_UAP_Government_Disclosure_Timeline.md) ·
+> [I04](I04_UAP_Nuclear_Connection.md) ·
+> [H01](../H_Suppression_and_Thesis/H01_Suppression_of_Ancient_Knowledge.md) ·
+> [N14](../N_Secret_Societies/N14_Rosicrucian_Manifestos_Invisible_College.md) ·
+> [S05](../S_Future_Technology/S05_Post_Human_Futures.md)
 > **Reliability Tier:** Tier 2-3 (government programs documented; claims
 > about NHI craft rely on whistleblower testimony, not independent
 > verification)
@@ -208,11 +208,11 @@ clearances approached the Senate Intelligence Committee.
 
 1. Blumenthal, R. et al. (2017). "Pentagon's Mysterious U.F.O. Program." *NYT*.
 2. Corso, P. (1997). *The Day After Roswell*. Pocket Books.
-3. Department of Defense (2020). Statement on Navy Videos. April 27.
+3. Department of Defense (2020). "Statement on Navy Videos." April 27.
 4. Dolan, R.M. (2009). *UFOs and the National Security State, Vol. 2*.
 5. Dolan, R.M. (2014). *UFOs for the 21st Century Mind*.
 6. Dolan, R.M. (2019). "Wilson/Davis Document: Analysis."
-7. FBI (1988). MJ-12 memorandum.
+7. FBI. (1988). *"MJ-12" Memorandum*. FBI Records: The Vault.
 8. Friedman, S.T. & Berliner, D. (1992). *Crash at Corona*. Paragon House.
 9. Good, T. (1988). *Above Top Secret*. William Morrow.
 10. House Oversight Committee (2023). *Hearing on UAP*. July 26.
@@ -221,7 +221,7 @@ clearances approached the Senate Intelligence Committee.
 13. Kean, L. & Blumenthal, R. (2023). *The Debrief*, June 5.
 14. Lacatski, J. et al. (2021). *Skinwalkers at the Pentagon*. RTMA.
 15. Mellon, C. (2019). *The Hill*, May 28.
-16. Puthoff, H.E. (2018). SCU Conference presentation.
+16. Puthoff, H.E. (2018). "SCU Conference Presentation."
 17. Rich, B.R. & Janos, L. (1994). *Skunk Works*. Little, Brown.
 18. Ruppelt, E.J. (1956). *Report on Unidentified Flying Objects*. Doubleday.
 19. Schmitt, D. & Carey, T. (2009). *Witness to Roswell*. New Page Books.
@@ -235,11 +235,11 @@ clearances approached the Senate Intelligence Committee.
 
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
-| [I01](I01_UAP_Overview.md) | Framework | General UAP history |
-| [I04](I04_Roswell_Incident.md) | Direct | Foundational crash retrieval |
-| [H01](../H_Suppression_and_Thesis/H01_Smithsonian_Coverups.md) | Thematic | Institutional suppression |
-| [N14](../N_Secret_Societies/N14_Intelligence_Community_Deep_State.md) | Direct | IC compartmentalization |
-| [S05](../S_Future_Technology/S05_Metamaterials_Advanced_Materials.md) | Direct | Reverse-engineered materials |
+| [I01](I01_UAP_Government_Disclosure_Timeline.md) | Framework | General UAP history |
+| [I04](I04_UAP_Nuclear_Connection.md) | Direct | Foundational crash retrieval |
+| [H01](../H_Suppression_and_Thesis/H01_Suppression_of_Ancient_Knowledge.md) | Thematic | Institutional suppression |
+| [N14](../N_Secret_Societies/N14_Rosicrucian_Manifestos_Invisible_College.md) | Direct | IC compartmentalization |
+| [S05](../S_Future_Technology/S05_Post_Human_Futures.md) | Direct | Reverse-engineered materials |
 | [I15](I15_UAP_Consciousness_Interface_Psychic_Component.md) | Contextual | AAWSAP consciousness work |
 | [I16](I16_NHI_Taxonomy_Classification_Systems.md) | Direct | NHI framework for materials |
 | [I18](I18_Mass_UAP_Sightings_Multi_Witness_Events.md) | Contextual | Physical evidence support |

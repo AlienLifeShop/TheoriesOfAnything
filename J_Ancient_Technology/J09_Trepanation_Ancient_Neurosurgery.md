@@ -513,4 +513,13 @@ The deepest implication for this project: trepanation demonstrates that **ancien
 
 ## Bibliography
 
-- Descartes. *De Homine*. 1662.
+1. Verano, John W. *Holes in the Head: The Art and Archaeology of Trepanation in Ancient Peru*. Dumbarton Oaks, 2016.
+2. Verano, John W. "Trepanation in Prehistoric South America." In Arnott, R., Finger, S. & Smith, C.U.M. (eds.), *Trepanation: History, Discovery, Theory*. Swets & Zeitlinger, 2003.
+3. Kushner, David S. et al. "Ancient Egyptian Surgical Texts and Modern Neuroscience." *World Neurosurgery* 114 (2018): 257–263.
+4. Alt, Kurt W. et al. "Evidence for Stone Age Cranial Surgery." *Nature* 387 (1997): 360.
+5. Piek, Jens et al. "Stone Age Skull Surgery in Mecklenburg-Vorpommern." *Neurosurgery* 44.4 (1999).
+6. Broca, Paul. "Sur les trépanations préhistoriques." *Bulletin de la Société d'Anthropologie de Paris* 11 (1876).
+7. Breasted, James Henry. *The Edwin Smith Surgical Papyrus*. University of Chicago Press, 1930.
+8. Roberts, Charlotte A. & Manchester, Keith. *The Archaeology of Disease*. 3rd ed. Cornell University Press, 2005.
+9. Gross, Charles G. "A Hole in the Head." *The Neuroscientist* 5.4 (1999): 263–269.
+10. Descartes, René. *De Homine*. 1662.

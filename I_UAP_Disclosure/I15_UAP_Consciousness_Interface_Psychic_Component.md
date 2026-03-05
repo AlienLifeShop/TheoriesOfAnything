@@ -7,10 +7,10 @@
 > Skinwalker Ranch, Garry Nolan, caudate-putamen, psi,
 > Passport to Magonia, consciousness contact, anomalous cognition
 > **Cross-References:** [K04](../K_Consciousness/K04_Quantum_Consciousness.md) ·
-> [G33](../G_Modern_Frameworks/G33_Parapsychology_Psi_Research.md) ·
+> [G33](../G_Modern_Frameworks/G33_Parapsychology_Experimental_Psi.md) ·
 > [I09](I09_Alien_Abduction_Phenomenon.md) ·
-> [K22](../K_Consciousness/K22_Anomalous_Abilities_Savants.md) ·
-> [I01](I01_UAP_Overview.md)
+> [K22](../K_Consciousness/K22_Anomalous_Human_Abilities_Siddhis.md) ·
+> [I01](I01_UAP_Government_Disclosure_Timeline.md)
 > **Reliability Tier:** Tier 2-3 (serious researchers with academic
 > credentials; empirical verification remains elusive)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources
@@ -209,7 +209,7 @@ data has limitations, cross-demographic consistency is notable
 10. Kripal, J.J. (2010). *Authors of the Impossible*. Univ. of Chicago Press.
 11. Lacatski, J. et al. (2021). *Skinwalkers at the Pentagon*. RTMA, LLC.
 12. Mack, J.E. (1994). *Abduction*. Scribner's.
-13. Nolan, G. (2022). SALT Conference presentation on neuroanatomy.
+13. Nolan, G. (2022). "SALT Conference Presentation on Neuroanatomy."
 14. Pasulka, D.W. (2019). *American Cosmic*. Oxford UP.
 15. Puthoff, H.E. (1996). *JSE*, 10(1), 63–76.
 16. Radin, D. (2006). *Entangled Minds*. Paraview Pocket Books.
@@ -226,10 +226,10 @@ data has limitations, cross-demographic consistency is notable
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
 | [K04](../K_Consciousness/K04_Quantum_Consciousness.md) | Direct | Quantum consciousness mechanism |
-| [G33](../G_Modern_Frameworks/G33_Parapsychology_Psi_Research.md) | Direct | Overlapping psi research |
+| [G33](../G_Modern_Frameworks/G33_Parapsychology_Experimental_Psi.md) | Direct | Overlapping psi research |
 | [I09](I09_Alien_Abduction_Phenomenon.md) | Direct | Consciousness in abductions |
-| [K22](../K_Consciousness/K22_Anomalous_Abilities_Savants.md) | Thematic | Neurological anomalies |
-| [I01](I01_UAP_Overview.md) | Framework | Broader UAP context |
+| [K22](../K_Consciousness/K22_Anomalous_Human_Abilities_Siddhis.md) | Thematic | Neurological anomalies |
+| [I01](I01_UAP_Government_Disclosure_Timeline.md) | Framework | Broader UAP context |
 | [I16](I16_NHI_Taxonomy_Classification_Systems.md) | Direct | Ultraterrestrial NHI categories |
 | [I17](I17_Black_Programs_SAPs_UFO_Coverup.md) | Contextual | AAWSAP consciousness investigation |
 

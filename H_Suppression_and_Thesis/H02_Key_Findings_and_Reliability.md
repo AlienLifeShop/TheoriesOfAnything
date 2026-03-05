@@ -354,4 +354,9 @@ The ancient traditions themselves — supported by primary texts, archaeological
 
 ## Bibliography
 
-*[Bibliography to be compiled from in-text citations]*
+1. Isbell, Lynne A. *The Fruit, the Tree, and the Serpent: Why We See So Well*. Harvard University Press, 2009.
+2. Öhman, Arne & Mineka, Susan. "The Malicious Serpent: Snakes as a Prototypical Stimulus for an Evolved Module of Fear." *Current Directions in Psychological Science* 12.1 (2003): 5–9.
+3. Campbell, Joseph. *The Hero with a Thousand Faces*. Pantheon Books, 1949.
+4. Annus, Aad. "On the Origin of Watchers: A Comparative Study of the Antediluvian Wisdom in Mesopotamian and Jewish Traditions." *Journal for the Study of the Pseudepigrapha* 19.4 (2010): 277–320.
+5. Skoglund, Pontus et al. "Genetic Evidence for Two Founding Populations of the Americas." *Nature* 525 (2015): 104–108.
+6. Sweatman, Martin B. & Tsikritsis, Dimitrios. "Decoding Göbekli Tepe with Archaeoastronomy." *Mediterranean Archaeology and Archaeometry* 17.1 (2017): 233–250.

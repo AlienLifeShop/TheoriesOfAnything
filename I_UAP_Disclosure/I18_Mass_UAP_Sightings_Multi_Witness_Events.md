@@ -5,9 +5,9 @@
 > **Keywords:** Phoenix Lights, Washington D.C. 1952, Belgium Wave,
 > Westall 1966, Rendlesham Forest, O'Hare Airport, Stephenville,
 > USS Nimitz, FLIR1, mass sighting, radar-visual, multi-witness
-> **Cross-References:** [I01](I01_UAP_Overview.md) ·
+> **Cross-References:** [I01](I01_UAP_Government_Disclosure_Timeline.md) ·
 > [I17](I17_Black_Programs_SAPs_UFO_Coverup.md) ·
-> [I04](I04_Roswell_Incident.md) ·
+> [I04](I04_UAP_Nuclear_Connection.md) ·
 > [I15](I15_UAP_Consciousness_Interface_Psychic_Component.md) ·
 > [I16](I16_NHI_Taxonomy_Classification_Systems.md)
 > **Reliability Tier:** Tier 1-2 (multiple independent witnesses,
@@ -223,9 +223,9 @@ Declassified Brazilian files partially corroborate accounts
 
 1. Chalker, B. (1996). *The OZ Files*. Duffy & Snellgrove.
 2. De Brouwer, W. (2010). In *UFOs*, ed. L. Kean. Harmony Books.
-3. Department of Defense (2020). Statement on Navy Videos. April 27.
+3. Department of Defense (2020). "Statement on Navy Videos." April 27.
 4. Dolan, R.M. (2002). *UFOs and the National Security State, Vol. 1*.
-5. Fravor, D. (2017). USS Nimitz encounter interviews.
+5. Fravor, D. (2017). "USS Nimitz Encounter Interviews."
 6. Halt, C. (1981). "Unexplained Lights." UK MoD memorandum.
 7. Hamilton, W. (2001). *The Phoenix Lights*. Publish America.
 8. Hynek, J.A. (1972). *The UFO Experience*. Henry Regnery.
@@ -237,7 +237,7 @@ Declassified Brazilian files partially corroborate accounts
 14. Powell, R. & Swords, M.D. (2012). *UFOs and Government*. Anomalist.
 15. Pratt, B. (1996). *UFO Danger Zone*. Horus House Press.
 16. Ruppelt, E.J. (1956). *Report on Unidentified Flying Objects*. Doubleday.
-17. Ryan, S. (2010). Westall UFO research presentations.
+17. Ryan, S. (2010). "Westall UFO Research Presentations."
 18. SCU (2019). *Forensic Analysis of Nimitz Encounter*. Technical Report.
 19. SOBEPS (1991). *Vague d'OVNI sur la Belgique*. SOBEPS.
 20. Swords, M.D. & Powell, R. (2012). *UFOs and Government*. Anomalist.
@@ -250,9 +250,9 @@ Declassified Brazilian files partially corroborate accounts
 
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
-| [I01](I01_UAP_Overview.md) | Framework | General UAP history |
+| [I01](I01_UAP_Government_Disclosure_Timeline.md) | Framework | General UAP history |
 | [I17](I17_Black_Programs_SAPs_UFO_Coverup.md) | Direct | Government response patterns |
-| [I04](I04_Roswell_Incident.md) | Thematic | Physical evidence precedent |
+| [I04](I04_UAP_Nuclear_Connection.md) | Thematic | Physical evidence precedent |
 | [I15](I15_UAP_Consciousness_Interface_Psychic_Component.md) | Contextual | Psychological dimensions |
 | [I16](I16_NHI_Taxonomy_Classification_Systems.md) | Direct | Classification of observed craft |
 | [H15](../H_Suppression_and_Thesis/H15_Scientific_Censorship_Paradigm_Defense.md) | Thematic | Institutional resistance |

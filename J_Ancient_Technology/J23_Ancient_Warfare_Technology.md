@@ -3,7 +3,7 @@
 > **Document ID:** J23
 > **Section:** J_Ancient_Technology
 > **Keywords:** Greek fire, siege warfare, Archimedes, Roman pilum, crossbow, trebuchet, war elephants, chemical warfare, Mohist engineering, Byzantine incendiary, poison arrows, ancient weapons
-> **Cross-References:** [J06](J06_Ancient_Engineering_Techniques.md) · [J11](J11_Ancient_Automata_Robotics.md) · [S19](../S_Future_Technology/S19_Autonomous_Weapons.md) · [E07](../E_Cataclysms_and_Chronology/E07_Bronze_Age_Collapse.md) · [A11](../A_Foundations/A11_Mahabharata.md)
+> **Cross-References:** [J06](J06_Sound_Vibration_Creation.md) · [J11](J11_Ancient_Automata_Proto_Robotics.md) · [S19](../S_Future_Technology/S19_Autonomous_Weapons_Systems.md) · [E07](../F_Lost_Connections/F08_Sea_Peoples_Bronze_Age_Collapse.md) · [A11](../A_Foundations/A11_Mahabharata.md)
 > **Reliability Tier:** Tier 1-3 (well-documented military history through debated compositions and mechanisms)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High for documented systems, Moderate for reconstructed mechanisms
 
@@ -170,10 +170,10 @@ Ancient warfare technology reveals engineering sophistication that challenges li
 
 | Document | Relation | Relevance |
 |----------|----------|-----------|
-| [J06](J06_Ancient_Engineering_Techniques.md) | Parent topic | Military engineering as applied technology |
-| [J11](J11_Ancient_Automata_Robotics.md) | Related technology | Automata and mechanical war devices |
-| [S19](../S_Future_Technology/S19_Autonomous_Weapons.md) | Modern parallel | Ancient precedents for weapons autonomy |
-| [E07](../E_Cataclysms_and_Chronology/E07_Bronze_Age_Collapse.md) | Historical | Warfare technology during Bronze Age Collapse |
+| [J06](J06_Sound_Vibration_Creation.md) | Parent topic | Military engineering as applied technology |
+| [J11](J11_Ancient_Automata_Proto_Robotics.md) | Related technology | Automata and mechanical war devices |
+| [S19](../S_Future_Technology/S19_Autonomous_Weapons_Systems.md) | Modern parallel | Ancient precedents for weapons autonomy |
+| [E07](../F_Lost_Connections/F08_Sea_Peoples_Bronze_Age_Collapse.md) | Historical | Warfare technology during Bronze Age Collapse |
 | [A11](../A_Foundations/A11_Mahabharata.md) | Textual | Mahabharata weapon descriptions |
 | [J22](J22_Ancient_Mining_Metallurgy_Beyond_Bronze.md) | Material basis | Metal production for weapons |
 | [J24](J24_Ancient_Communication_Systems.md) | Military context | Communication in warfare |

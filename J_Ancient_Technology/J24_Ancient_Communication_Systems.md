@@ -3,7 +3,7 @@
 > **Document ID:** J24
 > **Section:** J_Ancient_Technology
 > **Keywords:** Roman roads, Persian Royal Road, Inca chasqui, beacon towers, hydraulic telegraph, drum telegraphy, Polynesian stick charts, cursus publicus, clay tokens, Schmandt-Besserat, communication networks, signal systems
-> **Cross-References:** [J06](J06_Ancient_Engineering_Techniques.md) · [F09](../F_Lost_Connections/F09_Lost_Languages_Undeciphered.md) · [D32](../D_Sites_and_Artifacts/D32_Sacred_Architecture_Geometry.md) · [V07](../V_Mathematics_Information/V07_Cryptography_Codes_Ciphers.md) · [C40](../C_Global_Traditions/C40_Polynesian_Navigation.md)
+> **Cross-References:** [J06](J06_Sound_Vibration_Creation.md) · [F09](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) · [D32](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) · [V07](../V_Mathematics_Information/V07_Cryptography.md) · [C40](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md)
 > **Reliability Tier:** Tier 1-3 (well-documented infrastructure through debated signal capabilities)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High for physical infrastructure, Moderate for signal system capabilities
 
@@ -167,12 +167,12 @@ Ancient communication systems achieved remarkable speed and coverage through int
 
 | Document | Relation | Relevance |
 |----------|----------|-----------|
-| [J06](J06_Ancient_Engineering_Techniques.md) | Parent topic | Road and signal infrastructure as engineering |
-| [F09](../F_Lost_Connections/F09_Lost_Languages_Undeciphered.md) | Related | Writing systems as communication technology |
-| [D32](../D_Sites_and_Artifacts/D32_Sacred_Architecture_Geometry.md) | Acoustic | Architectural communication properties |
-| [V07](../V_Mathematics_Information/V07_Cryptography_Codes_Ciphers.md) | Information | Polybius square and encoded signaling |
-| [C40](../C_Global_Traditions/C40_Polynesian_Navigation.md) | Direct link | Stick charts as navigational communication |
-| [C28](../C_Global_Traditions/C28_Inca_Quipu_Khipu_Recording.md) | Direct link | Quipu as chasqui message medium |
+| [J06](J06_Sound_Vibration_Creation.md) | Parent topic | Road and signal infrastructure as engineering |
+| [F09](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) | Related | Writing systems as communication technology |
+| [D32](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) | Acoustic | Architectural communication properties |
+| [V07](../V_Mathematics_Information/V07_Cryptography.md) | Information | Polybius square and encoded signaling |
+| [C40](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md) | Direct link | Stick charts as navigational communication |
+| [C28](../C_Global_Traditions/C41_Andean_Civilizations.md) | Direct link | Quipu as chasqui message medium |
 | [J23](J23_Ancient_Warfare_Technology.md) | Military context | Signal systems in warfare |
 
 ---

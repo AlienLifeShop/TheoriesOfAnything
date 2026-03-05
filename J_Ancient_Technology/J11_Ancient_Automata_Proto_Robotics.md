@@ -112,12 +112,12 @@ Badi'al-Zaman al-Jazari, chief engineer in Diyarbakır (modern Turkey), wrote *T
 
 | Document | Connection |
 |----------|------------|
-| [J05 — Ancient Acoustics/Technology](J05_Ancient_Acoustics.md) | Ancient technological capabilities |
+| [J05 — Ancient Acoustics/Technology](J05_Ancient_Metallurgy.md) | Ancient technological capabilities |
 | [J13 — Navigation Instruments](J13_Ancient_Navigation_Instruments.md) | Astrolabe and ancient instruments |
-| [D20 — Greco-Buddhist Art](../D_Sites_and_Artifacts/D20_Greco_Buddhist_Art_Gandhara.md) | Greek cultural transmission |
+| [D20 — Greco-Buddhist Art](../D_Sites_and_Artifacts/D20_Ancient_Writing_Systems_Compared.md) | Greek cultural transmission |
 | [F11 — Silk Road](../F_Lost_Connections/F11_Silk_Road_Knowledge_Exchange.md) | Knowledge transfer networks |
 | [S11 — Nanotechnology](../S_Future_Technology/S11_Nanotechnology_Molecular_Machines.md) | Modern molecular machines |
-| [S01 — Future Technology](../S_Future_Technology/S01_Future_Technology_Overview.md) | Technology trajectory |
+| [S01 — Future Technology](../S_Future_Technology/S01_AGI_Existential_Risk.md) | Technology trajectory |
 
 ---
 

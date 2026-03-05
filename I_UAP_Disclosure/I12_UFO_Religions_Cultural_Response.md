@@ -3,7 +3,7 @@
 > **Document ID:** I12
 > **Section:** I_UAP_Disclosure
 > **Keywords:** UFO religions, Raëlism, Heaven's Gate, Scientology, Aetherius Society, Unarius, cargo cult, techno-spirituality, new religious movements, contactee, Marshall Applewhite, Claude Vorilhon, L. Ron Hubbard, George King
-> **Cross-References:** [I10](I10_Ancient_Astronaut_Theory.md) · [G06](../G_Modern_Frameworks/G06_Modern_Conspiracy.md) · [C10](../C_Global_Traditions/C10_Cargo_Cult.md) · [G07](../G_Modern_Frameworks/G07_Collective_Consciousness.md)
+> **Cross-References:** [I10](I10_Ancient_Astronaut_Theory.md) · [G06](../G_Modern_Frameworks/G06_Modern_Conspiracy_Analysis.md) · [C10](../C_Global_Traditions/C10_Cargo_Cult_Analogy.md) · [G07](../G_Modern_Frameworks/G07_Collective_Consciousness.md)
 > **Reliability Tier:** Tier 1-3 (Organizations and events well-documented; sociological interpretations debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 15 scholarly sources | **Confidence:** High (historical record); Moderate (sociological analysis)
 
@@ -154,13 +154,13 @@ UFO religions — new religious movements incorporating extraterrestrial beings 
 | Related Doc | Connection |
 |-------------|-----------|
 | [I10](I10_Ancient_Astronaut_Theory.md) | Ancient astronaut theory as intellectual precursor to UFO religions |
-| [C10](../C_Global_Traditions/C10_Cargo_Cult.md) | Cargo cult structural parallels — technology-as-divinity |
-| [G06](../G_Modern_Frameworks/G06_Modern_Conspiracy.md) | UFO belief intersects with conspiracy culture |
+| [C10](../C_Global_Traditions/C10_Cargo_Cult_Analogy.md) | Cargo cult structural parallels — technology-as-divinity |
+| [G06](../G_Modern_Frameworks/G06_Modern_Conspiracy_Analysis.md) | UFO belief intersects with conspiracy culture |
 | [G07](../G_Modern_Frameworks/G07_Collective_Consciousness.md) | Collective psychological dimensions of UFO belief |
 | [I14](I14_Vallee_Control_System_Hypothesis.md) | Vallée's control system as framework for UFO religion formation |
-| [I01](I01_UAP_Disclosure.md) | Official UAP disclosure as potential catalyst for UFO religion growth |
+| [I01](I01_UAP_Government_Disclosure_Timeline.md) | Official UAP disclosure as potential catalyst for UFO religion growth |
 | [I13](I13_Close_Encounters_Classification.md) | Classification of contact types underlying contactee claims |
-| [K14](../K_Consciousness/K14_Limitation_Motif.md) | Consciousness limitation themes in UFO religious narratives |
+| [K14](../K_Consciousness/K14_Limitation_of_Consciousness_Motif.md) | Consciousness limitation themes in UFO religious narratives |
 
 ---
 

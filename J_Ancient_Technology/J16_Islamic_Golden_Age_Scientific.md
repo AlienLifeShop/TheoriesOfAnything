@@ -3,7 +3,7 @@
 > **Document ID:** J16
 > **Section:** J_Ancient_Technology
 > **Keywords:** Islamic Golden Age, House of Wisdom, Bayt al-Hikma, Al-Khwarizmi, algebra, algorithm, Ibn al-Haytham, optics, Al-Jazari, automata, Al-Zahrawi, surgery, bimaristan, astrolabe, muqarnas, Baghdad, translation movement
-> **Cross-References:** [N08](../N_Secret_Societies/N08_Sufi_Orders.md) · [F11](../F_Lost_Connections/F11_Silk_Road_Knowledge_Exchange.md) · [J10](J10_Ancient_Optics.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [J11](J11_Automata.md)
+> **Cross-References:** [N08](../N_Secret_Societies/N08_Sufi_Orders_Islamic_Esotericism.md) · [F11](../F_Lost_Connections/F11_Silk_Road_Knowledge_Exchange.md) · [J10](J10_Ancient_Optics_Lenses_Light.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [J11](J11_Ancient_Automata_Proto_Robotics.md)
 > **Reliability Tier:** Tier 1-2 (extensively documented through surviving manuscripts, archaeological evidence, and scholarly consensus)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** High
 
@@ -133,11 +133,11 @@ The Islamic Golden Age (roughly 8th-14th century CE) constitutes one of the most
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [N08 — Sufi Orders](../N_Secret_Societies/N08_Sufi_Orders.md) | Mystical dimensions of Islamic intellectual tradition |
+| [N08 — Sufi Orders](../N_Secret_Societies/N08_Sufi_Orders_Islamic_Esotericism.md) | Mystical dimensions of Islamic intellectual tradition |
 | [F11 — Silk Road Knowledge Exchange](../F_Lost_Connections/F11_Silk_Road_Knowledge_Exchange.md) | East-West knowledge transmission through Islamic intermediaries |
-| [J10 — Ancient Optics](J10_Ancient_Optics.md) | Ibn al-Haytham's foundational contributions to optics |
+| [J10 — Ancient Optics](J10_Ancient_Optics_Lenses_Light.md) | Ibn al-Haytham's foundational contributions to optics |
 | [D10 — Sacred Geometry](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Girih tiles, muqarnas, and geometric ornamentation principles |
-| [J11 — Ancient Automata](J11_Automata.md) | Al-Jazari's programmable mechanical devices |
+| [J11 — Ancient Automata](J11_Ancient_Automata_Proto_Robotics.md) | Al-Jazari's programmable mechanical devices |
 | [J15 — Chinese Ancient Technology](J15_Chinese_Ancient_Technology.md) | Paper and compass technology transfer to Islamic world |
 | [J14 — Roman Engineering](J14_Roman_Engineering_Roads_Aqueducts_Concrete.md) | Vitruvian texts preserved through Arabic translation |
 

@@ -3,7 +3,7 @@
 > **Document ID:** J17
 > **Section:** J_Ancient_Technology
 > **Keywords:** Qhapaq Ñan, Inca roads, khipu, quipu, chasqui, runner relay, rope bridge, tambo, Andes, Tawantinsuyu, knotted string, UNESCO, information technology
-> **Cross-References:** [C41](../C_Global_Traditions/C41_Andean_Civilizations.md) · [D20](../D_Sites_and_Artifacts/D20_Writing_Systems.md) · [D05](../D_Sites_and_Artifacts/D05_Megalithic.md) · [P17](../P_Philosophy_Meaning/P17_Art_as_Knowledge_Encoding.md)
+> **Cross-References:** [C41](../C_Global_Traditions/C41_Andean_Civilizations.md) · [D20](../D_Sites_and_Artifacts/D20_Ancient_Writing_Systems_Compared.md) · [D05](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [P17](../P_Philosophy_Meaning/P17_Art_as_Knowledge_Encoding.md)
 > **Reliability Tier:** Tier 1-2 (UNESCO-documented archaeological record with ongoing research on khipu decipherment)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High
 
@@ -120,8 +120,8 @@ The Inca Empire (Tawantinsuyu, c. 1438-1533 CE) administered the largest empire 
 | Related Doc | Connection |
 |-------------|-----------|
 | [C41 — Andean Civilizations](../C_Global_Traditions/C41_Andean_Civilizations.md) | Inca cultural context and predecessor civilizations |
-| [D20 — Ancient Writing Systems](../D_Sites_and_Artifacts/D20_Writing_Systems.md) | Khipu as potential writing/recording system |
-| [D05 — Megalithic Construction](../D_Sites_and_Artifacts/D05_Megalithic.md) | Inca stone fitting at Sacsayhuamán and Ollantaytambo |
+| [D20 — Ancient Writing Systems](../D_Sites_and_Artifacts/D20_Ancient_Writing_Systems_Compared.md) | Khipu as potential writing/recording system |
+| [D05 — Megalithic Construction](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | Inca stone fitting at Sacsayhuamán and Ollantaytambo |
 | [P17 — Art as Knowledge Encoding](../P_Philosophy_Meaning/P17_Art_as_Knowledge_Encoding.md) | Khipu as non-textual information encoding |
 | [J14 — Roman Engineering](J14_Roman_Engineering_Roads_Aqueducts_Concrete.md) | Comparative road engineering traditions |
 | [F11 — Silk Road Knowledge Exchange](../F_Lost_Connections/F11_Silk_Road_Knowledge_Exchange.md) | Contrast: isolated vs. connected knowledge networks |

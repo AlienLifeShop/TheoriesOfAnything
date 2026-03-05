@@ -508,5 +508,11 @@ One remarkable survival of the positive serpent tradition persists in plain sigh
 
 ## Bibliography
 
-- Charlesworth. *The Good and Evil Serpent*. 2010.
-- Mundkur. *The Cult of the Serpent*. 1983.
+1. Charlesworth, James H. *The Good and Evil Serpent: How a Universal Symbol Became Christianized*. Yale University Press, 2010.
+2. Mundkur, Balaji. *The Cult of the Serpent: An Interdisciplinary Survey of Its Manifestations and Origins*. SUNY Press, 1983.
+3. Stone, Merlin. *When God Was a Woman*. Dial Press, 1976.
+4. Gimbutas, Marija. *The Language of the Goddess*. Harper & Row, 1989.
+5. Nickelsburg, George W.E. *1 Enoch: A Commentary on the Book of 1 Enoch*. Hermeneia. Fortress Press, 2001.
+6. Kramer, Heinrich. *Malleus Maleficarum*. 1487.
+7. Irenaeus of Lyon. *Against Heresies*. c. 180 CE.
+8. Augustine of Hippo. *City of God*. c. 426 CE.

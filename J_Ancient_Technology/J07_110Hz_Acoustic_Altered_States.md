@@ -487,4 +487,12 @@ This document draws on a combination of peer-reviewed neuroscience, published ac
 
 ## Bibliography
 
-- Zwickey. *Alternative Therapies in Health and Medicine*. 2007.
+1. Cook, Ian A., Pajot, Sarah K. & Leuchter, Andrew F. "Ancient Architectural Acoustic Resonance Patterns and Regional Brain Activity." *Time and Mind* 1.1 (2008): 95–104.
+2. Devereux, Paul. *Stone Age Soundtracks: The Acoustic Archaeology of Ancient Sites*. Vega Books, 2001.
+3. Kolar, Miriam A. "Tuned to the Senses: An Archaeoacoustic Perspective on Ancient Chavín." *The Appendix* 1.3 (2013).
+4. Jenny, Hans. *Cymatics: A Study of Wave Phenomena and Vibration*. MACROmedia Publishing, 1967.
+5. Neher, Andrew. "Auditory Driving Observed with Scalp Electrodes in Normal Subjects." *Electroencephalography and Clinical Neurophysiology* 13 (1961): 449–451.
+6. Wahbeh, Helane, Calabrese, Carlo & Zwickey, Heather. "Binaural Beat Technology in Humans: A Pilot Study to Assess Psychologic and Physiologic Effects." *Journal of Alternative and Complementary Medicine* 13.1 (2007): 25–32.
+7. Lubman, David. "Archaeological Acoustics of Mayan Temples." *Journal of the Acoustical Society of America* 104.3 (1998).
+8. Harner, Michael. *The Way of the Shaman*. Harper & Row, 1980.
+9. Dunn, Christopher. *The Giza Power Plant: Technologies of Ancient Egypt*. Bear & Company, 1998.

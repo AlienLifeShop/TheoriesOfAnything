@@ -37,6 +37,8 @@ Cases with DoD-confirmed video/sensor data showing trans-medium behavior:
 | Aguadilla, PR | Apr 2013 | DHS/CBP thermal camera | Object tracked at 40–120 mph entering/exiting water | 2 |
 | Nimitz | Nov 2004 | FLIR + radar | Tic Tac observed hovering over "disturbance" in water before engagement | 1–2 |
 
+**Counter-Argument:** Mick West (Metabunk, 2021) has proposed that some apparent "trans-medium" events may be optical illusions caused by parallax — objects at oblique viewing angles can appear to pass through water surfaces when they actually pass behind wave crests. Additionally, sensor artifacts (infrared glare, bokeh) can create false impressions of anomalous behavior in military footage.
+
 ---
 
 ## 2. Credible Claims — Tier 2
@@ -188,12 +190,12 @@ This is one of the most compelling cross-cultural parallels in the archive:
 
 1. Sanderson, Ivan T. *Invisible Residents: The Reality of Underwater UFOs*. World Publishing, 1970.
 2. Stonehill, Paul & Philip Mantle. *Russia's USO Secrets*. Flying Disk Press, 2020.
-3. NOAA PMEL. Hydroacoustics Program. https://www.pmel.noaa.gov/acoustics/
+3. NOAA Pacific Marine Environmental Laboratory. *Hydroacoustics Program: Acoustic Monitoring of the Global Ocean* (2000–present). https://www.pmel.noaa.gov/acoustics/
 4. Kean, Leslie. *UFOs: Generals, Pilots, and Government Officials Go on the Record*. Crown, 2010.
-5. Berossus. *Babyloniaca* (fragments via Alexander Polyhistor / Eusebius).
-6. Loeb, Avi et al. IM1 expedition papers. Galileo Project preprints, 2023–2024.
-7. Desch, S.J. et al. Critical response to IM1 spherule claims. 2023.
-8. Swedish Armed Forces. Declassified submarine hunting reports (Hårsfjrärden, 1982).
+5. Berossus. *Babyloniaca*. c. 280 BCE. (Fragments via Alexander Polyhistor / Eusebius).
+6. Loeb, Avi et al. "IM1 Expedition Papers." Galileo Project preprints, 2023–2024.
+7. Desch, S.J. et al. "Critical Response to IM1 Spherule Claims." 2023.
+8. Swedish Armed Forces. *Declassified Submarine Hunting Reports* (Hårsfjärden, 1982).
 
 ---
 *[I07 COMPLETE — Trans-medium cases, SOSUS, Loeb IM1, Scandinavian USOs, bioluminescence debunking, 10-tradition water being table, NOAA, 3 images]*
@@ -277,9 +279,9 @@ This is one of the most compelling cross-cultural parallels in the archive:
 ### 8.7 Updated Bibliography (Expanded)
 
 6. Styles, Chris & Graham Simms. *Dark Object: The World's Only Government-Documented UFO Crash*. Dell, 2001.
-7. Royal Canadian Mounted Police. Shag Harbour UFO Report, October 1967. Canadian Archives.
+7. Royal Canadian Mounted Police. *Shag Harbour UFO Report*, October 1967. Canadian Archives.
 8. NOAA. Puerto Rico Trench bathymetric surveys. NOAA Ocean Exploration.
-9. Colares / Operação Prato files. Brazilian Air Force (partially declassified 1997).
+9. *Colares / Operação Prato Files*. Brazilian Air Force (partially declassified 1997).
 
 ---
 *[I07 FULLY RESTORED — Trans-medium cases expanded to 8+, Shag Harbour, PR Trench, Baikal expanded, Catalina Channel, 8 images]*
@@ -396,7 +398,7 @@ This is one of the most compelling cross-cultural parallels in the archive:
 
 ### 11.3 Missing Bibliography Additions
 
-10. Corbell, Jeremy & George Knapp. USS Russell / USS Omaha night-vision footage releases. 2021.
+10. Corbell, Jeremy & George Knapp. *USS Russell / USS Omaha Night-Vision Footage Releases*. 2021.
 11. Gallaudet, RADM Tim (ret.). Various public presentations on ocean UAP investigation. *The Debrief* interviews, 2023–2025.
 12. West, Mick. "Pyramid UFO is Bokeh." Metabunk analysis, 2021.
 
@@ -407,4 +409,18 @@ This is one of the most compelling cross-cultural parallels in the archive:
 
 ## Bibliography
 
-- Stonehill & Mantle. *Russia's USO Secrets*. 2020.
+1. Sanderson, Ivan T. *Invisible Residents: The Reality of Underwater UFOs*. World Publishing, 1970.
+2. Stonehill, Paul & Philip Mantle. *Russia's USO Secrets*. Flying Disk Press, 2020.
+3. NOAA Pacific Marine Environmental Laboratory. *Hydroacoustics Program: Acoustic Monitoring of the Global Ocean* (2000–present). https://www.pmel.noaa.gov/acoustics/
+4. Kean, Leslie. *UFOs: Generals, Pilots, and Government Officials Go on the Record*. Crown, 2010.
+5. Berossus. *Babyloniaca*. c. 280 BCE. (Fragments via Alexander Polyhistor / Eusebius).
+6. Loeb, Avi et al. "IM1 Expedition Papers." Galileo Project preprints, 2023–2024.
+7. Desch, S.J. et al. "Critical Response to IM1 Spherule Claims." 2023.
+8. Swedish Armed Forces. *Declassified Submarine Hunting Reports* (Hårsfjärden, 1982).
+9. Styles, Chris & Graham Simms. *Dark Object*. Dell, 2001.
+10. Royal Canadian Mounted Police. *Shag Harbour UFO Report*, October 1967. Canadian Archives.
+11. NOAA. *Puerto Rico Trench Bathymetric Surveys*. NOAA Ocean Exploration, 2018.
+12. *Colares / Operação Prato Files*. Brazilian Air Force (partially declassified 1997).
+13. Corbell, Jeremy & George Knapp. *USS Russell / USS Omaha Night-Vision Footage Releases*. 2021.
+14. Gallaudet, RADM Tim (ret.). Public presentations on ocean UAP investigation. *The Debrief*, 2023–2025.
+15. West, Mick. "Pyramid UFO is Bokeh." Metabunk analysis, 2021.

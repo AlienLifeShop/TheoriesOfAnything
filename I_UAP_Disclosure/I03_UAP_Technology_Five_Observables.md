@@ -492,6 +492,12 @@ This table was present in a prior I03 draft and is restored here. It is an **int
 
 ## Bibliography
 
-- Elizondo. *Imminent*. 2024.
-- Kelleher & Knapp. *Inside the U.S. Government Covert UFO Program*. 2023.
-- Pasulka. *American Cosmic*. 2019.
+1. Alcubierre, Miguel. "The Warp Drive: Hyper-Fast Travel within General Relativity." *Classical and Quantum Gravity* 11 (1994): L73–L77.
+2. Knuth, Kevin H. et al. "Are We Alone? The Question Is Worthy of Serious Scientific Study." *Entropy* 21.10 (2019).
+3. Elizondo, Luis. *Imminent: Inside the Pentagon's Hunt for UFOs*. William Morrow, 2024.
+4. Lacatski, James T., Kelleher, Colm A. & Knapp, George. *Inside the U.S. Government Covert UFO Program: Initial Revelations*. RTMA, 2023.
+5. Pasulka, D.W. *American Cosmic: UFOs, Religion, Technology*. Oxford University Press, 2019.
+6. Puthoff, Harold E. "SETI, the Velocity-of-Light Limitation, and the Alcubierre Warp Drive." *Physics Essays* 9.1 (1996).
+7. Vallée, Jacques. *Messengers of Deception: UFO Contacts and Cults*. And/Or Press, 1979.
+8. Lentz, Erik. "Breaking the Warp Barrier: Hyper-Fast Solitons in Einstein-Maxwell-Plasma Theory." *Classical and Quantum Gravity* 38.7 (2021).
+9. Millis, Marc G. & Davis, Eric W. (eds.). *Frontiers of Propulsion Science*. AIAA Progress in Astronautics and Aeronautics, Vol. 227. 2009.

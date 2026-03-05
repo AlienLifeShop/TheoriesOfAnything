@@ -38,6 +38,8 @@ The history of government engagement with the UFO/UAP phenomenon spans nearly 80
 - **Declassified 1975:** CIA FOIA Reading Room
 - **Connection to H01:** Robertson Panel is a DOCUMENTED case of deliberate government suppression of anomalous information — same pattern as religious canon formation (N03)
 
+**Counter-Argument:** Skeptics note the Robertson Panel's debunking recommendation was a rational Cold War security response — concerns about Soviet exploitation of UFO reports to jam military communication channels were legitimate national security considerations, not evidence of a coverup of actual extraterrestrial contact (Kirkpatrick, 2024).
+
 ### 1.3 Condon Report (1968) [5/6 sources]
 - 1,485-page report commissioned by USAF from University of Colorado, led by physicist Edward Condon
 - Summary conclusion: "nothing has come from the study of UFOs... that has added to scientific knowledge"
@@ -45,6 +47,8 @@ The history of government engagement with the UFO/UAP phenomenon spans nearly 80
 - Project coordinator Robert Low's leaked memo revealed predetermined negative conclusion: "the trick would be... to describe the project so that, to the public, it would appear a totally objective study"
 - Led directly to Blue Book closure (1969) and official government exit from UFO investigation
 - **Source:** Condon, Edward U., *Scientific Study of Unidentified Flying Objects*, University of Colorado / Bantam Books, 1969; Internet Archive: https://archive.org/details/scientificstudyo0000univ
+
+**Counter-Argument:** Defenders of the Condon Report argue that the "30% unexplained" figure includes cases with insufficient data, not cases that definitively defied explanation — and that the scientific conclusion (no new physics demonstrated) remains methodologically sound regardless of individual unexplained cases.
 
 ### 1.4 AATIP / AAWSAP (2007–2012+) [6/6 sources]
 - **AAWSAP** (Advanced Aerospace Weapon System Applications Program):
@@ -242,8 +246,8 @@ The history of government engagement with the UFO/UAP phenomenon spans nearly 80
 6. ODNI. *Preliminary Assessment: Unidentified Aerial Phenomena*. June 25, 2021.
 7. AARO. *Historical Record Report Vol. I*. March 2024.
 8. NASA. *UAP Independent Study Team Report*. September 14, 2023.
-9. CIA. Robertson Panel Report (declassified 1975). CIA FOIA Reading Room.
-10. U.S. House Oversight Committee. UAP Hearing Transcript. July 26, 2023. C-SPAN.
+9. CIA. *Robertson Panel Report* (1953; declassified 1975). CIA FOIA Reading Room.
+10. U.S. House Oversight Committee. *UAP Hearing Transcript*. July 26, 2023. C-SPAN.
 11. Kirkpatrick, Sean. "Here’s What I Learned as the U.S. Government’s UFO Hunter." *Scientific American*, January 19, 2024.
 12. Elizondo, Luis. *Imminent*. William Morrow, 2024.
 13. Zhilyaev, B.E. et al. "Unidentified aerial phenomena I: Observations of events." Kyiv Main Astronomical Observatory preprint, 2022.
@@ -332,5 +336,20 @@ The history of government engagement with the UFO/UAP phenomenon spans nearly 80
 
 ## Bibliography
 
-- Kelleher & Knapp. *Inside the U.S. Government Covert UFO Program*. 2023.
-- Knapp & Kelleher. *Skinwalkers at the Pentagon*. 2021.
+1. Ruppelt, Edward J. *The Report on Unidentified Flying Objects*. Doubleday, 1956.
+2. Condon, Edward U. *Scientific Study of Unidentified Flying Objects*. University of Colorado / Bantam Books, 1969.
+3. Kean, Leslie. "Glowing Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program." *New York Times*, Dec 16, 2017.
+4. Knapp, George & Kelleher, Colm. *Skinwalkers at the Pentagon*. 2021.
+5. Lacatski, James, Kelleher, Colm & Knapp, George. *Inside the U.S. Government Covert UFO Program*. 2023.
+6. ODNI. *Preliminary Assessment: Unidentified Aerial Phenomena*. June 25, 2021.
+7. AARO. *Historical Record Report Vol. I*. March 2024.
+8. NASA. *UAP Independent Study Team Report*. September 14, 2023.
+9. CIA. *Robertson Panel Report* (1953; declassified 1975). CIA FOIA Reading Room.
+10. U.S. House Oversight Committee. *UAP Hearing Transcript*. July 26, 2023. C-SPAN.
+11. Kirkpatrick, Sean. "Here's What I Learned as the U.S. Government's UFO Hunter." *Scientific American*, January 19, 2024.
+12. Elizondo, Luis. *Imminent*. William Morrow, 2024.
+13. Zhilyaev, B.E. et al. "Unidentified aerial phenomena I: Observations of events." Kyiv Main Astronomical Observatory preprint, 2022.
+14. Pope, Nick. *Open Skies, Closed Minds*. Simon & Schuster, 1996.
+15. Good, Timothy. *Above Top Secret: The Worldwide U.F.O. Cover-Up*. Morrow, 1988.
+16. Dolan, Richard. *UFOs and the National Security State, Vol. 1*. Keyhole Publishing, 2002.
+17. Chalker, Bill. *The OZ Files: The Australian UFO Story*. Duffy & Snellgrove, 1996.

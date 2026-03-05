@@ -3,7 +3,7 @@
 > **Document ID:** J22
 > **Section:** J_Ancient_Technology
 > **Keywords:** mining, metallurgy, ochre, flint mining, wootz steel, Damascus steel, zinc distillation, hydraulic mining, mercury amalgamation, gold extraction, Noric steel, Rio Tinto, Las Médulas
-> **Cross-References:** [J03](J03_Antikythera_Mechanism.md) · [J06](J06_Ancient_Engineering_Techniques.md) · [E07](../E_Cataclysms_and_Chronology/E07_Bronze_Age_Collapse.md) · [D19](../D_Sites_and_Artifacts/D19_Museum_Artifacts_Disputed.md) · [O14](../O_Earth_Anomalies/O14_Atmospheric_Anomalies.md)
+> **Cross-References:** [J03](J03_Lost_Material_Science.md) · [J06](J06_Sound_Vibration_Creation.md) · [E07](../F_Lost_Connections/F08_Sea_Peoples_Bronze_Age_Collapse.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [O14](../O_Earth_Anomalies/O14_Atmospheric_Anomalies_Ball_Lightning.md)
 > **Reliability Tier:** Tier 1-3 (established archaeology through debated production methods)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High for archaeological sites, Moderate for reconstructed techniques
 
@@ -167,12 +167,12 @@ Ancient mining and metallurgy extended far beyond the familiar copper-tin bronze
 
 | Document | Relation | Relevance |
 |----------|----------|-----------|
-| [J03](J03_Antikythera_Mechanism.md) | Technological context | Advanced metalworking for precision instruments |
-| [J06](J06_Ancient_Engineering_Techniques.md) | Parent topic | Mining infrastructure as engineering |
-| [E07](../E_Cataclysms_and_Chronology/E07_Bronze_Age_Collapse.md) | Historical context | Bronze Age collapse disrupted mining networks |
-| [D19](../D_Sites_and_Artifacts/D19_Museum_Artifacts_Disputed.md) | Artifact context | Metal artifacts and disputed provenance |
-| [O14](../O_Earth_Anomalies/O14_Atmospheric_Anomalies.md) | Environmental | Pollution signatures from ancient metallurgy |
-| [M01](../M_Forbidden_Archaeology/M01_Out_of_Place_Artifacts.md) | Anomalies | Allegedly anachronistic metal objects |
+| [J03](J03_Lost_Material_Science.md) | Technological context | Advanced metalworking for precision instruments |
+| [J06](J06_Sound_Vibration_Creation.md) | Parent topic | Mining infrastructure as engineering |
+| [E07](../F_Lost_Connections/F08_Sea_Peoples_Bronze_Age_Collapse.md) | Historical context | Bronze Age collapse disrupted mining networks |
+| [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Artifact context | Metal artifacts and disputed provenance |
+| [O14](../O_Earth_Anomalies/O14_Atmospheric_Anomalies_Ball_Lightning.md) | Environmental | Pollution signatures from ancient metallurgy |
+| [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Anomalies | Allegedly anachronistic metal objects |
 | [J20](J20_Ancient_Textiles_Weaving_Dyeing_Fiber.md) | Related technology | Mordant chemistry overlap with metallurgy |
 
 ---

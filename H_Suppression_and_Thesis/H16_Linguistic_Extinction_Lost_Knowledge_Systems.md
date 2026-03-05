@@ -6,11 +6,11 @@
 > Ethnologue, last speakers, language death, dormant languages, Hopi time,
 > Pirahã, language revitalization, Hebrew revival, Hawaiian, Māori,
 > Daniel Everett, Chomsky
-> **Cross-References:** [C07](../C_Global_Traditions/C07_Oral_Tradition_Memory_Systems.md) ·
-> [U03](../U_Art_Music_Culture/U03_Oral_Literature_Storytelling.md) ·
-> [F09](../F_Lost_Connections/F09_Lost_Languages_Undeciphered_Scripts.md) ·
+> **Cross-References:** [C07](../U_Art_Music_Culture/U03_Oral_Literature_Epic_Myth_Memory.md) ·
+> [U03](../U_Art_Music_Culture/U03_Oral_Literature_Epic_Myth_Memory.md) ·
+> [F09](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) ·
 > [H14](H14_Colonial_Looting_Museum_Ethics_Repatriation.md) ·
-> [V05](../V_Mathematics_Information/V05_Ethnomathematics.md)
+> [V05](../V_Mathematics_Information/V05_Ethnomathematics_Indigenous_Systems.md)
 > **Reliability Tier:** Tier 1-2 (robust linguistic fieldwork data;
 > theoretical interpretations of knowledge encoding debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources
@@ -101,11 +101,10 @@ education can reverse language shift
 This Australian Aboriginal language (spoken by ~1,000 people in
 Hopevale, Queensland) uses absolute cardinal directions rather than
 relative spatial terms (left/right/front/back). Speakers maintain
-constant awareness of cardinal directions. Experimental studies show
+constant awareness of cardinal directions. Studies by Haviland (1998) and Levinson (2003) show
 Guugu Yimithirr speakers recall spatial arrays differently, perform
 mental rotation tasks differently, and gesture differently than
-English or Dutch speakers
-(Haviland, 1998; Levinson, 2003).
+English or Dutch speakers.
 
 ### 1.7 Colonial-Era Language Suppression Policies
 
@@ -249,11 +248,11 @@ texture, animacy) organizing perception differently
 
 | Document | Relationship | Relevance |
 |----------|-------------|-----------|
-| [C07](../C_Global_Traditions/C07_Oral_Tradition_Memory_Systems.md) | Direct | Carriers of endangered knowledge |
-| [U03](../U_Art_Music_Culture/U03_Oral_Literature_Storytelling.md) | Direct | Oral forms lost with languages |
-| [F09](../F_Lost_Connections/F09_Lost_Languages_Undeciphered_Scripts.md) | Direct | Historical language loss |
+| [C07](../U_Art_Music_Culture/U03_Oral_Literature_Epic_Myth_Memory.md) | Direct | Carriers of endangered knowledge |
+| [U03](../U_Art_Music_Culture/U03_Oral_Literature_Epic_Myth_Memory.md) | Direct | Oral forms lost with languages |
+| [F09](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) | Direct | Historical language loss |
 | [H14](H14_Colonial_Looting_Museum_Ethics_Repatriation.md) | Thematic | Colonial drivers of destruction |
-| [V05](../V_Mathematics_Information/V05_Ethnomathematics.md) | Direct | Math knowledge in dying languages |
+| [V05](../V_Mathematics_Information/V05_Ethnomathematics_Indigenous_Systems.md) | Direct | Math knowledge in dying languages |
 | [H13](H13_Inquisition_Systematic_Knowledge_Suppression.md) | Contextual | Institutional suppression |
 | [K04](../K_Consciousness/K04_Quantum_Consciousness.md) | Speculative | Language-cognition interface |
 

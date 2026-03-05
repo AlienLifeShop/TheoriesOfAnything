@@ -3,7 +3,7 @@
 > **Document ID:** J21
 > **Section:** J_Ancient_Technology
 > **Keywords:** fermentation, brewing, preservation, agriculture, beer, bread, garum, freeze-drying, Three Sisters, Columbian Exchange, Natufian, Raqefet Cave, soy fermentation, chuño
-> **Cross-References:** [J06](J06_Ancient_Engineering_Techniques.md) · [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md) · [E22](../E_Cataclysms_and_Chronology/E22_Younger_Dryas_Impact.md) · [R30](../R_Biology_Evolution/R30_Photosynthesis_Connection.md) · [S25](../S_Future_Technology/S25_Food_Security.md)
+> **Cross-References:** [J06](J06_Sound_Vibration_Creation.md) · [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md) · [E22](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [R30](../R_Biology_Evolution/R31_Photosynthesis.md) · [S25](../S_Future_Technology/S25_Food_Security_Agricultural_Technology.md)
 > **Reliability Tier:** Tier 1-3 (established archaeology through debated priority claims)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** High for archaeological evidence, Moderate for chronological priority debates
 
@@ -167,13 +167,13 @@ Ancient food technology encompassed far more than simple subsistence — it invo
 
 | Document | Relation | Relevance |
 |----------|----------|-----------|
-| [J06](J06_Ancient_Engineering_Techniques.md) | Parent topic | Food technology as engineering discipline |
+| [J06](J06_Sound_Vibration_Creation.md) | Parent topic | Food technology as engineering discipline |
 | [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md) | Direct link | Crop and livestock domestication genetics |
-| [E22](../E_Cataclysms_and_Chronology/E22_Younger_Dryas_Impact.md) | Chronological | Younger Dryas climate disruption and agricultural origins |
-| [R30](../R_Biology_Evolution/R30_Photosynthesis_Connection.md) | Biological basis | Photosynthetic foundations of agriculture |
-| [S25](../S_Future_Technology/S25_Food_Security.md) | Modern extension | Ancient techniques informing future food security |
-| [K08](../K_Consciousness/K08_Psychedelics_Consciousness.md) | Speculative link | Fermentation and entheogens hypothesis |
-| [D19](../D_Sites_and_Artifacts/D19_Museum_Artifacts_Disputed.md) | Artifact context | Food-related archaeological artifacts |
+| [E22](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Chronological | Younger Dryas climate disruption and agricultural origins |
+| [R30](../R_Biology_Evolution/R31_Photosynthesis.md) | Biological basis | Photosynthetic foundations of agriculture |
+| [S25](../S_Future_Technology/S25_Food_Security_Agricultural_Technology.md) | Modern extension | Ancient techniques informing future food security |
+| [K08](../K_Consciousness/K02_Altered_States_Psychedelics.md) | Speculative link | Fermentation and entheogens hypothesis |
+| [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Artifact context | Food-related archaeological artifacts |
 
 ---
 

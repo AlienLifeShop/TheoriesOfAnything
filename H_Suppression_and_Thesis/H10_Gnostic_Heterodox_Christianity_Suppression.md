@@ -3,7 +3,7 @@
 > **Document ID:** H10
 > **Section:** H_Suppression_and_Thesis
 > **Keywords:** Gnosticism, Nag Hammadi, Marcion, Cathars, Albigensian Crusade, Council of Nicaea, canon formation, Athanasius, Theodosian Code, heresy, orthodox Christianity, early church, heterodox, Arianism, Pelagianism, Monophysitism
-> **Cross-References:** [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) · [N03](../N_Secret_Societies/N03_Vatican.md) · [H01](H01_Suppression_Overview.md) · [A08](../A_Foundations/A08_Hermetic_Tradition.md) · [M07](../M_Forbidden_Archaeology/M07_Library_Destructions.md)
+> **Cross-References:** [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) · [N03](../N_Secret_Societies/N03_Vatican_Archives_Suppression.md) · [H01](H01_Suppression_of_Ancient_Knowledge.md) · [A08](../A_Foundations/A08_Hermetic_Tradition.md) · [M07](../M_Forbidden_Archaeology/M07_Library_Destructions_Lost_Knowledge.md)
 > **Reliability Tier:** Tier 1-2 (Historical events well-documented; interpretive claims about consequences debated)
 > **Last Updated:** Feb 28, 2026 | **Source Count:** 16 scholarly sources | **Confidence:** High (historical record); Moderate (scope of lost traditions)
 
@@ -148,9 +148,9 @@ From the earliest centuries of Christianity through the medieval period, a susta
 | [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) | Primary source texts from the Nag Hammadi discovery |
 | [A08](../A_Foundations/A08_Hermetic_Tradition.md) | Hermetic texts found alongside Gnostic ones at Nag Hammadi |
 | [A05](../A_Foundations/A05_Dead_Sea_Scrolls_Expanded.md) | Parallel discovery of suppressed/hidden religious texts |
-| [N03](../N_Secret_Societies/N03_Vatican.md) | Vatican's role in defining orthodoxy and suppressing heresy |
-| [H01](H01_Suppression_Overview.md) | Broader patterns of knowledge suppression |
-| [M07](../M_Forbidden_Archaeology/M07_Library_Destructions.md) | Destruction of heterodox texts as library destruction |
+| [N03](../N_Secret_Societies/N03_Vatican_Archives_Suppression.md) | Vatican's role in defining orthodoxy and suppressing heresy |
+| [H01](H01_Suppression_of_Ancient_Knowledge.md) | Broader patterns of knowledge suppression |
+| [M07](../M_Forbidden_Archaeology/M07_Library_Destructions_Lost_Knowledge.md) | Destruction of heterodox texts as library destruction |
 | [H09](H09_Maya_Codex_Burning_Mesoamerican_Destruction.md) | Parallel religious text destruction in colonial Americas |
 | [H11](H11_Witch_Trials_Knowledge_Suppression.md) | Later Christian suppression of non-orthodox knowledge holders |
 
