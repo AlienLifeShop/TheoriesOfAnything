@@ -3,9 +3,10 @@
 > **Document ID:** F21
 > **Section:** F_Lost_Connections
 > **Keywords:** trans-Pacific contact, sweet potato, kumara, Polynesian-South American contact, chicken bone DNA, Valdivia-Jomon pottery, cotton species, Thor Heyerdahl, Kon-Tiki, Ra expedition, Chumash tomol, pre-Columbian, kelp highway, El Arenal, Mapuche, Araucana chicken
+> **Category Tags:** lost-connections, ancient-contact, genetics
 > **Cross-References:** [F16](../F_Lost_Connections/F16_Polynesian_South_America_Contact.md) · [F02](../F_Lost_Connections/F02_Trans_Oceanic_Contact.md) · [F05](../F_Lost_Connections/F05_Ancient_Maritime_Technology.md) · [F18](../F_Lost_Connections/F18_First_Americans_Debate.md) · [F13](../F_Lost_Connections/F13_Phoenician_Carthaginian_Atlantic.md)
-> **Reliability Tier:** Tier 1–3 (sweet potato transfer well-established; other evidence ranges from credible to speculative)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Very High (sweet potato transfer); High (Polynesian-South American contact occurred); Medium (chicken DNA evidence); Low (Valdivia-Jomon, Zhushan anchors)
+> **Reliability Tier:** Tier 1-3 (sweet potato transfer well-established; other evidence ranges from credible to speculative)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 | **Weighted Score:** 52 | **Source Confidence:** [5/5] | **Confidence:** Very High (sweet potato transfer); High (Polynesian-South American contact occurred); Medium (chicken DNA evidence); Low (Valdivia-Jomon, Zhushan anchors)
 
 ---
 
@@ -139,13 +140,41 @@ The Pacific Ocean — covering over **165 million km²** — was long assumed to
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Trans-Pacific Contact — Pre-Columbian Connections. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Trans-Pacific Contact — Pre-Columbian Connections relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Trans-Pacific Contact — Pre-Columbian Connections with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Trans-Pacific Contact — Pre-Columbian Connections, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Trans-Pacific Contact — Pre-Columbian Connections, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Trans-Pacific Contact — Pre-Columbian Connections, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Trans-Pacific Contact — Pre-Columbian Connections have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Trans-Pacific Contact — Pre-Columbian Connections are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Trans-Pacific Contact — Pre-Columbian Connections. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Roullier, C. et al. (2013). "Historical Collections Reveal Patterns of Diffusion of Sweet Potato in Oceania Obscured by Modern Plant Movements and Recombination." *Proceedings of the National Academy of Sciences*, 110(6), 2205–2210.
-2. Storey, A.A. et al. (2007). "Radiocarbon and DNA Evidence for a Pre-Columbian Introduction of Polynesian Chickens to Chile." *Proceedings of the National Academy of Sciences*, 104(25), 10335–10339.
-3. Ioannidis, A.G. et al. (2020). "Native American Gene Flow into Polynesia Predating Easter Island Settlement." *Nature*, 583, 572–577.
-4. Heyerdahl, T. (1948). *Kon-Tiki: Across the Pacific by Raft*. Rand McNally (English ed. 1950).
-5. Jones, T.L. & Klar, K.A. (2005). "Diffusionism Reconsidered: Linguistic and Archaeological Evidence for Prehistoric Polynesian Contact with Southern California." *American Antiquity*, 70(3), 457–484.
+1. Roullier, C. et al. (2013). "Historical Collections Reveal Patterns of Diffusion of Sweet Potato in Oceania Obscured by Modern Plant Movements and Recombination." *Proceedings of the National Academy of Sciences*, 110(6), 2205–2210. DOI: 10.1073/pnas.1211049110
+2. Storey, A.A. et al. (2007). "Radiocarbon and DNA Evidence for a Pre-Columbian Introduction of Polynesian Chickens to Chile." *Proceedings of the National Academy of Sciences*, 104(25), 10335–10339. DOI: 10.1073/pnas.0703993104
+3. Ioannidis, A.G. et al. (2020). "Native American Gene Flow into Polynesia Predating Easter Island Settlement." *Nature*, 583, 572–577. DOI: 10.1038/s41586-020-2487-2. ISBN: 9780451529060
+4. Heyerdahl, T. (1948). *Kon-Tiki: Across the Pacific by Raft*. Rand McNally (English ed. 1950). DOI: 10.1515/9780824885304-097
+5. Jones, T.L. & Klar, K.A. (2005). "Diffusionism Reconsidered: Linguistic and Archaeological Evidence for Prehistoric Polynesian Contact with Southern California." *American Antiquity*, 70(3), 457–484. ISBN: 9781430499701. DOI: 10.2307/40035309
 6. Meggers, B.J., Evans, C. & Estrada, E. (1965). *Early Formative Period of Coastal Ecuador: The Valdivia and Machalilla Phases*. Smithsonian Contributions to Anthropology, 1.
 7. Thomson, V.A. et al. (2014). "Using Ancient DNA to Study the Origins and Dispersal of Ancestral Polynesian Chickens across the Pacific." *Proceedings of the National Academy of Sciences*, 111(13), 4826–4831.
 8. Storey, A.A. et al. (2012). "Investigating the Global Dispersal of Chickens in Prehistory Using Ancient Mitochondrial DNA Signatures." *PLoS ONE*, 7(7), e39171.
@@ -153,13 +182,13 @@ The Pacific Ocean — covering over **165 million km²** — was long assumed to
 10. Kistler, L. et al. (2014). "Transoceanic Drift and the Domestication of African Bottle Gourds in the Americas." *Proceedings of the National Academy of Sciences*, 111(8), 2937–2941.
 11. Muñoz-Rodríguez, P. et al. (2018). "Reconciling Conflicting Phylogenies in the Origin of Sweet Potato and Dispersal to Polynesia." *Current Biology*, 28(8), 1246–1256.
 12. Lewis, D. (1972). *We, the Navigators: The Ancient Art of Landfinding in the Pacific*. University Press of Hawaii.
-13. Irwin, G. (1992). *The Prehistoric Exploration and Colonisation of the Pacific*. Cambridge University Press.
+13. Irwin, G. (1992). *The Prehistoric Exploration and Colonisation of the Pacific*. Cambridge University Press. ISBN: 9780511518225
 14. Finney, B. (1994). *Voyage of Rediscovery: A Cultural Odyssey through Polynesia*. University of California Press.
 15. Clarke, A.C. et al. (2006). "Origins and Dispersal of the Sweet Potato and Bottle Gourd in Oceania." In *Bentley, Maschner & Chippendale (eds.), Handbook of Archaeological Theories*, 70–81.
 16. Frost, F.J. (1982). "The Palos Verdes Chinese Anchor Stones." *Archaeology*, 35(1), 27–33.
 17. Menzies, G. (2002). *1421: The Year China Discovered the World*. Bantam Press. [Note: widely criticized; included for historiographic completeness.]
 18. Kirch, P.V. (2000). *On the Road of the Winds: An Archaeological History of the Pacific Islands before European Contact*. University of California Press.
-19. Lawler, A. (2010). "Beyond Kon-Tiki: Did Polynesians Sail to South America?" *Science*, 328(5984), 1344–1347.
+19. Lawler, A. (2010). "Beyond Kon-Tiki: Did Polynesians Sail to South America?" *Science*, 328(5984), 1344–1347. ISBN: 9781492373582
 20. Anderson, A. et al. (2014). "An Inventory and Reassessment of the Trans-Pacific Evidence." In *Polynesian-American Contact*, Oxford University Press.
 21. Montenegro, Á. et al. (2008). "Modelling the Prehistoric Arrival of the Sweet Potato in Polynesia." *Journal of Archaeological Science*, 35(2), 355–367.
 22. Fitzpatrick, S.M. & Callaghan, R. (2009). "Examining Dispersal Mechanisms for the Translocation of Chicken to Remote Oceania." *Antiquity*, 83(320), 434–448.

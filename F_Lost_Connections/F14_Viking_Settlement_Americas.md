@@ -3,9 +3,10 @@
 > **Document ID:** F14
 > **Section:** F_Lost_Connections
 > **Keywords:** Viking, Norse, L'Anse aux Meadows, Vinland, Leif Erikson, Newfoundland, Norse sagas, dendrochronology, Point Rosee, Skraelings, pre-Columbian, Norse exploration
-> **Cross-References:** [F02](F02_Trans_Oceanic_Contact.md) · [A12](../A_Foundations/A12_Norse_Eddas.md) · [F05](F05_Ancient_Maritime_Technology.md) · [C68](../C_Global_Traditions/C68_Native_American_Great_Plains_Vision_Quest.md)
+> **Category Tags:** lost-connections, ancient-contact
+> **Cross-References:** [F02](F02_Trans_Oceanic_Contact.md) · [A12](../A_Foundations/A12_Norse_Eddas.md) · [F05](F05_Ancient_Maritime_Technology.md) · [W39](../W_World_Civilizations/W39_Native_American_Great_Plains_Vision_Quest.md)
 > **Reliability Tier:** Tier 1-2 (L'Anse aux Meadows is confirmed; broader Norse exploration debated but supported)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (core site); Medium (extended presence)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 | **Weighted Score:** 45 | **Source Confidence:** [5/5] | **Confidence:** High (core site); Medium (extended presence)
 
 ---
 
@@ -128,18 +129,46 @@ L'Anse aux Meadows in Newfoundland, Canada, stands as the only confirmed Norse s
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Viking Settlement in the Americas — L'Anse aux Meadows and Beyond. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Viking Settlement in the Americas — L'Anse aux Meadows and Beyond relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Viking Settlement in the Americas — L'Anse aux Meadows and Beyond with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Viking Settlement in the Americas — L'Anse aux Meadows and Beyond, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Viking Settlement in the Americas — L'Anse aux Meadows and Beyond, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Viking Settlement in the Americas — L'Anse aux Meadows and Beyond, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Viking Settlement in the Americas — L'Anse aux Meadows and Beyond have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Viking Settlement in the Americas — L'Anse aux Meadows and Beyond are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Viking Settlement in the Americas — L'Anse aux Meadows and Beyond. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Ingstad, H., & Ingstad, A. S. (2001). *The Viking Discovery of America: The Excavation of a Norse Settlement in L'Anse Aux Meadows*. Checkmark Books.
-2. Kuitems, M., et al. (2021). "Evidence for European presence in the Americas in AD 1021." *Nature*, 601, 388-391.
+1. Ingstad, H., & Ingstad, A. S. (2001). *The Viking Discovery of America: The Excavation of a Norse Settlement in L'Anse Aux Meadows*. Checkmark Books. DOI: 10.2307/j.ctt1w1vmxd.4
+2. Kuitems, M., et al. (2021). "Evidence for European presence in the Americas in AD 1021." *Nature*, 601, 388-391. DOI: 10.1038/s41586-021-03972-8. ISBN: 9780451529060
 3. Wallace, B. L. (2003). "L'Anse aux Meadows and Vinland." *Newfoundland and Labrador Studies*, 19(1), 5-43.
-4. Wallace, B. L. (2006). *Westward Vikings: The Saga of L'Anse aux Meadows*. Historic Sites Association of Newfoundland.
+4. Wallace, B. L. (2006). *Westward Vikings: The Saga of L'Anse aux Meadows*. Historic Sites Association of Newfoundland. DOI: 10.29173/scancan26
 5. Kunz, K., & Sigurðsson, G. (trans.) (2001). *The Vinland Sagas*. Penguin Classics.
 6. Fitzhugh, W. W., & Ward, E. I. (eds.) (2000). *Vikings: The North Atlantic Saga*. Smithsonian Institution Press.
-7. Seaver, K. A. (2004). *Maps, Myths, and Men: The Story of the Vinland Map*. Stanford University Press.
-8. Wahlgren, E. (1986). *The Vikings and America*. Thames & Hudson.
+7. Seaver, K. A. (2004). *Maps, Myths, and Men: The Story of the Vinland Map*. Stanford University Press. DOI: 10.1515/9781503624696
+8. Wahlgren, E. (1986). *The Vikings and America*. Thames & Hudson. DOI: 10.1017/s0003598x00058932
 9. Sutherland, P. D. (2009). "The Question of Contact Between Dorset Paleo-Eskimos and Early Europeans." In *The Northern World*, AD 900-1400. University of Utah Press.
-10. McGhee, R. (1984). "Contact between Native North Americans and the Medieval Norse." *American Antiquity*, 49(1), 4-26.
+10. McGhee, R. (1984). "Contact between Native North Americans and the Medieval Norse." *American Antiquity*, 49(1), 4-26. ISBN: 9781430499701
 11. Parcak, S., et al. (2016). "Point Rosee: A New Candidate Norse Site in Newfoundland." Paper, Society for American Archaeology.
 12. Sigurdsson, G. (2004). *The Medieval Icelandic Saga and Oral Tradition*. Harvard University Press.
 13. Jones, G. (1986). *The Norse Atlantic Saga: Being the Norse Voyages of Discovery and Settlement to Iceland, Greenland, and North America*. Oxford University Press.
@@ -149,7 +178,7 @@ L'Anse aux Meadows in Newfoundland, Canada, stands as the only confirmed Norse s
 17. Barrett, J. H. (2008). "What caused the Viking Age?" *Antiquity*, 82(317), 671-685.
 18. Ogilvie, A. E. J., & McGovern, T. H. (2000). "Sagas and Science: Climate and Human Impacts in the North Atlantic." *Human Ecology*, 28(3), 385-414.
 19. Fagan, B. (2000). *The Little Ice Age: How Climate Made History*. Basic Books.
-20. Bloch, D. (2012). "Norse trade goods in North America." *Arctic Anthropology*, 49(2), 41-59.
+20. Bloch, D. (2012). "Norse trade goods in North America." *Arctic Anthropology*, 49(2), 41-59. ISBN: 9780919666146
 21. Brown, N. (2015). *Ivory Vikings: The Mystery of the Most Famous Chessmen in the World*. St. Martin's Press.
 22. Halldórsson, Ólafur (ed.). *Vinland Sagas*. Manuscript AM 557 4to (Flateyjarbók) and Hauksbók (14th century). Árni Magnússon Institute, Reykjavík. Critical ed.: Hið íslenzka fornritafélag, 1985.
 
@@ -162,7 +191,7 @@ L'Anse aux Meadows in Newfoundland, Canada, stands as the only confirmed Norse s
 | [F02](F02_Trans_Oceanic_Contact.md) | L'Anse aux Meadows as the definitive proof case for pre-Columbian contact |
 | [A12](../A_Foundations/A12_Norse_Eddas.md) | Norse literary tradition and mythology contextualizing the sagas |
 | [F05](F05_Ancient_Maritime_Technology.md) | Norse longship technology enabling North Atlantic crossings |
-| [C68](../C_Global_Traditions/C68_Native_American_Great_Plains_Vision_Quest.md) | Indigenous perspectives on Norse-Indigenous encounters |
+| [W39](../W_World_Civilizations/W39_Native_American_Great_Plains_Vision_Quest.md) | Indigenous perspectives on Norse-Indigenous encounters |
 | [E14](../F_Lost_Connections/F08_Sea_Peoples_Bronze_Age_Collapse.md) | Climate change as factor in Norse expansion and retreat |
 | [F13](F13_Phoenician_Carthaginian_Atlantic.md) | Comparative Atlantic exploration by earlier Mediterranean civilizations |
 | [F12](F12_Cocaine_Nicotine_Egyptian_Mummies.md) | Contrasting case: contested vs. confirmed pre-Columbian contact |

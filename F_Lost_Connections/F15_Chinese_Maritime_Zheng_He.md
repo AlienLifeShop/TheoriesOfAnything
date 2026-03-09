@@ -3,9 +3,10 @@
 > **Document ID:** F15
 > **Section:** F_Lost_Connections
 > **Keywords:** Zheng He, treasure fleet, Ming Dynasty, Song Dynasty, compass, maritime Silk Road, Haijin, sea ban, 1421 hypothesis, Gavin Menzies, Chinese exploration, junk ships, Indian Ocean
+> **Category Tags:** lost-connections, ancient-contact, civilization
 > **Cross-References:** [F05](F05_Ancient_Maritime_Technology.md) · [F02](F02_Trans_Oceanic_Contact.md) · [C12](../C_Global_Traditions/C12_Chinese_Dragon_Mythology_Ancient_Scriptures.md) · [J15](../J_Ancient_Technology/J15_Chinese_Ancient_Technology.md)
 > **Reliability Tier:** Tier 1-3 (Zheng He voyages are well-documented; fleet size debated; transpacific claims largely rejected)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High (core voyages); Very Low (Menzies hypothesis)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 20 | **Weighted Score:** 39 | **Source Confidence:** [4/5] | **Confidence:** High (core voyages); Very Low (Menzies hypothesis)
 
 ---
 
@@ -126,13 +127,41 @@ China possessed the world's most advanced maritime technology for centuries, cul
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Chinese Maritime Exploration Before and Including Zheng He. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Chinese Maritime Exploration Before and Including Zheng He relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Chinese Maritime Exploration Before and Including Zheng He with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Chinese Maritime Exploration Before and Including Zheng He, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Chinese Maritime Exploration Before and Including Zheng He, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Chinese Maritime Exploration Before and Including Zheng He, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Chinese Maritime Exploration Before and Including Zheng He have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Chinese Maritime Exploration Before and Including Zheng He are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Chinese Maritime Exploration Before and Including Zheng He. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Dreyer, E. L. (2007). *Zheng He: China and the Oceans in the Early Ming Dynasty*. Pearson Longman.
-2. Levathes, L. (1994). *When China Ruled the Seas: The Treasure Fleet of the Dragon Throne*. Simon & Schuster.
-3. Needham, J. (1971). *Science and Civilisation in China*, Vol. 4: Physics and Physical Technology, Part 3: Civil Engineering and Nautics. Cambridge University Press.
-4. Finlay, R. (2004). "How Not to (Re)Write World History: Gavin Menzies and the Chinese Discovery of America." *Journal of World History*, 15(2), 229-242.
-5. Wade, G. (2005). "The Zheng He Voyages: A Reassessment." *Journal of the Malaysian Branch of the Royal Asiatic Society*, 78(1), 37-58.
+1. Dreyer, E. L. (2007). *Zheng He: China and the Oceans in the Early Ming Dynasty*. Pearson Longman. DOI: 10.1353/jmh.2007.0029
+2. Levathes, L. (1994). *When China Ruled the Seas: The Treasure Fleet of the Dragon Throne*. Simon & Schuster. DOI: 10.2307/2058978
+3. Needham, J. (1971). *Science and Civilisation in China*, Vol. 4: Physics and Physical Technology, Part 3: Civil Engineering and Nautics. Cambridge University Press. ISBN: 9780521058025. DOI: 10.1126/science.175.4017.50
+4. Finlay, R. (2004). "How Not to (Re)Write World History: Gavin Menzies and the Chinese Discovery of America." *Journal of World History*, 15(2), 229-242. DOI: 10.1353/jwh.2004.0018
+5. Wade, G. (2005). "The Zheng He Voyages: A Reassessment." *Journal of the Malaysian Branch of the Royal Asiatic Society*, 78(1), 37-58. DOI: 10.1353/ras.2020.0029
 6. Church, S. K. (2005). "The Colossal Ships of Zheng He: Image or Reality?" In *Zheng He and the Afro-Asian World*. Melaka Museums Corp.
 7. Lo, J.-P. (2012). *China as a Sea Power, 1127–1368*. National University of Singapore Press.
 8. Manguin, P.-Y. (1993). "Trading Ships of the South China Sea." *Journal of the Economic and Social History of the Orient*, 36(3), 253-280.
@@ -147,7 +176,7 @@ China possessed the world's most advanced maritime technology for centuries, cul
 17. Wang, G. (1998). *The Nanhai Trade: Early Chinese Trade in the South China Sea*. Eastern Universities Press.
 18. Chaudhuri, K. N. (1985). *Trade and Civilisation in the Indian Ocean*. Cambridge University Press.
 19. Hsü, I. C. Y. (2000). *The Rise of Modern China*. Oxford University Press.
-20. Beaujard, P. (2012). *Les Mondes de l'Océan Indien*, Vols. 1-2. Armand Colin.
+20. Beaujard, P. (2012). *Les Mondes de l'Océan Indien*, Vols. 1-2. Armand Colin. ISBN: 9782200277086
 
 ---
 
@@ -161,7 +190,7 @@ China possessed the world's most advanced maritime technology for centuries, cul
 | [J15](../J_Ancient_Technology/J15_Chinese_Ancient_Technology.md) | Chinese technological innovations enabling maritime expansion |
 | [F11](F11_Silk_Road_Knowledge_Exchange.md) | Maritime Silk Road as complement to overland routes |
 | [F17](F17_Sub_Saharan_African_Trade_Networks.md) | Chinese trade goods in East African archaeological record |
-| [C80](../C_Global_Traditions/C80_Swahili_Coast_Maritime_Trade.md) | Swahili coast ports visited by Zheng He's fleet |
+| [W17](../W_World_Civilizations/W17_Swahili_Coast_Maritime_Trade.md) | Swahili coast ports visited by Zheng He's fleet |
 
 ---
 

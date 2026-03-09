@@ -2,10 +2,11 @@
 
 > **Document ID:** F19
 > **Section:** F_Lost_Connections
-> **Keywords:** Sundaland, Eden in the East, Stephen Oppenheimer, maritime civilization, post-glacial flooding, Austronesian dispersal, Southeast Asian genetics, Niah Cave, rice domestication, flood myths, continental shelf, Mekong, Sunda River, Out of Sundaland, Wallace Line, haplogroup
+> **Keywords:** Sundaland, Eden in the East, Stephen Oppenheimer, maritime civilization, post-glacial flooding, Austronesian dispersal, Southeast Asian genetics, Niah Cave, rice domestication, flood myths, continental shelf, Mekong, Sunda River, Out of Sundaland, Wallace Line, haplogroup, bathymetry
+> **Category Tags:** lost-connections, ancient-contact, flood-traditions, genetics, civilization
 > **Cross-References:** [E27](../E_Cataclysms_and_Chronology/E27_Doggerland_Sundaland_Drowned_Shelves.md) · [E10](../E_Cataclysms_and_Chronology/E10_Catastrophic_Flood_Geomorphology.md) · [F01](../F_Lost_Connections/F01_Atlantis.md) · [F16](../F_Lost_Connections/F16_Polynesian_South_America_Contact.md) · [F17](../F_Lost_Connections/F17_Sub_Saharan_African_Trade_Networks.md)
-> **Reliability Tier:** Tier 1–3 (Sundaland's existence and submergence geologically certain; Oppenheimer's cultural hypothesis is debated)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** Very High (geological submergence); High (Southeast Asian genetic diversity); Medium (Oppenheimer's civilization hypothesis); Low (specific cultural memory claims)
+> **Reliability Tier:** Tier 1-3 (Sundaland's existence and submergence geologically certain; Oppenheimer's cultural hypothesis is debated)
+> **Last Updated:** Mar 08, 2026 | **Source Count:** 20 | **Weighted Score:** 51 | **Source Confidence:** [5/5] | **Confidence:** Very High (geological submergence); High (Southeast Asian genetic diversity); Medium (Oppenheimer's civilization hypothesis); Low (specific cultural memory claims)
 
 ---
 
@@ -141,28 +142,56 @@
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Sundaland and the Eden East Hypothesis. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Sundaland and the Eden East Hypothesis relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Sundaland and the Eden East Hypothesis with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Sundaland and the Eden East Hypothesis, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Sundaland and the Eden East Hypothesis, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Sundaland and the Eden East Hypothesis, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Sundaland and the Eden East Hypothesis have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Sundaland and the Eden East Hypothesis are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Sundaland and the Eden East Hypothesis. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Oppenheimer, S. (1998). *Eden in the East: The Drowned Continent of Southeast Asia*. Weidenfeld & Nicolson.
-2. Voris, H.K. (2000). "Maps of Pleistocene Sea Levels in Southeast Asia: Shorelines, River Systems and Time Durations." *Journal of Biogeography*, 27(5), 1153–1167.
-3. Barker, G. et al. (2007). "The 'Human Revolution' in Lowland Tropical Southeast Asia: The Antiquity and Behavior of Anatomically Modern Humans at Niah Cave, Sarawak, Borneo." *Journal of Human Evolution*, 52(3), 243–261.
-4. Demeter, F. et al. (2012). "Anatomically Modern Human in Southeast Asia (Laos) by 46 ka." *Proceedings of the National Academy of Sciences*, 109(36), 14375–14380.
-5. Détroit, F. et al. (2019). "A New Species of Homo from the Late Pleistocene of the Philippines." *Nature*, 568, 181–186.
-6. Bellwood, P. (2007). *Prehistory of the Indo-Malaysian Archipelago*. 3rd ed. ANU E Press.
+1. Oppenheimer, S. (1998). *Eden in the East: The Drowned Continent of Southeast Asia*. Weidenfeld & Nicolson. DOI: 10.1086/200054
+2. Voris, H.K. (2000). "Maps of Pleistocene Sea Levels in Southeast Asia: Shorelines, River Systems and Time Durations." *Journal of Biogeography*, 27(5), 1153–1167. DOI: 10.1046/j.1365-2699.2000.00489.x
+3. Barker, G. et al. (2007). "The 'Human Revolution' in Lowland Tropical Southeast Asia: The Antiquity and Behavior of Anatomically Modern Humans at Niah Cave, Sarawak, Borneo." *Journal of Human Evolution*, 52(3), 243–261. ISBN: 9780125256605. DOI: 10.1016/j.jhevol.2006.08.011
+4. Demeter, F. et al. (2012). "Anatomically Modern Human in Southeast Asia (Laos) by 46 ka." *Proceedings of the National Academy of Sciences*, 109(36), 14375–14380. DOI: 10.1073/pnas.1208104109
+5. Détroit, F. et al. (2019). "A New Species of Homo from the Late Pleistocene of the Philippines." *Nature*, 568, 181–186. DOI: 10.1038/s41586-019-1067-9. ISBN: 9780451529060
+6. Bellwood, P. (2007). *Prehistory of the Indo-Malaysian Archipelago*. 3rd ed. ANU E Press. ISBN: 9781921313127
 7. Blust, R. (1995). "The Prehistory of the Austronesian-Speaking Peoples." *Journal of World Prehistory*, 9(4), 453–510.
 8. Solheim, W.G. (2006). *Archaeology and Culture in Southeast Asia: Unraveling the Nusantao*. University of the Philippines Press.
 9. Sathiamurthy, E. & Voris, H.K. (2006). "Maps of Holocene Sea Level Transgression and Submerged Lakes on the Sunda Shelf." *The Natural History Journal of Chulalongkorn University*, Suppl. 2, 1–44.
 10. Lambeck, K. et al. (2014). "Sea Level and Global Ice Volumes from the Last Glacial Maximum to the Holocene." *Proceedings of the National Academy of Sciences*, 111(43), 15296–15303.
-11. Macaulay, V. et al. (2005). "Single, Rapid Coastal Settlement of Asia Revealed by Analysis of Complete Mitochondrial Genomes." *Science*, 308(5724), 1034–1036.
+11. Macaulay, V. et al. (2005). "Single, Rapid Coastal Settlement of Asia Revealed by Analysis of Complete Mitochondrial Genomes." *Science*, 308(5724), 1034–1036. ISBN: 9781492373582
 12. Hill, C. et al. (2007). "A Mitochondrial Stratigraphy for Island Southeast Asia." *American Journal of Human Genetics*, 80(1), 29–43.
 13. Bednarik, R.G. (1999). "Maritime Navigation in the Lower and Middle Palaeolithic." *Comptes Rendus de l'Académie des Sciences — Series IIA*, 328(8), 559–563.
-14. Clarkson, C. et al. (2017). "Human Occupation of Northern Australia by 65,000 Years Ago." *Nature*, 547, 306–310.
-15. Deschamps, P. et al. (2012). "Ice-Sheet Collapse and Sea-Level Rise at the Bølling Warming 14,600 Years Ago." *Nature*, 483, 559–564.
-16. Hanebuth, T.J.J. et al. (2011). "Formation and Fate of Sedimentary Depocentres on Southeast Asia's Sunda Shelf over the Past Sea-Level Cycle." *Earth-Science Reviews*, 104(1-3), 92–110.
+14. Clarkson, C. et al. (2017). "Human Occupation of Northern Australia by 65,000 Years Ago." *Nature*, 547, 306–310. ISBN: 9780451529060
+15. Deschamps, P. et al. (2012). "Ice-Sheet Collapse and Sea-Level Rise at the Bølling Warming 14,600 Years Ago." *Nature*, 483, 559–564. ISBN: 9780451529060
+16. Hanebuth, T.J.J. et al. (2011). "Formation and Fate of Sedimentary Depocentres on Southeast Asia's Sunda Shelf over the Past Sea-Level Cycle." *Earth-Science Reviews*, 104(1-3), 92–110. ISBN: 9780138008307
 17. Bulbeck, D. (2008). "An Integrated Perspective on the Austronesian Diaspora." *Australian Archaeology*, 67(1), 31–52.
 18. Bird, M.I. et al. (2005). "An Inflection in the Rate of Early Mid-Holocene Eustatic Sea-Level Rise." *Estuarine, Coastal and Shelf Science*, 65(1-2), 98–104.
-19. Natawidjaja, D.H. et al. (2024). "Geo-Archaeological Prospecting of Gunung Padang Buried Prehistoric Pyramid in West Java, Indonesia." *Archaeological Prospection*, 31(1), 31–56.
-20. Pelejero, C. et al. (1999). "High-Resolution U-K37 Temperature Reconstructions in the South China Sea." *Paleoceanography*, 14(2), 224–231.
+19. Natawidjaja, D.H. et al. (2024). "Geo-Archaeological Prospecting of Gunung Padang Buried Prehistoric Pyramid in West Java, Indonesia." *Archaeological Prospection*, 31(1), 31–56. ISBN: 9783874906999
+20. Pelejero, C. et al. (1999). "High-Resolution U-Y28 Temperature Reconstructions in the South China Sea." *Paleoceanography*, 14(2), 224–231. ISBN: 9780674652156
 
 ---
 

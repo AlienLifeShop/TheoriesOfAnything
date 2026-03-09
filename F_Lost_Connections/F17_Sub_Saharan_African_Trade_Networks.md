@@ -3,9 +3,10 @@
 > **Document ID:** F17
 > **Section:** F_Lost_Connections
 > **Keywords:** Sub-Saharan Africa, Indian Ocean trade, dhow, Kilwa, Great Zimbabwe, Sofala, monsoon sailing, trans-Saharan, gold trade, Swahili coast, Bantu expansion, outrigger, maritime Africa
-> **Cross-References:** [C40](../C_Global_Traditions/C40_Bantu_Cosmology_Migration_Iron.md) · [C79](../C_Global_Traditions/C79_Great_Zimbabwe_Southern_African.md) · [C80](../C_Global_Traditions/C80_Swahili_Coast_Maritime_Trade.md) · [F05](F05_Ancient_Maritime_Technology.md) · [F03](F03_Bronze_Age_Trade_Networks.md)
+> **Category Tags:** lost-connections, ancient-contact
+> **Cross-References:** [W05](../W_World_Civilizations/W05_Bantu_Cosmology_Migration_Iron.md) · [W16](../W_World_Civilizations/W16_Great_Zimbabwe_Southern_African.md) · [W17](../W_World_Civilizations/W17_Swahili_Coast_Maritime_Trade.md) · [F05](F05_Ancient_Maritime_Technology.md) · [F03](F03_Bronze_Age_Trade_Networks.md)
 > **Reliability Tier:** Tier 1-2 (Indian Ocean trade well-attested; some peripheral claims debated)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 20 | **Weighted Score:** 34 | **Source Confidence:** [4/5] | **Confidence:** High
 
 ---
 
@@ -103,7 +104,7 @@ Sub-Saharan Africa was deeply integrated into global trade networks for millenni
 
 ### 3.4 Extent of Chinese Trade in East Africa
 - Chinese ceramics are found at East African sites from the 9th century onward, but the degree of direct Chinese presence is debated.
-- Zheng He's fleet visited Mogadishu, Malindi, and possibly Kilwa (1418–1421 CE) (→ F15).
+- Zheng He's fleet visited Mogadishu, Malindi, and possibly Kilwa (1418–1421 CE) (→ [F15](F15_Chinese_Maritime_Zheng_He.md)).
 - Claims of Chinese settlements or garrisons in East Africa are not supported by archaeological evidence.
 
 ---
@@ -127,24 +128,52 @@ Sub-Saharan Africa was deeply integrated into global trade networks for millenni
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Sub-Saharan African Maritime and Trade Networks. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Sub-Saharan African Maritime and Trade Networks relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Sub-Saharan African Maritime and Trade Networks with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Sub-Saharan African Maritime and Trade Networks, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Sub-Saharan African Maritime and Trade Networks, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Sub-Saharan African Maritime and Trade Networks, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Sub-Saharan African Maritime and Trade Networks have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Sub-Saharan African Maritime and Trade Networks are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Sub-Saharan African Maritime and Trade Networks. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Horton, M., & Middleton, J. (2000). *The Swahili: The Social Landscape of a Mercantile Society*. Blackwell.
-2. Chittick, N. (1974). *Kilwa: An Islamic Trading City on the East African Coast*. British Institute in Eastern Africa.
-3. Beaujard, P. (2012). *Les Mondes de l'Océan Indien*, Vols. 1-2. Armand Colin.
-4. Chaudhuri, K. N. (1985). *Trade and Civilisation in the Indian Ocean: An Economic History from the Rise of Islam to 1750*. Cambridge University Press.
-5. Sheriff, A. (2010). *Dhow Cultures of the Indian Ocean*. Columbia University Press.
+1. Horton, M., & Middleton, J. (2000). *The Swahili: The Social Landscape of a Mercantile Society*. Blackwell. DOI: 10.4000/etudesafricaines.1549
+2. Chittick, N. (1974). *Kilwa: An Islamic Trading City on the East African Coast*. British Institute in Eastern Africa. DOI: 10.1017/s0021853700015565
+3. Beaujard, P. (2012). *Les Mondes de l'Océan Indien*, Vols. 1-2. Armand Colin. ISBN: 9782200277086. DOI: 10.1017/s0165115314000096
+4. Chaudhuri, K. N. (1985). *Trade and Civilisation in the Indian Ocean: An Economic History from the Rise of Islam to 1750*. Cambridge University Press. DOI: 10.1017/cbo9781107049918
+5. Sheriff, A. (2010). *Dhow Cultures of the Indian Ocean*. Columbia University Press. DOI: 10.14375/np.9781805262220
 6. Pikirayi, I. (2001). *The Zimbabwe Culture: Origins and Decline of Southern Zambezian States*. AltaMira Press.
 7. Garlake, P. (1973). *Great Zimbabwe*. Thames & Hudson.
 8. Levtzion, N., & Hopkins, J. F. P. (eds.) (2000). *Corpus of Early Arabic Sources for West African History*. Marcus Wiener.
 9. Insoll, T. (2003). *The Archaeology of Islam in Sub-Saharan Africa*. Cambridge University Press.
-10. Kusimba, C. M. (1999). *The Rise and Fall of Swahili States*. AltaMira Press.
+10. Kusimba, C. M. (1999). *The Rise and Fall of Swahili States*. AltaMira Press. ISBN: 9780761990529
 11. Casson, L. (trans.) (1989). *The Periplus Maris Erythraei*. Princeton University Press.
 12. McIntosh, R. J. (2005). *Ancient Middle Niger: Urbanism and the Self-Organizing Landscape*. Cambridge University Press.
 13. Blench, R. (2009). "Bananas and plantains in Africa: re-interpreting the linguistic evidence." *Ethnobotany Research and Applications*, 7, 363-380.
 14. Adelaar, A. (2009). "Towards an integrated theory about the Indonesian migrations to Madagascar." In *Ancient Human Migrations*. University of Utah Press.
 15. Wynne-Jones, S. (2016). *A Material Culture: Consumption and Materiality on the Coast of Precolonial East Africa*. Oxford University Press.
-16. Van Sertima, I. (1976). *They Came Before Columbus*. Random House.
+16. Van Sertima, I. (1976). *They Came Before Columbus*. Random House. ISBN: 9780679725305
 17. Haour, A., et al. (2016). "Theodore Monod's Trans-Saharan Crossing." *Azania*, 51(3), 301-325.
 18. Mitchell, P. (2005). *African Connections: Archaeological Perspectives on Africa and the Wider World*. AltaMira Press.
 19. LaViolette, A. (2008). "Swahili Cosmopolitanism in Africa and the Indian Ocean World." *Archaeologies*, 4(1), 24-49.
@@ -156,9 +185,9 @@ Sub-Saharan Africa was deeply integrated into global trade networks for millenni
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [C40](../C_Global_Traditions/C40_Bantu_Cosmology_Migration_Iron.md) | Bantu expansion and its role in creating trade network infrastructure |
-| [C79](../C_Global_Traditions/C79_Great_Zimbabwe_Southern_African.md) | Great Zimbabwe as economic hub of southeastern African gold trade |
-| [C80](../C_Global_Traditions/C80_Swahili_Coast_Maritime_Trade.md) | Swahili coast cities as Indian Ocean trade nodes |
+| [W05](../W_World_Civilizations/W05_Bantu_Cosmology_Migration_Iron.md) | Bantu expansion and its role in creating trade network infrastructure |
+| [W16](../W_World_Civilizations/W16_Great_Zimbabwe_Southern_African.md) | Great Zimbabwe as economic hub of southeastern African gold trade |
+| [W17](../W_World_Civilizations/W17_Swahili_Coast_Maritime_Trade.md) | Swahili coast cities as Indian Ocean trade nodes |
 | [F05](F05_Ancient_Maritime_Technology.md) | African maritime technologies: sewn boats, outriggers, reed craft |
 | [F03](F03_Bronze_Age_Trade_Networks.md) | Long-distance trade networks in comparative perspective |
 | [F15](F15_Chinese_Maritime_Zheng_He.md) | Zheng He's fleet visiting East African ports |

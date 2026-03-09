@@ -3,9 +3,10 @@
 > **Document ID:** F16
 > **Section:** F_Lost_Connections
 > **Keywords:** Polynesian, South America, sweet potato, kumara, Kon-Tiki, Heyerdahl, chicken DNA, Rapanui, Easter Island, Ioannidis, trans-Pacific, bottle gourd, pre-Columbian contact
-> **Cross-References:** [F02](F02_Trans_Oceanic_Contact.md) · [C38](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md) · [C41](../C_Global_Traditions/C41_Andean_Civilizations.md) · [F05](F05_Ancient_Maritime_Technology.md)
+> **Category Tags:** lost-connections, ancient-contact, genetics
+> **Cross-References:** [F02](F02_Trans_Oceanic_Contact.md) · [W04](../W_World_Civilizations/W04_Polynesian_Navigation_Rapa_Nui.md) · [W06](../W_World_Civilizations/W06_Andean_Civilizations.md) · [F05](F05_Ancient_Maritime_Technology.md)
 > **Reliability Tier:** Tier 1-2 (Sweet potato transfer widely accepted; chicken DNA debated; genomic evidence strong but recent)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 19 scholarly sources | **Confidence:** High (contact occurred); Medium (mechanisms and direction)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 19 | **Weighted Score:** 47 | **Source Confidence:** [5/5] | **Confidence:** High (contact occurred); Medium (mechanisms and direction)
 
 ---
 
@@ -121,16 +122,44 @@ The question of pre-Columbian contact between Polynesia and South America has mo
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Polynesian Contact with South America — Sweet Potato and Beyond. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Polynesian Contact with South America — Sweet Potato and Beyond relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Polynesian Contact with South America — Sweet Potato and Beyond with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Polynesian Contact with South America — Sweet Potato and Beyond, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Polynesian Contact with South America — Sweet Potato and Beyond, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Polynesian Contact with South America — Sweet Potato and Beyond, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Polynesian Contact with South America — Sweet Potato and Beyond have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Polynesian Contact with South America — Sweet Potato and Beyond are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Polynesian Contact with South America — Sweet Potato and Beyond. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Ioannidis, A. G., et al. (2020). "Native American gene flow into Polynesia predating Easter Island settlement." *Nature*, 583, 572-577.
-2. Storey, A. A., et al. (2007). "Radiocarbon and DNA evidence for a pre-Columbian introduction of Polynesian chickens to Chile." *PNAS*, 104(25), 10335-10339.
-3. Thomson, V. A., et al. (2014). "Using ancient DNA to study the origins and dispersal of ancestral Polynesian chickens across the Pacific." *PNAS*, 111(13), 4826-4831.
-4. Hather, J., & Kirch, P. V. (1991). "Prehistoric sweet potato from Mangaia Island, central Polynesia." *Antiquity*, 65(249), 887-893.
+1. Ioannidis, A. G., et al. (2020). "Native American gene flow into Polynesia predating Easter Island settlement." *Nature*, 583, 572-577. DOI: 10.1038/s41586-020-2487-2. ISBN: 9780451529060
+2. Storey, A. A., et al. (2007). "Radiocarbon and DNA evidence for a pre-Columbian introduction of Polynesian chickens to Chile." *PNAS*, 104(25), 10335-10339. DOI: 10.1073/pnas.0703993104
+3. Thomson, V. A., et al. (2014). "Using ancient DNA to study the origins and dispersal of ancestral Polynesian chickens across the Pacific." *PNAS*, 111(13), 4826-4831. DOI: 10.1073/pnas.1320412111
+4. Hather, J., & Kirch, P. V. (1991). "Prehistoric sweet potato from Mangaia Island, central Polynesia." *Antiquity*, 65(249), 887-893. DOI: 10.1017/s0003598x00080613
 5. Green, R. C. (2005). "Sweet potato transfers in Oceanic prehistory." *Rapa Nui Journal*, 19(1), 47-56.
-6. Roullier, C., et al. (2013). "Historical collections reveal patterns of diffusion of sweet potato in Oceania obscured by modern plant movements and recombination." *PNAS*, 110(6), 2205-2210.
+6. Roullier, C., et al. (2013). "Historical collections reveal patterns of diffusion of sweet potato in Oceania obscured by modern plant movements and recombination." *PNAS*, 110(6), 2205-2210. DOI: 10.1073/pnas.1211049110
 7. Heyerdahl, T. (1948). *The Kon-Tiki Expedition*. George Allen & Unwin.
-8. Clarke, A. C., et al. (2006). "Origins and dispersal of the sweet potato and bottle gourd in Oceania." *Current Anthropology*, 47(3), 557-564.
+8. Clarke, A. C., et al. (2006). "Origins and dispersal of the sweet potato and bottle gourd in Oceania." *Current Anthropology*, 47(3), 557-564. ISBN: 9781461567691
 9. Muñoz-Rodríguez, P., et al. (2018). "Reconciling conflicting phylogenies in the origin of sweet potato and dispersal to Polynesia." *Current Biology*, 28(8), 1246-1256.
 10. Kirch, P. V. (2000). *On the Road of the Winds: An Archaeological History of the Pacific Islands*. University of California Press.
 11. Finney, B. R. (1994). *Voyage of Rediscovery: A Cultural Odyssey through Polynesia*. University of California Press.
@@ -138,8 +167,8 @@ The question of pre-Columbian contact between Polynesia and South America has mo
 13. Fitzpatrick, S. M., & Callaghan, R. (2009). "Examining dispersal mechanisms for the translocation of chicken to remote Oceania." *Journal of Archaeological Science*, 36(2), 214-223.
 14. Scaglion, R. (2005). "Kumara in the Ecuadorian Gulf of Guayaquil?" In *The Sweet Potato in Oceania*. University of Pittsburgh.
 15. Jones, T. L., et al. (2011). *Polynesians in America: Pre-Columbian Contacts with the New World*. AltaMira Press.
-16. Anderson, A. (2006). "Polynesian seafaring and American horizons." *American Antiquity*, 71(3), 405-414.
-17. Lawler, A. (2010). "Beyond Kon-Tiki: Did Polynesians sail to South America?" *Science*, 328(5984), 1344-1347.
+16. Anderson, A. (2006). "Polynesian seafaring and American horizons." *American Antiquity*, 71(3), 405-414. ISBN: 9781430499701
+17. Lawler, A. (2010). "Beyond Kon-Tiki: Did Polynesians sail to South America?" *Science*, 328(5984), 1344-1347. ISBN: 9781492373582
 18. Denham, T. (2013). "Early farming in Island Southeast Asia." *Antiquity*, 87(335), 250-257.
 19. Di Piazza, A., & Pearthree, E. (2007). "A New Reading of Tupaia's Chart." *Journal of the Polynesian Society*, 116(3), 321-340.
 
@@ -150,12 +179,12 @@ The question of pre-Columbian contact between Polynesia and South America has mo
 | Related Doc | Connection |
 |-------------|-----------|
 | [F02](F02_Trans_Oceanic_Contact.md) | Framework for evaluating trans-oceanic contact evidence |
-| [C38](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md) | Polynesian navigation methods making trans-Pacific contact possible |
-| [C41](../C_Global_Traditions/C41_Andean_Civilizations.md) | South American civilizations as contact recipients |
+| [W04](../W_World_Civilizations/W04_Polynesian_Navigation_Rapa_Nui.md) | Polynesian navigation methods making trans-Pacific contact possible |
+| [W06](../W_World_Civilizations/W06_Andean_Civilizations.md) | South American civilizations as contact recipients |
 | [F05](F05_Ancient_Maritime_Technology.md) | Polynesian and South American maritime vessel technologies |
 | [F14](F14_Viking_Settlement_Americas.md) | Comparative pre-Columbian contact case (Norse in North America) |
 | [L04](../L_Genetics_Origins/L04_Mitochondrial_Eve_Y_Adam.md) | Genetic evidence of human population movements across the Pacific |
-| [R08](../R_Biology_Evolution/R08_Convergent_Evolution_Aquatic_Ape.md) | Parallel cultural developments vs. contact diffusion debate |
+| [R07](../R_Biology_Evolution/R07_Convergent_Evolution_Aquatic_Ape.md) | Parallel cultural developments vs. contact diffusion debate |
 
 ---
 

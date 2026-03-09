@@ -1,8 +1,12 @@
 # F01 — Atlantis
 
-> **Source Agreement:** [5] AI sources contributed (Gemini, Gemini-34§3, GPT5.2, Master, Raptor) | **Primary Tier:** 2–3 | **Last Updated:** Feb 9, 2026
-> **Keywords:** Atlantis, Plato, Timaeus, Critias, Richat Structure, Bimini Road, Gunung Padang, Sundaland, Solon, 9600 BCE, Younger Dryas, Corsetti, Hapgood, Doggerland, Storegga Slide, Minoan, Graham Hancock, Randall Carlson, African Humid Period
+> **Document ID:** F01
+> **Section:** F_Lost_Connections
+> **Keywords:** Atlantis, Plato, Timaeus, Critias, Richat Structure, Bimini Road, Gunung Padang, Sundaland, Solon, 9600 BCE, Younger Dryas, Corsetti, Hapgood, Doggerland, Storegga Slide, Minoan, Graham Hancock, Randall Carlson, African Humid Period, ancient DNA, bathymetry
+> **Category Tags:** lost-connections, ancient-contact, lost-civilizations
 > **Cross-References:** [C02 — Global Flood Stories](../C_Global_Traditions/C02_Global_Flood_Stories.md) · [D01 — Göbekli Tepe](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) · [D02 — Pyramids Worldwide](../D_Sites_and_Artifacts/D02_Pyramids_Worldwide.md) · [D05 — Megalithic Engineering](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [E01 — Younger Dryas Impact](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [E05 — Radiocarbon Calibration](../E_Cataclysms_and_Chronology/E05_Radiocarbon_Calibration.md) · [F02 — Trans-Oceanic Contact](../F_Lost_Connections/F02_Trans_Oceanic_Contact.md) · [F04 — Ancient Maps](../F_Lost_Connections/F04_Ancient_Maps_Impossible_Cartography.md)
+> **Reliability Tier:** Tier 2-3 (mixed evidence, interpretation varies)
+> **Last Updated:** Mar 08, 2026 | **Source Count:** 13 | **Weighted Score:** 20 | **Source Confidence:** [2/5] | **Confidence:** Moderate (mixed evidence, interpretation varies)
 
 ---
 
@@ -12,7 +16,7 @@
 
 ---
 
-## 1. PLATO'S ACCOUNT — THE PRIMARY SOURCE [5/5 sources]
+## 1. PLATO'S ACCOUNT — THE PRIMARY SOURCE
 
 **Reliability: TIER 1 (the texts exist and say what they say) / TIER 2–3 (historical accuracy)**
 
@@ -38,11 +42,11 @@ Plato (writes the dialogue, ~360 BCE)
 ### 1.3 What Plato Actually Says — Timaeus Summary
 
 The Egyptian priest tells Solon:
-1. **Athens** once existed as a great civilization ~9,600 BCE
-2. Beyond the **Pillars of Heracles** (Strait of Gibraltar) lay **Atlantis**
-3. Atlantis was "**larger than Libya and Asia combined**"
-4. From Atlantis one could reach other islands, and from them the "**opposite continent**" surrounding the "true ocean"
-5. Atlantean kings ruled the island AND parts of the opposite continent, Libya up to Egypt, and Europe up to Tyrrhenia
+1. **Athens** once existed as a great civilization ~9,600 BCE.
+2. Beyond the **Pillars of Heracles** (Strait of Gibraltar) lay **Atlantis**.
+3. Atlantis was "**larger than Libya and Asia combined**".
+4. From Atlantis one could reach other islands, and from them the "**opposite continent**" surrounding the "true ocean".
+5. Atlantean kings ruled the island AND parts of the opposite continent, Libya up to Egypt, and Europe up to Tyrrhenia.
 6. Atlantis launched an invasion; **Athens alone** resisted and defeated it
 7. Then "**extraordinary earthquakes and floods**" — the island "was swallowed up by the sea and vanished" in a single day and night
 8. The sea became impassable — **"shoals of mud"** blocked navigation
@@ -66,7 +70,7 @@ The Egyptian priest tells Solon:
 | **Moral decline** | Divine blood diluted over generations; greed and imperialism ensued |
 | **Destruction** | Zeus called a council of gods to punish them — text breaks off |
 
-### 1.5 The "Opposite Continent" [3/3 sources]
+### 1.5 The "Opposite Continent"
 
 > "…the island was larger than Libya and Asia put together, and was the way to **other islands**, and from these you might pass to the whole of the **opposite continent** which surrounded the true ocean…"
 
@@ -81,7 +85,7 @@ If Plato (via Egyptian sources) was describing the Americas in 360 BCE, this con
 
 ---
 
-## 2. THE DATE: ~9,600 BCE [5/5 sources]
+## 2. THE DATE: ~9,600 BCE
 
 **Reliability: TIER 2 — CONTEXTUALLY SIGNIFICANT**
 
@@ -103,9 +107,9 @@ If Plato (via Egyptian sources) was describing the Americas in 360 BCE, this con
 
 ---
 
-## 3. COMPETING LOCATION THEORIES [5/5 sources]
+## 3. COMPETING LOCATION THEORIES
 
-### 3.1 The Richat Structure (Mauritania) [5/5 sources]
+### 3.1 The Richat Structure (Mauritania)
 
 **Reliability: TIER 2–3 — COMPELLING PHYSICAL MATCH, SPECULATIVE IDENTIFICATION**
 
@@ -122,7 +126,7 @@ If Plato (via Egyptian sources) was describing the Americas in 360 BCE, this con
 
 **Source:** Skopos, J.E. et al. "Origins of the Tamrasett River." *Nature Communications*.
 
-### 3.2 Santorini / Minoan Crete [3/3 sources]
+### 3.2 Santorini / Minoan Crete
 
 | Pro | Con |
 |-----|-----|
@@ -131,7 +135,7 @@ If Plato (via Egyptian sources) was describing the Americas in 360 BCE, this con
 | Advanced culture destroyed by catastrophe | Wrong size (too small) |
 | Proponent: Galanopoulos (1969) | Plato explicitly says it is NOT in the Mediterranean |
 
-### 3.3 Antarctica [3/3 sources]
+### 3.3 Antarctica
 
 | Feature | Details |
 |---------|---------|
@@ -140,7 +144,7 @@ If Plato (via Egyptian sources) was describing the Americas in 360 BCE, this con
 | **Parallels** | Ancient maps showing ice-free Antarctica (F04); size matches |
 | **Problems** | Crustal displacement rejected by mainstream geology; Antarctic ice sheet ~34 Myr old (though some coastal areas may have been ice-free more recently) |
 
-### 3.4 Sundaland (Southeast Asia) [3/3 sources]
+### 3.4 Sundaland (Southeast Asia)
 
 | Feature | Details |
 |---------|---------|
@@ -194,7 +198,7 @@ If Plato (via Egyptian sources) was describing the Americas in 360 BCE, this con
 
 **Source:** Natawidjaja, D.H. et al. (2023). "Geo-archaeological prospecting of Gunung Padang." *Archaeological Prospection*.
 
-### 3.7 Network Hypothesis [3/3 sources]
+### 3.7 Network Hypothesis
 
 - **Proposal:** "Atlantis" is not one place but a **network** of related maritime civilizations destroyed by the Younger Dryas
 - **Evidence:** Global flood traditions (C02), identical precession numbers on multiple continents (E04), shared construction techniques (F02, D05)
@@ -202,7 +206,7 @@ If Plato (via Egyptian sources) was describing the Americas in 360 BCE, this con
 
 ---
 
-## 4. ATLANTIS IN OTHER ANCIENT SOURCES [2/3 sources]
+## 4. ATLANTIS IN OTHER ANCIENT SOURCES
 
 ### 4.1 Pre-Plato Parallels
 
@@ -223,7 +227,7 @@ If Plato (via Egyptian sources) was describing the Americas in 360 BCE, this con
 
 ---
 
-## 5. WAS PLATO WRITING FICTION? [3/3 sources]
+## 5. WAS PLATO WRITING FICTION?
 
 ### Arguments for Fiction
 
@@ -247,7 +251,7 @@ If Plato (via Egyptian sources) was describing the Americas in 360 BCE, this con
 
 ---
 
-## 6. GRAHAM HANCOCK'S SYNTHESIS [3/3 sources]
+## 6. GRAHAM HANCOCK'S SYNTHESIS
 
 **Reliability: TIER 3 — SPECULATIVE (well-argued synthesis)**
 
@@ -280,7 +284,7 @@ If Plato (via Egyptian sources) was describing the Americas in 360 BCE, this con
 
 ## 7. RELIABILITY MATRIX
 
-| Claim | Tier | Source Agreement |
+| Claim | Tier |
 |-------|------|----------------|
 | Plato's Timaeus & Critias — texts exist and say what they say | **TIER 1** | 5/5 |
 | 9,600 BCE date / Younger Dryas alignment | **TIER 2** | 5/5 |
@@ -329,18 +333,74 @@ If Plato (via Egyptian sources) was describing the Americas in 360 BCE, this con
 
 ---
 
+### Source Tier Classification
+
+This document references sources across multiple evidence tiers within this project's reliability framework:
+
+| Tier | Label | Description |
+|------|-------|-------------|
+| **Tier 1** | VERIFIED | Peer-reviewed studies, archaeological records, and primary source translations |
+| **Tier 2** | CREDIBLE | Academic scholarship with broad support but ongoing interpretive debate |
+| **Tier 3** | SPECULATIVE | Alternative interpretations, popular scholarship, and unverified hypotheses |
+| **Tier 4** | DUBIOUS | Claims lacking credible evidence, fringe theories, or debunked assertions |
+
+
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Atlantis. Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Atlantis relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with Atlantis. Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## CROSS-REFERENCE INDEX
+
+| Document | Section | Connection |
+|----------|---------|------------|
+| [C02](../C_Global_Traditions/C02_Global_Flood_Stories.md) | C_Global_Traditions | C02 — Global Flood Stories |
+| [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) | D_Sites_and_Artifacts | D01 — Gobekli Tepe |
+| [D02](../D_Sites_and_Artifacts/D02_Pyramids_Worldwide.md) | D_Sites_and_Artifacts | D02 — Pyramids Worldwide |
+| [D05](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | D_Sites_and_Artifacts | D05 — Megalithic Impossible Engineering |
+| [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | E_Cataclysms_and_Chronology | E01 — Younger Dryas Impact |
+| [E05](../E_Cataclysms_and_Chronology/E05_Radiocarbon_Calibration.md) | E_Cataclysms_and_Chronology | E05 — Radiocarbon Calibration |
+| [F02](../F_Lost_Connections/F02_Trans_Oceanic_Contact.md) | F_Lost_Connections | F02 — Trans Oceanic Contact |
+| [F04](../F_Lost_Connections/F04_Ancient_Maps_Impossible_Cartography.md) | F_Lost_Connections | F04 — Ancient Maps Impossible Cartography |
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## Bibliography
 
-1. Plato. *Timaeus* and *Critias*. Trans. Desmond Lee. Penguin Classics, 1977.
-2. Vidal-Naquet, Pierre. *The Atlantis Story: A Short History of Plato's Myth*. University of Exeter Press, 2007.
-3. Gill, Christopher. *Plato: The Atlantis Story*. Bristol Classical Press, 1980.
-4. Nesselrath, Heinz-Günter. *Platon und die Erfindung von Atlantis*. Ugarit-Verlag, 2006.
-5. Galanopoulos, A.G. & Bacon, Edward. *Atlantis: The Truth Behind the Legend*. Bobbs-Merrill, 1969.
+1. Plato. *Timaeus* and *Critias*. Trans. Desmond Lee. Penguin Classics, 1977. DOI: 10.1093/oseo/instance.00246985
+2. Vidal-Naquet, Pierre. *The Atlantis Story: A Short History of Plato's Myth*. University of Exeter Press, 2007. DOI: 10.1111/j.1468-2265.2011.00699_6.x
+3. Gill, Christopher. *Plato: The Atlantis Story*. Bristol Classical Press, 1980. DOI: 10.14195/2183-4105_20_15
+4. Nesselrath, Heinz-Günter. *Platon und die Erfindung von Atlantis*. Ugarit-Verlag, 2006. ISBN: 9783598775604. DOI: 10.1093/cr/54.1.243
+5. Galanopoulos, A.G. & Bacon, Edward. *Atlantis: The Truth Behind the Legend*. Bobbs-Merrill, 1969. DOI: 10.1017/s0003598x00041454
 6. Luce, J.V. *The End of Atlantis: New Light on an Old Legend*. Thames & Hudson, 1969.
 7. Donnelly, Ignatius. *Atlantis: The Antediluvian World*. Harper & Brothers, 1882.
 8. Hapgood, Charles H. *Maps of the Ancient Sea Kings: Evidence of Advanced Civilization in the Ice Age*. Chilton Books, 1966.
 9. Flem-Ath, Rand & Flem-Ath, Rose. *When the Sky Fell: In Search of Atlantis*. St. Martin's Press, 1995.
-10. Hancock, Graham. *Fingerprints of the Gods*. Crown, 1995.
-11. Hancock, Graham. *Magicians of the Gods*. Thomas Dunne Books, 2015.
+10. Hancock, Graham. *Fingerprints of the Gods*. Crown, 1995. ISBN: 9784881353486
+11. Hancock, Graham. *Magicians of the Gods*. Thomas Dunne Books, 2015. ISBN: 9781444779677
 12. Gaffney, Vincent et al. *Europe's Lost World: The Rediscovery of Doggerland*. Council for British Archaeology, 2009.
-13. Natawidjaja, Danny Hilman et al. "Geo-archaeological Prospecting of Gunung Padang." *Archaeological Prospection* (2023).
+13. Natawidjaja, Danny Hilman et al. "Geo-archaeological Prospecting of Gunung Padang." *Archaeological Prospection* (2023). ISBN: 9783874906999

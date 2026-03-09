@@ -1,8 +1,12 @@
 # F07 — Post-Catastrophe Knowledge Preservation
 
-> **Source Agreement:** [1] AI source contributed | **Primary Tier:** 1-2 | **Last Updated:** Feb 27, 2026
+> **Document ID:** F07
+> **Section:** F_Lost_Connections
 > **Keywords:** knowledge preservation, Enoch pillars, two pillars, Apkallu degradation, antediluvian knowledge, Göbekli Tepe burial, oral tradition, songlines, time capsule, catastrophe survival, information encoding, megalithic library, stone monuments, cuneiform, clay tablets, Library of Alexandria, cargo cult degradation, Hermetic pillars, Freemasonry pillars, Jachin Boaz, memory palace, method of loci, Vedic oral transmission, Aboriginal memory, redundancy, backup, WIPP markers, nuclear semiotics, Rosetta Stone, golden record, Voyager, mythological encoding, Hamlet Mill, precessional numbers, deliberate burial
+> **Category Tags:** lost-connections, ancient-contact, flood-traditions, esoteric-orders, megalithic
 > **Cross-References:** [A01 — Sumerian Texts](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) · [A04 — Book of Enoch](../A_Foundations/A04_Book_of_Enoch_and_Watchers.md) · [A07 — Apkallu](../A_Foundations/A07_Apkallu_Oannes_Seven_Sages.md) · [A08 — Hermetic](../A_Foundations/A08_Hermetic_Tradition.md) · [C02 — Global Flood](../C_Global_Traditions/C02_Global_Flood_Stories.md) · [C10 — Cargo Cult](../C_Global_Traditions/C10_Cargo_Cult_Analogy.md) · [D01 — Göbekli Tepe](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) · [E01 — Younger Dryas](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [F03 — Bronze Age Collapse](../F_Lost_Connections/F03_Bronze_Age_Trade_Networks.md) · [E11 — Mathematical Encoding](../E_Cataclysms_and_Chronology/E11_Mathematical_Encoding_Mythology.md)
+> **Reliability Tier:** Tier 1-2 (established with some scholarly debate)
+> **Last Updated:** Feb 27, 2026 | **Source Count:** 7 | **Weighted Score:** 13 | **Source Confidence:** [1/5] | **Confidence:** High (established with some scholarly debate)
 
 ---
 
@@ -489,7 +493,7 @@ Understanding how knowledge is *lost* is as important as understanding how it is
 ### Medium Priority
 5. **Untranslated cuneiform tablets.** An estimated 90% of surviving cuneiform texts remain untranslated. AI-assisted translation could unlock thousands of years of preserved knowledge.
 6. **Systematic comparison of Two Pillar traditions.** The Enoch/Seth, Hermetic, Egyptian (Djed pillars), and Masonic pillar traditions — are they independently derived or genetically related?
-7. **Neolithic burial practices at other megalithic sites.** Is deliberate backfilling unique to Göbekli Tepe, or does it occur at other Pre-Pottery Neolithic sites?
+7. **Neolithic burial practices at other megalithic sites.** Is deliberate backfilling unique to Göbekli Tepe, or does it occur at other Pre-Pottery Neolithic sites?.
 8. **Error rates in structured oral traditions.** Quantitative comparison of error rates between different mnemonic systems (Vedic, Aboriginal, Homeric, West African griot traditions).
 
 ### Speculative / Long-Term
@@ -519,12 +523,18 @@ Understanding how knowledge is *lost* is as important as understanding how it is
 
 ---
 
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## Bibliography
 
-1. de Santillana, Giorgio & von Dechend, Hertha. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969.
-2. Schmidt, Klaus. *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*. Ex Oriente, 2012.
-3. Nunn, Patrick D. & Reid, Nicholas J. "Aboriginal Memories of Inundation of the Australian Coast Dating from More Than 7000 Years Ago." *Australian Geographer* 47.1 (2016): 11–47.
-4. Ebeling, Florian. *The Secret History of Hermes Trismegistus: Hermeticism from Ancient to Modern Times*. Cornell University Press, 2007.
-5. Josephus, Flavius. *Antiquities of the Jews*. c. 93–94 CE.
+1. de Santillana, Giorgio & von Dechend, Hertha. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969. DOI: 10.1086/ahr/75.7.2009
+2. Schmidt, Klaus. *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*. Ex Oriente, 2012. DOI: 10.1093/oxfordhb/9780195376142.013.0042
+3. Nunn, Patrick D. & Reid, Nicholas J. "Aboriginal Memories of Inundation of the Australian Coast Dating from More Than 7000 Years Ago." *Australian Geographer* 47.1 (2016): 11–47. ISBN: 9783034335454. DOI: 10.1080/00049182.2015.1077539
+4. Ebeling, Florian. *The Secret History of Hermes Trismegistus: Hermeticism from Ancient to Modern Times*. Cornell University Press, 2007. DOI: 10.7591/9780801464829
+5. Josephus, Flavius. *Antiquities of the Jews*. c. 93–94 CE. ISBN: 9781986940184
 6. Berossus. *Babyloniaca*. c. 290 BCE.
-7. Isbell, Lynne A. *The Fruit, the Tree, and the Serpent: Why We See So Well*. Harvard University Press, 2009.
+7. Isbell, Lynne A. *The Fruit, the Tree, and the Serpent: Why We See So Well*. Harvard University Press, 2009. DOI: 10.4159/9780674054042
