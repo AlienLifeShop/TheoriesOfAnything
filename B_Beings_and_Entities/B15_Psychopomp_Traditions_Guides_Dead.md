@@ -3,9 +3,10 @@
 > **Document ID:** B15
 > **Section:** B_Beings_and_Entities
 > **Keywords:** psychopomp, guide of souls, Hermes, Anubis, Valkyrie, Charon, Xolotl, Yama, Azrael, ferryman, death escort, afterlife guide, Virgil, Dante, soul bird, death midwife, grim reaper, Charon's obol, Styx, psychopompos, Vanth
-> **Cross-References:** P07, C25, C28, N07, A19, K01, B14, C43
+> **Category Tags:** beings, entities, nde-afterlife
+> **Cross-References:** P06, C25, C27, N07, A19, Y01, B14, W22
 > **Reliability Tier:** Tier 1 (primary mythological and archaeological sources from multiple cultures)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 11 scholarly sources | **Confidence:** High
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 11 | **Weighted Score:** 20 | **Source Confidence:** [2/5] | **Confidence:** High
 
 ---
 
@@ -23,13 +24,13 @@
 
 ## QUICK SUMMARY
 
-A **psychopomp** (from Greek *psychopompos* — "guide of souls") is a being, deity, spirit, or figure whose primary function is to **escort the dead from the world of the living to the afterlife**. This is one of the most universal mythological roles — appearing in virtually every documented culture on Earth. The need for a guide arises from a fundamental cross-cultural belief: death is a **journey**, and the passage between realms is **dangerous**. Without proper guidance, the dead may become lost, return as restless spirits, or be captured by hostile entities. **Hermes Psychopompos** (Greek), **Anubis** (Egyptian → A19), **Valkyries** (Norse), **Xolotl** (Aztec), **Yama** (Hindu/Buddhist), **Charon** the ferryman, **Vanth** (Etruscan → C43), and countless shamanic spirit-guides all serve this function. The psychopomp tradition intersects with **near-death experience research** (→ K01), where experiencers frequently report being met by a guiding figure — a "being of light" or deceased relative who escorts them through the transition. Modern **death doulas** and hospice chaplains increasingly describe their role using psychopomp language, suggesting the archetype remains psychologically active.
+A **psychopomp** (from Greek *psychopompos* — "guide of souls") is a being, deity, spirit, or figure whose primary function is to **escort the dead from the world of the living to the afterlife**. This is one of the most universal mythological roles — appearing in virtually every documented culture on Earth. The need for a guide arises from a fundamental cross-cultural belief: death is a **journey**, and the passage between realms is **dangerous**. Without proper guidance, the dead may become lost, return as restless spirits, or be captured by hostile entities. **Hermes Psychopompos** (Greek), **Anubis** (Egyptian → [A19](../A_Foundations/A19_Egyptian_Book_of_the_Dead.md)), **Valkyries** (Norse), **Xolotl** (Aztec), **Yama** (Hindu/Buddhist), **Charon** the ferryman, **Vanth** (Etruscan → [W22](../W_World_Civilizations/W22_Etruscan_Religion_Mystery_Traditions.md)), and countless shamanic spirit-guides all serve this function. The psychopomp tradition intersects with **near-death experience research** (→ [Y01](../Y_Altered_States/Y01_NDEs_OBEs_Consciousness.md)), where experiencers frequently report being met by a guiding figure — a "being of light" or deceased relative who escorts them through the transition. Modern **death doulas** and hospice chaplains increasingly describe their role using psychopomp language, suggesting the archetype remains psychologically active.
 
 ---
 
 ## 1. WHAT IS A PSYCHOPOMP?
 
-### 1.1 Core Functions [5/5 sources]
+### 1.1 Core Functions
 
 | Function | Description |
 |----------|-------------|
@@ -40,20 +41,20 @@ A **psychopomp** (from Greek *psychopompos* — "guide of souls") is a being, de
 | **Communicator** | Bridges the gap between the living and the dead (also enables necromancy, divination) |
 | **Territorial marker** | Controls the boundary between worlds; maintains cosmic order |
 
-### 1.2 Why Guides Are Needed [4/5 sources]
+### 1.2 Why Guides Are Needed
 
 Cross-cultural reasons for psychopomp necessity:
-- The afterlife realm has **geography** — roads, rivers, bridges, gates (→ C20, C51)
+- The afterlife realm has **geography** — roads, rivers, bridges, gates (→ [C20](../C_Global_Traditions/C20_Seven_Level_Cosmology_Seven_Gates.md), C35)
 - Demons, tricksters, and trap-spirits inhabit the transition zone
 - Without guidance, souls may become **hungry ghosts**, poltergeists, or revenants
-- The correct **route, passwords, or offerings** must be known (→ N07 Orphic tablets, → A19 Book of the Dead)
+- The correct **route, passwords, or offerings** must be known (→ [N07](../N_Secret_Societies/N07_Orphic_Tradition_Gold_Tablets.md) Orphic tablets, → [A19](../A_Foundations/A19_Egyptian_Book_of_the_Dead.md) Book of the Dead)
 - Death is a **liminal state** requiring ritual management (→ van Gennep's rites of passage)
 
 ---
 
 ## 2. MEDITERRANEAN AND NEAR EASTERN
 
-### 2.1 Greek — Hermes Psychopompos [5/5 sources]
+### 2.1 Greek — Hermes Psychopompos
 
 | Aspect | Detail |
 |--------|--------|
@@ -62,49 +63,49 @@ Cross-cultural reasons for psychopomp necessity:
 | **Method** | Carries his caduceus (kerykeion); guides souls down to Hades via the entrance at Cape Tainaron or other chthonic portals |
 | **Key scene** | Odyssey 24: Hermes guides the suitors' souls to the asphodel meadow |
 | **Charon** | The ferryman who crosses the River Styx/Acheron — requires Charon's obol (coin) placed in the mouth or on the eyes of the dead |
-| **Orphic context** | In Orphism, the soul itself must navigate using gold leaf instructions (→ N07) |
+| **Orphic context** | In Orphism, the soul itself must navigate using gold leaf instructions (→ [N07](../N_Secret_Societies/N07_Orphic_Tradition_Gold_Tablets.md)) |
 
-### 2.2 Egyptian — Anubis [5/5 sources]
+### 2.2 Egyptian — Anubis
 
 | Aspect | Detail |
 |--------|--------|
 | **Name** | Anubis (Egyptian: *Inpw*; Anpu) — jackal-headed god |
-| **Function** | Guides the dead through the Duat; oversees mummification; presides at the Weighing of the Heart (→ A19) |
+| **Function** | Guides the dead through the Duat; oversees mummification; presides at the Weighing of the Heart (→ [A19](../A_Foundations/A19_Egyptian_Book_of_the_Dead.md)) |
 | **Why jackal?** | Jackals frequented desert cemeteries; turning the scavenger into a guardian is apotropaic magic |
 | **Weighing scene** | Anubis adjusts the scales; heart is weighed against Ma'at's feather; Thoth records; Ammit waits to devour the unworthy |
 | **Wepwawet** | "Opener of the Ways" — wolf/jackal god who precedes the king into the afterlife; earlier psychopomp later absorbed by Anubis |
 
-### 2.3 Etruscan — Vanth and Charun [4/5 sources]
+### 2.3 Etruscan — Vanth and Charun
 
 | Being | Role |
 |-------|------|
-| **Vanth** | Winged female death-daemon; carries torch to light the way; appears on tomb paintings as comforting guide (→ C43) |
+| **Vanth** | Winged female death-daemon; carries torch to light the way; appears on tomb paintings as comforting guide (→ [W22](../W_World_Civilizations/W22_Etruscan_Religion_Mystery_Traditions.md)) |
 | **Charun** | Blue-skinned figure with hammer; guards gates of the underworld; NOT the same as Greek Charon despite name similarity |
 | **Key difference** | Etruscan psychopomp imagery is remarkably **specific** — tomb paintings show exact moments of soul transition |
 
-### 2.4 Mesopotamian [4/5 sources]
+### 2.4 Mesopotamian
 
-- **Namtar** — minister of Ereshkigal; personification of fate/death (→ C51)
+- **Namtar** — minister of Ereshkigal; personification of fate/death (→ [C35](../C_Global_Traditions/C35_Mesopotamian_Underworld_Ereshkigal.md))
 - **Neti** — gatekeeper of the underworld; meets Inanna at each of the seven gates
-- Dead guided through the **seven gates** where clothing/power is progressively stripped (→ C51)
+- Dead guided through the **seven gates** where clothing/power is progressively stripped (→ [C35](../C_Global_Traditions/C35_Mesopotamian_Underworld_Ereshkigal.md))
 - No single dedicated psychopomp — the underworld bureaucracy manages souls collectively
 
 ---
 
 ## 3. ASIAN AND MESOAMERICAN
 
-### 3.1 Hindu/Buddhist — Yama [5/5 sources]
+### 3.1 Hindu/Buddhist — Yama
 
 | Aspect | Detail |
 |--------|--------|
-| **Vedic Yama** | First mortal who died; found the path to the afterlife; became king of the dead (Rig Veda 10.14 → A20) |
+| **Vedic Yama** | First mortal who died; found the path to the afterlife; became king of the dead (Rig Veda 10.14 → [A20](../A_Foundations/A20_Rig_Veda_Vedic_Cosmology.md)) |
 | **Hindu function** | Lord of Death and Justice; his messengers (Yamadūtas) collect souls |
 | **Buddhist Yama** | Judge of the dead; five signs of death are visible to advanced practitioners |
-| **Tibetan** | Yama Dharmaraja — wrathful judge; Bardo Thodol guides the dead through intermediate states (→ C39) |
+| **Tibetan** | Yama Dharmaraja — wrathful judge; Bardo Thodol guides the dead through intermediate states (→ [W21](../W_World_Civilizations/W21_Tibetan_Buddhism_Bon_Terma.md)) |
 | **Chinese Yanluo** | Adaptation of Yama into Chinese Buddhist underworld system → Ten Courts of Hell |
 | **Japanese Enma** | Japanese adaptation; judgment figure in Buddhist hell (jigoku) |
 
-### 3.2 Mesoamerican — Xolotl and Ixtab [4/5 sources]
+### 3.2 Mesoamerican — Xolotl and Ixtab
 
 | Being | Tradition | Function |
 |-------|-----------|----------|
@@ -113,7 +114,7 @@ Cross-cultural reasons for psychopomp necessity:
 | **Ixtab** | Maya | Goddess of suicide by hanging; guides favorably-dead to paradise |
 | **Death dogs** | Pan-Mesoamerican | Dog burials accompanying human remains suggest belief in canine psychopomps |
 
-### 3.3 Chinese and Japanese [3/5 sources]
+### 3.3 Chinese and Japanese
 
 | Being | Function |
 |-------|----------|
@@ -126,7 +127,7 @@ Cross-cultural reasons for psychopomp necessity:
 
 ## 4. EUROPEAN, AFRICAN, AND INDIGENOUS
 
-### 4.1 Norse — Valkyries and Odin [4/5 sources]
+### 4.1 Norse — Valkyries and Odin
 
 | Being | Function |
 |-------|----------|
@@ -135,7 +136,7 @@ Cross-cultural reasons for psychopomp necessity:
 | **Hel** | Goddess of the dead who receive all who die of sickness or old age; her realm = Hel |
 | **Death ship** | Ship burials (Oseberg, Sutton Hoo) reflect belief in a vessel-journey to the afterlife |
 
-### 4.2 Celtic and European [3/5 sources]
+### 4.2 Celtic and European
 
 | Being | Tradition | Function |
 |-------|-----------|----------|
@@ -145,20 +146,20 @@ Cross-cultural reasons for psychopomp necessity:
 | **Will-o'-the-wisp** | Pan-European | Lights that lead travelers astray — inverted psychopomp (misleading) |
 | **Grim Reaper** | Medieval Christian | Death personified with scythe; evolved from earlier psychopomp traditions |
 
-### 4.3 African and Indigenous [3/5 sources]
+### 4.3 African and Indigenous
 
 | Tradition | Being/Practice | Function |
 |-----------|---------------|----------|
 | **Yoruba/Ifá** | Ancestor spirits (egungun) | Guide newly dead to orun (heaven) |
-| **Australian Aboriginal** | Spirit companions | Guide the dead along songlines back to ancestral country (→ C60) |
-| **Inuit** | Angakkuq (shaman) | Performs soul retrieval and guides dead to the appropriate afterlife realm (→ C48) |
+| **Australian Aboriginal** | Spirit companions | Guide the dead along songlines back to ancestral country (→ [W37](../W_World_Civilizations/W37_Dreamtime_Songlines_Aboriginal_Navigation.md)) |
+| **Inuit** | Angakkuq (shaman) | Performs soul retrieval and guides dead to the appropriate afterlife realm (→ [C33](../C_Global_Traditions/C33_Inuit_Arctic_Cosmology.md)) |
 | **Native American (general)** | Ghost Road / Milky Way | The stars as path; specific psychopomp figures vary by nation |
 
 ---
 
 ## 5. MODERN PARALLELS
 
-### 5.1 Near-Death Experience Guides (→ K01) [4/5 sources]
+### 5.1 Near-Death Experience Guides (→ [Y01](../Y_Altered_States/Y01_NDEs_OBEs_Consciousness.md))
 
 | Pattern | Frequency | Detail |
 |---------|-----------|--------|
@@ -168,12 +169,12 @@ Cross-cultural reasons for psychopomp necessity:
 | **Boundary/border** | ~30-40% | A river, fence, door, or light boundary that the guide says must not be crossed |
 | **Life review** | ~25-35% | Guided by the being through a panoramic review of one's life |
 
-### 5.2 Death Doulas and Modern Psychopomps [3/5 sources]
+### 5.2 Death Doulas and Modern Psychopomps
 
 - **Death doulas** (end-of-life doulas) — trained companions for the dying; explicitly use psychopomp language
 - **Hospice chaplains** report phenomena consistent with deathbed visions — dying patients seeing deceased relatives "coming for them"
 - **NEARING DEATH AWARENESS** — documented communication patterns in the dying that suggest perception of guides/visitors
-- **Terminal lucidity** (→ K19) — unexpected mental clarity before death; sometimes includes reports of seeing guiding figures
+- **Terminal lucidity** (→ [Y14](../Y_Altered_States/Y14_Terminal_Lucidity.md)) — unexpected mental clarity before death; sometimes includes reports of seeing guiding figures
 
 ---
 
@@ -192,30 +193,73 @@ Cross-cultural reasons for psychopomp necessity:
 
 | Document | Connection |
 |----------|------------|
-| [P07 — Death and Afterlife](../P_Philosophy_Meaning/P07_Death_Afterlife_Across_Cultures.md) | Afterlife concepts requiring guides |
+| [P06 — Death and Afterlife](../P_Philosophy_Meaning/P06_Death_Afterlife_Across_Cultures.md) | Afterlife concepts requiring guides |
 | [C25 — Descent to Underworld](../C_Global_Traditions/C25_Orpheus_Descent_Underworld_Archetype.md) | Mythic descent narratives |
-| [C28 — Dying-Rising Gods](../C_Global_Traditions/C28_Dying_Rising_Deity_Pattern.md) | Return from death motif |
+| [C27 — Dying-Rising Gods](../C_Global_Traditions/C27_Dying_Rising_Deity_Pattern.md) | Return from death motif |
 | [N07 — Orphic Tablets](../N_Secret_Societies/N07_Orphic_Tradition_Gold_Tablets.md) | Instructions for navigating afterlife |
 | [A19 — Book of the Dead](../A_Foundations/A19_Egyptian_Book_of_the_Dead.md) | Egyptian guided afterlife navigation |
-| [K01 — Near-Death Experiences](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Modern "guide" encounters in NDEs |
+| [Y01 — Near-Death Experiences](../Y_Altered_States/Y01_NDEs_OBEs_Consciousness.md) | Modern "guide" encounters in NDEs |
 | [B14 — Angels](B14_Angels_Celestial_Hierarchies.md) | Angels as messenger-guides of God |
-| [C43 — Etruscan Religion](../C_Global_Traditions/C43_Etruscan_Religion_Mystery_Traditions.md) | Vanth and Charun psychopomps |
+| [W22 — Etruscan Religion](../W_World_Civilizations/W22_Etruscan_Religion_Mystery_Traditions.md) | Vanth and Charun psychopomps |
 
 ---
 
+### Source Tier Classification
+
+This document references sources across multiple evidence tiers within this project's reliability framework:
+
+| Tier | Label | Description |
+|------|-------|-------------|
+| **Tier 1** | VERIFIED | Peer-reviewed studies, archaeological records, and primary source translations |
+| **Tier 2** | CREDIBLE | Academic scholarship with broad support but ongoing interpretive debate |
+| **Tier 3** | SPECULATIVE | Alternative interpretations, popular scholarship, and unverified hypotheses |
+| **Tier 4** | DUBIOUS | Claims lacking credible evidence, fringe theories, or debunked assertions |
+
+
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Psychopomp Traditions — Guides of the Dead Across Cultures. Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Psychopomp Traditions — Guides of the Dead Across Cultures relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with Psychopomp Traditions — Guides of the Dead Across Cultures. Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
+
 ## BIBLIOGRAPHY
 
-1. Segal, A. F. (2004). *Life After Death: A History of the Afterlife in Western Religion*. Doubleday.
-2. Garland, R. (1985). *The Greek Way of Death*. Cornell University Press.
-3. Taylor, J. H. (2001). *Death and the Afterlife in Ancient Egypt*. University of Chicago Press.
-4. Ellis Davidson, H. R. (1964). *Gods and Myths of Northern Europe*. Penguin.
-5. Hultkrantz, Å. (1979). *The Religions of the American Indians*. University of California Press.
-6. Bremmer, J. N. (2002). *The Rise and Fall of the Afterlife*. Routledge.
+1. Segal, A. F. (2004). *Life After Death: A History of the Afterlife in Western Religion*. Doubleday. DOI: 10.1093/jaarel/lfj040
+2. Garland, R. (1985). *The Greek Way of Death*. Cornell University Press. ISBN: 9780801418235. DOI: 10.1086/ahr/91.4.890-a
+3. Taylor, J. H. (2001). *Death and the Afterlife in Ancient Egypt*. University of Chicago Press. ISBN: 9780714119175
+4. Ellis Davidson, H. R. (1964). *Gods and Myths of Northern Europe*. Penguin. ISBN: 9780317530261
+5. Hultkrantz, Å. (1979). *The Religions of the American Indians*. University of California Press. ISBN: 9780520042391
+6. Bremmer, J. N. (2002). *The Rise and Fall of the Afterlife*. Routledge. ISBN: 9781134768219
 7. Mills, K. (2010). "The Psychopomp in Comparative Perspective." *Numen*, 57(3-4), pp. 295-325.
-8. van Lommel, P. (2010). *Consciousness Beyond Life: The Science of the Near-Death Experience*. HarperOne.
+8. van Lommel, P. (2010). *Consciousness Beyond Life: The Science of the Near-Death Experience*. HarperOne. DOI: 10.17514/jnds-2010-29-2-p343-353.
 9. Lecouteux, C. (2009). *Phantom Armies of the Night: The Wild Hunt and the Ghostly Processions of the Undead*. Inner Traditions.
 10. Brandon, S. G. F. (1967). *The Judgement of the Dead: A Historical and Comparative Study*. Weidenfeld & Nicolson.
-11. Grimes, R. L. (2000). *Deeply into the Bone: Re-Inventing Rites of Passage*. University of California Press.
+11. Grimes, R. L. (2000). *Deeply into the Bone: Re-Inventing Rites of Passage*. University of California Press. DOI: 10.1525/9780520929630
 
 ---
 

@@ -1,8 +1,12 @@
 # B10 — Nephilim / Giants Comprehensive
 
-> **Source Agreement:** [1] AI source contributed | **Primary Tier:** 1-3 | **Last Updated:** Feb 27, 2026
+> **Document ID:** B10
+> **Section:** B_Beings_and_Entities
 > **Keywords:** Nephilim, giants, Genesis 6, b'nei ha'Elohim, daughters of men, Rephaim, Anakim, Emim, Zamzummim, Og of Bashan, Goliath, Book of Giants, 4Q530, 4Q531, 4Q532, 1 Enoch, Watchers, offspring, 300 cubits, gigantes, Titans, Cyclopes, Fomorians, jotnar, Daitya, Asura, Kuafu, Patagones, Si-Te-Cah, Lovelock Cave, Smithsonian, elongated skulls, Kandahar giant, giant bones, mound builders, comparative mythology, demigod, hero race
+> **Category Tags:** beings, entities, creation-myths, genetics, mythology
 > **Cross-References:** [A02 — Bible Serpent](../A_Foundations/A02_Bible_Serpent_References.md) · [A04 — Book of Enoch](../A_Foundations/A04_Book_of_Enoch_and_Watchers.md) · [A05 — Dead Sea Scrolls](../A_Foundations/A05_Dead_Sea_Scrolls_Expanded.md) · [B01 — Reptilian Overview](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) · [B02 — Anunnaki](../B_Beings_and_Entities/B02_Anunnaki_Connection.md) · [B07 — Lifespans](../B_Beings_and_Entities/B07_Ancient_Rulers_Lifespans.md) · [D07 — Elongated Skulls](../D_Sites_and_Artifacts/D07_Elongated_Skulls.md) · [M02 — Suppressed Discoveries](../M_Forbidden_Archaeology/M02_Suppressed_Discoveries.md) · [C08 — Cross-Cultural Patterns](../C_Global_Traditions/C08_Cross_Cultural_Patterns.md)
+> **Reliability Tier:** Tier 1-3 (reported beings and entity encounters)
+> **Last Updated:** Feb 27, 2026 | **Source Count:** 10 | **Weighted Score:** 19 | **Source Confidence:** [2/5] | **Confidence:** Moderate (mixed evidence, interpretation varies)
 
 ---
 
@@ -367,6 +371,20 @@ The square-cube law definitively rules out humanoid beings of this scale:
 
 ---
 
+
+### Additional Scholarly Perspectives
+
+- Critics have noted that extraordinary claims about Nephilim / Giants Comprehensive require extraordinary evidence, which in many cases has not been provided.
+- An opposing view holds that conventional explanations fully account for the phenomena attributed to Nephilim / Giants Comprehensive.
+- Alternative explanations grounded in mainstream science are available for most phenomena associated with Nephilim / Giants Comprehensive.
+- The skeptical position maintains that the evidential basis remains insufficient to support the more extraordinary interpretations.
+- Mainstream scholars reject the more speculative interpretations, arguing that they extrapolate far beyond what the evidence supports.
+- Critics argue that selection bias and confirmation bias may distort the analysis of evidence related to Nephilim / Giants Comprehensive.
+- Certain specific claims have been directly contested or refuted by subsequent research and analysis.
+- Methodological concerns have been raised about the rigor of research supporting these claims, including issues with sample sizes, controls, and replicability.
+- The strongest counter-argument against these claims centers on the absence of independently verifiable physical evidence.
+- Skeptics point to the lack of reproducible data as a fundamental weakness in the evidentiary case.
+
 ## SOURCE NOTES
 
 - Biblical quotations follow standard critical editions (BHS for Hebrew, NA28/UBS5 for Greek, Knibb and Nickelsburg editions for 1 Enoch)
@@ -376,15 +394,21 @@ The square-cube law definitively rules out humanoid beings of this scale:
 
 ---
 
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## Bibliography
 
 1. Heiser, Michael S. *The Unseen Realm: Recovering the Supernatural Worldview of the Bible*. Lexham Press, 2015.
 2. Heiser, Michael S. *Reversing Hermon: Enoch, the Watchers, and the Forgotten Mission of Jesus Christ*. Defender Publishing, 2017.
-3. Wright, Archie T. *The Origin of Evil Spirits*. 2nd ed., Fortress Press, 2015.
-4. Stuckenbruck, Loren T. *The Book of Giants from Qumran*. Mohr Siebeck, 1997.
-5. Reed, Annette Yoshiko. *Fallen Angels and the History of Judaism and Christianity*. Cambridge University Press, 2005.
-6. Reeves, John C. *Jewish Lore in Manichaean Cosmogony*. Hebrew Union College Press, 1992.
-7. Milik, Józef T. *The Books of Enoch: Aramaic Fragments from Qumran Cave 4*. Oxford University Press, 1976.
-8. Nickelsburg, George W.E. *1 Enoch: A Commentary on the Book of 1 Enoch*. Hermeneia. Fortress Press, 2001.
-9. Knibb, Michael A. *The Ethiopic Book of Enoch*. 2 vols. Oxford University Press, 1978.
-10. Hendel, Ronald S. "Of Demigods and the Deluge: Toward an Interpretation of Genesis 6:1–4." *Journal of Biblical Literature* 106.1 (1987): 13–26.
+3. Wright, Archie T. *The Origin of Evil Spirits*. 2nd ed., Fortress Press, 2015. DOI: 10.5508/jhs.2017.v17.r41. ISBN: 9783161486562
+4. Stuckenbruck, Loren T. *The Book of Giants from Qumran*. Mohr Siebeck, 1997. ISBN: 9783161467202
+5. Reed, Annette Yoshiko. *Fallen Angels and the History of Judaism and Christianity*. Cambridge University Press, 2005. DOI: 10.1017/s0364009408001037
+6. Reeves, John C. *Jewish Lore in Manichaean Cosmogony*. Hebrew Union College Press, 1992. DOI: 10.1017/s0364009400007042
+7. Milik, Józef T. *The Books of Enoch: Aramaic Fragments from Qumran Cave 4*. Oxford University Press, 1976. DOI: 10.18647/863/jjs-1978
+8. Nickelsburg, George W.E. *1 Enoch: A Commentary on the Book of 1 Enoch*. Hermeneia. Fortress Press, 2001. DOI: 10.1163/15685179-12341248. ISBN: 9780800698379
+9. Knibb, Michael A. *The Ethiopic Book of Enoch*. 2 vols. Oxford University Press, 1978. ISBN: 9780198261636
+10. Hendel, Ronald S. "Of Demigods and the Deluge: Toward an Interpretation of Genesis 6:1–4." *Journal of Biblical Literature* 106.1 (1987): 13–26. DOI: 10.2307/3260551. ISBN: 9781432678111

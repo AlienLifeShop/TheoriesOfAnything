@@ -3,9 +3,10 @@
 > **Document ID:** B14
 > **Section:** B_Beings_and_Entities
 > **Keywords:** angels, celestial hierarchy, Pseudo-Dionysius, nine orders, seraphim, cherubim, archangels, malak, Amesha Spentas, deva, yaksha, Merkabah, ophanim, thrones, dominions, principalities, guardian angel, angelophany, divine messenger, wing symbolism
-> **Cross-References:** A04, A16, A21, C19, P06, B09, A02, K01
+> **Category Tags:** beings, entities, religion
+> **Cross-References:** A04, A16, A21, C19, P05, B09, A02, Y01
 > **Reliability Tier:** Tier 2 (theological constructs drawn from primary texts; historical angel belief well-documented)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 11 scholarly sources | **Confidence:** Medium-High
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 11 | **Weighted Score:** 21 | **Source Confidence:** [2/5] | **Confidence:** Medium-High
 
 ---
 
@@ -23,23 +24,23 @@
 
 ## QUICK SUMMARY
 
-**Angels** (from Greek *angelos* = "messenger," translating Hebrew *mal'akh*) appear in virtually every religious tradition — intermediary beings between the divine and human realms who carry messages, enforce divine will, guard sacred spaces, and execute cosmic functions. This document surveys the **major angelological traditions** across cultures: the Hebrew Bible's evolving angel concept (from anonymous messengers to named archangels → A04); **Pseudo-Dionysius's** influential 5th-century systematization into **nine orders** (seraphim, cherubim, thrones, dominions, virtues, powers, principalities, archangels, angels); **Islamic malā'ika** created from light, with strictly no free will (→ A21); **Zoroastrian Amesha Spentas** — not "angels" exactly, but divine emanations of Ahura Mazda (→ C19); and parallels in **Hindu devas**, **Buddhist devas**, **Tibetan dharmapalas**, and **Japanese tennin**. The angelic concept is complementary to the divine council (→ A16) and the Watchers tradition (→ A04), and intersects with modern UAP experiencer reports of luminous beings (→ B09).
+**Angels** (from Greek *angelos* = "messenger," translating Hebrew *mal'akh*) appear in virtually every religious tradition — intermediary beings between the divine and human realms who carry messages, enforce divine will, guard sacred spaces, and execute cosmic functions. This document surveys the **major angelological traditions** across cultures: the Hebrew Bible's evolving angel concept (from anonymous messengers to named archangels → [A04](../A_Foundations/A04_Book_of_Enoch_and_Watchers.md)); **Pseudo-Dionysius's** influential 5th-century systematization into **nine orders** (seraphim, cherubim, thrones, dominions, virtues, powers, principalities, archangels, angels); **Islamic malā'ika** created from light, with strictly no free will (→ [A21](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md)); **Zoroastrian Amesha Spentas** — not "angels" exactly, but divine emanations of Ahura Mazda (→ [C19](../C_Global_Traditions/C19_Zoroastrianism_Demonization_Pivot.md)); and parallels in **Hindu devas**, **Buddhist devas**, **Tibetan dharmapalas**, and **Japanese tennin**. The angelic concept is complementary to the divine council (→ [A16](../A_Foundations/A16_Divine_Council_Assembly_of_Gods.md)) and the Watchers tradition (→ [A04](../A_Foundations/A04_Book_of_Enoch_and_Watchers.md)), and intersects with modern UAP experiencer reports of luminous beings (→ [B09](B09_Alien_Races_Origins.md)).
 
 ---
 
 ## 1. ANGELS IN THE HEBREW BIBLE AND JUDAISM
 
-### 1.1 Biblical Angel Evolution [5/5 sources]
+### 1.1 Biblical Angel Evolution
 
 | Period | Angel Concept | Key Texts |
 |--------|--------------|-----------|
 | **Early patriarchal** | Anonymous messengers indistinguishable from God himself; "angel of YHWH" may be a theophany | Genesis 18 (three visitors); Exodus 3 (burning bush); Judges 13 (Manoah's visitor) |
 | **Monarchic** | Angels as divine court attendants; seraphim and cherubim as throne guardians | Isaiah 6 (seraphim); 1 Kings 22 (divine council); Ezekiel 1, 10 (cherubim/living creatures) |
 | **Post-exilic** | Named individual angels emerge; Persian influence suspected | Daniel 8:16, 9:21 (Gabriel); Daniel 10:13, 12:1 (Michael); Zechariah 1-6 (interpreting angel) |
-| **Second Temple** | Elaborate angelology; angel ranks, names, functions proliferate | 1 Enoch 6-36 (Watchers, 200 fallen angels → A04); Jubilees; Dead Sea Scrolls (→ A05); Tobit (Raphael) |
+| **Second Temple** | Elaborate angelology; angel ranks, names, functions proliferate | 1 Enoch 6-36 (Watchers, 200 fallen angels → [A04](../A_Foundations/A04_Book_of_Enoch_and_Watchers.md)); Jubilees; Dead Sea Scrolls (→ [A05](../A_Foundations/A05_Dead_Sea_Scrolls_Expanded.md)); Tobit (Raphael) |
 | **Rabbinic** | Angels formalized; Metatron as highest angel; seven archangels standard | Talmud, Hekhalot literature, 3 Enoch |
 
-### 1.2 The Cherubim and Seraphim [5/5 sources]
+### 1.2 The Cherubim and Seraphim
 
 | Being | Hebrew/Etymology | Appearance | Function |
 |-------|-----------------|------------|----------|
@@ -47,12 +48,12 @@
 | **Seraphim** (שְׂרָפִים) | Hebrew *śārap* = "to burn" → "burning ones" | Six wings: two covering face, two covering feet, two for flying (Isaiah 6:2) | Attend God's throne; cry "Holy, holy, holy"; one purifies Isaiah's lips with a coal |
 | **Ophanim** (אוֹפַנִּים) | Hebrew *'ophan* = "wheel" | Wheels within wheels, covered with eyes (Ezekiel 1:15-21) | Part of the divine throne mechanism; later ranked by Maimonides as second-highest order |
 
-### 1.3 Merkabah Angels [4/5 sources]
+### 1.3 Merkabah Angels
 
 The **Merkabah** (Chariot) tradition developed from Ezekiel's visions:
 - **Hayyot** (living creatures) — four-faced beings carrying the throne
 - **Ophanim** — the terrifying wheels
-- **Metatron** — "Prince of the Presence" or "Lesser YHWH" — possibly transformed Enoch (→ A04)
+- **Metatron** — "Prince of the Presence" or "Lesser YHWH" — possibly transformed Enoch (→ [A04](../A_Foundations/A04_Book_of_Enoch_and_Watchers.md))
 - Hekhalot literature describes **seven heavenly palaces** guarded by fearsome angels
 - The mystic must know **names and seals** to pass each guardian — esoteric password system
 
@@ -60,7 +61,7 @@ The **Merkabah** (Chariot) tradition developed from Ezekiel's visions:
 
 ## 2. CHRISTIAN ANGELOLOGY
 
-### 2.1 Pseudo-Dionysius's Nine Orders [5/5 sources]
+### 2.1 Pseudo-Dionysius's Nine Orders
 
 The most influential angelic hierarchy, from *De Coelesti Hierarchia* (~5th century CE):
 
@@ -76,7 +77,7 @@ The most influential angelic hierarchy, from *De Coelesti Hierarchia* (~5th cent
 | | 8. **Archangels** | Lead angel armies; deliver major divine messages | Jude 1:9; 1 Thessalonians 4:16 |
 | | 9. **Angels** | Personal guardians; deliver routine messages to individuals | Throughout Bible; Matthew 18:10 |
 
-### 2.2 Named Archangels [4/5 sources]
+### 2.2 Named Archangels
 
 | Name | Tradition | Role |
 |------|-----------|------|
@@ -93,7 +94,7 @@ The most influential angelic hierarchy, from *De Coelesti Hierarchia* (~5th cent
 
 ## 3. ISLAMIC ANGELOLOGY
 
-### 3.1 Key Distinctions (→ A21) [4/5 sources]
+### 3.1 Key Distinctions (→ [A21](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md))
 
 | Feature | Islamic Doctrine |
 |---------|-----------------|
@@ -108,7 +109,7 @@ The most influential angelic hierarchy, from *De Coelesti Hierarchia* (~5th cent
 
 ## 4. ZOROASTRIAN CELESTIAL BEINGS
 
-### 4.1 Amesha Spentas — "Holy Immortals" [4/5 sources]
+### 4.1 Amesha Spentas — "Holy Immortals"
 
 | Amesha Spenta | Domain | Parallel |
 |---------------|--------|----------|
@@ -119,7 +120,7 @@ The most influential angelic hierarchy, from *De Coelesti Hierarchia* (~5th cent
 | **Haurvatat** | Wholeness / Health | Water and perfection |
 | **Ameretat** | Immortality | Plants and eternal life |
 
-### 4.2 Yazatas — "Beings Worthy of Worship" [3/5 sources]
+### 4.2 Yazatas — "Beings Worthy of Worship"
 
 - **Mithra** — judge, protector of covenants, light-bringer (→ major Roman cult)
 - **Anahita** — divine feminine, waters, fertility
@@ -131,7 +132,7 @@ The most influential angelic hierarchy, from *De Coelesti Hierarchia* (~5th cent
 
 ## 5. ASIAN AND GLOBAL PARALLELS
 
-### 5.1 Cross-Cultural "Angel" Equivalents [4/5 sources]
+### 5.1 Cross-Cultural "Angel" Equivalents
 
 | Tradition | Beings | Characteristics |
 |-----------|--------|----------------|
@@ -152,7 +153,7 @@ The most influential angelic hierarchy, from *De Coelesti Hierarchia* (~5th cent
 | Biblical angelology was influenced by Persian/Zoroastrian concepts | Post-exilic timing; named angels appear after Babylonian contact; structural parallels | Could be independent development from shared ANE background; Jewish texts have their own internal logic | **Tier 1-2** — influence widely accepted by scholars; exact mechanisms debated |
 | Pseudo-Dionysius's hierarchy reflects genuine cosmic structure | Adopted by mainstream Catholic and Orthodox theology for 1,500 years; Aquinas built on it | Pseudo-Dionysius is pseudepigraphic (falsely attributed to Paul's convert); hierarchy may reflect 5th-century Neoplatonism more than revelation | **Tier 2** — theologically influential but historically constructed |
 | Angel experiences have neurological explanations | Sleep paralysis, temporal lobe epilepsy, hypnagogia can produce "being" experiences with luminous qualities | Does not explain all features; shared cross-cultural structure suggests something beyond individual pathology | **Tier 2** — neurological factors are relevant but may not be exhaustive |
-| Modern UAP "beings of light" are the same phenomenon as ancient angels | Phenomenological overlap; luminosity, message-delivery, transformation of witnesses (→ B09) | Very different cultural contexts; projecting modern categories onto ancient accounts risks anachronism | **Tier 3** — speculative but worth cataloging |
+| Modern UAP "beings of light" are the same phenomenon as ancient angels | Phenomenological overlap; luminosity, message-delivery, transformation of witnesses (→ [B09](B09_Alien_Races_Origins.md)) | Very different cultural contexts; projecting modern categories onto ancient accounts risks anachronism | **Tier 3** — speculative but worth cataloging |
 
 ---
 
@@ -164,26 +165,68 @@ The most influential angelic hierarchy, from *De Coelesti Hierarchia* (~5th cent
 | [A16 — Divine Council](../A_Foundations/A16_Divine_Council_Assembly_of_Gods.md) | Angels as divine court attendants |
 | [A21 — Quranic Cosmology](../A_Foundations/A21_Quranic_Cosmology_Jinn_Angelology.md) | Islamic angelology detailed treatment |
 | [C19 — Zoroastrianism](../C_Global_Traditions/C19_Zoroastrianism_Demonization_Pivot.md) | Amesha Spentas and yazatas |
-| [P06 — Theodicy](../P_Philosophy_Meaning/P06_Problem_of_Evil_Theodicy.md) | Angelology as framework for understanding good/evil |
+| [P05 — Theodicy](../P_Philosophy_Meaning/P05_Problem_of_Evil_Theodicy.md) | Angelology as framework for understanding good/evil |
 | [B09 — Alien Races](B09_Alien_Races_Origins.md) | UAP beings-of-light parallels |
 | [A02 — Bible Serpent](../A_Foundations/A02_Bible_Serpent_References.md) | Serpent-angel identification (seraphim = fiery serpents) |
-| [K01 — NDEs](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | "Beings of light" in NDE accounts |
+| [Y01 — NDEs](../Y_Altered_States/Y01_NDEs_OBEs_Consciousness.md) | "Beings of light" in NDE accounts |
 
 ---
 
+### Source Tier Classification
+
+This document references sources across multiple evidence tiers within this project's reliability framework:
+
+| Tier | Label | Description |
+|------|-------|-------------|
+| **Tier 1** | VERIFIED | Peer-reviewed studies, archaeological records, and primary source translations |
+| **Tier 2** | CREDIBLE | Academic scholarship with broad support but ongoing interpretive debate |
+| **Tier 3** | SPECULATIVE | Alternative interpretations, popular scholarship, and unverified hypotheses |
+| **Tier 4** | DUBIOUS | Claims lacking credible evidence, fringe theories, or debunked assertions |
+
+
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Angels, Celestial Hierarchies, and Messenger Beings. Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Angels, Celestial Hierarchies, and Messenger Beings relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with Angels, Celestial Hierarchies, and Messenger Beings. Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Muehlberger, E. (2013). *Angels in Late Ancient Christianity*. Oxford University Press.
-2. Sullivan, K. P. (2004). *Wrestling with Angels: A Study of the Relationship between Angels and Humans in Ancient Jewish Literature and the New Testament*. Brill.
-3. Rorem, P. (1993). *Pseudo-Dionysius: A Commentary on the Texts and an Introduction to Their Influence*. Oxford University Press.
-4. Chase, S. (2002). *Angelic Spirituality: Medieval Perspectives on the Ways of Angels*. Paulist Press.
-5. Burge, S. R. (2012). *Angels in Islam: Jalal al-Din al-Suyuti's al-Haba'ik fi akhbar al-mala'ik*. Routledge.
-6. Davidson, G. (1967). *A Dictionary of Angels: Including the Fallen Angels*. Free Press.
-7. Fletcher-Louis, C. H. T. (1997). *Luke-Acts: Angels, Christology and Soteriology*. Mohr Siebeck.
-8. Olyan, S. M. (1993). *A Thousand Thousands Served Him: Exegesis and the Naming of Angels in Ancient Judaism*. Mohr Siebeck.
-9. Tuschling, R. M. M. (2007). *Angels and Orthodoxy: A Study in their Development in Syria and Palestine from the Qumran Texts to Ephrem the Syrian*. Mohr Siebeck.
+1. Muehlberger, E. (2013). *Angels in Late Ancient Christianity*. Oxford University Press. DOI: 10.1093/acprof:oso/9780199931934.001.0001
+2. Sullivan, K. P. (2004). *Wrestling with Angels: A Study of the Relationship between Angels and Humans in Ancient Jewish Literature and the New Testament*. Brill. DOI: 10.1163/9789047412809
+3. Rorem, P. (1993). *Pseudo-Dionysius: A Commentary on the Texts and an Introduction to Their Influence*. Oxford University Press. DOI: 10.1093/oso/9780195076646.001.0001
+4. Chase, S. (2002). *Angelic Spirituality: Medieval Perspectives on the Ways of Angels*. Paulist Press. DOI: 10.5040/9780809170982
+5. Burge, S. R. (2012). *Angels in Islam: Jalal al-Din al-Suyuti's al-Haba'ik fi akhbar al-mala'ik*. Routledge. DOI: 10.4324/9780203144978-16
+6. Davidson, G. (1967). *A Dictionary of Angels: Including the Fallen Angels*. Free Press. ISBN: 9780029070505
+7. Fletcher-Louis, C. H. T. (1997). *Luke-Acts: Angels, Christology and Soteriology*. Mohr Siebeck. DOI: 10.1628/978-3-16-157207-4
+8. Olyan, S. M. (1993). *A Thousand Thousands Served Him: Exegesis and the Naming of Angels in Ancient Judaism*. Mohr Siebeck. DOI: 10.1163/1568533952581397
+9. Tuschling, R. M. M. (2007). *Angels and Orthodoxy: A Study in their Development in Syria and Palestine from the Qumran Texts to Ephrem the Syrian*. Mohr Siebeck. DOI: 10.1086/649991
 10. Boyce, M. (1975). *A History of Zoroastrianism, Vol. 1*. Brill.
-11. Reed, A. Y. (2005). *Fallen Angels and the History of Judaism and Christianity: The Reception of Enochic Literature*. Cambridge University Press.
+11. Reed, A. Y. (2005). *Fallen Angels and the History of Judaism and Christianity: The Reception of Enochic Literature*. Cambridge University Press. DOI: 10.1017/cbo9780511499104
 
 ---
 

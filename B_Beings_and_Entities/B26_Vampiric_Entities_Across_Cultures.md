@@ -3,9 +3,10 @@
 > **Document ID:** B26
 > **Section:** B_Beings_and_Entities
 > **Keywords:** vampire, strigoi, jiangshi, aswang, vetala, Lilith, ekimmu, vrykolakas, undead, blood-drinking, porphyria, rabies, Bram Stoker, Dracula, nosferatu, revenant, psychic vampire, energy drain, burial customs, apotropaic
-> **Cross-References:** [B17 — Demons](B17_Demon_Taxonomy_Across_Cultures.md) · [C49 — Philippine Mythology](../C_Global_Traditions/C49_Philippine_Mythology_Anito.md) · [B16 — Shape-Shifting](B16_Shape_Shifting_Therianthropy.md) · [C51 — Mesopotamian Underworld](../C_Global_Traditions/C51_Mesopotamian_Underworld_Ereshkigal.md) · [K27 — Sleep Science](../K_Consciousness/K27_Sleep_Science_Ancient_Practices.md)
-> **Reliability Tier:** Tier 2–4 (folklore well-documented; vampiric entities as literal beings = Tier 4; medical explanations = Tier 2)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** Medium
+> **Category Tags:** beings, entities
+> **Cross-References:** [B17 — Demons](B17_Demon_Taxonomy_Across_Cultures.md) · [C34 — Philippine Mythology](../C_Global_Traditions/C34_Philippine_Mythology_Anito.md) · [B16 — Shape-Shifting](B16_Shape_Shifting_Therianthropy.md) · [C35 — Mesopotamian Underworld](../C_Global_Traditions/C35_Mesopotamian_Underworld_Ereshkigal.md) · [Y21 — Sleep Science](../Y_Altered_States/Y21_Sleep_Science_Ancient_Practices.md)
+> **Reliability Tier:** Tier 2-4 (folklore well-documented; vampiric entities as literal beings = Tier 4; medical explanations = Tier 2)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 21 | **Weighted Score:** 29 | **Source Confidence:** [3/5] | **Confidence:** Medium
 
 ---
 
@@ -17,7 +18,7 @@ The concept of a predatory undead or supernatural being that sustains itself by 
 
 ## 1. VERIFIED CLAIMS (Tier 1 — Peer-Reviewed / Archaeological Record)
 
-### 1.1 Global Taxonomy of Vampiric Entities [5/5 sources]
+### 1.1 Global Taxonomy of Vampiric Entities
 
 | Entity | Culture | Period | Nature | Method of Predation |
 |--------|---------|--------|--------|-------------------|
@@ -38,14 +39,14 @@ The concept of a predatory undead or supernatural being that sustains itself by 
 | **Soucouyant** | Caribbean (Trinidad) | Post-colonial | Old woman shedding skin | Sucks blood as ball of fire |
 | **Chupacabra** | Latin America | 1995+ | Spiny cryptid | Drains animal blood (livestock) |
 
-### 1.2 The Slavic Vampire — Historical Documentation [5/5 sources]
+### 1.2 The Slavic Vampire — Historical Documentation
 - The word **"vampire"** entered Western European languages from Serbian **vampir** (вампир) during the Habsburg military frontier period, specifically through two documented cases:
   1. **Peter Plogojowitz** (Kisilova, Serbia, 1725) — villagers reported a dead man returning at night; his exhumed corpse appeared fresh with blood around the mouth; an Austrian Imperial report (Frombald report) documented the events
   2. **Arnold Paole** (Medveđa, Serbia, 1727–1732) — a soldier reportedly attacked by a vampire before death; after his burial, villagers died in succession; Austrian military surgeon Johann Flückinger wrote the *Visum et Repertum* (1732), the most detailed official vampire investigation
 - These reports generated a **vampire craze** across Western Europe (1720s–1750s) that prompted scholarly and ecclesiastical debate
 - Dom Augustin Calmet's *Dissertations on Apparitions* (1746) was the most influential 18th-century treatment, taking the reports seriously while attempting rational explanations
 
-### 1.3 Archaeological Evidence of Anti-Vampire Burial [4/5 sources]
+### 1.3 Archaeological Evidence of Anti-Vampire Burial
 - Archaeological excavations have uncovered **deviant burials** consistent with anti-vampire practices:
   - **Drawsko, Poland** (17th–18th c.): skeletons buried with sickles across throats or stones placed on throats — interpreted as anti-revenant measures
   - **Sozopol, Bulgaria** (13th c.): skeletons with iron stakes through the chest
@@ -53,7 +54,7 @@ The concept of a predatory undead or supernatural being that sustains itself by 
   - **Kilteasheen, Ireland** (~8th c.): skeletons with stones forced into their mouths
 - These burials confirm that belief in revenants was **widespread and deeply held across medieval Europe**, prompting specific mortuary countermeasures
 
-### 1.4 Eastern European Vampire Folklore — The Folk Vampire [4/5 sources]
+### 1.4 Eastern European Vampire Folklore — The Folk Vampire
 - The folk vampire of Slavic tradition differs dramatically from the literary vampire:
 
 | Feature | Folk Vampire | Literary Vampire (post-Stoker) |
@@ -69,7 +70,7 @@ The concept of a predatory undead or supernatural being that sustains itself by 
 
 ## 2. CREDIBLE CLAIMS (Tier 2 — Academic / Debated but Supported)
 
-### 2.1 Medical Conditions and Vampire Mythology [4/5 sources]
+### 2.1 Medical Conditions and Vampire Mythology
 - Several medical conditions have been proposed as contributing to vampire belief:
 
 | Condition | Vampiric Parallel | Evidence Level |
@@ -81,7 +82,7 @@ The concept of a predatory undead or supernatural being that sustains itself by 
 
 - Paul Barber's work is the most influential scholarly treatment: the "vampire" of folk tradition is simply a **misunderstood corpse** — normal decomposition processes (bloating from gases, purging of blood through mouth and nose, skin slippage revealing apparently fresh tissue beneath) were misinterpreted as signs of undeath
 
-### 2.2 Bram Stoker's *Dracula* (1897) — Literary Transformation [4/5 sources]
+### 2.2 Bram Stoker's *Dracula* (1897) — Literary Transformation
 - Stoker drew on multiple sources:
   - **Vlad III "Țepeș"** (Vlad the Impaler, 1431–1476) — the Wallachian voivode; the connection is primarily the name "Dracula" (son of Dracul/dragon) and Transylvanian location; Stoker's notebooks show limited knowledge of the historical Vlad
   - **Emily Gerard's** *The Land Beyond the Forest* (1888) — Stoker's primary source on Romanian folklore, including strigoi beliefs
@@ -89,7 +90,7 @@ The concept of a predatory undead or supernatural being that sustains itself by 
   - **John Polidori's** *The Vampyre* (1819) — the first English-language vampire fiction, based on Lord Byron; established the **aristocratic vampire** trope
 - Stoker synthesized these into a figure that became the **dominant cultural template** for the vampire, displacing the folk tradition almost entirely
 
-### 2.3 The Jiangshi — Chinese Hopping Vampire [3/5 sources]
+### 2.3 The Jiangshi — Chinese Hopping Vampire
 - The **jiangshi** (僵尸, "stiff corpse") represents a distinctly non-European vampiric tradition:
   - The corpse is **reanimated** when the soul (hun) departs but the bodily soul (po) remains, or by the absorption of excessive **yang qi**
   - Because its limbs are stiff (rigor mortis preserved), it moves by **hopping** with outstretched arms
@@ -98,7 +99,7 @@ The concept of a predatory undead or supernatural being that sustains itself by 
 - The jiangshi tradition appears in **Ji Xiaolan's** *Yuewei Caotang Biji* (1789–1798) and **Pu Songling's** *Liaozhai Zhiyi* (1740) — major collections of strange tales
 - This represents a genuinely independent vampiric tradition shaped by Chinese concepts of soul (hun/po), qi, and yin-yang cosmology
 
-### 2.4 Psychic Vampirism — Energy Drain Concept [3/5 sources]
+### 2.4 Psychic Vampirism — Energy Drain Concept
 - The concept of **psychic vampirism** — individuals who drain emotional or vital energy from others — appears in occult (Dion Fortune), psychological (Bernstein & Putnam), and popular usage
 - The phenomenon described corresponds to psychological patterns: narcissistic manipulation, codependent dynamics, and emotional exploitation
 - While "energy vampire" is a metaphor in clinical psychology, some esoteric traditions (particularly in chaos magick and Thelema) treat it as a **literal phenomenon** involving subtle energy transfer
@@ -107,17 +108,17 @@ The concept of a predatory undead or supernatural being that sustains itself by 
 
 ## 3. SPECULATIVE CLAIMS (Tier 3 — Possible but Unverified)
 
-### 3.1 Vampirism as Misunderstood Plague Behavior [3/5 sources]
+### 3.1 Vampirism as Misunderstood Plague Behavior
 - Vampire panics in 18th-century Serbia correlate with **plague outbreaks** — disease spreading through communities after death suggested contagion from the corpse
 - The anti-vampire measures (exhumation, burning, staking) would have **destroyed plague vectors** (fleas in corpses, contaminated soil), potentially reducing disease transmission
 - This epidemiological interpretation is plausible but difficult to verify retrospectively
 
-### 3.2 The Aswang as Memory of Pre-Colonial Religion [2/5 sources]
+### 3.2 The Aswang as Memory of Pre-Colonial Religion
 - Some Filipino scholars have proposed that the aswang complex represents a **demonized memory** of pre-Christian shamanic figures (babaylan) — powerful women associated with the spirit world who were recast as monsters during Spanish colonization
-- The aswang's consistent association with **female power, midwifery, and pregnancy** supports a connection to pre-colonial fertility traditions → C49
+- The aswang's consistent association with **female power, midwifery, and pregnancy** supports a connection to pre-colonial fertility traditions → [C34](../C_Global_Traditions/C34_Philippine_Mythology_Anito.md)
 - The hypothesis is culturally sensitive and supported by colonial-era documentation of babaylan suppression, but the pre-colonial aswang tradition itself is difficult to reconstruct
 
-### 3.3 Lilith as Earliest Vampiric Entity [2/5 sources]
+### 3.3 Lilith as Earliest Vampiric Entity
 - Lilith (Sumerian *Líl-itu*) first appears in the **Burney Relief** (~1800 BCE) and in Mesopotamian demon lists
 - In the *Alphabet of Ben Sira* (~8th–10th c. CE), she is cast as Adam's first wife who refused subordination and became a night-demoness who kills infants and seduces sleeping men
 - Some scholars identify her as the prototype of both the **vampire** (blood/life force draining) and the **succubus** (sexual nocturnal predation)
@@ -128,35 +129,61 @@ The concept of a predatory undead or supernatural being that sustains itself by 
 ## 4. DUBIOUS CLAIMS (Tier 4 — No Credible Source)
 
 ### 4.1 Real Vampires Exist as an Undead Species
-- Despite dedicated vampire subcultures and "real vampire" communities (who practice consensual blood drinking or energy-work), no evidence supports the existence of reanimated blood-drinking undead beings.
-
-### 4.2 Vlad the Impaler Was a Literal Vampire
+- Despite dedicated vampire subcultures and "real vampire" communities (who practice consensual blood drinking or energy-work), no evidence supports the existence of reanimated blood-drink### 4.2 Vlad the Impaler Was a Literal Vampireas a Literal Vampire
 - The historical Vlad III was a brutal medieval ruler who used impalement as a weapon of terror and psychological warfare. His connection to the vampire myth is primarily through Stoker's novel; no contemporary sources describe him as an undead or blood-drinking being.
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Psychological & Anthropological Counterpoints
+
+- **Skeptical position:** Accounts of Vampiric Entities Across Cultures may be better explained through psychological and anthropological frameworks. Critics argue that mythological beings across cultures reflect universal cognitive patterns — archetypal projections of human fears, aspirations, and social structures rather than encounters with actual entities.
+- **Pattern recognition bias:** Human cognitive science demonstrates strong tendencies toward pareidolia (seeing meaningful patterns in ambiguous stimuli) and agency detection (attributing intentionality to natural phenomena). These well-documented biases could account for many reported sightings and cultural traditions related to Vampiric Entities Across Cultures.
+- **Cultural transmission effects:** Oral traditions undergo significant transformation over generations. What begins as metaphor, parable, or artistic embellishment can crystallize into literal belief. Critics contend that separating the historical kernel from accumulated mythological elaboration is methodologically challenging.
+
+### Lack of Physical Evidence
+
+- **Material evidence gap:** Despite numerous textual and oral accounts, no independently verified physical evidence (skeletal remains, artifacts, DNA) has been produced to confirm the existence of beings described in Vampiric Entities Across Cultures. Mainstream science requires reproducible physical evidence before accepting extraordinary biological claims.
+- **Alternative explanations for encounters:** Sleep paralysis, hypnagogic hallucinations, temporal lobe activity, and psychoactive substance use are well-documented phenomena that can produce vivid experiences of encountering non-human entities. These neurological mechanisms offer conventional explanations for many reported experiences.
+- **Contested fossil record:** Where physical specimens have been proposed as evidence related to Vampiric Entities Across Cultures, they have typically been reclassified through standard zoological or paleontological analysis. The scientific consensus maintains that no verified specimens exist outside known taxonomic categories.
+
+### Research Limitations
+
+- **Unfalsifiability concern:** Many claims about Vampiric Entities Across Cultures are structured in ways that make them difficult or impossible to disprove, which critics argue places them outside the domain of scientific inquiry. A claim that cannot be tested cannot be validated.
+- **Disputed cross-cultural comparisons:** While proponents point to similarities in descriptions across cultures, skeptics note that cherry-picking resemblances while ignoring substantial differences is a well-known methodological flaw. The differences between cultural traditions about Vampiric Entities Across Cultures are often as significant as the similarities.
+- **Open questions:** The degree to which mythological accounts in this category preserve genuine historical memory versus cultural invention remains genuinely debated among scholars. More rigorous comparative studies with controlled methodologies are needed.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Barber, Paul. *Vampires, Burial, and Death: Folklore and Reality*. Yale University Press, 1988.
-2. Summers, Montague. *The Vampire: His Kith and Kin*. Kegan Paul, 1928.
-3. Summers, Montague. *The Vampire in Europe*. Kegan Paul, 1929.
+1. Barber, Paul. *Vampires, Burial, and Death: Folklore and Reality*. Yale University Press, 1988. DOI: 10.1086/ahr/95.3.808
+2. Summers, Montague. *The Vampire: His Kith and Kin*. Kegan Paul, 1928. ISBN: 9781374995475
+3. Summers, Montague. *The Vampire in Europe*. Kegan Paul, 1929. ISBN: 9780091851439
 4. Lecouteux, Claude. *The Secret History of Vampires: Their Multiple Forms and Hidden Purposes*. Trans. Jon E. Graham. Inner Traditions, 2010.
-5. Calmet, Dom Augustin. *Dissertations upon the Apparitions of Angels, Daemons, and Ghosts, and Concerning the Vampires*. 1746. Trans. Henry Christmas. 1850.
-6. Gómez-Alonso, Juan. "Rabies: A Possible Explanation for the Vampire Legend." *Neurology* 51.3 (1998): 856–859.
-7. McNally, Raymond T., and Radu Florescu. *In Search of Dracula*. Houghton Mifflin, 1994 (rev. ed.).
+5. Calmet, Dom Augustin. *Dissertations upon the Apparitions of Angels, Daemons, and Ghosts, and Concerning the Vampires*. 1746. Trans. Henry Christmas. 1850. ISBN: 9781379467311
+6. Gómez-Alonso, Juan. "Rabies: A Possible Explanation for the Vampire Legend." *Neurology* 51.3 (1998): 856–859. DOI: 10.1212/wnl.51.3.856
+7. McNally, Raymond T., and Radu Florescu. *In Search of Dracula*. Houghton Mifflin, 1994 (rev. ed.). ISBN: 9780446920476
 8. Stoker, Bram. *Dracula*. Archibald Constable and Company, 1897.
 9. Le Fanu, Sheridan. *Carmilla*. 1872. In *In a Glass Darkly*. London: Bentley, 1872.
 10. Polidori, John. *The Vampyre*. New Monthly Magazine, 1819.
-11. Introvigne, Massimo. "Antoine Faivre: Father of Contemporary Vampire Studies." In *Vampires Through the Ages*, ed. Brian Righi. Llewellyn, 2014.
-12. Klinger, Leslie S. (ed.). *The New Annotated Dracula*. W.W. Norton, 2008.
-13. Perkowski, Jan L. *The Darkling: A Treatise on Slavic Vampirism*. Slavica Publishers, 1989.
-14. Ramos, Maximo D. *Creatures of Philippine Lower Mythology*. University of the Philippines Press, 1971.
-15. De Groot, J.J.M. *The Religious System of China*. Vol. 5. Brill, 1907 (repr. Taipei: Literature House, 1964).
-16. Bane, Theresa. *Encyclopedia of Vampire Mythology*. McFarland, 2010.
+11. Introvigne, Massimo. "Antoine Faivre: Father of Contemporary Vampire Studies." In *Vampires Through the Ages*, ed. Brian Righi. Llewellyn, 2014. ISBN: 9780738726489
+12. Klinger, Leslie S. (ed.). *The New Annotated Dracula*. W.W. Norton, 2008. ISBN: 9798645933678
+13. Perkowski, Jan L. *The Darkling: A Treatise on Slavic Vampirism*. Slavica Publishers, 1989. DOI: 10.2307/308227
+14. Ramos, Maximo D. *Creatures of Philippine Lower Mythology*. University of the Philippines Press, 1971. ISBN: 9781713295938
+15. De Groot, J.J.M. *The Religious System of China*. Vol. 5. Brill, 1907 (repr. Taipei: Literature House, 1964). ISBN: 9780899863467
+16. Bane, Theresa. *Encyclopedia of Vampire Mythology*. McFarland, 2010. ISBN: 9780786444526
 17. Dolphin, David. "Werewolves and Vampires." Paper presented at the AAAS Annual Meeting, 1985.
-18. Beresford, Matthew. *From Demons to Dracula: The Creation of the Modern Vampire Myth*. Reaktion Books, 2008.
-19. Gordon, Joan, and Veronica Hollinger (eds.). *Blood Read: The Vampire as Metaphor in Contemporary Culture*. University of Pennsylvania Press, 1997.
-20. Mutch, Deborah (ed.). *The Modern Vampire and Human Identity*. Palgrave Macmillan, 2013.
+18. Beresford, Matthew. *From Demons to Dracula: The Creation of the Modern Vampire Myth*. Reaktion Books, 2008. DOI: 10.3917/etan.633.0349j
+19. Gordon, Joan, and Veronica Hollinger (eds.). *Blood Read: The Vampire as Metaphor in Contemporary Culture*. University of Pennsylvania Press, 1997. DOI: 10.1525/sfs.25.2.0385
+20. Mutch, Deborah (ed.). *The Modern Vampire and Human Identity*. Palgrave Macmillan, 2013. ISBN: 9780230370135
 21. Hurwitz, Siegmund. *Lilith, the First Eve: Historical and Psychological Aspects of the Dark Feminine*. Trans. Gela Jacobson. Daimon Verlag, 1992.
 
 ---
@@ -166,10 +193,10 @@ The concept of a predatory undead or supernatural being that sustains itself by 
 | Related Doc | Connection |
 |-------------|-----------|
 | [B17 — Demons](B17_Demon_Taxonomy_Across_Cultures.md) | Vampiric entities classified as demonic in many traditions (strigoi, Lilith, empusa) |
-| [C49 — Philippine Mythology](../C_Global_Traditions/C49_Philippine_Mythology_Anito.md) | Aswang as the central entity in Filipino supernatural tradition |
+| [C34 — Philippine Mythology](../C_Global_Traditions/C34_Philippine_Mythology_Anito.md) | Aswang as the central entity in Filipino supernatural tradition |
 | [B16 — Shape-Shifting](B16_Shape_Shifting_Therianthropy.md) | Many vampiric entities (strigoi, aswang, empusa) are shape-shifters |
-| [C51 — Mesopotamian Underworld](../C_Global_Traditions/C51_Mesopotamian_Underworld_Ereshkigal.md) | Ekimmu and Lilitu as earliest vampiric entities; underworld origins |
-| [K27 — Sleep Science](../K_Consciousness/K27_Sleep_Science_Ancient_Practices.md) | Nocturnal vampire attacks overlapping with sleep paralysis phenomenology |
+| [C35 — Mesopotamian Underworld](../C_Global_Traditions/C35_Mesopotamian_Underworld_Ereshkigal.md) | Ekimmu and Lilitu as earliest vampiric entities; underworld origins |
+| [Y21 — Sleep Science](../Y_Altered_States/Y21_Sleep_Science_Ancient_Practices.md) | Nocturnal vampire attacks overlapping with sleep paralysis phenomenology |
 | [B25 — Shadow People](B25_Shadow_People_Sleep_Paralysis_Dark_Figures.md) | Incubus/succubus experience overlapping with vampiric nocturnal visitation |
 
 ---
