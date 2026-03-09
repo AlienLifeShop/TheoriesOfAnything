@@ -3,9 +3,10 @@
 > **Document ID:** J24
 > **Section:** J_Ancient_Technology
 > **Keywords:** Roman roads, Persian Royal Road, Inca chasqui, beacon towers, hydraulic telegraph, drum telegraphy, Polynesian stick charts, cursus publicus, clay tokens, Schmandt-Besserat, communication networks, signal systems
-> **Cross-References:** [J06](J06_Sound_Vibration_Creation.md) · [F09](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) · [D32](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) · [V07](../V_Mathematics_Information/V07_Cryptography.md) · [C40](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md)
+> **Category Tags:** ancient-technology
+> **Cross-References:** [J06](J06_Sound_Vibration_Creation.md) · [F09](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) · [D32](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) · [ZD03](../ZD_Information_Computation/ZD03_Cryptography.md) · [W05](../W_World_Civilizations/W04_Polynesian_Navigation_Rapa_Nui.md)
 > **Reliability Tier:** Tier 1-3 (well-documented infrastructure through debated signal capabilities)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High for physical infrastructure, Moderate for signal system capabilities
+> **Last Updated:** Mar 6, 2026 | **Source Count:** 21 | **Weighted Score:** 34 | **Source Confidence:** [4/5] | **Confidence:** High for physical infrastructure, Moderate for signal system capabilities
 
 ---
 
@@ -137,23 +138,42 @@ Ancient communication systems achieved remarkable speed and coverage through int
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Communication-Specific Scholarly Caveats
+
+- **Speed estimates are ancient boasts, not benchmarks:** The Persian Royal Road’s 7-day Susa–Sardis time comes from Herodotus, writing for a Greek audience impressed by Persian efficiency. Herodotus was not a surveyor; his distance and speed figures are approximate. Similarly, chasqui speed claims derive from Spanish colonial writers decades after the Inca system’s disruption.
+- **Schmandt-Besserat thesis debate:** While widely accepted, the token-to-writing evolution proposed by Schmandt-Besserat (1992) has been challenged by scholars (e.g., Michalowski 1993; Englund 1998) who argue the relationship between tokens and proto-cuneiform is less linear than her model suggests, with possible independent developments.
+- **Hydraulic telegraph: theoretical vs. implemented:** Aeneas Tacticus describes the hydraulic telegraph, and Polybius describes an improved torch system, but archaeological evidence for widespread deployment of either is absent. These may represent conceptual designs that were rarely or never operationally implemented at scale.
+- **Quipu narrative content:** Whether Inca quipu carried narrative or only numerical/accounting data remains unresolved. Urton (2003) proposes binary encoding capable of narrative, but no quipu has been decoded as prose. Conflating quipu-as-data-carrier with quipu-as-language overstates current knowledge.
+- **Beacon reliability:** Fire/smoke signaling is inherently weather-dependent. Rain, fog, and wind reduce or eliminate visibility. Ancient sources describe ideal conditions; actual operational reliability across seasons and climates was likely lower than implied.
+- **Polybius square throughput:** The claimed "several words per minute" for the Polybius torch system assumes trained operators, clear visibility, and no errors. Under field conditions (night, wind, fatigue), actual throughput would have been substantially lower.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Schmandt-Besserat, D. (1992). *Before Writing, Vol. 1: From Counting to Cuneiform*. University of Texas Press.
-2. Schmandt-Besserat, D. (1996). *How Writing Came About*. University of Texas Press.
-3. Herodotus. (~440 BCE). *Histories*, Books 5 and 8. (Trans. A. D. Godley, Loeb Classical Library).
-4. Polybius. (~150 BCE). *The Histories*, Book 10. (Trans. W. R. Paton, Loeb Classical Library).
-5. Aeneas Tacticus. (~350 BCE). *On Siegecraft*. (Trans. Illinois Greek Club, Loeb Classical Library).
+1. Schmandt-Besserat, D. (1992). *Before Writing, Vol. 1: From Counting to Cuneiform*. University of Texas Press. DOI: 10.2307/282312
+2. Schmandt-Besserat, D. (1996). *How Writing Came About*. University of Texas Press. DOI: 10.1075/wll.1.2.08eng
+3. Herodotus. (~440 BCE). *Histories*, Books 5 and 8. (Trans. A. D. Godley, Loeb Classical Library). DOI: 10.4159/dlcl.herodotus-persian_wars.1920
+4. Polybius. (~150 BCE). *The Histories*, Book 10. (Trans. W. R. Paton, Loeb Classical Library). DOI: 10.4159/dlcl.polybius-histories.2010
+5. Aeneas Tacticus. (~350 BCE). *On Siegecraft*. (Trans. Illinois Greek Club, Loeb Classical Library). DOI: 10.4159/dlcl.aeneas_tacticus-attestations_fragments.1928
 6. Laurence, R. (1999). *The Roads of Roman Italy: Mobility and Cultural Change*. Routledge.
 7. Chevallier, R. (1976). *Roman Roads*. (Trans. N. H. Field). Batsford.
 8. Kolb, A. (2000). *Transport und Nachrichtentransfer im Römischen Reich*. Akademie Verlag.
-9. Hyslop, J. (1984). *The Inka Road System*. Academic Press.
+9. Hyslop, J. (1984). *The Inka Road System*. Academic Press. ISBN: 9780123634603
 10. Urton, G. (2003). *Signs of the Inka Khipu: Binary Coding in the Andean Knotted-String Records*. University of Texas Press.
-11. Guaman Poma de Ayala, F. (1615). *El primer nueva corónica y buen gobierno*. (Ed. J. Murra & R. Adorno, 1980).
+11. Guaman Poma de Ayala, F. (1615). *El primer nueva corónica y buen gobierno*. (Ed. J. Murra & R. Adorno, 1980). ISBN: 9789682326714
 12. Carrington, J. F. (1949). *Talking Drums of Africa*. Carey Kingsgate Press.
 13. Gleick, J. (2011). *The Information: A History, a Theory, a Flood*. Pantheon Books.
-14. Genz, J. (2009). "Navigating the Revival of Voyaging in the Marshall Islands." *The Contemporary Pacific*, 21(2), 283-313.
-15. Needham, J. (1971). "Civil Engineering and Nautics." In *Science and Civilisation in China*, Vol. 4, Part 3. Cambridge University Press.
+14. Genz, J. (2009). "Navigating the Revival of Voyaging in the Marshall Islands." *The Contemporary Pacific*, 21(2), 283-313. ISBN: 9780867764604
+15. Needham, J. (1971). "Civil Engineering and Nautics." In *Science and Civilisation in China*, Vol. 4, Part 3. Cambridge University Press. ISBN: 9780521058025
 16. Cieza de León, P. (1553). *Crónica del Perú*. (Trans. C. R. Markham, 1864).
 17. Woolf, G. (2006). "Writing Latin, Writing Roman." In A. Bentley (Ed.), *A Companion to the Roman Empire*. Blackwell.
 18. Lewis, M. J. T. (2001). *Surveying Instruments of Greece and Rome*. Cambridge University Press.
@@ -170,11 +190,11 @@ Ancient communication systems achieved remarkable speed and coverage through int
 | [J06](J06_Sound_Vibration_Creation.md) | Parent topic | Road and signal infrastructure as engineering |
 | [F09](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) | Related | Writing systems as communication technology |
 | [D32](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md) | Acoustic | Architectural communication properties |
-| [V07](../V_Mathematics_Information/V07_Cryptography.md) | Information | Polybius square and encoded signaling |
-| [C40](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md) | Direct link | Stick charts as navigational communication |
-| [C28](../C_Global_Traditions/C41_Andean_Civilizations.md) | Direct link | Quipu as chasqui message medium |
+| [ZD03](../ZD_Information_Computation/ZD03_Cryptography.md) | Information | Polybius square and encoded signaling |
+| [W05](../W_World_Civilizations/W04_Polynesian_Navigation_Rapa_Nui.md) | Direct link | Stick charts as navigational communication |
+| [C27](../W_World_Civilizations/W06_Andean_Civilizations.md) | Direct link | Quipu as chasqui message medium |
 | [J23](J23_Ancient_Warfare_Technology.md) | Military context | Signal systems in warfare |
 
 ---
 
-*Consolidated from 21 sources. Last Updated: Feb 28, 2026*
+*Consolidated from 21 sources. Last Updated: Mar 6, 2026*

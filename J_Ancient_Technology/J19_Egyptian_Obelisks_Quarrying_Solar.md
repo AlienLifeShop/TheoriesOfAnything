@@ -3,9 +3,10 @@
 > **Document ID:** J19
 > **Section:** J_Ancient_Technology
 > **Keywords:** obelisk, Aswan, unfinished obelisk, quarrying, dolerite, Hatshepsut, Karnak, Luxor, Cleopatra's Needle, benben, bennu, pyramidion, gnomon, solar alignment, granite, Nile transport
+> **Category Tags:** ancient-technology, megalithic, nde-afterlife
 > **Cross-References:** [D02](../D_Sites_and_Artifacts/D02_Pyramids_Worldwide.md) · [D05](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [A14](../A_Foundations/A14_Pyramid_Texts.md) · [J05](J05_Ancient_Metallurgy.md)
 > **Reliability Tier:** Tier 1-2 (archaeological record well-documented; some transport and symbolic questions remain debated)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High
+> **Last Updated:** Mar 6, 2026 | **Source Count:** 21 | **Weighted Score:** 35 | **Source Confidence:** [4/5] | **Confidence:** High
 
 ---
 
@@ -17,7 +18,7 @@ Egyptian obelisks — monolithic shafts of red granite quarried primarily at Asw
 
 ## 1. VERIFIED CLAIMS (Tier 1 — Peer-Reviewed / Archaeological Record)
 
-### The Unfinished Obelisk at Aswan
+### 1.1 The Unfinished Obelisk at Aswan
 - Located in the northern granite quarries at Aswan, partially separated from bedrock before abandonment due to a crack
 - Dimensions: approximately 42 m long, estimated 1,200 tonnes — would have been the largest obelisk ever erected
 - Quarrying technique revealed: workers pounded channels around the obelisk using dolerite balls (8-12 kg), found in situ by the hundreds
@@ -25,21 +26,21 @@ Egyptian obelisks — monolithic shafts of red granite quarried primarily at Asw
 - Commissioned most likely during the reign of Hatshepsut (1479-1458 BCE) or Thutmose III
 - Now an open-air museum and UNESCO World Heritage component (Ancient Thebes and Aswan region)
 
-### Major Standing and Known Obelisks
+### 1.2 Major Standing and Known Obelisks
 - **Hatshepsut's Obelisk at Karnak**: 29.56 m tall, approximately 323 tonnes, red granite — still standing in the Temple of Amun-Ra
 - **Thutmose I Obelisk at Karnak**: 19.5 m, ~143 tonnes — oldest obelisk still standing at Karnak
 - **Lateran Obelisk (Rome)**: originally erected by Thutmose III at Karnak, 32.18 m tall (tallest standing ancient obelisk), ~455 tonnes — moved to Rome by Constantius II (357 CE)
 - **Luxor Obelisks**: pair erected by Ramesses II; one remains in Luxor, one in the Place de la Concorde, Paris (gifted 1829, erected 1836)
 - Total known ancient Egyptian obelisks: approximately 30 major examples, of which 8 are in Rome, 1 in Paris, 1 in London ("Cleopatra's Needle," actually Thutmose III), 1 in New York (Central Park, also Thutmose III era), and remainder in Egypt or fragmentary
 
-### Quarrying Evidence
+### 1.3 Quarrying Evidence
 - Dolerite pounders: naturally rounded balls of dolerite (harder than granite, ~7 on Mohs scale vs. granite's ~6-7) found in abundance at Aswan quarries
 - Workers pounded parallel trenches to isolate the obelisk, then undercut from the sides
 - Worker traces: red ochre guidelines, tool marks, and partially completed channels visible on quarry surfaces
 - Rate of work estimated at 5 mm depth per hour per worker based on experimental archaeology (Stocks, 2003; Engelbach, 1923)
 - Finished surfaces polished using sand abrasives and copper rubbing tools
 
-### Transport
+### 1.4 Transport
 - Hatshepsut's mortuary temple at Deir el-Bahari contains relief scenes depicting transport of two obelisks on a massive barge down the Nile
 - Barge depicted as approximately 63 m long (calculated from obelisk scale), towed by 27-30 smaller boats with rowers
 - Obelisks loaded at Aswan quarry using embankment ramps and Nile flood waters for flotation
@@ -50,20 +51,20 @@ Egyptian obelisks — monolithic shafts of red granite quarried primarily at Asw
 
 ## 2. CREDIBLE CLAIMS (Tier 2 — Academic / Debated but Supported)
 
-### Solar Function and Gnomon Use
+### 2.1 Solar Function and Gnomon Use
 - Obelisks functioned as gnomons (shadow-casting instruments) for solar timekeeping — shadow length and direction indicated time of day and season
 - Augustus re-erected the obelisk of Psamtik II (originally from Heliopolis) in Rome's Campus Martius as the gnomon of a monumental sundial (Horologium Augusti, 10 BCE)
 - Egyptian priests used obelisk shadows for determining equinoxes and solstices — referenced in ancient sources but limited direct archaeological evidence of formal measurement infrastructure
-- Alignment of obelisks with temple axes suggests intentional orientation toward solar events, consistent with broader Egyptian archaeoastronomical practices (→ D19)
+- Alignment of obelisks with temple axes suggests intentional orientation toward solar events, consistent with broader Egyptian archaeoastronomical practices (→ [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md))
 
-### Benben Stone and Bennu Bird Symbolism
-- Pyramidion (benbenet): the pyramid-shaped capstone atop each obelisk, often sheathed in electrum (gold-silver alloy) to catch the first and last rays of the sun
+### 2.2 Benben Stone and Bennu Bird Symbolism
+- Pyramidion (benbenet): the pyramid-shaped capstone atop each obelisk, often sheathed in electrum (gold-silver alloy) to catch the first and last rays of the sun; few original metal coverings survive because precious-metal cladding was highly vulnerable to stripping in antiquity
 - Connected to the Benben stone: the primordial mound that emerged from the waters of Nun at creation, according to Heliopolitan cosmology
-- The Bennu bird (prototype of the Greek Phoenix → B21): associated with the Benben stone, solar renewal, and the daily rebirth of Ra
+- The Bennu bird (prototype of the Greek Phoenix → [B21](../B_Beings_and_Entities/B21_Thunderbird_Avian_Supernatural_Beings.md)): associated with the Benben stone, solar renewal, and the daily rebirth of Ra
 - Obelisks thus function as axis mundi symbols: connecting earth to sky, the mundane to the divine, in Egyptian cosmological architecture
-- This symbolic framework is extensively documented in Pyramid Texts (→ A14) and later Coffin Texts, though specific obelisk-related ritual texts are fragmentary
+- This symbolic framework is extensively documented in Pyramid Texts (→ [A14](../A_Foundations/A14_Pyramid_Texts.md)) and later Coffin Texts, though specific obelisk-related ritual texts are fragmentary
 
-### Erection Methods
+### 2.3 Erection Methods
 - Leading hypothesis: sand-filled funnel technique — obelisk base lowered into position by removing sand from beneath while structure slides down a sloped embankment
 - Engelbach (1923) first proposed this based on archaeological evidence at Aswan and Karnak
 - Isler (2001) refined the model with experimental verification at smaller scale
@@ -92,28 +93,46 @@ Egyptian obelisks — monolithic shafts of red granite quarried primarily at Asw
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Obelisk-Specific Scholarly Caveats
+
+- **The quarrying problem is less mysterious than the erection problem:** Dolerite pounders and quarry traces make extraction comparatively well understood. The most debated stage remains raising the largest monoliths into position, where multiple plausible methods exist but no single universally accepted reconstruction.
+- **Solar symbolism should not be over-literalized:** Obelisks clearly participated in solar cult imagery and could function as gnomons, but evidence for routine precision timekeeping or observatory-style measurement at every obelisk setting is limited.
+- **Relief scenes are stylized documents:** Hatshepsut's transport reliefs are invaluable, but they are royal propaganda as well as technical evidence. They convey logistical reality in idealized form rather than blueprint-level precision.
+- **Monument survival biases interpretation:** Standing obelisks, quarry failures, and Roman relocations are highly visible; the wooden sledges, ropes, labor organization, and temporary earthworks that made the process possible have mostly vanished.
+- **Standardization does not imply hidden science:** Similar taper ratios and consistent forms across dynasties are well explained by durable workshop traditions, template practice, and symbolic convention rather than lost mathematical secrets.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
 1. Engelbach, R. (1923). *The Problem of the Obelisks*. T. Fisher Unwin.
-2. Habachi, L. (1977). *The Obelisks of Egypt: Skyscrapers of the Past*. Charles Scribner's Sons.
-3. Isler, M. (2001). *Sticks, Stones, and Shadows: Building the Egyptian Pyramids*. University of Oklahoma Press.
-4. Stocks, D.A. (2003). *Experiments in Egyptian Archaeology: Stoneworking Technology in Ancient Egypt*. Routledge.
-5. Arnold, D. (1991). *Building in Egypt: Pharaonic Stone Masonry*. Oxford University Press.
+2. Habachi, L. (1977). *The Obelisks of Egypt: Skyscrapers of the Past*. Charles Scribner's Sons. DOI: 10.2307/3821463
+3. Isler, M. (2001). *Sticks, Stones, and Shadows: Building the Egyptian Pyramids*. University of Oklahoma Press. DOI: 10.1086/jar.58.4.3630687
+4. Stocks, D.A. (2003). *Experiments in Egyptian Archaeology: Stoneworking Technology in Ancient Egypt*. Routledge. ISBN: 9780415306645. DOI: 10.4324/9781003269922
+5. Arnold, D. (1991). *Building in Egypt: Pharaonic Stone Masonry*. Oxford University Press. DOI: 10.1093/oso/9780195063509.001.0001
 6. Quirke, S. (2001). *The Cult of Ra: Sun-Worship in Ancient Egypt*. Thames & Hudson.
-7. Wilkinson, R.H. (2000). *The Complete Temples of Ancient Egypt*. Thames & Hudson.
+7. Wilkinson, R.H. (2000). *The Complete Temples of Ancient Egypt*. Thames & Hudson. ISBN: 9780500051009. DOI: 10.1108/09504120610687551
 8. Curran, B. et al. (2009). *Obelisk: A History*. MIT Press.
 9. D'Alton, M. (1993). *The New York Obelisk, or How Cleopatra's Needle Came to New York and What Happened When It Got Here*. Metropolitan Museum of Art.
 10. Sorek, S. (2010). *The Emperors' Needles: Egyptian Obelisks and Rome*. Bristol Phoenix Press.
 11. Pliny the Elder. *Natural History*, Book XXXVI. Trans. Bostock, J. & Riley, H.T. (1855).
 12. Klemm, R. & Klemm, D.D. (2008). *Stones and Quarries in Ancient Egypt*. British Museum Press.
-13. Lehner, M. (1997). *The Complete Pyramids*. Thames & Hudson.
+13. Lehner, M. (1997). *The Complete Pyramids*. Thames & Hudson. ISBN: 9780500285473
 14. Shaw, I. (2003). *Exploring Ancient Egypt*. Oxford University Press.
-15. Allen, J.P. (2005). *The Ancient Egyptian Pyramid Texts*. SBL Press.
-16. Assmann, J. (2001). *The Search for God in Ancient Egypt*. Trans. Lorton, D. Cornell University Press.
-17. Blyth, E. (2006). *Karnak: Evolution of a Temple*. Routledge.
+15. Allen, J.P. (2005). *The Ancient Egyptian Pyramid Texts*. SBL Press. ISBN: 9780856682971
+16. Assmann, J. (2001). *The Search for God in Ancient Egypt*. Trans. Lorton, D. Cornell University Press. ISBN: 9780801487293
+17. Blyth, E. (2006). *Karnak: Evolution of a Temple*. Routledge. ISBN: 9780415404877
 18. Hölbl, G. (2001). *A History of the Ptolemaic Empire*. Routledge.
 19. Gorringe, H.H. (1882). *Egyptian Obelisks*. Published by the author. New York.
-20. Parker, R.A. (1950). *The Calendars of Ancient Egypt*. University of Chicago Press.
+20. Parker, R.A. (1950). *The Calendars of Ancient Egypt*. University of Chicago Press. ISBN: 9780548229927
 21. Buchwald, J. & Josefowicz, D. (2020). *The Riddle of the Rosetta: How an English Polymath and a French Polyglot Discovered the Meaning of Egyptian Hieroglyphs*. Princeton University Press.
 
 ---
@@ -132,4 +151,4 @@ Egyptian obelisks — monolithic shafts of red granite quarried primarily at Asw
 
 ---
 
-*Consolidated from 21 sources. Last Updated: Feb 28, 2026*
+*Consolidated from 21 sources. Last Updated: Mar 6, 2026*

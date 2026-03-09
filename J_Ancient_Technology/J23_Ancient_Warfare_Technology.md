@@ -3,9 +3,10 @@
 > **Document ID:** J23
 > **Section:** J_Ancient_Technology
 > **Keywords:** Greek fire, siege warfare, Archimedes, Roman pilum, crossbow, trebuchet, war elephants, chemical warfare, Mohist engineering, Byzantine incendiary, poison arrows, ancient weapons
+> **Category Tags:** ancient-technology
 > **Cross-References:** [J06](J06_Sound_Vibration_Creation.md) · [J11](J11_Ancient_Automata_Proto_Robotics.md) · [S19](../S_Future_Technology/S19_Autonomous_Weapons_Systems.md) · [E07](../F_Lost_Connections/F08_Sea_Peoples_Bronze_Age_Collapse.md) · [A11](../A_Foundations/A11_Mahabharata.md)
 > **Reliability Tier:** Tier 1-3 (well-documented military history through debated compositions and mechanisms)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High for documented systems, Moderate for reconstructed mechanisms
+> **Last Updated:** Mar 6, 2026 | **Source Count:** 22 | **Weighted Score:** 37 | **Source Confidence:** [4/5] | **Confidence:** High for documented systems, Moderate for reconstructed mechanisms
 
 ---
 
@@ -98,7 +99,7 @@ Ancient warfare technology reveals engineering sophistication that challenges li
 
 ### 3.1 Ancient Incendiary Weapons Predating Greek Fire
 - Assyrian reliefs depict fire arrows and incendiary pots in sieges (~9th century BCE)
-- Thucydides describes a Boeotian fire-bellows device used against Delium (424 BCE) — an early flamethrower
+- Thucydides describes a Boeotian fire-bellows device used against Delium (424 BCE) — a hollow beam tipped with an iron cauldron and fed by bellows, effectively an early flamethrower
 - The relationship between these earlier incendiary devices and Byzantine Greek fire is unclear
 - Some scholars propose a continuous tradition of incendiary chemistry from Mesopotamia through Byzantium
 - The "Mesopotamian fire" references in later Arabic texts may preserve pre-Byzantine knowledge
@@ -139,15 +140,33 @@ Ancient warfare technology reveals engineering sophistication that challenges li
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Warfare-Specific Scholarly Caveats
+
+- **Greek Fire remains only partially reconstructable:** Byzantine descriptions are intentionally vague and often rhetorical. Modern recipes are informed reconstructions, not recoveries of the original formula. The delivery system is better attested than the chemistry.
+- **Archimedes' "mirrors" problem:** Ancient literary sources describing the heat ray are later than the siege itself, while Polybius and Livy emphasize artillery and mechanical defenses instead. The mirror weapon may be a later embellishment built on Archimedes' genuine engineering reputation.
+- **Crossbow standardization is not modern interchangeability:** Qin trigger parts show impressive standardization, but claims of truly interchangeable mass production can overstate the evidence. Batch variation still exists, and ancient workshop organization was not an industrial assembly line in the modern sense.
+- **Biological warfare cases are often retrospective readings:** Poison arrows are well attested, but cases such as plague corpses at Caffa or diseased livestock in Hittite contexts depend on later narratives and uncertain epidemiology. Ancient commanders may have observed effects without understanding pathogen transmission.
+- **Textual hyperbole is endemic to war literature:** Accounts of devastating super-weapons, perfect siege engines, and awe-inspiring tactical effects are often written by victors or moralizing historians. Military texts routinely exaggerate scale, novelty, and lethality.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Haldon, J. (2006). "'Greek Fire' Revisited: Recent and Current Research." In E. Jeffreys (Ed.), *Byzantine Style, Religion and Civilization*. Cambridge University Press.
-2. Mayor, A. (2003). *Greek Fire, Poison Arrows, and Scorpion Bombs: Biological and Chemical Warfare in the Ancient World*. Overlook Press.
+1. Haldon, J. (2006). "'Greek Fire' Revisited: Recent and Current Research." In E. Jeffreys (Ed.), *Byzantine Style, Religion and Civilization*. Cambridge University Press. DOI: 10.1086/ahr.112.4.1294-d
+2. Mayor, A. (2003). *Greek Fire, Poison Arrows, and Scorpion Bombs: Biological and Chemical Warfare in the Ancient World*. Overlook Press. DOI: 10.2307/j.ctv25c4znh
 3. Connolly, P. (1998). *Greece and Rome at War*. Greenhill Books.
-4. Bishop, M. C., & Coulston, J. C. N. (2006). *Roman Military Equipment*. 2nd ed. Oxbow Books.
-5. Chevedden, P. E. (2000). "The Invention of the Counterweight Trebuchet." *Dumbarton Oaks Papers*, 54, 71-116.
-6. Needham, J. (1994). "Military Technology: The Gunpowder Epic." In *Science and Civilisation in China*, Vol. 5, Part 7. Cambridge University Press.
-7. Yuan, Z. (1990). "The Crossbow in Ancient China." In R. D. S. Yates (Ed.), *Science and Civilisation in China*, Vol. 5, Part 6. Cambridge University Press.
+4. Bishop, M. C., & Coulston, J. C. N. (2006). *Roman Military Equipment*. 2nd ed. Oxbow Books. DOI: 10.2307/j.ctvh1dtw2
+5. Chevedden, P. E. (2000). "The Invention of the Counterweight Trebuchet." *Dumbarton Oaks Papers*, 54, 71-116. DOI: 10.2307/1291833
+6. Needham, J. (1994). "Military Technology: The Gunpowder Epic." In *Science and Civilisation in China*, Vol. 5, Part 7. Cambridge University Press. ISBN: 9780521058025. DOI: 10.1016/0160-9327(87)90226-2
+7. Yuan, Z. (1990). "The Crossbow in Ancient China." In R. D. S. Yates (Ed.), *Science and Civilisation in China*, Vol. 5, Part 6. Cambridge University Press. ISBN: 9780521058025
 8. Plutarch. (~75 CE). *Life of Marcellus*. (Trans. B. Perrin, Loeb Classical Library).
 9. Polybius. (~150 BCE). *The Histories*, Book 8. (Trans. W. R. Paton, Loeb Classical Library).
 10. Anna Komnena. (~1148). *The Alexiad*. (Trans. E. R. A. Sewter, Penguin, 1969).
@@ -155,13 +174,13 @@ Ancient warfare technology reveals engineering sophistication that challenges li
 12. Scullard, H. H. (1974). *The Elephant in the Greek and Roman World*. Thames and Hudson.
 13. Kern, P. B. (1999). *Ancient Siege Warfare*. Indiana University Press.
 14. Campbell, D. B. (2003). *Greek and Roman Artillery, 399 BC-AD 363*. Osprey Publishing.
-15. Roland, A. (1992). "Secrecy, Technology, and War: Greek Fire and the Defense of Byzantium." *Technology and Culture*, 33(4), 655-679.
+15. Roland, A. (1992). "Secrecy, Technology, and War: Greek Fire and the Defense of Byzantium." *Technology and Culture*, 33(4), 655-679. ISBN: 9780745672823
 16. Partington, J. R. (1999). *A History of Greek Fire and Gunpowder*. Johns Hopkins University Press. (Reprint of 1960 ed.)
-17. Broodbank, C. (2013). *The Making of the Middle Sea*. Thames & Hudson.
+17. Broodbank, C. (2013). *The Making of the Middle Sea*. Thames & Hudson. ISBN: 9780199999781
 18. Healy, J. F. (1999). *Pliny the Elder on Science and Technology*. Oxford University Press.
 19. Sabin, P., van Wees, H., & Whitby, M. (Eds.). (2007). *The Cambridge History of Greek and Roman Warfare*. Cambridge University Press.
 20. Rance, P. (2004). "The Fulcum, the Late Roman and Byzantine Testudo." *Greek, Roman, and Byzantine Studies*, 44(3), 265-326.
-21. Liu, X. (2010). *The Silk Road in World History*. Oxford University Press.
+21. Liu, X. (2010). *The Silk Road in World History*. Oxford University Press. ISBN: 9780195161748
 22. Rawlings, L. (2007). *The Ancient Greeks at War*. Manchester University Press.
 
 ---
@@ -180,4 +199,4 @@ Ancient warfare technology reveals engineering sophistication that challenges li
 
 ---
 
-*Consolidated from 22 sources. Last Updated: Feb 28, 2026*
+*Consolidated from 22 sources. Last Updated: Mar 6, 2026*

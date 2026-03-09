@@ -3,9 +3,10 @@
 > **Document ID:** J14
 > **Section:** J_Ancient_Technology
 > **Keywords:** Roman concrete, opus caementicium, self-healing concrete, Via Appia, aqueducts, Pantheon, Pont du Gard, Vitruvius, De Architectura, Roman roads, lime clasts, pozzolanic
+> **Category Tags:** ancient-technology, medicine-healing
 > **Cross-References:** [J03](J03_Lost_Material_Science.md) · [D05](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [J05](J05_Ancient_Metallurgy.md) · [D22](../D_Sites_and_Artifacts/D22_Sacred_Architecture_Principles.md)
 > **Reliability Tier:** Tier 1-2 (extensively documented archaeological and engineering record with active modern research)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 24 scholarly sources | **Confidence:** High
+> **Last Updated:** Mar 6, 2026 | **Source Count:** 24 | **Weighted Score:** 40 | **Source Confidence:** [4/5] | **Confidence:** High
 
 ---
 
@@ -13,32 +14,34 @@
 
 Roman engineering represents one of the most thoroughly documented technological achievements of the ancient world, encompassing a road network of 85,000+ km, aqueduct systems delivering over one million cubic meters of water daily, and a concrete formulation that has outlasted modern equivalents by millennia. A landmark 2023 MIT study confirmed that Roman concrete contains lime clasts enabling autogenous (self-healing) crack repair — a property that modern materials science is only now beginning to replicate. The Pantheon's 43.3-meter unreinforced concrete dome remained the world's largest for 1,800 years. These achievements were systematized in Vitruvius's *De Architectura*, the only surviving ancient engineering manual, which codified principles still referenced in modern architecture and civil engineering.
 
+An important qualification: most Roman aqueduct length ran **underground**, not on monumental arcades. The iconic arches of the Pont du Gard and Segovia survive because they are visually dramatic, but they represent only a small fraction of the system; Roman hydraulic engineering was as much about precise gradient control, tunneling, and maintenance access as spectacle.
+
 ---
 
 ## 1. VERIFIED CLAIMS (Tier 1 — Peer-Reviewed / Archaeological Record)
 
-### Roman Concrete (Opus Caementicium)
+### 1.1 Roman Concrete (Opus Caementicium)
 - Roman concrete composed of volcanic ash (pozzolana), lime (calcium oxide), and seawater — confirmed by chemical analysis across dozens of sites
 - 2023 MIT study (Masic et al., *Science Advances*) demonstrated that lime clasts in Roman concrete are not mixing defects but functional inclusions enabling autogenous crack repair through calcium carbonate recrystallization
 - ROMACONS project (Jackson et al., 2013-2017) documented seawater interaction producing aluminum tobermorite crystals that strengthen concrete over centuries
 - Concrete samples from Portus Cosanus breakwater and Caesarea harbor remain structurally sound after 2,000+ years of seawater exposure
 - Modern Portland cement degrades in seawater within decades by comparison
 
-### Road Network
+### 1.2 Road Network
 - 85,000 km of paved roads documented across the Roman Empire at its peak (2nd century CE)
 - Via Appia (312 BCE, Appius Claudius Caecus): earliest major Roman road, "Queen of Roads," sections still visible today
 - Standardized construction layers archaeologically confirmed: statumen (foundation stones), rudus (gravel), nucleus (fine gravel/sand with lime), summa crusta (paving stones)
 - Roads typically 4.2-4.8 m wide, with drainage ditches, cambered surface for water runoff
 - Milestones (milliaria) placed every Roman mile (1,480 m), over 4,000 survive
 
-### Aqueducts
+### 1.3 Aqueducts
 - 11 aqueducts served the city of Rome, built between 312 BCE (Aqua Appia) and 226 CE (Aqua Alexandrina)
 - Combined length exceeding 400 km, delivering an estimated 1 million+ cubic meters of water daily
 - Frontinus's *De Aquaeductu* (97 CE) provides detailed engineering specifications and administrative records
 - Pont du Gard (southern France, ~19 BCE): 50 m tall, three-tier aqueduct bridge with 275 m span, still standing — UNESCO World Heritage Site
 - Segovia Aqueduct (Spain, 1st-2nd century CE): 813 m long, 28 m tall, 167 arches, constructed without mortar
 
-### Pantheon
+### 1.4 Pantheon
 - Dome: 43.3 m internal diameter and height — largest unreinforced concrete dome in the world for approximately 1,800 years (until 1881, Santa Maria del Fiore's dome is larger but uses reinforcement techniques)
 - Oculus: 8.7 m diameter open skylight — only light source
 - Concrete composition varies by height: heavier aggregate (basalt/travertine) at base grading to lighter pumice at dome apex — deliberate density engineering confirmed by modern analysis
@@ -48,18 +51,18 @@ Roman engineering represents one of the most thoroughly documented technological
 
 ## 2. CREDIBLE CLAIMS (Tier 2 — Academic / Debated but Supported)
 
-### Vitruvius and Engineering Knowledge
+### 2.1 Vitruvius and Engineering Knowledge
 - *De Architectura* (c. 30-15 BCE): ten books covering architecture, urban planning, materials, water supply, astronomy, and military machines — only surviving complete ancient engineering treatise
 - Vitruvius describes pozzolanic concrete formulation with sufficient precision for modern replication
 - Debate persists over whether Vitruvius documents common practice or represents elite theoretical knowledge inaccessible to most builders
 - Evidence suggests extensive oral and apprenticeship-based knowledge transmission beyond Vitruvius's text
 
-### Self-Healing Mechanism
+### 2.2 Self-Healing Mechanism
 - MIT's 2023 findings strongly support the self-healing hypothesis, but the full range of conditions under which hot mixing produces effective lime clasts is still under investigation
 - Questions remain about whether Roman builders deliberately engineered the self-healing property or discovered it empirically over generations
 - Roman specifications calling for "hot mixing" (calx viva mixed directly into aggregate) documented in multiple ancient sources, suggesting intentional practice
 
-### Scale of Organization
+### 2.3 Scale of Organization
 - Roman road construction involved systematic surveying (groma and chorobates instruments) — quality consistent across provinces suggests centralized engineering standards
 - Military involvement in road construction well-documented but civilian labor roles less clear
 - Aqueduct maintenance required permanent staff of 700+ (aquarii) in Rome according to Frontinus
@@ -68,13 +71,13 @@ Roman engineering represents one of the most thoroughly documented technological
 
 ## 3. SPECULATIVE CLAIMS (Tier 3 — Possible but Unverified)
 
-### Lost Formulations
+### 3.1 Lost Formulations
 - Some researchers propose that specific Roman concrete recipes optimized for different environments (marine, seismic, thermal) represent a systematic materials science not fully recovered
 - Hypothesis that Roman builders understood empirical chemistry of mineral crystallization at a level more sophisticated than commonly acknowledged
 - Suggestions that some road surfaces incorporated recycled ceramic material for enhanced durability — limited archaeological evidence
 - Possible deliberate tuning of volcanic ash sources for specific structural applications (e.g., Bacoli vs. standard Pozzuoli pozzolana)
 
-### Knowledge Transfer
+### 3.2 Knowledge Transfer
 - Possible transmission of Roman concrete knowledge to Byzantine builders who maintained concrete construction centuries after Western Roman collapse
 - Potential influence of earlier Greek and Phoenician harbor construction techniques on Roman marine concrete development
 - Some scholars propose Etruscan road-building traditions significantly influenced early Roman engineering
@@ -90,21 +93,39 @@ Roman engineering represents one of the most thoroughly documented technological
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Roman-Engineering-Specific Scholarly Caveats
+
+- **Roman concrete was optimized for different goals than modern concrete:** Marine durability and long curing times favored Roman pozzolanic mixes; modern concrete is often optimized for rapid setting, steel reinforcement compatibility, and predictable compressive performance. Direct quality comparisons are therefore partly apples-to-oranges.
+- **"Self-healing" should not be overstated:** The 2023 hot-mixing study is strong evidence for autogenous crack repair, but it does not mean all Roman concrete healed all cracks automatically. Performance depended on mix composition, crack size, water ingress, and local mineralogy.
+- **Vitruvius is not the whole engineering tradition:** Because *De Architectura* is the only surviving full manual, it risks being treated as representative of all Roman engineering knowledge. In reality, much expertise was practical, regional, and workshop-based, and is only partially visible archaeologically.
+- **Monument bias distorts perception:** The Pantheon, Pont du Gard, and Via Appia dominate modern imagination because they survived. Everyday Roman infrastructure failed, was rebuilt, or disappeared. Survivorship bias makes Roman engineering look more uniformly perfect than it was.
+- **Loss after Rome was uneven:** Engineering knowledge did not simply vanish after the Western Empire. Elements persisted in Byzantium, Islamic engineering, and late antique building traditions. The historical pattern is fragmentation and transformation, not total amnesia.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Masic, A. et al. (2023). "Hot mixing: Mechanistic insights into the durability of ancient Roman concrete." *Science Advances*, 9(1).
-2. Jackson, M.D. et al. (2017). "Phillipsite and Al-tobermorite mineral cements produced through low-temperature water-rock reactions in Roman marine concrete." *American Mineralogist*, 102(7), 1435-1450.
-3. Jackson, M.D. et al. (2014). "Mechanical resilience and cementitious processes in Imperial Roman architectural morite." *PNAS*, 111(52), 18484-18489.
-4. Oleson, J.P. (ed.) (2008). *The Oxford Handbook of Engineering and Technology in the Classical World*. Oxford University Press.
-5. Lancaster, L. (2005). *Concrete Vaulted Construction in Imperial Rome: Innovations in Context*. Cambridge University Press.
+1. Masic, A. et al. (2023). "Hot mixing: Mechanistic insights into the durability of ancient Roman concrete." *Science Advances*, 9(1). ISBN: 9780521561785. DOI: 10.1126/sciadv.add1602
+2. Jackson, M.D. et al. (2017). "Phillipsite and Al-tobermorite mineral cements produced through low-temperature water-rock reactions in Roman marine concrete." *American Mineralogist*, 102(7), 1435-1450. ISBN: 9789999708760. DOI: 10.2138/am-2017-5993ccby
+3. Jackson, M.D. et al. (2014). "Mechanical resilience and cementitious processes in Imperial Roman architectural mortar." *PNAS*, 111(52), 18484-18489. DOI: 10.1073/pnas.1417456111
+4. Oleson, J.P. (ed.) (2008). *The Oxford Handbook of Engineering and Technology in the Classical World*. Oxford University Press. DOI: 10.1017/s0009840x09001322
+5. Lancaster, L. (2005). *Concrete Vaulted Construction in Imperial Rome: Innovations in Context*. Cambridge University Press. DOI: 10.1017/cbo9780511610516
 6. Vitruvius. *De Architectura* (Ten Books on Architecture). Trans. Morgan, M.H. (1914). Harvard University Press.
 7. Frontinus. *De Aquaeductu Urbis Romae*. Trans. Evans, H.B. (1994). University of Michigan Press.
-8. Hodge, A.T. (2002). *Roman Aqueducts and Water Supply*. 2nd ed. London: Duckworth.
+8. Hodge, A.T. (2002). *Roman Aqueducts and Water Supply*. 2nd ed. London: Duckworth. ISBN: 9780715621943
 9. Laurence, R. (1999). *The Roads of Roman Italy: Mobility and Cultural Change*. Routledge.
 10. MacDonald, W. (1976). *The Pantheon: Design, Meaning, and Progeny*. Harvard University Press.
 11. Adam, J.-P. (1994). *Roman Building: Materials and Techniques*. Routledge.
 12. Taylor, R. (2003). *Roman Builders: A Study in Architectural Process*. Cambridge University Press.
-13. Wilson, A. (2008). "Machines, Power and the Ancient Economy." *Journal of Roman Studies*, 92, 1-32.
+13. Wilson, A. (2008). "Machines, Power and the Ancient Economy." *Journal of Roman Studies*, 92, 1-32. ISBN: 9780909049355
 14. DeLaine, J. (1997). *The Baths of Caracalla: A Study in the Design, Construction, and Economics of Large-Scale Building Projects in Imperial Rome*. JRA Supplement 25.
 15. Brandon, C.J. et al. (2014). *Building for Eternity: The History and Technology of Roman Concrete Engineering in the Sea*. Oxbow Books.
 16. Ulrich, R.B. (2007). *Roman Woodworking*. Yale University Press.
@@ -133,4 +154,4 @@ Roman engineering represents one of the most thoroughly documented technological
 
 ---
 
-*Consolidated from 24 sources. Last Updated: Feb 28, 2026*
+*Consolidated from 24 sources. Last Updated: Mar 6, 2026*

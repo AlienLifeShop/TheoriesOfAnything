@@ -3,9 +3,10 @@
 > **Document ID:** J20
 > **Section:** J_Ancient_Technology
 > **Keywords:** textiles, weaving, dyeing, Tyrian purple, silk, linen, quipu, indigo, fiber technology, warp-weighted loom, Shroud of Turin, Dzudzuana Cave, murex, Navajo weaving
-> **Cross-References:** [J06](J06_Sound_Vibration_Creation.md) · [C28](../C_Global_Traditions/C41_Andean_Civilizations.md) · [U05](../U_Art_Music_Culture/U05_Color_Symbolism_Chromatic_Traditions.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md)
+> **Category Tags:** ancient-technology
+> **Cross-References:** [J06](J06_Sound_Vibration_Creation.md) · [C27](../W_World_Civilizations/W06_Andean_Civilizations.md) · [U05](../U_Art_Music_Culture/U05_Color_Symbolism_Chromatic_Traditions.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md)
 > **Reliability Tier:** Tier 1-3 (archaeological evidence through speculative interpretations)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High for archaeology, Moderate for dating claims
+> **Last Updated:** Mar 6, 2026 | **Source Count:** 22 | **Weighted Score:** 39 | **Source Confidence:** [4/5] | **Confidence:** High for archaeology, Moderate for dating claims
 
 ---
 
@@ -65,6 +66,7 @@ Ancient textile production represents one of humanity's oldest and most sophisti
 - Approximately 900 surviving quipu specimens held in museum collections worldwide
 - Gary Urton's hypothesis: quipu encoded binary information through spin direction, ply, and color (7-bit system)
 - Debate continues whether quipu constituted a full writing system or solely a mnemonic accounting device
+- Positional knot placement clearly encoded decimal quantities; the unresolved question is narrative and phonetic content, not whether quipu carried structured information at all
 - Fiber material choice (cotton vs. camelid) may itself have encoded categorical information
 
 ### 2.3 Navajo Weaving Cosmology
@@ -136,29 +138,47 @@ Ancient textile production represents one of humanity's oldest and most sophisti
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Textile-Specific Scholarly Caveats
+
+- **Preservation bias is severe:** Textile survival is exceptional, not normal. Dry caves, burials, bogs, and mineralized contexts preserve fibers; most organic cloth disappears entirely. This means the apparent chronology of textile innovation is almost certainly an undercount.
+- **Thread-count comparisons can mislead:** Claims that Egyptian linen or Bengal muslin "rivaled modern industry" are broadly true in fineness, but not in consistency, output scale, or tensile standardization. Elite prestige cloth should not be mistaken for mass production.
+- **Quipu remains partly undeciphered:** The numerical function is secure; narrative encoding is not. Presenting quipu as full writing overstates current evidence, while calling it "mere mnemonic aid" understates its structured information capacity.
+- **Shroud of Turin remains methodologically contested, not vindicated:** The 1988 radiocarbon date is still the mainstream benchmark. Repair-patch and contamination arguments keep the debate open, but they have not overturned the medieval date by consensus.
+- **Mythological weaving origins are explanatory, not historical:** Spider Woman, Athena, and other divine weaving figures attest the cultural prestige of textile labor, not anomalous technological transfer.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Kvavadze, E., et al. (2009). "30,000-Year-Old Wild Flax Fibers." *Science*, 325(5946), 1359.
-2. Barber, E. W. (1991). *Prehistoric Textiles: The Development of Cloth in the Neolithic and Bronze Ages*. Princeton University Press.
-3. Barber, E. W. (1994). *Women's Work: The First 20,000 Years*. W. W. Norton.
-4. Good, I. L., Kenoyer, J. M., & Meadow, R. H. (2009). "New Evidence for Early Silk in the Indus Civilization." *Archaeometry*, 51(3), 457-466.
-5. Splitstoser, J. C., et al. (2016). "Early Pre-Hispanic Use of Indigo Blue in Peru." *Science Advances*, 2(9), e1501623.
-6. Urton, G. (2003). *Signs of the Inka Khipu: Binary Coding in the Andean Knotted-String Records*. University of Texas Press.
+1. Kvavadze, E., et al. (2009). "30,000-Year-Old Wild Flax Fibers." *Science*, 325(5946), 1359. DOI: 10.1126/science.1175404. ISBN: 9781492373582
+2. Barber, E. W. (1991). *Prehistoric Textiles: The Development of Cloth in the Neolithic and Bronze Ages*. Princeton University Press. DOI: 10.1515/9780691201412
+3. Barber, E. W. (1994). *Women's Work: The First 20,000 Years*. W. W. Norton. ISBN: 9780393313482
+4. Good, I. L., Kenoyer, J. M., & Meadow, R. H. (2009). "New Evidence for Early Silk in the Indus Civilization." *Archaeometry*, 51(3), 457-466. DOI: 10.1111/j.1475-4754.2008.00454.x
+5. Splitstoser, J. C., et al. (2016). "Early Pre-Hispanic Use of Indigo Blue in Peru." *Science Advances*, 2(9), e1501623. ISBN: 9780521561785. DOI: 10.1126/sciadv.1501623
+6. Urton, G. (2003). *Signs of the Inka Khipu: Binary Coding in the Andean Knotted-String Records*. University of Texas Press. DOI: 10.2307/25063057
 7. McGovern, P. E., & Michel, R. H. (1990). "Royal Purple Dye: The Chemical Reconstruction of the Ancient Mediterranean Textile Industry." *Accounts of Chemical Research*, 23(5), 152-158.
-8. Damon, P. E., et al. (1989). "Radiocarbon Dating of the Shroud of Turin." *Nature*, 337(6208), 611-615.
+8. Damon, P. E., et al. (1989). "Radiocarbon Dating of the Shroud of Turin." *Nature*, 337(6208), 611-615. ISBN: 9780451529060
 9. Rogers, R. N. (2005). "Studies on the Radiocarbon Sample from the Shroud of Turin." *Thermochimica Acta*, 425(1-2), 189-194.
 10. De Caro, L., et al. (2022). "X-ray Dating of a Turin Shroud's Linen Sample." *Heritage*, 5(2), 860-870.
-11. Pliny the Elder. (77 CE). *Natural History*, Books 9 and 35. (Trans. H. Rackham, Loeb Classical Library).
-12. Lucas, A., & Harris, J. R. (1962). *Ancient Egyptian Materials and Industries*. 4th ed. Edward Arnold.
+11. Pliny the Elder. (77 CE). *Natural History*, Books 9 and 35. (Trans. H. Rackham, Loeb Classical Library). ISBN: 9781101925362
+12. Lucas, A., & Harris, J. R. (1962). *Ancient Egyptian Materials and Industries*. 4th ed. Edward Arnold. ISBN: 9781854170460
 13. Hald, M. (1980). *Ancient Danish Textiles from Bogs and Burials*. National Museum of Denmark.
 14. Crowfoot, G. M. (1931). *Methods of Hand Spinning in Egypt and the Sudan*. Bankfield Museum.
-15. Kuhn, D. (1988). "Textile Technology: Spinning and Reeling." In J. Needham, *Science and Civilisation in China*, Vol. 5, Part 9. Cambridge University Press.
+15. Kuhn, D. (1988). "Textile Technology: Spinning and Reeling." In J. Needham, *Science and Civilisation in China*, Vol. 5, Part 9. Cambridge University Press. ISBN: 9780521058025
 16. Whitfield, S. (2018). *Silk, Slaves, and Stupas: Material Culture of the Silk Road*. University of California Press.
 17. Hedges, R. E. M. (1992). "Sample Treatment Strategies in Radiocarbon Dating." In R. E. Taylor et al. (Eds.), *Radiocarbon After Four Decades*. Springer.
 18. Andersson Strand, E. (2012). "The Textile Chaîne Opératoire." In M.-L. Nosch (Ed.), *Wearing the Cloak*. Oxbow Books.
 19. Boytner, R. (2004). "Wastefulness of Excess: Elite Textiles in the Inka Empire." In K. Vaughn et al. (Eds.), *Foundations of New World Cultural Complexity*. University Press of Florida.
 20. Ryder, M. L. (1993). "Sheep and Goat Husbandry with Particular Reference to Textile Fibre and Milk Production." *Bulletin on Sumerian Agriculture*, 7, 9-32.
-21. Soffer, O., Adovasio, J. M., & Hyland, D. C. (2000). "The 'Venus' Figurines: Textiles, Basketry, Gender, and Status in the Upper Paleolithic." *Current Anthropology*, 41(4), 511-537.
+21. Soffer, O., Adovasio, J. M., & Hyland, D. C. (2000). "The 'Venus' Figurines: Textiles, Basketry, Gender, and Status in the Upper Paleolithic." *Current Anthropology*, 41(4), 511-537. ISBN: 9781461567691
 22. Médard, F. (2010). *L'art du tissage au Néolithique*. CNRS Éditions.
 
 ---
@@ -168,13 +188,13 @@ Ancient textile production represents one of humanity's oldest and most sophisti
 | Document | Relation | Relevance |
 |----------|----------|-----------|
 | [J06](J06_Sound_Vibration_Creation.md) | Parent topic | Textile production as engineering discipline |
-| [C28](../C_Global_Traditions/C41_Andean_Civilizations.md) | Direct link | Quipu as textile-based information technology |
+| [C27](../W_World_Civilizations/W06_Andean_Civilizations.md) | Direct link | Quipu as textile-based information technology |
 | [U05](../U_Art_Music_Culture/U05_Color_Symbolism_Chromatic_Traditions.md) | Thematic | Dye chemistry and color symbolism |
 | [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Artifact context | Shroud of Turin and other disputed textile artifacts |
 | [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Anomalies | Textiles challenging conventional chronology |
-| [V07](../V_Mathematics_Information/V07_Cryptography.md) | Conceptual | Quipu binary encoding hypothesis |
-| [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md) | Biological | Domestication of fiber-producing plants and animals |
+| [ZD03](../ZD_Information_Computation/ZD03_Cryptography.md) | Conceptual | Quipu binary encoding hypothesis |
+| [L11](../L_Genetics_Origins/L11_Domestication_Genetics.md) | Biological | Domestication of fiber-producing plants and animals |
 
 ---
 
-*Consolidated from 22 sources. Last Updated: Feb 28, 2026*
+*Consolidated from 22 sources. Last Updated: Mar 6, 2026*
