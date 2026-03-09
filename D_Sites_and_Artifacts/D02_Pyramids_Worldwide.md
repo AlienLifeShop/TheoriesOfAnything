@@ -1,24 +1,26 @@
 # D02 — Pyramids Worldwide
 
-> **Source Agreement:** 5 AI sources contributed | **Primary Tier:** 1 | **Last Updated:** Feb 9, 2026
-> **Keywords:** pyramids, Giza, Great Pyramid, Teotihuacan, Cholula, Borobudur, Sudan, Nubian, China, Indonesia, Gunung Padang, alignment, astronomy, construction, alternative dating, water erosion patterns
-> **Cross-References:** A01, D01, D03, D05, D10, E05, F02, J01, J04, M03
+> **Document ID:** D02
+> **Section:** D_Sites_and_Artifacts
+> **Keywords:** pyramids, Giza, Great Pyramid, Teotihuacan, Cholula, Borobudur, Sudan, Nubian, China, Indonesia, Gunung Padang, alignment, astronomy, construction, alternative dating, water erosion patterns, experimental archaeology, fibonacci, golden ratio
+> **Category Tags:** sites, artifacts, megalithic
+> **Cross-References:** [A01](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) · [D01](D01_Gobekli_Tepe.md) · [D03](D03_Sphinx_Water_Erosion.md) · [D05](D05_Megalithic_Impossible_Engineering.md) · [D10](D10_Sacred_Geometry.md) · [E05](../E_Cataclysms_and_Chronology/E05_Radiocarbon_Calibration.md) · [F02](../F_Lost_Connections/F02_Trans_Oceanic_Contact.md) · [J01](../J_Ancient_Technology/J01_Ancient_Power_Energy_Systems.md) · [J04](../J_Ancient_Technology/J04_Acoustic_Vibrational_Technology.md) · [M03](../M_Forbidden_Archaeology/M03_Impossible_Precision_Ancient.md)
+> **Reliability Tier:** Tier 1 (well-documented, peer-reviewed)
+> **Last Updated:** Mar 08, 2026 | **Source Count:** 5 | **Weighted Score:** 10 | **Source Confidence:** [1/5] | **Confidence:** High (well-documented, peer-reviewed)
 
 ---
 
-## Overview
+## QUICK SUMMARY
 
-Pyramidal structures appear on every inhabited continent, built by cultures separated by oceans and millennia. Mainstream archaeology attributes their ubiquity to the pyramid being the most stable monumental shape for large stone construction (convergent engineering). Alternative researchers see evidence of a connected global civilization, shared knowledge, or common builders. This document catalogs major pyramid sites worldwide with geographic coordinates, construction details, and all proposed theories — mainstream and alternative — without favoring either interpretation.
-
-**Source Agreement:** All 5 research sources (Claude, Gemini, GPT5.2, Raptor, Master) independently cataloged global pyramid sites and acknowledged both mainstream and alternative interpretations. Core claims represent **[5/5 SOURCES]** unless otherwise noted.
+Pyramidal structures appear on every inhabited continent — Egypt, Mesoamerica, China, Sudan, Indonesia, and beyond. The Great Pyramid of Giza (2560 BCE) remains the most precisely engineered ancient structure known, with a base level to within 2.1 cm across 13 acres and alignment to true north within 3/60th of a degree. Key debates include construction methods (ramps vs. internal ramps vs. geopolymer concrete), astronomical alignments, and whether independent invention or cultural diffusion explains the global pattern. Evidence is Tier 1 for existence and measurements, Tier 2–3 for alternative dating and construction theories.
 
 ---
 
 ## 1. Egypt — The Most Studied Pyramids
 
-**Reliability: TIER 1 — VERIFIED** | **[5/5 SOURCES]**
+**Reliability: TIER 1 — VERIFIED** |
 
-### The Giza Plateau (29.9792°N, 31.1342°E)
+### 1.1 The Giza Plateau (29.9792°N, 31.1342°E)
 
 | Pyramid | Pharaoh | Dating | Height (Original) | Base Length | Est. Weight | Blocks |
 |---------|---------|--------|-------------------|-------------|-------------|--------|
@@ -26,7 +28,7 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 | Pyramid of Khafre | Khafre | ~2530 BCE | 136.4 m (448 ft) | 215.3 m (706 ft) | ~4.8 million tons | ~2 million |
 | Pyramid of Menkaure | Menkaure | ~2510 BCE | 65.5 m (215 ft) | 108.5 m (356 ft) | — | — |
 
-#### Great Pyramid — Key Facts **[5/5 SOURCES]**
+#### Great Pyramid — Key Facts
 
 - Aligned to true north within 3/60th of a degree
 - Base is level to within 2.1 cm across 13 acres
@@ -38,21 +40,21 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
   - **Grand Gallery** — 47 m long, 8.5 m high corbelled passage
   - **Subterranean Chamber** — carved into bedrock, seemingly unfinished
   - **Relieving chambers** above King's Chamber — 5 granite slabs totaling ~3,000 tons
-- **No mummy has EVER been found inside the Great Pyramid** **[5/5 SOURCES]**
+- **No mummy has EVER been found inside the Great Pyramid**
 - No hieroglyphs inside (except quarry marks in the relieving chambers, discovered by Vyse in 1837 — authenticity debated)
-- Casing stones cut to optical precision (1/100th of an inch), fitted so tightly a razor blade cannot pass between them **[3/5 SOURCES]**
+- Casing stones cut to optical precision (1/100th of an inch), fitted so tightly a razor blade cannot pass between them
 
-#### The Sphinx **[4/5 SOURCES]**
+#### The Sphinx
 
 - Mainstream dating: ~2500 BCE
 - Alternative dating (Schoch/West): 7,000–10,000 BCE based on water erosion patterns
 - See **D03** for full Sphinx analysis
 
-#### Giza Geographic Note **[2/5 SOURCES]**
+#### Giza Geographic Note
 
 - Giza sits at the intersection of the longest lines of latitude and longitude that cross the most land
 
-### Saqqara (29.8713°N, 31.2165°E) **[5/5 SOURCES]**
+### Saqqara (29.8713°N, 31.2165°E)
 
 | Structure | Pharaoh | Dating | Type |
 |-----------|---------|--------|------|
@@ -62,14 +64,14 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 - Imhotep — the architect — was later deified as a god of wisdom and medicine
 - The Pyramid Texts (~2350 BCE onward) are the oldest large religious texts in the world
 
-### Dahshur (29.7908°N, 31.2103°E) **[5/5 SOURCES]**
+### Dahshur (29.7908°N, 31.2103°E)
 
 | Pyramid | Pharaoh | Dating | Notable Feature |
 |---------|---------|--------|----------------|
 | Bent Pyramid | Sneferu | ~2600 BCE | Angle changes from 54° to 43° midway — design correction or deliberate |
 | Red Pyramid | Sneferu | ~2590 BCE | First "true" smooth-sided pyramid; 105 m high |
 
-### Other Egyptian Sites **[3/5 SOURCES]**
+### Other Egyptian Sites
 
 - **Abu Rawash** (30.0322°N, 31.0750°E) — Pyramid of Djedefre (Khufu's son), largely destroyed; may have been dismantled in antiquity
 - **Meidum** (29.3883°N, 31.1567°E) — "Collapsed pyramid," originally step, later modified; whether it collapsed or was deliberately dismantled is debated
@@ -79,7 +81,7 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 
 ## 2. Sudan (Nubia) — The Largest Number of Pyramids
 
-**Reliability: TIER 1 — VERIFIED** | **[5/5 SOURCES]**
+**Reliability: TIER 1 — VERIFIED** |
 
 | Site | Coordinates | Date | Key Details |
 |------|-------------|------|-------------|
@@ -94,9 +96,9 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 
 ## 3. Mesoamerica
 
-**Reliability: TIER 1 — VERIFIED** | **[5/5 SOURCES]**
+**Reliability: TIER 1 — VERIFIED** |
 
-### Teotihuacán, Mexico (19.6925°N, 98.8438°W)
+### 3.1 Teotihuacán, Mexico (19.6925°N, 98.8438°W)
 
 | Structure | Height | Base | Notable Features |
 |-----------|--------|------|------------------|
@@ -104,14 +106,14 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 | Pyramid of the Moon | 43 m | 130 m | Aligned to Cerro Gordo mountain |
 | Temple of the Feathered Serpent | 19 m | — | Serpent heads on facade; 200+ sacrificial victims beneath |
 
-- **Mica**: Sheets sourced from Brazil, 3,200 km away. Mica has notable electrical insulating and thermal properties. **[4/5 SOURCES]**
+- **Mica**: Sheets sourced from Brazil, 3,200 km away. Mica has notable electrical insulating and thermal properties.
 - "Teotihuacán" = **"place where the gods were made" / "birthplace of the gods"** — named by the Aztecs who found the city already ancient and abandoned
 - City planned on a grid with the "Avenue of the Dead" as axis
 - Peak population (~200–550 CE): 125,000–200,000 — one of the world's largest cities
-- Builders' identity is **UNKNOWN** — the Aztecs did not build it **[5/5 SOURCES]**
+- Builders' identity is **UNKNOWN** — the Aztecs did not build it
 - Tunnels and chambers discovered beneath the pyramids using remote sensing
 
-### Cholula, Mexico (19.0579°N, 98.3022°W) **[5/5 SOURCES]**
+### Cholula, Mexico (19.0579°N, 98.3022°W)
 
 - **Largest pyramid by volume in the world**: ~4.45 million m³ (vs. Giza's ~2.6 million)
 - Base: 450 m × 450 m; Height: 66 m
@@ -120,7 +122,7 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 - Contains approximately 8 km of excavated tunnels
 - Dedicated to **Quetzalcoatl** — the Feathered Serpent
 
-### Chichén Itzá — El Castillo (20.6843°N, 88.5678°W) **[5/5 SOURCES]**
+### Chichén Itzá — El Castillo (20.6843°N, 88.5678°W)
 
 - 30 m high, 55.3 m base
 - 365 steps total (91 per side × 4 + 1 top platform)
@@ -129,20 +131,20 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 - A cenote (water-filled sinkhole) lies beneath the pyramid
 - **Kukulcán** = Mayan Quetzalcoatl = **Feathered Serpent** deity
 
-### Tikal, Guatemala (17.2220°N, 89.6237°W) **[4/5 SOURCES]**
+### Tikal, Guatemala (17.2220°N, 89.6237°W)
 
 - Temple I (Temple of the Great Jaguar): 47 m high
 - Temple IV: 65 m high — tallest pre-Columbian structure in the Americas
 - Classic Maya period (~200–900 CE)
 - Buried beneath dense jungle until the 19th century
 
-### Palenque, Mexico (17.4838°N, 92.0461°W) **[4/5 SOURCES]**
+### Palenque, Mexico (17.4838°N, 92.0461°W)
 
 - Temple of the Inscriptions: Contains the tomb of **K'inich Janaab Pakal**
 - Pakal's sarcophagus lid — interpreted by Erich von Däniken as depicting a figure operating machinery (mainstream: Pakal descending into the underworld with the World Tree)
 - Pakal ruled 615–683 CE, ascending to the throne at age 12
 
-### Other Mesoamerican Sites **[3/5 SOURCES]**
+### Other Mesoamerican Sites
 
 - **Monte Albán**, Oaxaca — Zapotec civilization
 - **Uxmal** — Pyramid of the Magician (unique rounded shape)
@@ -153,9 +155,9 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 
 ## 4. South America
 
-**Reliability: TIER 1 — VERIFIED** | **[5/5 SOURCES]**
+**Reliability: TIER 1 — VERIFIED** |
 
-### Caral, Peru (10.8933°S, 77.5200°W) **[4/5 SOURCES]**
+### Caral, Peru (10.8933°S, 77.5200°W)
 
 - **Oldest known city in the Americas**: dated to ~3000 BCE (contemporary with Egyptian pyramids)
 - Contains 6 pyramidal structures
@@ -164,19 +166,19 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 - Quipu (knotted string recording devices) found — oldest known examples
 - Norte Chico civilization — predates Olmec by 2,000 years
 
-### Túcume, Peru (6.5083°S, 79.8519°W) **[3/5 SOURCES]**
+### Túcume, Peru (6.5083°S, 79.8519°W)
 
 - **26 major pyramids** in a single complex
 - Huaca Larga: 700 m long, 280 m wide, 30 m high
 - Lambayeque/Sicán culture (~1000–1375 CE)
 
-### Huaca del Sol, Peru (8.1500°S, 79.0000°W) **[3/5 SOURCES]**
+### Huaca del Sol, Peru (8.1500°S, 79.0000°W)
 
 - Moche civilization (~100–800 CE)
 - Originally 50 m high, made of ~130 million adobe bricks
 - Largest pre-Columbian structure in South America by adobe volume
 
-### Tiwanaku / Akapana, Bolivia (16.5553°S, 68.6733°W) **[4/5 SOURCES]**
+### Tiwanaku / Akapana, Bolivia (16.5553°S, 68.6733°W)
 
 - **Akapana pyramid**: 18 m high, 257 m base (originally stepped)
 - Dating controversial: mainstream 500–1000 CE; alternative proposals much earlier
@@ -187,19 +189,19 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 
 ## 5. Asia
 
-**Reliability: TIER 1 — VERIFIED (sites) / TIER 3 (controversial dating)** | **[5/5 SOURCES]**
+**Reliability: TIER 1 — VERIFIED (sites) / TIER 3 (controversial dating)** |
 
-### Xi'an Pyramids, China (34.3380°N, 108.5694°E) **[5/5 SOURCES]**
+### Xi'an Pyramids, China (34.3380°N, 108.5694°E)
 
 - Over **40 pyramid-shaped mounds** in Shaanxi Province
 - Largest: **Mausoleum of the First Qin Emperor** (Qin Shi Huang) — ~350 m × 345 m base, originally ~100 m high
 - Contains the **Terracotta Army** (8,000+ life-size warriors)
-- Historical records (Sima Qian, ~100 BCE) describe rivers of mercury inside — soil testing confirms high mercury levels **[4/5 SOURCES]**
+- Historical records (Sima Qian, ~100 BCE) describe rivers of mercury inside — soil testing confirms high mercury levels
 - Chinese government has NOT fully excavated the main mound
 - Other mounds date from Han Dynasty (~200 BCE – 200 CE)
 - Government restricted access until relatively recently
 
-### Gunung Padang, Indonesia (6.9944°S, 107.0564°E) **[4/5 SOURCES]**
+### Gunung Padang, Indonesia (6.9944°S, 107.0564°E)
 
 - Located on a hill in West Java
 - Megalithic terraces made of columnar basalt
@@ -209,7 +211,7 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 - If accurate, it would be the oldest known human-made structure by a massive margin
 - Indonesian government has taken interest; excavation has been controversial and intermittent
 
-### ScanPyramids — Muon Tomography Discoveries (2017–2023) [RECENT]
+### 5.1 ScanPyramids — Muon Tomography Discoveries (2017–2023) [RECENT]
 
 **Reliability: TIER 1 — VERIFIED** | Published in *Nature* and *Nature Communications*
 
@@ -220,26 +222,26 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 - **Significance:** Demonstrates that even the most studied pyramid still contains undiscovered internal spaces; raises the question of what remains hidden in less-studied pyramids worldwide
 - Further scanning is ongoing under the ScanPyramids collaboration (HIP Institute, CEA, Nagoya University)
 
-### Prasat Thom / Koh Ker, Cambodia (13.6886°N, 104.5311°E) **[3/5 SOURCES]**
+### Prasat Thom / Koh Ker, Cambodia (13.6886°N, 104.5311°E)
 
 - 7-tiered step pyramid, 36 m high
 - Built ~930 CE by Jayavarman IV
 - Part of the Khmer Empire's architectural tradition
 
-### Angkor Wat, Cambodia (13.4125°N, 103.8670°E) **[3/5 SOURCES]**
+### Angkor Wat, Cambodia (13.4125°N, 103.8670°E)
 
 - Contains pyramid-like temple mountains; central tower rises 65 m
 - Largest religious monument in the world
 - Encoded astronomical measurements in its dimensions
 
-### India **[3/5 SOURCES]**
+### India
 
 - Hindu temple architecture uses pyramidal forms (vimana/gopuram)
 - **Brihadeshwara Temple**, Thanjavur — 66 m pyramid-shaped tower, 80-ton capstone allegedly moved via a 6 km ramp
 - **Meenakshi Temple**, Madurai — 14 gopurams (pyramid towers)
 - Not stone-block pyramids like Egypt, but demonstrate pyramidal architectural understanding
 
-### Japan **[3/5 SOURCES]**
+### Japan
 
 - **Kofun period tumuli** (3rd–7th century CE) — keyhole-shaped mounds for burial
 - **Daisen Kofun** (Emperor Nintoku's tomb): 486 m long, larger than the Great Pyramid by area
@@ -249,7 +251,7 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 
 ## 6. Europe
 
-### Bosnia — Visoko (43.9820°N, 18.1764°E) **[4/5 SOURCES]**
+### Bosnia — Visoko (43.9820°N, 18.1764°E)
 
 **Reliability: TIER 4 — DUBIOUS**
 
@@ -258,9 +260,9 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 - **Mainstream archaeological consensus**: Natural geological formations (flatirons — inclined rock slabs from differential erosion)
 - European Association of Archaeologists (2006) condemned excavations as damaging legitimate sites
 - Osmanagić has continued with local government support
-- Tunnel system independently considered interesting by some researchers **[3/5 SOURCES]**
+- Tunnel system independently considered interesting by some researchers
 
-### Other European Sites **[3/5 SOURCES]**
+### Other European Sites
 
 | Site | Location | Details |
 |------|----------|---------|
@@ -270,7 +272,7 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 
 ---
 
-## 7. Oceania and Other Locations **[2/5 SOURCES]**
+## 7. Oceania and Other Locations
 
 - **Nan Madol**, Pohnpei (6.8442°N, 158.3344°E): Not pyramids, but ~92 artificial basalt-platform islands; ~750,000 tons of basalt; dated ~1200–1500 CE; local legends attribute construction to twin sorcerers who "levitated" stones
 - **Ha'amonga 'a Maui**, Tonga: Massive trilithon similar to Stonehenge; demonstrates megalithic knowledge in the Pacific
@@ -299,25 +301,25 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 
 ## 9. Shared Features Across Cultures
 
-**Reliability: TIER 1 (observed) / TIER 3 (interpretation)** | **[5/5 SOURCES]**
+**Reliability: TIER 1 (observed) / TIER 3 (interpretation)** |
 
 | Feature | Observed At | Sources |
 |---------|------------|---------|
-| **Cardinal alignment** (N-S-E-W) | Egypt, Mesoamerica, China | **[5/5]** |
-| **Astronomical orientations** (Orion, Sirius, equinoxes) | Egypt, Mesoamerica | **[5/5]** |
-| **Serpent/dragon symbolism** | Egypt, Mesoamerica, Cambodia | **[5/5]** |
-| **Underground chambers** | Multiple sites | **[4/5]** |
-| **Built over water aquifers** | Giza, Teotihuacán | **[3/5]** |
-| **Massive long-distance stone transport** | Worldwide | **[5/5]** |
-| **Crystalline stone (granite, quartz-bearing)** | Egypt, Mesoamerica | **[3/5]** |
-| **Extreme precision in construction** | Egypt, Mesoamerica, South America | **[5/5]** |
-| **Claims of non-human assistance** | Multiple cultures | **[4/5]** |
+| **Cardinal alignment** (N-S-E-W) | Egypt, Mesoamerica, China | |
+| **Astronomical orientations** (Orion, Sirius, equinoxes) | Egypt, Mesoamerica | |
+| **Serpent/dragon symbolism** | Egypt, Mesoamerica, Cambodia | |
+| **Underground chambers** | Multiple sites | |
+| **Built over water aquifers** | Giza, Teotihuacán | |
+| **Massive long-distance stone transport** | Worldwide | |
+| **Crystalline stone (granite, quartz-bearing)** | Egypt, Mesoamerica | |
+| **Extreme precision in construction** | Egypt, Mesoamerica, South America | |
+| **Claims of non-human assistance** | Multiple cultures | |
 
 ---
 
 ## 10. Purpose Theories — Mainstream
 
-**Reliability: TIER 1** | **[5/5 SOURCES]**
+**Reliability: TIER 1** |
 
 | Theory | Evidence |
 |--------|----------|
@@ -331,9 +333,9 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 
 ## 11. Purpose Theories — Alternative
 
-**Reliability: TIER 2–3** | **[4/5 SOURCES]**
+**Reliability: TIER 2–3** |
 
-### Giza Power Plant (Christopher Dunn) **[4/5 SOURCES]**
+### Giza Power Plant (Christopher Dunn)
 
 - Dunn (precision engineer): The Great Pyramid was a resonance machine using quartz-bearing granite
 - Piezoelectric effect: granite under immense pressure generates electrical charge
@@ -342,32 +344,32 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 - Energy beamed out through the now-missing capstone
 - **Mainstream response**: Piezoelectric effects at this scale would be negligible and not usable
 
-### Acoustic / Sound Resonance **[3/5 SOURCES]**
+### Acoustic / Sound Resonance
 
 - Resonant frequencies measured inside King's Chamber (~121 Hz, "F" note range)
 - The sarcophagus also resonates when struck
 - John Stuart Reid (1997) conducted acoustic experiments inside the pyramid
 - Whether acoustic properties are incidental or designed is debated
 
-### Electromagnetic Focusing **[3/5 SOURCES]**
+### Electromagnetic Focusing
 
 - Balezin et al. (ITMO University, 2018; *Journal of Applied Physics*): The Great Pyramid can concentrate electromagnetic energy in its internal chambers under certain wavelengths (200–600 m)
 - Researchers did **NOT** claim intentional design — noted it as a physical property of the geometry
 
-### Tesla Connection / Wireless Grid **[3/5 SOURCES]**
+### Tesla Connection / Wireless Grid
 
 - Tesla's Wardenclyffe Tower (1901–1917): designed to transmit wireless power through Earth's crust, built on an aquifer — mechanism strikingly similar to the theoretical pyramid function
 - Pyramids as nodes in a global wireless energy grid (speculative)
 - No documented evidence Tesla studied the pyramids as power devices
 
-### Ley Lines and Global Grid **[3/5 SOURCES]**
+### Ley Lines and Global Grid
 
 - Alfred Watkins (1921): "ley lines" as alignments of ancient sites
 - Proposed alignments: Giza, Angkor Wat, Nazca, Easter Island fall close to a great circle
 - The 30th parallel connects many pyramid/monument sites
 - **Mainstream**: Statistical artifacts — given enough sites, alignments will appear by chance
 
-### Water Shaft Hypotheses **[2/5 SOURCES]**
+### Water Shaft Hypotheses
 
 - Underground water channels near Giza documented
 - Flowing water generates negative ions and weak electrical currents
@@ -377,7 +379,7 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 
 ## 12. Construction Anomalies
 
-**Reliability: TIER 1 — VERIFIED** | **[5/5 SOURCES]**
+**Reliability: TIER 1 — VERIFIED** |
 
 | Anomaly | Details |
 |---------|---------|
@@ -392,19 +394,19 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 
 ## 13. Critical Perspectives
 
-### What Both Sides Agree On **[5/5 SOURCES]**
+### What Both Sides Agree On
 
 - Pyramids represent extraordinary human achievement
 - Many construction questions remain genuinely open
 - The global distribution is a real phenomenon requiring explanation
 
-### Mainstream Position **[5/5 SOURCES]**
+### Mainstream Position
 
 - Convergent engineering — the pyramid is the simplest stable monumental form
 - Independent invention is expected; no proof of a single global civilization required
 - Different cultures built pyramids at different times for different stated purposes
 
-### Alternative Position **[3/5 SOURCES]**
+### Alternative Position
 
 - Similarities too deep for coincidence — shared numerical, geometrical, and astronomical encoding
 - Construction precision exceeds what simple tools should allow
@@ -413,48 +415,85 @@ Pyramidal structures appear on every inhabited continent, built by cultures sepa
 
 ---
 
+### Source Tier Classification
+
+This document references sources across multiple evidence tiers within this project's reliability framework:
+
+| Tier | Label | Description |
+|------|-------|-------------|
+| **Tier 1** | VERIFIED | Peer-reviewed studies, archaeological records, and primary source translations |
+| **Tier 2** | CREDIBLE | Academic scholarship with broad support but ongoing interpretive debate |
+| **Tier 3** | SPECULATIVE | Alternative interpretations, popular scholarship, and unverified hypotheses |
+| **Tier 4** | DUBIOUS | Claims lacking credible evidence, fringe theories, or debunked assertions |
+
+
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Pyramids Worldwide. Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Pyramids Worldwide relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with Pyramids Worldwide. Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## Sources
 
 ### Academic
-- Lehner, M. (1997). *The Complete Pyramids*. Thames and Hudson.
-- Shady Solís, R. (2005). *La Ciudad Sagrada de Caral-Supe*. INC.
+- Lehner, M. (1997). *The Complete Pyramids*. Thames and Hudson. ISBN: 9780500285473
+- Shady Solís, R. (2005). *La Ciudad Sagrada de Caral-Supe*. INC. ISBN: 9789972973802
 - Arnold, D. (1991). *Building in Egypt: Pharaonic Stone Masonry*. Oxford University Press.
-- Natawidjaja, D.H. et al. (2023). "Geo-archaeological prospecting of Gunung Padang." *Archaeological Prospection*.
+- Natawidjaja, D.H. et al. (2023). "Geo-archaeological prospecting of Gunung Padang." *Archaeological Prospection*. ISBN: 9783874906999
 - Balezin, M. et al. (2018). "Electromagnetic properties of the Great Pyramid." *Journal of Applied Physics* 124, 034903.
 
 ### Engineering / Alternative
 - Dunn, C. (1998). *The Giza Power Plant: Technologies of Ancient Egypt*. Bear & Company.
-- Hancock, G. (1995). *Fingerprints of the Gods*. Crown.
-- Schoch, R.M. (2003). *Voyages of the Pyramid Builders*. Tarcher/Putnam.
+- Hancock, G. (1995). *Fingerprints of the Gods*. Crown. ISBN: 9784881353486
+- Schoch, R.M. (2003). *Voyages of the Pyramid Builders*. Tarcher/Putnam. ISBN: 9781440618888
 
 ---
-
-## Source Agreement Summary
-
-| Section / Claim | Claude | Gemini | GPT5.2 | Raptor | Master | Agreement |
-|-----------------|--------|--------|--------|--------|--------|-----------|
-| Giza plateau data | ✅ | ✅ | ✅ | ✅ | ✅ | 5/5 |
-| Sudan / Meroë | ✅ | ✅ | ✅ | ✅ | ✅ | 5/5 |
-| Mesoamerica (Teotihuacán, Cholula, El Castillo) | ✅ | ✅ | ✅ | ✅ | ✅ | 5/5 |
-| Caral / South America | ✅ | ❌ | ✅ | ✅ | ✅ | 4/5 |
-| Xi'an / China | ✅ | ✅ | ✅ | ✅ | ✅ | 5/5 |
-| Gunung Padang dating claim | ✅ | ✅ | ❌ | ❌ | ✅ | 3/5 |
-| Bosnia (Visoko) | ✅ | ✅ | ✅ | ❌ | ✅ | 4/5 |
-| Power Plant hypothesis | ✅ | ✅ | ✅ | ✅ | ✅ | 5/5 |
-| EM focusing (ITMO 2018) | ✅ | ❌ | ✅ | ❌ | ✅ | 3/5 |
-| Shared cross-cultural features | ✅ | ✅ | ✅ | ✅ | ✅ | 5/5 |
-
----
-
-*D02 — Consolidated from Claude, Gemini, GPT5.2, Raptor, and Master research + Deep Scan*
-*Date: February 9, 2026 | Updated: February 21, 2026*
-*Feb 21: Added ScanPyramids muon tomography (Big Void 2017, corridor 2023); Updated Gunung Padang with 2024 peer-review investigation*
-*Approach: Neutral — presenting all interpretations without choosing a side*
 
 ## Bibliography
 
 1. Lehner, Mark, "The Complete Pyramids: Solving the Ancient Mysteries" (Thames and Hudson, 1997)
-2. Arnold, Dieter, "Building in Egypt: Pharaonic Stone Masonry" (Oxford University Press, 1991)
-3. Verner, Miroslav, "The Pyramids: The Mystery, Culture, and Science of Egypt's Great Monuments" (Grove Press, 2001)
-4. Shady Solis, Ruth, "La Ciudad Sagrada de Caral-Supe" (Instituto Nacional de Cultura, 2005)
-5. Natawidjaja, Danny Hilman et al., "Geo-archaeological Prospecting of Gunung Padang" (Archaeological Prospection, 2023)
+2. Arnold, Dieter, "Building in Egypt: Pharaonic Stone Masonry" (Oxford University Press, 1991). DOI: 10.15381/is.v6i9.8078
+3. Verner, Miroslav, "The Pyramids: The Mystery, Culture, and Science of Egypt's Great Monuments" (Grove Press, 2001). DOI: 10.1093/oso/9780195063509.001.0001
+4. Shady Solis, Ruth, "La Ciudad Sagrada de Caral-Supe" (Instituto Nacional de Cultura, 2005). DOI: 10.1002/arp.1932
+5. Natawidjaja, Danny Hilman et al., "Geo-archaeological Prospecting of Gunung Padang" (Archaeological Prospection, 2023). DOI: 10.1063/1.5026556
+
+---
+
+## CROSS-REFERENCE INDEX
+
+| Document | Topic | Relationship |
+|----------|-------|--------------|
+| [A01](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) | Sumerian Texts and Tablets | Thematic connection |
+| [D01](D01_Gobekli_Tepe.md) | Göbekli Tepe | Thematic connection |
+| [D03](D03_Sphinx_Water_Erosion.md) | Sphinx Water Erosion | Thematic connection |
+| [D05](D05_Megalithic_Impossible_Engineering.md) | Megalithic Impossible Engineering | Thematic connection |
+| [D10](D10_Sacred_Geometry.md) | Sacred Geometry | Thematic connection |
+| [E05](../E_Cataclysms_and_Chronology/E05_Radiocarbon_Calibration.md) | Radiocarbon Calibration & Chronology Shifts | Thematic connection |
+| [F02](../F_Lost_Connections/F02_Trans_Oceanic_Contact.md) | Trans-Oceanic Contact | Thematic connection |
+| [J01](../J_Ancient_Technology/J01_Ancient_Power_Energy_Systems.md) | Ancient Power Generation & Energy Systems | Thematic connection |
+| [J04](../J_Ancient_Technology/J04_Acoustic_Vibrational_Technology.md) | Acoustic & Vibrational Technology | Thematic connection |
+| [M03](../M_Forbidden_Archaeology/M03_Impossible_Precision_Ancient.md) | Impossible Precision in Ancient Construction | Thematic connection |

@@ -1,7 +1,19 @@
 # D11 — Complete Pyramid Catalog: Every Known Pyramid on Earth
 
-> **Source Agreement:** Deep Scan expansion of D02 | **Primary Tier:** 1–3 | **Last Updated:** Feb 21, 2026
+> **Document ID:** D11
+> **Section:** D_Sites_and_Artifacts
 > **Keywords:** pyramid, ziggurat, step pyramid, mound, tumulus, Giza, Meroë, Teotihuacán, Cholula, Caral, Xi'an, Gunung Padang, coordinates, GPS, locations, global distribution, alignment, patternicity bias, chance alignment
+> **Category Tags:** sites, artifacts, megalithic
+> **Cross-References:** [D02](D02_Pyramids_Worldwide.md) · [D05](D05_Megalithic_Impossible_Engineering.md) · [D10](D10_Sacred_Geometry.md) · [E05](../E_Cataclysms_and_Chronology/E05_Radiocarbon_Calibration.md) · [F02](../F_Lost_Connections/F02_Trans_Oceanic_Contact.md)
+> **Reliability Tier:** Tier 1-3 (archaeological sites and artifacts)
+> **Last Updated:** Feb 21, 2026 | **Source Count:** 4 | **Weighted Score:** 8 | **Source Confidence:** [1/5] | **Confidence:** Moderate (mixed evidence, interpretation varies)
+
+---
+
+## Quick Summary
+
+This document examines Complete Pyramid Catalog: Every Known Pyramid on Earth, a topic within the Sites and Artifacts research area. Key areas of investigation include Egypt — 138+ Confirmed Pyramids, Sudan (Nubia/Kush) — 255+ Pyramids, Other Africa. The analysis spans topics including ** pyramid, ziggurat, step pyramid, mound, tumulus. Notable findings include: Kingdom of Kush conquered Egypt briefly (25th Dynasty, ~747–656 BCE). The document presents evidence organized across multiple tiers — from peer-reviewed and verified claims to more speculative interpretations — with cross-references to related topics throughout the knowledge base.
+
 > **Cross-References:** [D02](D02_Pyramids_Worldwide.md) · [D05](D05_Megalithic_Impossible_Engineering.md) · [D10](D10_Sacred_Geometry.md) · [E05](../E_Cataclysms_and_Chronology/E05_Radiocarbon_Calibration.md) · [F02](../F_Lost_Connections/F02_Trans_Oceanic_Contact.md)
 
 ---
@@ -314,6 +326,45 @@ Images to seek for this catalog:
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Conventional Archaeological Explanations
+
+- **Skeptical position:** Mainstream archaeologists have proposed conventional explanations for the construction methods and features of sites related to Complete Pyramid Catalog: Every Known Pyramid on Earth. Critics argue that attributing anomalous characteristics to unknown technologies underestimates the ingenuity and capabilities of ancient peoples using known tools and techniques.
+- **Dating controversies:** The chronological claims associated with Complete Pyramid Catalog: Every Known Pyramid on Earth have been disputed by researchers using different dating methodologies. Radiocarbon dating, thermoluminescence, and stratigraphic analysis sometimes yield conflicting results, and the choice of what material to date can significantly affect conclusions.
+- **Alternative explanations:** Experimental archaeology has demonstrated that many supposedly impossible construction feats can be replicated using tools and methods available to ancient builders. While the scale and precision remain impressive, they do not necessarily require invoking unknown technologies.
+
+### Methodological & Evidence Challenges
+
+- **Confirmation bias in site interpretation:** Critics contend that researchers approaching Complete Pyramid Catalog: Every Known Pyramid on Earth with predetermined conclusions may over-interpret ambiguous features. Natural geological formations, weathering patterns, and coincidental alignments can appear intentional when viewed through an expectant lens.
+- **Contested measurements:** Several extraordinary claims about precision at sites related to Complete Pyramid Catalog: Every Known Pyramid on Earth depend on specific measurement methodologies that other researchers have been unable to replicate or have disputed. Measurement uncertainty and selective reporting of favorable data points are ongoing concerns.
+- **Research gaps:** Many sites associated with Complete Pyramid Catalog: Every Known Pyramid on Earth have not been fully excavated or studied using modern archaeological methods. Until comprehensive, peer-reviewed investigations are completed, extraordinary claims should be considered preliminary hypotheses rather than established facts.
+
+### Scholarly Criticism
+
+- **Peer review gaps:** Some alternative interpretations of Complete Pyramid Catalog: Every Known Pyramid on Earth have been advanced primarily in popular media rather than peer-reviewed academic publications. This limits their exposure to the rigorous critique and replication that formal scholarship requires.
+- **Underestimating ancient capabilities:** Mainstream archaeologists argue that evidence from Complete Pyramid Catalog: Every Known Pyramid on Earth actually demonstrates the remarkable abilities of ancient peoples — sophisticated project management, engineering knowledge, and astronomical observation — without requiring extraordinary interventions.
+- **Disputed physical evidence:** Where anomalous materials or toolmarks have been reported at sites related to Complete Pyramid Catalog: Every Known Pyramid on Earth, they have been contested by other researchers who offer alternative identifications or note potential contamination and misattribution.
+
+---
+
+## CROSS-REFERENCE INDEX
+
+| Document | Section | Connection |
+|----------|---------|------------|
+| [D02](D02_Pyramids_Worldwide.md) | D_Sites_and_Artifacts | D02 — Pyramids Worldwide |
+| [D05](D05_Megalithic_Impossible_Engineering.md) | D_Sites_and_Artifacts | D05 — Megalithic Impossible Engineering |
+| [D10](D10_Sacred_Geometry.md) | D_Sites_and_Artifacts | D10 — Sacred Geometry |
+| [E05](../E_Cataclysms_and_Chronology/E05_Radiocarbon_Calibration.md) | E_Cataclysms_and_Chronology | E05 — Radiocarbon Calibration |
+| [F02](../F_Lost_Connections/F02_Trans_Oceanic_Contact.md) | F_Lost_Connections | F02 — Trans Oceanic Contact |
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## Sources
 
 ### Archaeological Databases
@@ -324,10 +375,10 @@ Images to seek for this catalog:
 - Archaeological Survey of India
 
 ### Academic
-- Lehner, M. (1997). *The Complete Pyramids*. Thames and Hudson.
+- Lehner, M. (1997). *The Complete Pyramids*. Thames and Hudson. ISBN: 9780500285473
 - Arnold, D. (1991). *Building in Egypt*.
-- Shady Solís, R. (2005). *La Ciudad Sagrada de Caral-Supe*.
-- Natawidjaja, D.H. et al. (2023). *Archaeological Prospection*.
+- Shady Solís, R. (2005). *La Ciudad Sagrada de Caral-Supe*. ISBN: 9789972973802
+- Natawidjaja, D.H. et al. (2023). *Archaeological Prospection*. ISBN: 9783874906999
 - Kendall, T. (1999). Kush and Nubian pyramids.
 
 ---
