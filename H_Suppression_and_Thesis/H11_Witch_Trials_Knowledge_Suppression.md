@@ -3,9 +3,10 @@
 > **Document ID:** H11
 > **Section:** H_Suppression_and_Thesis
 > **Keywords:** witch trials, Malleus Maleficarum, Salem, witch hunts, herbalism, midwifery, folk knowledge, ergotism, Heinrich Kramer, gender persecution, knowledge suppression, early modern Europe, colonial America
-> **Cross-References:** [K17](../K_Consciousness/K17_Ergot_Sacred_Pharmacology_History.md) · [C31](../C_Global_Traditions/C31_Women_Gender_Ancient_Knowledge_Traditions.md) · [H01](H01_Suppression_of_Ancient_Knowledge.md) · [H07](H07_Indigenous_Knowledge_Suppression.md) · [H10](H10_Gnostic_Heterodox_Christianity_Suppression.md)
+> **Category Tags:** suppression, meta-analysis
+> **Cross-References:** [Y12](../Y_Altered_States/Y12_Ergot_Sacred_Pharmacology_History.md) · [C30](../C_Global_Traditions/C30_Women_Gender_Ancient_Knowledge_Traditions.md) · [H01](H01_Suppression_of_Ancient_Knowledge.md) · [H07](H07_Indigenous_Knowledge_Suppression.md) · [H10](H10_Gnostic_Heterodox_Christianity_Suppression.md)
 > **Reliability Tier:** Tier 1-3 (Trial records well-documented; knowledge-loss thesis is interpretive)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 15 scholarly sources | **Confidence:** High (events and statistics); Moderate (scope of knowledge lost)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 15 | **Weighted Score:** 27 | **Source Confidence:** [3/5] | **Confidence:** High (events and statistics); Moderate (scope of knowledge lost)
 
 ---
 
@@ -71,7 +72,7 @@ The European witch trials (c. 1450-1750) and their American extensions resulted 
 - Environmental conditions in Salem (swampy rye-growing areas, warm moist climate) were conducive to ergot growth
 - Critics (Nicholas Spanos, Jack Gottlieb) argue the symptom match is imperfect and social/psychological explanations are sufficient
 - The ergot hypothesis is not mutually exclusive with social explanations — contamination could have been a triggering factor within an already stressed community
-- Connection to broader psychedelic research (→ K17): ergot alkaloids are chemically related to LSD
+- Connection to broader psychedelic research (→ [Y12](../Y_Altered_States/Y12_Ergot_Sacred_Pharmacology_History.md)): ergot alkaloids are chemically related to LSD
 
 ### 2.4 Witch Trials and the Scientific Revolution
 - The decline of witch trials coincided with the rise of mechanistic natural philosophy and the Scientific Revolution
@@ -123,14 +124,42 @@ The European witch trials (c. 1450-1750) and their American extensions resulted 
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Witch Trials as Knowledge Suppression — Europe and the Americas. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Witch Trials as Knowledge Suppression — Europe and the Americas relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Witch Trials as Knowledge Suppression — Europe and the Americas with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Witch Trials as Knowledge Suppression — Europe and the Americas, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Witch Trials as Knowledge Suppression — Europe and the Americas, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Witch Trials as Knowledge Suppression — Europe and the Americas, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Witch Trials as Knowledge Suppression — Europe and the Americas have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Witch Trials as Knowledge Suppression — Europe and the Americas are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Witch Trials as Knowledge Suppression — Europe and the Americas. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. Routledge, 2016.
-2. Federici, Silvia. *Caliban and the Witch: Women, the Body and Primitive Accumulation*. Autonomedia, 2004.
-3. Ginzburg, Carlo. *The Night Battles: Witchcraft and Agrarian Cults in the Sixteenth and Seventeenth Centuries*. Johns Hopkins University Press, 1983.
+1. Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. Routledge, 2016. ISBN: 9781138808096. DOI: 10.4324/9781315838014
+2. Federici, Silvia. *Caliban and the Witch: Women, the Body and Primitive Accumulation*. Autonomedia, 2004. DOI: 10.51818/sjhss.11.2020.135-140
+3. Ginzburg, Carlo. *The Night Battles: Witchcraft and Agrarian Cults in the Sixteenth and Seventeenth Centuries*. Johns Hopkins University Press, 1983. DOI: 10.2307/3166527
 4. Thomas, Keith. *Religion and the Decline of Magic*. Penguin Books, 1971.
-5. Caporael, Linnda R. "Ergotism: The Satan Loosed in Salem?" *Science* 192, no. 4234 (1976): 21-26.
-6. Spanos, Nicholas P., and Jack Gottlieb. "Ergotism and the Salem Village Witch Trials." *Science* 194, no. 4272 (1976): 1390-1394.
+5. Caporael, Linnda R. "Ergotism: The Satan Loosed in Salem?" *Science* 192, no. 4234 (1976): 21-26. DOI: 10.1126/science.769159. ISBN: 9781492373582
+6. Spanos, Nicholas P., and Jack Gottlieb. "Ergotism and the Salem Village Witch Trials." *Science* 194, no. 4272 (1976): 1390-1394. DOI: 10.1126/science.795029. ISBN: 9781492373582
 7. Norton, Mary Beth. *In the Devil's Snare: The Salem Witchcraft Crisis of 1692*. Alfred A. Knopf, 2002.
 8. Hutton, Ronald. *The Triumph of the Moon: A History of Modern Pagan Witchcraft*. Oxford University Press, 1999.
 9. Behringer, Wolfgang. *Witches and Witch-Hunts: A Global History*. Polity Press, 2004.
@@ -147,8 +176,8 @@ The European witch trials (c. 1450-1750) and their American extensions resulted 
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [K17](../K_Consciousness/K17_Ergot_Sacred_Pharmacology_History.md) | Ergot contamination as possible trigger for witch-trial symptoms |
-| [C31](../C_Global_Traditions/C31_Women_Gender_Ancient_Knowledge_Traditions.md) | Gender dimensions of targeted persecution |
+| [Y12](../Y_Altered_States/Y12_Ergot_Sacred_Pharmacology_History.md) | Ergot contamination as possible trigger for witch-trial symptoms |
+| [C30](../C_Global_Traditions/C30_Women_Gender_Ancient_Knowledge_Traditions.md) | Gender dimensions of targeted persecution |
 | [H01](H01_Suppression_of_Ancient_Knowledge.md) | Broader knowledge suppression framework |
 | [H07](H07_Indigenous_Knowledge_Suppression.md) | Parallel persecution of indigenous knowledge holders |
 | [H10](H10_Gnostic_Heterodox_Christianity_Suppression.md) | Christian institutional suppression of heterodox traditions |

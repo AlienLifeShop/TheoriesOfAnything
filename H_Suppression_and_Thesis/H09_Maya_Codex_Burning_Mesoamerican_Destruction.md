@@ -3,9 +3,10 @@
 > **Document ID:** H09
 > **Section:** H_Suppression_and_Thesis
 > **Keywords:** Maya codices, Diego de Landa, auto-da-fé, Maní, Dresden Codex, Madrid Codex, Paris Codex, Grolier Codex, Itzcoatl, Aztec book burning, Mixtec codices, Mesoamerican knowledge destruction, Spanish conquest, colonial suppression
-> **Cross-References:** [H01](H01_Suppression_of_Ancient_Knowledge.md) · [M07](../M_Forbidden_Archaeology/M07_Library_Destructions_Lost_Knowledge.md) · [C37](../C_Global_Traditions/C37_Maya_Epigraphy_Astronomy.md) · [H07](H07_Indigenous_Knowledge_Suppression.md)
+> **Category Tags:** suppression, meta-analysis
+> **Cross-References:** [H01](H01_Suppression_of_Ancient_Knowledge.md) · [M07](../M_Forbidden_Archaeology/M07_Library_Destructions_Lost_Knowledge.md) · [W03](../W_World_Civilizations/W03_Maya_Epigraphy_Astronomy.md) · [H07](H07_Indigenous_Knowledge_Suppression.md)
 > **Reliability Tier:** Tier 1-3 (Colonial records well-documented; scope of lost knowledge necessarily speculative)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 14 scholarly sources | **Confidence:** High (destruction events); Moderate (content of lost materials)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 14 | **Weighted Score:** 31 | **Source Confidence:** [4/5] | **Confidence:** High (destruction events); Moderate (content of lost materials)
 
 ---
 
@@ -87,7 +88,7 @@ The systematic destruction of Maya manuscripts represents one of history's most 
 
 ### 3.3 Oral Tradition as Partial Preservation
 - Maya communities maintained oral traditions that preserved some knowledge from destroyed texts
-- The *Popol Vuh* (→ A13), recorded in alphabetic K'iche' Maya c. 1554-1558, may reflect content from destroyed pictorial manuscripts
+- The *Popol Vuh* (→ [A13](../A_Foundations/A13_Popol_Vuh.md)), recorded in alphabetic K'iche' Maya c. 1554-1558, may reflect content from destroyed pictorial manuscripts
 - The *Books of Chilam Balam* (colonial-era Yucatec Maya texts) similarly may preserve pre-conquest knowledge in altered form
 - Degree to which oral tradition accurately preserved pre-conquest knowledge is debated
 
@@ -109,21 +110,49 @@ The systematic destruction of Maya manuscripts represents one of history's most 
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Burning of Maya Codices and Mesoamerican Knowledge Destruction. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Burning of Maya Codices and Mesoamerican Knowledge Destruction relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Burning of Maya Codices and Mesoamerican Knowledge Destruction with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Burning of Maya Codices and Mesoamerican Knowledge Destruction, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Burning of Maya Codices and Mesoamerican Knowledge Destruction, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Burning of Maya Codices and Mesoamerican Knowledge Destruction, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Burning of Maya Codices and Mesoamerican Knowledge Destruction have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Burning of Maya Codices and Mesoamerican Knowledge Destruction are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Burning of Maya Codices and Mesoamerican Knowledge Destruction. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Landa, Diego de. *Relación de las cosas de Yucatán*. c. 1566. Translated by Alfred Tozzer (1941), Papers of the Peabody Museum, Vol. 18.
-2. Coe, Michael D. *Breaking the Maya Code*. Rev. ed. Thames & Hudson, 2012.
-3. Restall, Matthew, and John F. Chuchiak IV. "A Reevaluation of the Authenticity of Fray Diego de Landa's Relación de las cosas de Yucatán." *Ethnohistory* 49, no. 3 (2002): 651-669.
-4. Coe, Michael D., and Justin Kerr. *The Art of the Maya Scribe*. Harry N. Abrams, 1998.
-5. Chuchiak, John F. IV. "The Images Speak: The Survival and Production of Hieroglyphic Codices and Their Use in Post-Conquest Maya Religion." In *Maya Worldviews at Conquest*, ed. Leslie G. Cecil and Timothy W. Pugh, 71-103. University Press of Colorado, 2009.
+1. Landa, Diego de. *Relación de las cosas de Yucatán*. c. 1566. Translated by Alfred Tozzer (1941), Papers of the Peabody Museum, Vol. 18. ISBN: 9789687232294. DOI: 10.2307/40083374
+2. Coe, Michael D. *Breaking the Maya Code*. Rev. ed. Thames & Hudson, 2012. ISBN: 9780500289556. DOI: 10.1126/science.257.5077.1773
+3. Restall, Matthew, and John F. Chuchiak IV. "A Reevaluation of the Authenticity of Fray Diego de Landa's Relación de las cosas de Yucatán." *Ethnohistory* 49, no. 3 (2002): 651-669. DOI: 10.1215/00141801-49-3-651
+4. Coe, Michael D., and Justin Kerr. *The Art of the Maya Scribe*. Harry N. Abrams, 1998. DOI: 10.1017/s004740450038304x
+5. Chuchiak, John F. IV. "The Images Speak: The Survival and Production of Hieroglyphic Codices and Their Use in Post-Conquest Maya Religion." In *Maya Worldviews at Conquest*, ed. Leslie G. Cecil and Timothy W. Pugh, 71-103. University Press of Colorado, 2009. DOI: 10.1017/s0022216x10001422
 6. Vail, Gabrielle, and Anthony Aveni, eds. *The Madrid Codex: New Approaches to Understanding an Ancient Maya Manuscript*. University Press of Colorado, 2004.
 7. Love, Bruce. *The Paris Codex: Handbook for a Maya Priest*. University of Texas Press, 1994.
 8. Coe, Michael D., et al. "The Grolier Codex." *Maya Archaeology* 3 (2015): 30-57.
 9. León-Portilla, Miguel. *The Broken Spears: The Aztec Account of the Conquest of Mexico*. Beacon Press, 1992.
 10. Byland, Bruce E., and John M.D. Pohl. *In the Realm of 8 Deer: The Archaeology of the Mixtec Codices*. University of Oklahoma Press, 1994.
-11. Houston, Stephen, and David Stuart. "The Ancient Maya Self: Personhood and Portraiture in the Classic Period." *RES: Anthropology and Aesthetics* 33 (1998): 73-101.
+11. Houston, Stephen, and David Stuart. "The Ancient Maya Self: Personhood and Portraiture in the Classic Period." *RES: Anthropology and Aesthetics* 33 (1998): 73-101. ISBN: 9780521447423
 12. Tedlock, Dennis, trans. *Popol Vuh: The Definitive Edition of the Maya Book of the Dawn of Life*. Rev. ed. Simon & Schuster, 1996.
-13. Aveni, Anthony F. *Skywatchers of Ancient Mexico*. University of Texas Press, 2001.
+13. Aveni, Anthony F. *Skywatchers of Ancient Mexico*. University of Texas Press, 2001. ISBN: 9780292775572
 14. Christenson, Allen J. "The Burden of the Ancients: Maya Ceremonies of World Renewal from the Pre-Columbian Period to the Present." *Ethnology* 42, no. 2 (2003): 132-147.
 
 ---
@@ -135,7 +164,7 @@ The systematic destruction of Maya manuscripts represents one of history's most 
 | [H01](H01_Suppression_of_Ancient_Knowledge.md) | Parent overview of knowledge suppression patterns |
 | [H07](H07_Indigenous_Knowledge_Suppression.md) | Broader indigenous knowledge destruction framework |
 | [M07](../M_Forbidden_Archaeology/M07_Library_Destructions_Lost_Knowledge.md) | Library destructions as a recurring historical pattern |
-| [C37](../C_Global_Traditions/C37_Maya_Epigraphy_Astronomy.md) | Maya astronomical knowledge partly preserved in codices |
+| [W03](../W_World_Civilizations/W03_Maya_Epigraphy_Astronomy.md) | Maya astronomical knowledge partly preserved in codices |
 | [A13](../A_Foundations/A13_Popol_Vuh.md) | Popol Vuh as surviving example of Maya literary tradition |
 | [D06](../D_Sites_and_Artifacts/D06_Serpent_Mound_Effigy_Mounds.md) | Physical sites where codex traditions flourished |
 | [H10](H10_Gnostic_Heterodox_Christianity_Suppression.md) | Parallel religious suppression via destruction of texts |

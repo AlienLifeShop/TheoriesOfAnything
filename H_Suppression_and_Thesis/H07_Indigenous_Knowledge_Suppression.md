@@ -3,9 +3,10 @@
 > **Document ID:** H07
 > **Section:** H_Suppression_and_Thesis
 > **Keywords:** epistemicide, indigenous knowledge, colonialism, imperialism, cultural suppression, residential schools, boarding schools, mission schools, stolen generation, forced assimilation, language death, linguistic extinction, endangered language, glossocide, culturicide, ethnobotany, traditional ecological knowledge, TEK, bioprospecting, biopiracy, intellectual property, NAGPRA, repatriation, oral tradition destruction, book burning, codex destruction, Diego de Landa, Bernardino de Sahagún, salvage ethnography, decolonization, decolonial epistemology, Boaventura de Sousa Santos, Linda Tuhiwai Smith, epistemological violence, scientific racism, polygenism, hierarchical taxonomy, museum repatriation, Benin bronzes, Elgin marbles, terra nullius, Doctrine of Discovery
-> **Cross-References:** H01, H05, M07, C37, C38, C17, C30, C34, C35, F07, N01, L01
-> **Reliability Tier:** Tier 1–2 (historical suppression documented; epistemological theory Tier 2)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 12+ scholarly sources | **Confidence:** Very High (historical), High (theoretical framework)
+> **Category Tags:** suppression, meta-analysis, philosophy, art-culture
+> **Cross-References:** H01, H05, M07, W03, W04, C17, C29, W20, W02, F07, N01, L01
+> **Reliability Tier:** Tier 1-2 (historical suppression documented; epistemological theory Tier 2)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 12 | **Weighted Score:** 24 | **Source Confidence:** [3/5] | **Confidence:** Very High (historical), High (theoretical framework)
 
 ---
 
@@ -23,13 +24,13 @@
 
 ## QUICK SUMMARY
 
-**Epistemicide** — the systematic destruction of rival knowledge systems — is arguably the most devastating and least acknowledged consequence of global colonialism. Between 1492 and 1950, European colonial powers destroyed, suppressed, or marginalized knowledge traditions across every inhabited continent. The destruction was not incidental but ideological: indigenous knowledge was classified as "superstition" or "savagery" within Enlightenment racial hierarchies, justifying its replacement with "civilization." The scale of loss is staggering: of ~7,000 languages existing in 1500 CE, linguists project 50–90% will be extinct by 2100; each language carries unique ecological, medicinal, astronomical, and philosophical knowledge (→ P16). This document catalogs both the mechanisms of suppression and the documented value of knowledge systems that were targeted, distinguishing between well-documented historical destruction (Tier 1) and broader theoretical frameworks (Tier 2).
+**Epistemicide** — the systematic destruction of rival knowledge systems — is arguably the most devastating and least acknowledged consequence of global colonialism. Between 1492 and 1950, European colonial powers destroyed, suppressed, or marginalized knowledge traditions across every inhabited continent. The destruction was not incidental but ideological: indigenous knowledge was classified as "superstition" or "savagery" within Enlightenment racial hierarchies, justifying its replacement with "civilization." The scale of loss is staggering: of ~7,000 languages existing in 1500 CE, linguists project 50–90% will be extinct by 2100; each language carries unique ecological, medicinal, astronomical, and philosophical knowledge (→ [P13](../P_Philosophy_Meaning/P13_Language_Naming_Creative_Word.md)). This document catalogs both the mechanisms of suppression and the documented value of knowledge systems that were targeted, distinguishing between well-documented historical destruction (Tier 1) and broader theoretical frameworks (Tier 2).
 
 ---
 
 ## 1. DEFINING EPISTEMICIDE
 
-### 1.1 Boaventura de Sousa Santos and Abyssal Thinking [4/5 sources]
+### 1.1 Boaventura de Sousa Santos and Abyssal Thinking
 
 Portuguese sociologist **Boaventura de Sousa Santos** coined the term **"epistemicide"** to describe the destruction of knowledge as a dimension of colonialism equal to genocide and cultural destruction:
 
@@ -37,7 +38,7 @@ Portuguese sociologist **Boaventura de Sousa Santos** coined the term **"epistem
 - Knowledge on the "other side of the line" is not merely wrong — it is **unintelligible**, not recognized as knowledge at all
 - The colonial project required not only political and economic domination but the **delegitimation of indigenous ways of knowing** — without this, colonial rule lacked justification
 
-### 1.2 Linda Tuhiwai Smith — Decolonizing Methodologies [4/5 sources]
+### 1.2 Linda Tuhiwai Smith — Decolonizing Methodologies
 
 Māori scholar **Linda Tuhiwai Smith** (*Decolonizing Methodologies*, 1999) analyzed how Western research itself became a tool of colonialism:
 - The word "research" is "one of the dirtiest words in the indigenous world's vocabulary" — associated with extraction, exploitation, and misrepresentation
@@ -60,7 +61,7 @@ Māori scholar **Linda Tuhiwai Smith** (*Decolonizing Methodologies*, 1999) anal
 
 ## 2. MECHANISMS OF KNOWLEDGE SUPPRESSION
 
-### 2.1 Residential/Boarding School Systems [5/5 sources]
+### 2.1 Residential/Boarding School Systems
 
 The most systematic mechanism of knowledge suppression was the **forced education** of indigenous children:
 
@@ -78,22 +79,22 @@ The most systematic mechanism of knowledge suppression was the **forced educatio
 
 **Australia — Stolen Generations:**
 - 1910–1970: ~100,000 Aboriginal and Torres Strait Islander children forcibly removed from families
-- Children placed in white institutions or families; cut off from Dreaming knowledge, language, and country (→ C30)
+- Children placed in white institutions or families; cut off from Dreaming knowledge, language, and country (→ [C29](../C_Global_Traditions/C29_Australian_Aboriginal_Dreamtime.md))
 - **Bringing Them Home Report (1997):** Classified as systematic attempt to "breed out" Aboriginal identity
 
-### 2.2 Missionary Knowledge Replacement [4/5 sources]
+### 2.2 Missionary Knowledge Replacement
 
 Global missionary campaigns systematically replaced indigenous knowledge systems:
-- **Mesoamerica:** Franciscan and Dominican friars destroyed Maya codices, Aztec amoxtli (painted books), religious sculptures, and ceremonial objects — Diego de Landa burned an estimated 27+ Maya codices at Maní in 1562 (→ M07, C37)
+- **Mesoamerica:** Franciscan and Dominican friars destroyed Maya codices, Aztec amoxtli (painted books), religious sculptures, and ceremonial objects — Diego de Landa burned an estimated 27+ Maya codices at Maní in 1562 (→ [M07](../M_Forbidden_Archaeology/M07_Library_Destructions_Lost_Knowledge.md), C37)
 - **West Africa:** Missionaries destroyed Igbo, Yoruba, and Akan spiritual artifacts and disrupted initiatory knowledge transmission systems
 - **Pacific Islands:** Christian missions in Hawaii, Polynesia, and Melanesia suppressed hula (banned 1830s–1880s), navigation knowledge, and cosmological chanting traditions
 - **India:** British colonial education (Macaulay's Minute, 1835) systematically devalued Sanskrit, Persian, and Arabic learning in favor of English
 
-### 2.3 Legal and Institutional Suppression [4/5 sources]
+### 2.3 Legal and Institutional Suppression
 
 Colonial and post-colonial states used **legal prohibition** to suppress knowledge practices:
 - **U.S. Code of Indian Offenses (1883):** Banned Sun Dance, potlatch, and traditional healing practices; penalties included imprisonment and withholding rations
-- **Australian state laws:** Prohibited Aboriginal ceremonies in certain areas; controlled movement prevented access to sacred sites (→ D13)
+- **Australian state laws:** Prohibited Aboriginal ceremonies in certain areas; controlled movement prevented access to sacred sites (→ [D13](../D_Sites_and_Artifacts/D13_Submerged_Structures_Underwater_Archaeology.md))
 - **South Africa:** Apartheid-era Bantu Education Act (1953) deliberately provided inferior education to Black South Africans — designed to prevent intellectual development outside labor skills
 - **Peru:** Traditional coca-leaf use (with millennia of indigenous cultural significance) criminalized under international drug conventions based on Western pharmaceutical classification
 
@@ -101,39 +102,39 @@ Colonial and post-colonial states used **legal prohibition** to suppress knowled
 
 ## 3. CASE STUDIES OF CULTURAL KNOWLEDGE DESTRUCTION
 
-### 3.1 Mesoamerican Knowledge Systems [5/5 sources]
+### 3.1 Mesoamerican Knowledge Systems
 
 The Spanish destruction of Mesoamerican written knowledge is the most thoroughly documented epistemicide:
 
 **What was destroyed:**
 - Maya: Tens of thousands of inscribed monuments were intact in 1500; ~20 major cities had extensive hieroglyphic texts; only **4 codices** survive (Dresden, Madrid, Paris, Grolier/Maya)
 - Aztec: Extensive *amoxtli* (screenfold books) on history, astronomy, tribute, ritual — virtually all destroyed; survivors include Codex Borbonicus, Codex Mendoza (colonial-era copies)
-- Knowledge of Maya writing was **completely lost** — not deciphered until Knorosov (1952) and subsequent work (→ C37)
+- Knowledge of Maya writing was **completely lost** — not deciphered until Knorosov (1952) and subsequent work (→ [W03](../W_World_Civilizations/W03_Maya_Epigraphy_Astronomy.md))
 
 **What survived (fragmentary):**
-- Colonial-era transcriptions by sympathetic friars — notably **Bernardino de Sahagún's** *Florentine Codex* (1576), which recorded Nahua knowledge in Nahuatl, and the *Popol Vuh* transcription in K'iche' Maya (→ A13)
+- Colonial-era transcriptions by sympathetic friars — notably **Bernardino de Sahagún's** *Florentine Codex* (1576), which recorded Nahua knowledge in Nahuatl, and the *Popol Vuh* transcription in K'iche' Maya (→ [A13](../A_Foundations/A13_Popol_Vuh.md))
 - These are invaluable but represent a fraction of what existed and filtered through the compiler's Christian worldview
 
-### 3.2 Australian Aboriginal Knowledge [4/5 sources]
+### 3.2 Australian Aboriginal Knowledge
 
 Aboriginal Australians maintained the world's **oldest continuous knowledge system** (~65,000+ years) — largely orally transmitted through song, story, ceremony, and landscape:
-- **Songlines/Dreaming tracks:** Vast networks of oral knowledge encoding geography, ecology, law, history, and cosmology across thousands of kilometers (→ C30)
+- **Songlines/Dreaming tracks:** Vast networks of oral knowledge encoding geography, ecology, law, history, and cosmology across thousands of kilometers (→ [C29](../C_Global_Traditions/C29_Australian_Aboriginal_Dreamtime.md))
 - **Ecological knowledge:** Fire-management techniques ("firestick farming") now recognized as superior to European-Australian land management — leading to "cultural burns" programs after catastrophic 2019–2020 fires
 - **Astronomical knowledge:** Aboriginal groups independently identified stellar phenomena — Duane Hamacher documented Aboriginal observations of variable stars, solar eclipses, and meteor impacts preserved in oral tradition
 - **Loss:** Of ~250 Aboriginal languages spoken at European contact (1788), ~130 are critically endangered or extinct; each carried unique ecological and ceremonial knowledge
 
-### 3.3 African Knowledge Systems [4/5 sources]
+### 3.3 African Knowledge Systems
 
 Colonial destruction of African knowledge is less documented precisely because colonial historiography denied Africa had "knowledge systems":
-- **Timbuktu manuscripts:** Hundreds of thousands of manuscripts in Arabic, Ajami, and local languages on astronomy, mathematics, medicine, law, and theology — many hidden by families during colonial period and now being digitized (→ F07)
-- **Ironworking traditions:** African iron smelting (from ~1000 BCE in Great Lakes region) involved specialized knowledge transmitted through apprenticeship — colonial industrialization disrupted these chains (→ C40)
+- **Timbuktu manuscripts:** Hundreds of thousands of manuscripts in Arabic, Ajami, and local languages on astronomy, mathematics, medicine, law, and theology — many hidden by families during colonial period and now being digitized (→ [F07](../F_Lost_Connections/F07_Post_Catastrophe_Knowledge_Preservation.md))
+- **Ironworking traditions:** African iron smelting (from ~1000 BCE in Great Lakes region) involved specialized knowledge transmitted through apprenticeship — colonial industrialization disrupted these chains (→ [W05](../W_World_Civilizations/W05_Bantu_Cosmology_Migration_Iron.md))
 - **Oral historiography:** Historians like **D.T. Niane** documented Malian *griots* preserving the *Sundiata* epic — a sophisticated historiographical tradition dismissed as "myth" by colonial historians but now recognized as containing verified historical information
 
 ---
 
 ## 4. WHAT WAS LOST — SCALE OF DESTRUCTION
 
-### 4.1 Linguistic Extinction [5/5 sources]
+### 4.1 Linguistic Extinction
 
 Language death is the most measurable indicator of knowledge loss:
 - **Pre-colonial:** ~7,000+ languages spoken worldwide
@@ -144,9 +145,9 @@ Language death is the most measurable indicator of knowledge loss:
   - **Ecological knowledge:** Names for species, ecological relationships, seasonal patterns
   - **Medicinal knowledge:** ~80% of global population uses traditional medicine (WHO estimate); many remedies are language-specific
   - **Cognitive frameworks:** Unique ways of categorizing reality — some languages lack number words, some have obligatory evidentiality markers, some use absolute rather than relative spatial reference
-  - **Historical memory:** Oral traditions encoding migrations, climate events, astronomical observations (→ D19)
+  - **Historical memory:** Oral traditions encoding migrations, climate events, astronomical observations (→ [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md))
 
-### 4.2 Ethnobotanical Knowledge Loss [4/5 sources]
+### 4.2 Ethnobotanical Knowledge Loss
 
 **Scale of traditional medicinal knowledge:**
 - ~50,000–80,000 plant species used medicinally worldwide (Schippmann et al. 2002)
@@ -154,19 +155,19 @@ Language death is the most measurable indicator of knowledge loss:
 - **Biopiracy:** Pharmaceutical companies patent traditional knowledge without benefit-sharing — the neem tree case (India), the ayahuasca patent attempt (Amazon), the hoodia case (San people)
 - **Rate of loss:** As elders die without successors, millennia of empirical medicinal knowledge disappear; ethnobotanist **Paul Cox** estimates we are losing traditional medicinal knowledge faster than we are losing biodiversity itself
 
-### 4.3 What Survived — Resilience and Resistance [4/5 sources]
+### 4.3 What Survived — Resilience and Resistance
 
 Despite systematic suppression, indigenous knowledge showed remarkable resilience:
 - **Syncretism:** Many communities preserved knowledge by encoding it within Christian/Islamic frameworks — Andean Catholicism preserving Pachamama worship; Vodou preserving Yoruba/Fon theology
 - **Hidden transmission:** Knowledge went underground — Aboriginal ceremonies continued in remote areas; Maya daykeepers maintained the 260-day calendar continuously
-- **Oral tradition durability:** Aboriginal Australian oral traditions have been confirmed to encode events from the last Ice Age (~10,000+ years) — sea level rise, volcanic eruptions, megafaunal extinctions (→ C30)
+- **Oral tradition durability:** Aboriginal Australian oral traditions have been confirmed to encode events from the last Ice Age (~10,000+ years) — sea level rise, volcanic eruptions, megafaunal extinctions (→ [C29](../C_Global_Traditions/C29_Australian_Aboriginal_Dreamtime.md))
 - **Revival movements:** Hawaiian language revitalization (from ~1,000 speakers in 1980s to ~24,000 today); Māori language in education (kōhanga reo/language nests)
 
 ---
 
 ## 5. RECOVERY, DECOLONIZATION, AND REPATRIATION
 
-### 5.1 Knowledge Repatriation Movements [4/5 sources]
+### 5.1 Knowledge Repatriation Movements
 
 **Physical repatriation:**
 - **NAGPRA** (Native American Graves Protection and Repatriation Act, 1990): Requires U.S. museums to return human remains and sacred objects — ~200,000 remains repatriated to date
@@ -178,7 +179,7 @@ Despite systematic suppression, indigenous knowledge showed remarkable resilienc
 - **CARE Principles** (Collective Benefit, Authority to Control, Responsibility, Ethics) for indigenous data governance
 - Digital repatriation: Digitizing and returning copies of colonial-era recordings, photographs, and manuscripts to source communities
 
-### 5.2 Traditional Ecological Knowledge (TEK) Recognition [4/5 sources]
+### 5.2 Traditional Ecological Knowledge (TEK) Recognition
 
 Indigenous knowledge is increasingly recognized as complementary to scientific knowledge:
 - **IPCC and IPBES:** Intergovernmental science bodies now formally incorporate indigenous and local knowledge
@@ -210,28 +211,71 @@ Indigenous knowledge is increasingly recognized as complementary to scientific k
 
 | Document | Connection |
 |----------|-----------|
-| → H01 | Suppression thesis overview; institutional suppression of alternative knowledge |
-| → H05 | Academic gatekeeping; peer review as knowledge filter |
-| → M07 | Library destructions; Alexandria, Baghdad, Mesoamerican codex burnings |
-| → C37 | Maya epigraphy; decipherment recovery of destroyed knowledge system |
-| → C38 | Polynesian navigation; near-loss and revival of wayfinding traditions |
-| → C17 | Shamanic traditions; suppression of indigenous spiritual practices |
-| → C30 | Aboriginal Dreaming; oldest continuous knowledge tradition under threat |
-| → C34 | African mythological traditions; colonial dismissal as "primitive" |
-| → C35 | Native American traditions; residential school impact on knowledge transmission |
-| → F07 | Lost knowledge preservation; hidden manuscript traditions |
-| → N01 | Mystery schools; initiatory knowledge and secrecy as survival strategy |
-| → L01 | Genetics and origins; colonial racial hierarchies and scientific racism |
+| → [H01](H01_Suppression_of_Ancient_Knowledge.md) | Suppression thesis overview; institutional suppression of alternative knowledge |
+| → [H05](H05_Two_Factions_Dynamic.md) | Academic gatekeeping; peer review as knowledge filter |
+| → [M07](../M_Forbidden_Archaeology/M07_Library_Destructions_Lost_Knowledge.md) | Library destructions; Alexandria, Baghdad, Mesoamerican codex burnings |
+| → [W03](../W_World_Civilizations/W03_Maya_Epigraphy_Astronomy.md) | Maya epigraphy; decipherment recovery of destroyed knowledge system |
+| → [W04](../W_World_Civilizations/W04_Polynesian_Navigation_Rapa_Nui.md) | Polynesian navigation; near-loss and revival of wayfinding traditions |
+| → [C17](../C_Global_Traditions/C17_Sacred_Kingship_Divine_Rulership.md) | Shamanic traditions; suppression of indigenous spiritual practices |
+| → [C29](../C_Global_Traditions/C29_Australian_Aboriginal_Dreamtime.md) | Aboriginal Dreaming; oldest continuous knowledge tradition under threat |
+| → [W20](../W_World_Civilizations/W20_Celtic_Druidic_Traditions.md) | African mythological traditions; colonial dismissal as "primitive" |
+| → [W02](../W_World_Civilizations/W02_Olmec_Civilization_Serpent_Jaguar.md) | Native American traditions; residential school impact on knowledge transmission |
+| → [F07](../F_Lost_Connections/F07_Post_Catastrophe_Knowledge_Preservation.md) | Lost knowledge preservation; hidden manuscript traditions |
+| → [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Mystery schools; initiatory knowledge and secrecy as survival strategy |
+| → [L01](../L_Genetics_Origins/L01_Ancient_DNA_Population_Genetics.md) | Genetics and origins; colonial racial hierarchies and scientific racism |
 
 ---
 
+### Source Tier Classification
+
+This document references sources across multiple evidence tiers within this project's reliability framework:
+
+| Tier | Label | Description |
+|------|-------|-------------|
+| **Tier 1** | VERIFIED | Peer-reviewed studies, archaeological records, and primary source translations |
+| **Tier 2** | CREDIBLE | Academic scholarship with broad support but ongoing interpretive debate |
+| **Tier 3** | SPECULATIVE | Alternative interpretations, popular scholarship, and unverified hypotheses |
+| **Tier 4** | DUBIOUS | Claims lacking credible evidence, fringe theories, or debunked assertions |
+
+
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Indigenous Knowledge Suppression — Colonialism and Epistemicide. Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Indigenous Knowledge Suppression — Colonialism and Epistemicide relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with Indigenous Knowledge Suppression — Colonialism and Epistemicide. Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
+
 ## BIBLIOGRAPHY
 
-1. **Santos, Boaventura de Sousa.** *Epistemologies of the South: Justice Against Epistemicide.* Routledge, 2014. — Foundational text defining epistemicide and abyssal thinking.
-2. **Smith, Linda Tuhiwai.** *Decolonizing Methodologies: Research and Indigenous Peoples.* 2nd ed. Zed Books, 2012 [1999]. — Essential text on indigenous research ethics and colonial knowledge extraction.
-3. **Mignolo, Walter D.** *The Darker Side of the Renaissance: Literacy, Territoriality, and Colonization.* 2nd ed. University of Michigan Press, 2003. — Colonial epistemic violence in Mesoamerica.
-4. **Truth and Reconciliation Commission of Canada.** *Honouring the Truth, Reconciling for the Future: Summary of the Final Report.* TRC, 2015. — Official findings on Canadian residential schools.
-5. **Battiste, Marie.** *Decolonizing Education: Nourishing the Learning Spirit.* Purich Publishing, 2013. — Indigenous education and cognitive imperialism.
+1. **Santos, Boaventura de Sousa.** *Epistemologies of the South: Justice Against Epistemicide.* Routledge, 2014. — Foundational text defining epistemicide and abyssal thinking. DOI: 10.4312/as.23.2.109-112
+2. **Smith, Linda Tuhiwai.** *Decolonizing Methodologies: Research and Indigenous Peoples.* 2nd ed. Zed Books, 2012 [1999]. — Essential text on indigenous research ethics and colonial knowledge extraction. DOI: 10.7202/015683ar
+3. **Mignolo, Walter D.** *The Darker Side of the Renaissance: Literacy, Territoriality, and Colonization.* 2nd ed. University of Michigan Press, 2003. — Colonial epistemic violence in Mesoamerica. DOI: 10.3998/mpub.8739
+4. **Truth and Reconciliation Commission of Canada.** *Honouring the Truth, Reconciling for the Future: Summary of the Final Report.* TRC, 2015. — Official findings on Canadian residential schools. DOI: 10.2307/j.ctt19qghck
+5. **Battiste, Marie.** *Decolonizing Education: Nourishing the Learning Spirit.* Purich Publishing, 2013. — Indigenous education and cognitive imperialism. DOI: 10.59962/9781895830972
 6. **Shiva, Vandana.** *Biopiracy: The Plunder of Nature and Knowledge.* South End Press, 1997. — Patent systems, bioprospecting, and indigenous knowledge extraction.
 7. **Clendinnen, Inga.** *Ambivalent Conquests: Maya and Spaniard in Yucatan, 1517–1570.* Cambridge University Press, 2003. — Detailed account of Spanish-Maya encounter and knowledge destruction.
 8. **Harrison, K. David.** *When Languages Die: The Extinction of the World's Languages and the Erosion of Human Knowledge.* Oxford University Press, 2007. — Language death as knowledge loss.

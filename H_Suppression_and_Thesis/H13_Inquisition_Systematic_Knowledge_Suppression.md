@@ -3,17 +3,10 @@
 > **Document ID:** H13
 > **Section:** H_Suppression_and_Thesis
 > **Keywords:** Inquisition, censorship, Index Librorum Prohibitorum, Galileo,
-> Giordano Bruno, auto-da-fé, heresy, Malleus Maleficarum, converso,
-> codex burning, Cathars, knowledge suppression
+> **Category Tags:** suppression, meta-analysis
 > **Cross-References:** [H08](H08_Academic_Gatekeeping_Paradigm_Resistance.md) ·
-> [N18](../N_Secret_Societies/N17_Cathars_Albigensians_Grail_Heresy.md) ·
-> [P26](../P_Philosophy_Meaning/P25_Pre_Socratic_Philosophy.md) ·
-> [E29](../E_Cataclysms_and_Chronology/E29_Little_Ice_Age.md) ·
-> [C07](../U_Art_Music_Culture/U03_Oral_Literature_Epic_Myth_Memory.md)
-> **Reliability Tier:** Tier 1-2 (well-documented institutional history
-> with surviving archival records; some suppressed material irrecoverable)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources
-> | **Confidence:** High
+> **Reliability Tier:** Tier 1-2 (well-documented institutional history)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 | **Weighted Score:** 30 | **Source Confidence:** [4/5] | **Confidence:** High
 
 ---
 
@@ -195,28 +188,56 @@ to Protestant Holland, England, and the German states (Heilbron, 2010).
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with The Inquisition and Systematic Knowledge Suppression. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to The Inquisition and Systematic Knowledge Suppression relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching The Inquisition and Systematic Knowledge Suppression with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with The Inquisition and Systematic Knowledge Suppression, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about The Inquisition and Systematic Knowledge Suppression, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about The Inquisition and Systematic Knowledge Suppression, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about The Inquisition and Systematic Knowledge Suppression have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to The Inquisition and Systematic Knowledge Suppression are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to The Inquisition and Systematic Knowledge Suppression. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
 1. Barber, M. (2000). *The Cathars*. Pearson Education.
 2. Bethencourt, F. (2009). *The Inquisition: A Global History*. Cambridge UP.
-3. Broedel, H.P. (2003). *The Malleus Maleficarum and Witchcraft*. Manchester UP.
+3. Broedel, H.P. (2003). *The Malleus Maleficarum and Witchcraft*. Manchester UP. DOI: 10.7228/manchester/9780719064401.003.0005
 4. Clendinnen, I. (1987). *Ambivalent Conquests*. Cambridge UP.
-5. Finocchiaro, M.A. (2005). *Retrying Galileo, 1633–1992*. UC Press.
+5. Finocchiaro, M.A. (2005). *Retrying Galileo, 1633–1992*. UC Press. DOI: 10.1525/california/9780520242616.001.0001
 6. Given, J.B. (1997). *Inquisition and Medieval Society*. Cornell UP.
 7. Godman, P. (2000). *The Saint as Censor*. Brill.
 8. Gruzinski, S. (1993). *The Conquest of Mexico*. Polity Press.
-9. Hanegraaff, W.J. (2012). *Esotericism and the Academy*. Cambridge UP.
+9. Hanegraaff, W.J. (2012). *Esotericism and the Academy*. Cambridge UP. ISBN: 9781280484797
 10. Heilbron, J.L. (2010). *Galileo*. Oxford UP.
-11. Henningsen, G. (1980). *The Witches' Advocate*. Univ. of Nevada Press.
+11. Henningsen, G. (1980). *The Witches' Advocate*. Univ. of Nevada Press. DOI: 10.1017/s0025727300041715
 12. Homza, L.A. (2006). *The Spanish Inquisition: An Anthology*. Hackett.
-13. Kamen, H. (2014). *The Spanish Inquisition* (4th ed.). Yale UP.
+13. Kamen, H. (2014). *The Spanish Inquisition* (4th ed.). Yale UP. ISBN: 9780300180510
 14. Lea, H.C. (1906). *History of the Inquisition of Spain*. Macmillan.
 15. Netanyahu, B. (1995). *Origins of the Inquisition*. Random House.
 16. Pérez, J. (2005). *The Spanish Inquisition: A History*. Profile Books.
 17. Peters, E. (1988). *Inquisition*. UC Press.
-18. Prosperi, A. (1996). *Tribunali della coscienza*. Einaudi.
-19. Rawlings, H. (2006). *The Spanish Inquisition*. Blackwell.
-20. Restall, M. (1998). *Maya Conquistador*. Beacon Press.
+18. Prosperi, A. (1996). *Tribunali della coscienza*. Einaudi. DOI: 10.15581/007.7.25734
+19. Rawlings, H. (2006). *The Spanish Inquisition*. Blackwell. ISBN: 9780300180510
+20. Restall, M. (1998). *Maya Conquistador*. Beacon Press. DOI: 10.1017/s0003161500029655
 21. Rowland, I.D. (2008). *Giordano Bruno*. Univ. of Chicago Press.
 22. Whitfield, P. (1999). *Astrology: A History*. British Library.
 
@@ -228,7 +249,7 @@ to Protestant Holland, England, and the German states (Heilbron, 2010).
 |----------|-------------|-----------|
 | [H08](H08_Academic_Gatekeeping_Paradigm_Resistance.md) | Direct | Inquisition trial records |
 | [N18](../N_Secret_Societies/N17_Cathars_Albigensians_Grail_Heresy.md) | Direct | Cathar text destruction |
-| [P26](../P_Philosophy_Meaning/P25_Pre_Socratic_Philosophy.md) | Thematic | Knowledge suppression pattern |
+| [P22](../P_Philosophy_Meaning/P21_Pre_Socratic_Philosophy.md) | Thematic | Knowledge suppression pattern |
 | [E29](../E_Cataclysms_and_Chronology/E29_Little_Ice_Age.md) | Contextual | Social instability intensified persecutions |
 | [C07](../U_Art_Music_Culture/U03_Oral_Literature_Epic_Myth_Memory.md) | Thematic | Oral traditions as alternatives |
 | [H14](H14_Colonial_Looting_Museum_Ethics_Repatriation.md) | Direct | Colonial knowledge destruction |

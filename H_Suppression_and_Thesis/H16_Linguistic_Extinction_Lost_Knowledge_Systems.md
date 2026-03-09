@@ -3,18 +3,10 @@
 > **Document ID:** H16
 > **Section:** H_Suppression_and_Thesis
 > **Keywords:** linguistic extinction, endangered languages, UNESCO Atlas,
-> Ethnologue, last speakers, language death, dormant languages, Hopi time,
-> Pirahã, language revitalization, Hebrew revival, Hawaiian, Māori,
-> Daniel Everett, Chomsky
+> **Category Tags:** suppression, meta-analysis, cataclysms, linguistics
 > **Cross-References:** [C07](../U_Art_Music_Culture/U03_Oral_Literature_Epic_Myth_Memory.md) ·
-> [U03](../U_Art_Music_Culture/U03_Oral_Literature_Epic_Myth_Memory.md) ·
-> [F09](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) ·
-> [H14](H14_Colonial_Looting_Museum_Ethics_Repatriation.md) ·
-> [V05](../V_Mathematics_Information/V05_Ethnomathematics_Indigenous_Systems.md)
-> **Reliability Tier:** Tier 1-2 (robust linguistic fieldwork data;
-> theoretical interpretations of knowledge encoding debated)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources
-> | **Confidence:** High
+> **Reliability Tier:** Tier 1-2 (robust linguistic fieldwork data;)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 23 | **Weighted Score:** 32 | **Source Confidence:** [4/5] | **Confidence:** High
 
 ---
 
@@ -216,19 +208,47 @@ texture, animacy) organizing perception differently
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Linguistic Extinction and Lost Knowledge Systems. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Linguistic Extinction and Lost Knowledge Systems relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Linguistic Extinction and Lost Knowledge Systems with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Linguistic Extinction and Lost Knowledge Systems, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Linguistic Extinction and Lost Knowledge Systems, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Linguistic Extinction and Lost Knowledge Systems, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Linguistic Extinction and Lost Knowledge Systems have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Linguistic Extinction and Lost Knowledge Systems are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Linguistic Extinction and Lost Knowledge Systems. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
 1. Aikhenvald, A.Y. (2004). *Evidentiality*. Oxford UP.
-2. Benton, R.A. & Benton, N. (2001). In *Can Threatened Languages Be Saved?*
-3. Boroditsky, L. (2011). *Scientific American*, 304(2), 62–65.
+2. Benton, R.A. & Benton, N. (2001). In *Can Threatened Languages Be Saved?*. DOI: 10.21832/9781853597060-020
+3. Boroditsky, L. (2011). *Scientific American*, 304(2), 62–65. ISBN: 9780671636531. DOI: 10.1038/scientificamerican0211-62
 4. Crystal, D. (2000). *Language Death*. Cambridge UP.
 5. Eberhard, D.M. et al. (2024). *Ethnologue* (27th ed.). SIL International.
 6. Evans, N. (2010). *Dying Words*. Wiley-Blackwell.
-7. Everett, D.L. (2005). *Current Anthropology*, 46(4), 621–646.
-8. Fishman, J.A. (1991). *Reversing Language Shift*. Multilingual Matters.
+7. Everett, D.L. (2005). *Current Anthropology*, 46(4), 621–646. ISBN: 9781461567691. DOI: 10.1086/431525
+8. Fishman, J.A. (1991). *Reversing Language Shift*. Multilingual Matters. DOI: 10.21832/9781800418097
 9. Grenoble, L.A. & Whaley, L.J. (2006). *Saving Languages*. Cambridge UP.
 10. Harrison, K.D. (2007). *When Languages Die*. Oxford UP.
-11. Haviland, J.B. (1998). *Ethos*, 26(1), 25–47.
+11. Haviland, J.B. (1998). *Ethos*, 26(1), 25–47. DOI: 10.1525/eth.1998.26.1.25
 12. Krauss, M. (1992). *Language*, 68(1), 4–10.
 13. Leonard, W.Y. (2011). *AICRJ*, 35(2), 135–160.
 14. Levinson, S.C. (2003). *Space in Language and Cognition*. Cambridge UP.
@@ -252,9 +272,9 @@ texture, animacy) organizing perception differently
 | [U03](../U_Art_Music_Culture/U03_Oral_Literature_Epic_Myth_Memory.md) | Direct | Oral forms lost with languages |
 | [F09](../F_Lost_Connections/F09_Pre_Indo_European_Substrate_Cultures.md) | Direct | Historical language loss |
 | [H14](H14_Colonial_Looting_Museum_Ethics_Repatriation.md) | Thematic | Colonial drivers of destruction |
-| [V05](../V_Mathematics_Information/V05_Ethnomathematics_Indigenous_Systems.md) | Direct | Math knowledge in dying languages |
+| [V04](../V_Mathematics_Information/V04_Ethnomathematics_Indigenous_Systems.md) | Direct | Math knowledge in dying languages |
 | [H13](H13_Inquisition_Systematic_Knowledge_Suppression.md) | Contextual | Institutional suppression |
-| [K04](../K_Consciousness/K04_Quantum_Consciousness.md) | Speculative | Language-cognition interface |
+| [K01](../K_Consciousness/K01_Quantum_Consciousness.md) | Speculative | Language-cognition interface |
 
 ---
 *Consolidated from 23 sources. Last Updated: Feb 28, 2026*

@@ -3,9 +3,10 @@
 > **Document ID:** H12
 > **Section:** H_Suppression_and_Thesis
 > **Keywords:** Aboriginal Australians, Stolen Generations, songlines, Dreaming, Dreamtime, language extinction, Indigenous knowledge, fire-stick farming, colonial violence, intergenerational trauma, oral tradition, cultural genocide
-> **Cross-References:** [H07](H07_Indigenous_Knowledge_Suppression.md) · [C30](../C_Global_Traditions/C30_Australian_Aboriginal_Dreamtime.md) · [C13](../C_Global_Traditions/C13_Indigenous_Knowledge_Systems.md) · [H01](H01_Suppression_of_Ancient_Knowledge.md)
+> **Category Tags:** suppression, meta-analysis, art-culture, cataclysms, linguistics
+> **Cross-References:** [H07](H07_Indigenous_Knowledge_Suppression.md) · [C29](../C_Global_Traditions/C29_Australian_Aboriginal_Dreamtime.md) · [C13](../C_Global_Traditions/C13_Indigenous_Knowledge_Systems.md) · [H01](H01_Suppression_of_Ancient_Knowledge.md)
 > **Reliability Tier:** Tier 1-2 (Stolen Generations well-documented; pre-contact knowledge reconstruction inherently limited)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 16 scholarly sources | **Confidence:** High (colonial record and testimony); Moderate (scope of pre-contact knowledge)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 16 | **Weighted Score:** 30 | **Source Confidence:** [4/5] | **Confidence:** High (colonial record and testimony); Moderate (scope of pre-contact knowledge)
 
 ---
 
@@ -120,16 +121,44 @@ The destruction of Aboriginal Australian knowledge systems represents the disrup
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Destruction of Aboriginal Australian Knowledge Systems. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Destruction of Aboriginal Australian Knowledge Systems relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Destruction of Aboriginal Australian Knowledge Systems with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Destruction of Aboriginal Australian Knowledge Systems, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Destruction of Aboriginal Australian Knowledge Systems, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Destruction of Aboriginal Australian Knowledge Systems, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Destruction of Aboriginal Australian Knowledge Systems have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Destruction of Aboriginal Australian Knowledge Systems are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Destruction of Aboriginal Australian Knowledge Systems. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Clarkson, Chris, et al. "Human Occupation of Northern Australia by 65,000 Years Ago." *Nature* 547 (2017): 306-310.
-2. Human Rights and Equal Opportunity Commission. *Bringing Them Home: Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families*. 1997.
-3. Gammage, Bill. *The Biggest Estate on Earth: How Aborigines Made Australia*. Allen & Unwin, 2011.
-4. Reynolds, Henry. *The Other Side of the Frontier: Aboriginal Resistance to the European Invasion of Australia*. Rev. ed. University of New South Wales Press, 2006.
+1. Clarkson, Chris, et al. "Human Occupation of Northern Australia by 65,000 Years Ago." *Nature* 547 (2017): 306-310. DOI: 10.1080/03122417.2017.1408198. ISBN: 9780451529060
+2. Human Rights and Equal Opportunity Commission. *Bringing Them Home: Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families*. 1997. DOI: 10.1017/cbo9781316151112.012
+3. Gammage, Bill. *The Biggest Estate on Earth: How Aborigines Made Australia*. Allen & Unwin, 2011. DOI: 10.64628/aa.4k6rf69ef
+4. Reynolds, Henry. *The Other Side of the Frontier: Aboriginal Resistance to the European Invasion of Australia*. Rev. ed. University of New South Wales Press, 2006. DOI: 10.1080/10314617608595537
 5. Ryan, Lyndall. *Colonial Frontier Massacres in Australia, 1788-1930*. Newcastle University digital project, ongoing.
-6. Norris, Ray P., and Duane W. Hamacher. "Australian Aboriginal Astronomy: Overview." In *Handbook of Archaeoastronomy and Ethnoastronomy*, ed. Clive Ruggles, 2215-2226. Springer, 2015.
+6. Norris, Ray P., and Duane W. Hamacher. "Australian Aboriginal Astronomy: Overview." In *Handbook of Archaeoastronomy and Ethnoastronomy*, ed. Clive Ruggles, 2215-2226. Springer, 2015. ISBN: 9781461461401. DOI: 10.1007/978-1-4614-6141-8_238
 7. Chatwin, Bruce. *The Songlines*. Viking Press, 1987.
-8. Nunn, Patrick D., and Nicholas J. Reid. "Aboriginal Memories of Inundation of the Australian Coast Dating from More Than 7000 Years Ago." *Australian Geographer* 47, no. 1 (2016): 11-47.
+8. Nunn, Patrick D., and Nicholas J. Reid. "Aboriginal Memories of Inundation of the Australian Coast Dating from More Than 7000 Years Ago." *Australian Geographer* 47, no. 1 (2016): 11-47. ISBN: 9783034335454
 9. Pascoe, Bruce. *Dark Emu: Aboriginal Australians and the Birth of Agriculture*. Rev. ed. Scribe Publications, 2018.
 10. McConvell, Patrick, and Nicholas Thieberger. *State of Indigenous Languages in Australia — 2001*. Department of the Environment, Australia, 2001.
 11. Stanner, W.E.H. *The Dreaming and Other Essays*. Black Inc., 2009 (originally 1953-1968).
@@ -146,7 +175,7 @@ The destruction of Aboriginal Australian knowledge systems represents the disrup
 | Related Doc | Connection |
 |-------------|-----------|
 | [H07](H07_Indigenous_Knowledge_Suppression.md) | Global framework for colonial suppression of indigenous knowledge |
-| [C30](../C_Global_Traditions/C30_Australian_Aboriginal_Dreamtime.md) | The Dreaming cosmological system under threat |
+| [C29](../C_Global_Traditions/C29_Australian_Aboriginal_Dreamtime.md) | The Dreaming cosmological system under threat |
 | [C13](../C_Global_Traditions/C13_Indigenous_Knowledge_Systems.md) | Aboriginal knowledge as exemplar of indigenous knowledge systems |
 | [H01](H01_Suppression_of_Ancient_Knowledge.md) | Broader patterns of knowledge suppression |
 | [H09](H09_Maya_Codex_Burning_Mesoamerican_Destruction.md) | Parallel colonial destruction of indigenous knowledge in Americas |

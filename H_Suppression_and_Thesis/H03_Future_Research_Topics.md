@@ -1,9 +1,12 @@
 # H03 — Future Research Topics
 
-> **Source Agreement:** [5+] AI sources contributed (Claude, Gemini, GPT5.2, Master, Raptor) + working notes | **Primary Tier:** N/A (planning document) | **Last Updated:** Feb 9, 2026
+> **Document ID:** H03
+> **Section:** H_Suppression_and_Thesis
 > **Keywords:** future research, proposals, ancient DNA, ice cores, submerged archaeology, archaeoastronomy, metallurgy, Taurid Complex, video topics
+> **Category Tags:** suppression, meta-analysis, archaeology, genetics
 > **Cross-References:** All categories — this document maps future research across the entire project.
-> [H01](H01_Suppression_of_Ancient_Knowledge.md) · [H02](H02_Key_Findings_and_Reliability.md)
+> **Reliability Tier:** Tier 2-3 (suppression of knowledge and thesis patterns)
+> **Last Updated:** Feb 9, 2026 | **Source Count:** 11 | **Weighted Score:** 21 | **Source Confidence:** [2/5] | **Confidence:** Moderate (mixed evidence across tiers)
 
 ---
 
@@ -15,7 +18,7 @@ This document consolidates ALL proposed future research topics from all eight so
 
 ## 1. STATUS OVERVIEW — WHAT HAS BEEN COMPLETED
 
-### Completed Topics (Created During Restructuring)
+### 1.1 Completed Topics (Created During Restructuring)
 
 These were originally flagged as future research items and have now been written as full documents:
 
@@ -57,23 +60,23 @@ These were originally flagged as future research items and have now been written
 | Quantum Mechanics & Ancient Knowledge | **G01** | G — Modern Frameworks | **COMPLETED** — see [G01](../G_Modern_Frameworks/G01_Quantum_Mechanics_Ancient_Knowledge.md) |
 | Simulation Theory / Gnostic Parallels | **G02** | G — Modern Frameworks | **COMPLETED** — see [G02](../G_Modern_Frameworks/G02_Simulation_Theory.md) |
 | Mycelium Network | **G03** | G — Modern Frameworks | **COMPLETED** — see [G03](../G_Modern_Frameworks/G03_Mycelium_Network.md) |
-| Shamanism, Entheogens & Serpent Visions | **G05** | G — Modern Frameworks | **COMPLETED** — see [G05](../G_Modern_Frameworks/G05_Shamanism_Entheogens_Serpent_Visions.md) |
+| Shamanism, Entheogens & Serpent Visions | **K02** | G — Modern Frameworks | **COMPLETED** — see [K02](../K_Consciousness/K02_Shamanism_Entheogens_Serpent_Visions.md) |
 | Suppression of Ancient Knowledge | **H01** | H — Suppression & Thesis | **COMPLETED** — see [H01](H01_Suppression_of_Ancient_Knowledge.md) |
 | Key Findings & Reliability | **H02** | H — Suppression & Thesis | **COMPLETED** — see [H02](H02_Key_Findings_and_Reliability.md) |
 
 **Total completed: 38 topics now fully documented in the restructured corpus.**
 
-### Additional Documents Created (Post-Restructuring)
+### 1.2 Additional Documents Created (Post-Restructuring)
 
 These documents were created during deep scan passes and expansion sessions:
 
 | Topic | New Doc | Category | Status |
 |---|---|---|---|
-| Collective Consciousness & Collective Unconscious | **G07** | G — Modern Frameworks | **COMPLETED** — see [G07](../G_Modern_Frameworks/G07_Collective_Consciousness.md) |
-| Quantum Teleportation & Non-Local Transfer | **G08** | G — Modern Frameworks | **COMPLETED** — see [G08](../G_Modern_Frameworks/G08_Quantum_Teleportation.md) |
-| Third Eye & the Pineal Gland | **G09** | G — Modern Frameworks | **COMPLETED** — see [G09](../K_Consciousness/K13_Pineal_Gland_Third_Eye.md) |
-| Integrated Information Theory (IIT) | **G10** | G — Modern Frameworks | **COMPLETED** — see [G10](../G_Modern_Frameworks/G10_Integrated_Information_Theory.md) |
-| Schumann Resonance & Frequency Claims | **G11** | G — Modern Frameworks | **COMPLETED** — see [G11](../G_Modern_Frameworks/G11_Schumann_Resonance.md) |
+| Collective Consciousness & Collective Unconscious | **K45** | G — Modern Frameworks | **COMPLETED** — see [K45](../K_Consciousness/K45_Collective_Consciousness.md) |
+| Quantum Teleportation & Non-Local Transfer | **ZA01** | G — Modern Frameworks | **COMPLETED** — see [ZA01](../ZA_Physics_Quantum/ZA40_Quantum_Teleportation.md) |
+| Third Eye & the Pineal Gland | **G05** | G — Modern Frameworks | **COMPLETED** — see [G05](../Y_Altered_States/Y09_Pineal_Gland_Third_Eye.md) |
+| Integrated Information Theory (IIT) | **G06** | G — Modern Frameworks | **COMPLETED** — see [G06](../G_Modern_Frameworks/G06_Integrated_Information_Theory.md) |
+| Schumann Resonance & Frequency Claims | **G07** | G — Modern Frameworks | **COMPLETED** — see [G07](../G_Modern_Frameworks/G07_Schumann_Resonance.md) |
 | Alien Races & Origins | **B09** | B — Beings & Entities | **COMPLETED** — see [B09](../B_Beings_and_Entities/B09_Alien_Races_Origins.md) |
 | Complete Pyramid Catalog | **D11** | D — Sites & Artifacts | **COMPLETED** — see [D11](../D_Sites_and_Artifacts/D11_Complete_Pyramid_Catalog.md) |
 | Underground Cities & Entrances Expanded | **D12** | D — Sites & Artifacts | **COMPLETED** — see [D12](../D_Sites_and_Artifacts/D04_Underground_Cities_and_Myths.md) |
@@ -82,7 +85,7 @@ These documents were created during deep scan passes and expansion sessions:
 
 **Updated total: 48 topics now fully documented.**
 
-### Deep Scan Session — February 21, 2026 [DEEP SCAN ADD]
+### 1.3 Deep Scan Session — February 21, 2026 [DEEP SCAN ADD]
 
 The following documents received significant updates during the full deep scan:
 
@@ -106,8 +109,8 @@ The following documents received significant updates during the full deep scan:
 | **E06** | Updated SAA (twin-lobe splitting, Swarm data); Laschamp/Adams Event critique |
 | **F01** | Added Doggerland/Storegga Slide; Gunung Padang retraction |
 | **F03** | Added Sea Peoples aDNA (Feldman 2019); Bronze Age Collapse updated models |
-| **G04** | Added GCP 2.0 (2023 pre-registered protocols); Neuralink/Synchron BCI |
-| **G05** | Added FDA MDMA rejection (Aug 2024); Australia TGA rescheduling (July 2023) |
+| **K44** | Added GCP 2.0 (2023 pre-registered protocols); Neuralink/Synchron BCI |
+| **K02** | Added FDA MDMA rejection (Aug 2024); Australia TGA rescheduling (July 2023) |
 
 ---
 
@@ -136,7 +139,7 @@ GPT5.2 proposed 12 research topics with specific scientific rigour and tier-rate
 
 ## 3. REMAINING RESEARCH TOPICS — NOT YET COVERED
 
-### HIGH PRIORITY
+### 3.1 HIGH PRIORITY
 
 #### 3.1 Ancient DNA and Deep-Time Migrations
 **Sources:** GPT5.2 (Doc 25) | **Tier:** 1
@@ -183,7 +186,7 @@ GPT5.2 proposed 12 research topics with specific scientific rigour and tier-rate
 
 ---
 
-### MEDIUM PRIORITY
+### 3.2 MEDIUM PRIORITY
 
 #### 3.5 The Basque Language Mystery
 **Sources:** Working notes | **Tier:** 2–3
@@ -241,12 +244,12 @@ GPT5.2 proposed 12 research topics with specific scientific rigour and tier-rate
 
 ---
 
-### LOWER PRIORITY / SPECULATIVE
+### 3.3 LOWER PRIORITY / SPECULATIVE
 
 #### 3.11 Kundalini & the Serpent Within (Expanded)
 **Sources:** Claude (Doc 12), Gemini (Doc 12), Master (Doc 12) | **Tier:** 2–3
 
-While kundalini is mentioned across several docs (B01, C01, G05), a dedicated treatment could cover:
+While kundalini is mentioned across several docs (B01, C01, K02), a dedicated treatment could cover:
 - The Nadi system (72,000 energy channels per Hindu tradition)
 - Chakra-endocrine gland parallels
 - Cross-cultural parallels: Chinese qi/meridian system, Egyptian djed pillar, Mesoamerican "wind" energy
@@ -256,7 +259,7 @@ While kundalini is mentioned across several docs (B01, C01, G05), a dedicated tr
 #### 3.12 The Pineal Gland, Pine Cone Symbol & DMT
 **Sources:** Claude (Doc 12), Gemini (Doc 12), Master (Doc 12) | **Tier:** 2–3
 
-Partially covered in G05 (Shamanism) and B01, but a dedicated cross-cultural treatment could add:
+Partially covered in K02 (Shamanism) and B01, but a dedicated cross-cultural treatment could add:
 - Vatican "Pigna" / Court of the Pine Cone — why does the institution that demonised serpent wisdom display pineal symbolism?
 - Sumerian Apkallu holding pine cones — connection to ME transfer?
 - Fluoride calcification of the pineal gland — intentional or coincidental?
@@ -280,7 +283,7 @@ Partially covered in G05 (Shamanism) and B01, but a dedicated cross-cultural tre
 - *Doctor Who* — Silurians (intelligent reptilian species predating humanity)
 - *Stargate* — ancient alien gods using technology to control humans
 - How fiction seeds later "non-fiction" theories — the cultural feedback loop
-- **Status:** Partially addressed in G06 (Modern Conspiracy Analysis); could be expanded
+- **Status:** Partially addressed in G04 (Modern Conspiracy Analysis); could be expanded
 
 ---
 
@@ -336,9 +339,9 @@ Consolidated from all sources, deduplicated:
 | 2 | "What's Hidden Under Cappadocia?" | Underground cities deep-dive | D04 |
 | 3 | "The Book They Don't Want You to Read" | Book of Enoch | A04 |
 | 4 | "19 Civilisations, 1 Story" | Cross-cultural pattern analysis (updated from "13") | C08, H02 |
-| 5 | "The Vatican's Serpent Secret" | Vatican symbolism — pine cone, serpent hall, archives | H01, G06 |
+| 5 | "The Vatican's Serpent Secret" | Vatican symbolism — pine cone, serpent hall, archives | H01, G04 |
 | 6 | "Göbekli Tepe: The Temple They Buried" | Oldest temple deep-dive | D01 |
-| 7 | "The Serpent Within: Kundalini and Your DNA" | Biology meets spirituality | G05, C01 |
+| 7 | "The Serpent Within: Kundalini and Your DNA" | Biology meets spirituality | K02, C01 |
 | 8 | "Who Were the Watchers?" | Enochian tradition — Apkallu → Watchers → Jinn | A04, A07, B04 |
 | 9 | "From Wisdom to Wickedness" | Demonisation timeline — how they turned the hero into the villain | A02, C01, H01 |
 | 10 | "The Art That Shouldn't Exist" | Ancient paintings, figurines, and anomalous artefacts | D08 |
@@ -352,19 +355,19 @@ Consolidated from all sources, deduplicated:
 
 ## 7. METHODOLOGY FRAMEWORK (From Raptor Research)
 
-### Source Type Hierarchy
+### 7.1 Source Type Hierarchy
 Primary texts > Archaeological evidence > Academic analysis > Popular author interpretation > Internet claim
 
-### Reliability Rating System
+### 7.2 Reliability Rating System
 - **TIER 1 — Verified:** Peer-reviewed, primary sources
 - **TIER 2 — Credible:** Academic but debated
 - **TIER 3 — Speculative:** Possible but unverified
 - **TIER 4 — Dubious:** No credible source
 
-### Bias Flags
+### 7.3 Bias Flags
 Always note whether a source has financial, religious, ideological, or entertainment incentives that shape their presentation.
 
-### Neutrality Checklist
+### 7.4 Neutrality Checklist
 - Does the source acknowledge counter-evidence?
 - Does it use emotional manipulation?
 - Does it cite primary sources?
@@ -374,7 +377,7 @@ Always note whether a source has financial, religious, ideological, or entertain
 
 ## 8. SOURCES TO ACQUIRE / CONSULT
 
-### Books
+### 8.1 Books
 - [ ] "The Cosmic Serpent" — Jeremy Narby
 - [ ] "The Sirius Mystery" — Robert Temple
 - [ ] "Fingerprints of the Gods" — Graham Hancock
@@ -394,7 +397,7 @@ Always note whether a source has financial, religious, ideological, or entertain
 - [ ] "Religion Explained" — Pascal Boyer
 - [ ] "The Dragons of Eden" — Carl Sagan
 
-### Online Resources
+### 8.2 Online Resources
 - [ ] ETCSL (Electronic Text Corpus of Sumerian Literature) — etcsl.orinst.ox.ac.uk
 - [ ] Sacred-Texts.com — comprehensive collection of religious texts
 - [ ] The Nag Hammadi Library online (gnosis.org)
@@ -402,7 +405,7 @@ Always note whether a source has financial, religious, ideological, or entertain
 - [ ] JSTOR (academic papers)
 - [ ] Google Scholar (peer-reviewed articles for all TIER 1 claims)
 
-### Documentaries / Video
+### 8.3 Documentaries / Video
 - [ ] Graham Hancock's "Ancient Apocalypse" (Netflix)
 - [ ] BBC documentaries on Göbekli Tepe
 - [ ] Documentaries on Cappadocian underground cities
@@ -415,14 +418,14 @@ Always note whether a source has financial, religious, ideological, or entertain
 
 Carried forward from the working notes scratchpad:
 
-### Narrative Connections to Strengthen
-1. **Enki → Nachash → Gnosis connection:** Trace the serpent-as-teacher from Sumer through Eden to Gnostic Christianity. This is the spine of the counter-narrative. (Addressed in A01, A02, A03 — but a visual/video narrative thread would strengthen)
-2. **The Flood pattern:** Emphasise that EVERY flood narrative has a serpent/water deity SAVING humanity against a sky deity's destruction order (C03 — COMPLETED)
-3. **The linguistics:** The Anu/Anu coincidence (Sumerian/Hopi) needs more examples across language families
+### 9.1 Narrative Connections to Strengthen
+1. **Enki → Nachash → Gnosis connection:** Trace the serpent-as-teacher from Sumer through Eden to Gnostic Christianity. This is the spine of the counter-narrative. (Addressed in A01, A02, A03 — but a visual/video narrative thread would strengthen).
+2. **The Flood pattern:** Emphasise that EVERY flood narrative has a serpent/water deity SAVING humanity against a sky deity's destruction order (C03 — COMPLETED).
+3. **The linguistics:** The Anu/Anu coincidence (Sumerian/Hopi) needs more examples across language families.
 4. **Physical evidence:** The Ubaid figurines are CRUCIAL — physical, dated, archaeological art of reptilian humanoids from the cradle of civilisation (Addressed in B01, D08)
 5. **The suppression timeline:** The visual timeline of book burnings, temple destructions, and access restrictions (H01 table — COMPLETED)
 
-### Leads Not Yet Investigated
+### 9.2 Leads Not Yet Investigated
 - The Basque language mystery and its potential serpent mythology connections (§3.5 above)
 - The Tuareg people of the Sahara and their serpent traditions (§3.6 above)
 - Maltese temple builders and Underground Hypogeum connection (§3.7 above)
@@ -438,16 +441,99 @@ Carried forward from the working notes scratchpad:
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Future Research Topics. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Future Research Topics relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Future Research Topics with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Future Research Topics, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Future Research Topics, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Future Research Topics, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Future Research Topics have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Future Research Topics are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Future Research Topics. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## CROSS-REFERENCE INDEX
+
+| Document | Section | Connection |
+|----------|---------|------------|
+| [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) | A_Foundations | A03 — Nag Hammadi Gnostic Texts |
+| [A05](../A_Foundations/A05_Dead_Sea_Scrolls_Expanded.md) | A_Foundations | A05 — Dead Sea Scrolls Expanded |
+| [A06](../A_Foundations/A06_Sumerian_ME_Divine_Programs.md) | A_Foundations | A06 — Sumerian ME Divine Programs |
+| [A07](../A_Foundations/A07_Apkallu_Oannes_Seven_Sages.md) | A_Foundations | A07 — Apkallu Oannes Seven Sages |
+| [A08](../A_Foundations/A08_Hermetic_Tradition.md) | A_Foundations | A08 — Hermetic Tradition |
+| [B04](../B_Beings_and_Entities/B04_Solomon_and_the_Jinn.md) | B_Beings_and_Entities | B04 — Solomon and the Jinn |
+| [B05](../B_Beings_and_Entities/B05_Mandaeism_Living_Gnostic_Religion.md) | B_Beings_and_Entities | B05 — Mandaeism Living Gnostic Religion |
+| [B06](../B_Beings_and_Entities/B06_Dynastic_Serpent_Lineage.md) | B_Beings_and_Entities | B06 — Dynastic Serpent Lineage |
+| [B09](../B_Beings_and_Entities/B09_Alien_Races_Origins.md) | B_Beings_and_Entities | B09 — Alien Races Origins |
+| [C03](../C_Global_Traditions/C03_Flood_Serpent_Connection.md) | C_Global_Traditions | C03 — Flood Serpent Connection |
+| [C04](../C_Global_Traditions/C04_Viracocha_South_American_Knowledge_Givers.md) | C_Global_Traditions | C04 — Viracocha South American Knowledge Givers |
+| [C05](../C_Global_Traditions/C05_Credo_Mutwa_African_Traditions.md) | C_Global_Traditions | C05 — Credo Mutwa African Traditions |
+| [C06](../C_Global_Traditions/C06_Indonesian_Naga_SE_Asian_Traditions.md) | C_Global_Traditions | C06 — Indonesian Naga SE Asian Traditions |
+| [C07](../C_Global_Traditions/C07_Pacific_Island_Traditions.md) | C_Global_Traditions | C07 — Pacific Island Traditions |
+| [C08](../C_Global_Traditions/C08_Cross_Cultural_Patterns.md) | C_Global_Traditions | C08 — Cross Cultural Patterns |
+| [C09](../C_Global_Traditions/C09_Cognitive_Anthropology_Serpent_Archetypes.md) | C_Global_Traditions | C09 — Cognitive Anthropology Serpent Archetypes |
+| [C10](../C_Global_Traditions/C10_Cargo_Cult_Analogy.md) | C_Global_Traditions | C10 — Cargo Cult Analogy |
+| [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) | D_Sites_and_Artifacts | D01 — Gobekli Tepe |
+| [D03](../D_Sites_and_Artifacts/D03_Sphinx_Water_Erosion.md) | D_Sites_and_Artifacts | D03 — Sphinx Water Erosion |
+| [D04](../D_Sites_and_Artifacts/D04_Underground_Cities_and_Myths.md) | D_Sites_and_Artifacts | D04 — Underground Cities and Myths |
+| [D05](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) | D_Sites_and_Artifacts | D05 — Megalithic Impossible Engineering |
+| [D06](../D_Sites_and_Artifacts/D06_Serpent_Mound_Effigy_Mounds.md) | D_Sites_and_Artifacts | D06 — Serpent Mound Effigy Mounds |
+| [D07](../D_Sites_and_Artifacts/D07_Elongated_Skulls.md) | D_Sites_and_Artifacts | D07 — Elongated Skulls |
+| [D09](../D_Sites_and_Artifacts/D09_Labyrinth_Tradition.md) | D_Sites_and_Artifacts | D09 — Labyrinth Tradition |
+| [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | D_Sites_and_Artifacts | D10 — Sacred Geometry |
+| [D11](../D_Sites_and_Artifacts/D11_Complete_Pyramid_Catalog.md) | D_Sites_and_Artifacts | D11 — Complete Pyramid Catalog |
+| [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | E_Cataclysms_and_Chronology | E01 — Younger Dryas Impact |
+| [E02](../E_Cataclysms_and_Chronology/E02_Meteor_and_Asteroid_Impacts.md) | E_Cataclysms_and_Chronology | E02 — Meteor and Asteroid Impacts |
+| [E04](../E_Cataclysms_and_Chronology/E04_Precession_of_the_Equinoxes.md) | E_Cataclysms_and_Chronology | E04 — Precession of the Equinoxes |
+| [E05](../E_Cataclysms_and_Chronology/E05_Radiocarbon_Calibration.md) | E_Cataclysms_and_Chronology | E05 — Radiocarbon Calibration |
+| [E06](../E_Cataclysms_and_Chronology/E06_Paleomagnetism_Geomagnetic_Excursions.md) | E_Cataclysms_and_Chronology | E06 — Paleomagnetism Geomagnetic Excursions |
+| [E07](../E_Cataclysms_and_Chronology/E07_Complete_Meteor_Impact_Catalog.md) | E_Cataclysms_and_Chronology | E07 — Complete Meteor Impact Catalog |
+| [E08](../E_Cataclysms_and_Chronology/E08_Hollow_Moon_Theory.md) | E_Cataclysms_and_Chronology | E08 — Hollow Moon Theory |
+| [F01](../F_Lost_Connections/F01_Atlantis.md) | F_Lost_Connections | F01 — Atlantis |
+| [F02](../F_Lost_Connections/F02_Trans_Oceanic_Contact.md) | F_Lost_Connections | F02 — Trans Oceanic Contact |
+| [F03](../F_Lost_Connections/F03_Bronze_Age_Trade_Networks.md) | F_Lost_Connections | F03 — Bronze Age Trade Networks |
+| [F04](../F_Lost_Connections/F04_Ancient_Maps_Impossible_Cartography.md) | F_Lost_Connections | F04 — Ancient Maps Impossible Cartography |
+| [G01](../G_Modern_Frameworks/G01_Quantum_Mechanics_Ancient_Knowledge.md) | G_Modern_Frameworks | G01 — Quantum Mechanics Ancient Knowledge |
+| [G02](../G_Modern_Frameworks/G02_Simulation_Theory.md) | G_Modern_Frameworks | G02 — Simulation Theory |
+| [G03](../G_Modern_Frameworks/G03_Mycelium_Network.md) | G_Modern_Frameworks | G03 — Mycelium Network |
+| [K02](../K_Consciousness/K02_Shamanism_Entheogens_Serpent_Visions.md) | G_Modern_Frameworks | K02 — Shamanism Entheogens Serpent Visions |
+| [K45](../K_Consciousness/K45_Collective_Consciousness.md) | G_Modern_Frameworks | K45 — Collective Consciousness |
+| [ZA01](../ZA_Physics_Quantum/ZA40_Quantum_Teleportation.md) | G_Modern_Frameworks | ZA40 — Quantum Teleportation |
+| [G06](../G_Modern_Frameworks/G06_Integrated_Information_Theory.md) | G_Modern_Frameworks | G06 — Integrated Information Theory |
+| [G07](../G_Modern_Frameworks/G07_Schumann_Resonance.md) | G_Modern_Frameworks | G07 — Schumann Resonance |
+| [H01](H01_Suppression_of_Ancient_Knowledge.md) | H_Suppression_and_Thesis | H01 — Suppression of Ancient Knowledge |
+| [H02](H02_Key_Findings_and_Reliability.md) | H_Suppression_and_Thesis | H02 — Key Findings and Reliability |
+| [J04](../J_Ancient_Technology/J04_Acoustic_Vibrational_Technology.md) | J_Ancient_Technology | J04 — Acoustic Vibrational Technology |
+| [Y09](../Y_Altered_States/Y09_Pineal_Gland_Third_Eye.md) | K_Consciousness | Y09 — Pineal Gland Third Eye |
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## Bibliography
 
-1. Skoglund, Pontus et al. "Genetic Evidence for Two Founding Populations of the Americas." *Nature* 525 (2015): 104–108.
-2. Moreno-Mayar, J. Víctor et al. "Terminal Pleistocene Alaskan Genome Reveals First Founding Population of Native Americans." *Nature* 553 (2018): 203–207.
-3. Ioannidis, Alexander G. et al. "Native American Gene Flow into Polynesia Predating Easter Island Settlement." *Nature* 583 (2020): 572–577.
+1. Skoglund, Pontus et al. "Genetic Evidence for Two Founding Populations of the Americas." *Nature* 525 (2015): 104–108. ISBN: 9780451529060. DOI: 10.1038/nature14895
+2. Moreno-Mayar, J. Víctor et al. "Terminal Pleistocene Alaskan Genome Reveals First Founding Population of Native Americans." *Nature* 553 (2018): 203–207. ISBN: 9780451529060. DOI: 10.1038/nature25173
+3. Ioannidis, Alexander G. et al. "Native American Gene Flow into Polynesia Predating Easter Island Settlement." *Nature* 583 (2020): 572–577. ISBN: 9780451529060. DOI: 10.1038/s41586-020-2487-2
 4. Clube, Victor & Napier, Bill. *The Cosmic Serpent: A Catastrophist Manifesto*. 1982.
-5. Sweatman, Martin B. & Tsikritsis, Dimitrios. "Decoding Göbekli Tepe with Archaeoastronomy." *Mediterranean Archaeology and Archaeometry* 17.1 (2017): 233–250.
-6. Hancock, Graham. *Fingerprints of the Gods*. Crown, 1995.
-7. Temple, Robert. *The Sirius Mystery*. St. Martin's Press, 1976.
-8. Narby, Jeremy. *The Cosmic Serpent: DNA and the Origins of Knowledge*. Jeremy P. Tarcher, 1998.
-9. de Santillana, Giorgio & von Dechend, Hertha. *Hamlet's Mill*. Gambit, 1969.
-10. Boyer, Pascal. *Religion Explained: The Evolutionary Origins of Religious Thought*. Basic Books, 2001.
+5. Sweatman, Martin B. & Tsikritsis, Dimitrios. "Decoding Göbekli Tepe with Archaeoastronomy." *Mediterranean Archaeology and Archaeometry* 17.1 (2017): 233–250. ISBN: 9781803271491
+6. Hancock, Graham. *Fingerprints of the Gods*. Crown, 1995. ISBN: 9784881353486
+7. Temple, Robert. *The Sirius Mystery*. St. Martin's Press, 1976. ISBN: 9780312727314
+8. Narby, Jeremy. *The Cosmic Serpent: DNA and the Origins of Knowledge*. Jeremy P. Tarcher, 1998. ISBN: 9780575066144
+9. de Santillana, Giorgio & von Dechend, Hertha. *Hamlet's Mill*. Gambit, 1969. DOI: 10.1086/ahr/75.7.2009
+10. Boyer, Pascal. *Religion Explained: The Evolutionary Origins of Religious Thought*. Basic Books, 2001. DOI: 10.1007/s11127-005-2060-4
 11. Sagan, Carl. *The Dragons of Eden: Speculations on the Evolution of Human Intelligence*. Random House, 1977.
