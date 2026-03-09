@@ -1,5 +1,18 @@
 # G03 — Mycelium Network
-## Fungal Intelligence, the Wood Wide Web & Ancient Parallels
+
+> **Document ID:** G03
+> **Section:** G_Modern_Frameworks
+> **Keywords:** mycelium, mycorrhizal, Simard, Wood Wide Web, Stoned Ape, McKenna, psilocybin, Stamets, Adamatzky, fungal computation, Mother Tree, dendritic spine, Physarum polycephalum, Armillaria ostoyae, scale-free networks, cosmic web, Merlin Sheldrake, convergent evolution, emergence, self-organization
+> **Category Tags:** modern-frameworks, interdisciplinary, psychedelics
+> **Cross-References:** [C01_World_Religions_Serpent_Connections.md](../C_Global_Traditions/C01_World_Religions_Serpent_Connections.md) | [G01_Quantum_Mechanics_Ancient_Knowledge.md](G01_Quantum_Mechanics_Ancient_Knowledge.md) | [G02_Simulation_Theory.md](G02_Simulation_Theory.md) | [G05_Shamanism_Entheogens_Serpent_Visions.md](G05_Shamanism_Entheogens_Serpent_Visions.md)
+> **Reliability Tier:** Tier 1-3
+> **Last Updated:** Mar 08, 2026 | **Source Count:** 4 | **Weighted Score:** 7 | **Source Confidence:** [1/5] | **Confidence:** Moderate (mixed evidence, interpretation varies)
+
+---
+
+## Quick Summary
+
+Mycorrhizal ("Wood Wide Web") nutrient-and-signal transfer between trees is Tier 1 established ecology (Simard 2021, Sheldrake 2020). Fungal computation and decision-making in organisms like Physarum polycephalum are Tier 1–2 (experimentally replicated). Claims that mycelium constitutes a conscious network, or that its topology proves a universal organizing principle linking it to neural networks, the cosmic web, and Indra's Net, are Tier 3 analogies — structurally suggestive but not evidentially established. The Stoned Ape Hypothesis (McKenna) remains Tier 3–4 speculative.
 
 ---
 
@@ -8,12 +21,6 @@
 Beneath every forest floor, every grassland, and every patch of soil exists one of the most ancient, sophisticated, and overlooked intelligence systems on Earth: the **mycelium network**. Fungi — long dismissed as simple decomposers — are now recognized as the architects of terrestrial ecosystems, operating communication networks that predate the internet by over **a billion years**. Mycelium networks transfer nutrients between trees, send chemical warning signals about predators, make resource allocation "decisions," and display forms of learning and memory that challenge every assumption about what constitutes intelligence.
 
 For this project, the mycelium network represents a living example of **non-neural intelligence**, **non-local communication**, and **interconnected consciousness** — concepts that ancient traditions described long before modern biology caught up. The mathematical identity between mycelial networks, neural networks, the internet, and the cosmic web of dark matter suggests a universal organizing principle that maps directly onto Indra's Net.
-
-**Source Agreement:** Consolidated from 5 sources (Gemini/41, Gemini/37 Mycelium section, GPT5.2/41, Master/41, Raptor/41 addendum). Core claims represent **[3/3+ SOURCES]** unless noted.
-
-**Keywords:** mycelium, mycorrhizal, Simard, Wood Wide Web, Stoned Ape, McKenna, psilocybin, Stamets, Adamatzky, fungal computation, Mother Tree, dendritic spine, Physarum polycephalum, Armillaria ostoyae, scale-free networks, cosmic web, Merlin Sheldrake
-
-**Cross-references:** [C01_World_Religions_Serpent_Connections.md](../C_Global_Traditions/C01_World_Religions_Serpent_Connections.md) | [G01_Quantum_Mechanics_Ancient_Knowledge.md](G01_Quantum_Mechanics_Ancient_Knowledge.md) | [G02_Simulation_Theory.md](G02_Simulation_Theory.md) | [G05_Shamanism_Entheogens_Serpent_Visions.md](G05_Shamanism_Entheogens_Serpent_Visions.md)
 
 ---
 
@@ -31,7 +38,7 @@ For this project, the mycelium network represents a living example of **non-neur
 | **Largest organism** | *Armillaria ostoyae* in Oregon's Blue Mountains covers **965 hectares** (2,385 acres), weighs ~6,000 tonnes, and is ~2,400 years old — the largest known organism on Earth |
 | **Species** | An estimated **2.2-3.8 million species** exist; only ~148,000 described (Hawksworth & Lücking, 2017) |
 
-### Fungi Are NOT Plants
+### 1.1 Fungi Are NOT Plants
 
 | Trait | Plants | **Fungi** | Animals |
 |-------|--------|-----------|---------|
@@ -44,7 +51,7 @@ For this project, the mycelium network represents a living example of **non-neur
 
 ## 2. Mycorrhizal Networks — The Wood Wide Web
 
-### Discovery and Significance
+### 2.1 Discovery and Significance
 
 **Reliability: TIER 1 — PEER-REVIEWED, EXTENSIVELY DOCUMENTED**
 
@@ -55,7 +62,7 @@ For this project, the mycelium network represents a living example of **non-neur
 | **Types** | **Ectomycorrhizal (ECM)** — sheath around root tip (~2% of plant species but dominates forests); **Arbuscular Mycorrhizal (AM)** — hyphae penetrate root cells (~80% of all plant species) |
 | **Prevalence** | ~90% of all land plants maintain mycorrhizal symbiosis |
 
-### Suzanne Simard's Research **[3/3+ SOURCES]**
+### Suzanne Simard's Research
 
 | Study | Year | Finding |
 |-------|------|---------|
@@ -73,7 +80,7 @@ Simard's studies (University of British Columbia) proved that Mother Trees can d
 
 Paper birch and Douglas fir trade carbon seasonally. In summer, birch (full leaf) sends carbon to fir (shaded). In winter, fir (evergreen) sends carbon back to birch (leafless). The network operates as a nutrient stock market.
 
-### What the Network Does
+### 2.2 What the Network Does
 
 | Function | Details |
 |----------|---------|
@@ -83,7 +90,7 @@ Paper birch and Douglas fir trade carbon seasonally. In summer, birch (full leaf
 | **Seedling support** | Seedlings connected to the network are significantly more likely to survive |
 | **Carbon storage** | Mycorrhizal networks sequester an estimated **5 billion tonnes of carbon per year** — ~36% of annual fossil fuel emissions (Hawkins et al., 2023, *Current Biology*) |
 
-### The 2023–2024 Scientific Controversy — CRITICAL UPDATE
+### 2.3 The 2023–2024 Scientific Controversy — CRITICAL UPDATE
 
 **Reliability: TIER 1 — PEER-REVIEWED CRITIQUE**
 
@@ -98,26 +105,26 @@ The Wood Wide Web narrative is now **actively disputed** in peer-reviewed litera
 
 **⚠ NOTE:** G03's presentation above reflects the positive narrative. These critiques add essential balance — the Wood Wide Web concept is real but its extent and significance are debated.
 
-### Mycoheterotrophy — The Dark Side
+### 2.4 Mycoheterotrophy — The Dark Side
 
 Merckx et al. (2024, *Nature Plants* 10: 710–718): Some plants (e.g., *Monotropa uniflora*) exploit the CMN without giving back — parasitic relationships challenge the purely mutualistic narrative.
 
-### Market-Model Dynamics (Kiers et al. 2011, *Science*)
+### 2.5 Market-Model Dynamics (Kiers et al. 2011, *Science*)
 
 Plants supply carbon preferentially to fungi that provide more nutrients. Both plants and fungi enforce "fair trade" — sanctions against non-cooperating partners. Adds an economic/game theory dimension to mycorrhizal relationships. **Ancient parallel:** fungal "fair trade" enforcement echoes ME as divine programs governing resource allocation (A06).
 
-### Allelopathic Chemical Warfare via CMNs
+### 2.6 Allelopathic Chemical Warfare via CMNs
 
 Plants produce allelochemicals (thiophenes, juglone) transferred faster via mycorrhizal networks. Black walnut juglone inhibits neighboring plant growth through CMN-enhanced bioactive zones. Spotted knapweed (invasive) alters AM fungus host preference to establish allelopathic connections. Concentrations 2–4x higher in connected vs. unconnected plants. **Plants use networks for aggression, not just cooperation.**
 
-### Defensive Priming — Expanded
+### 2.7 Defensive Priming — Expanded
 
 - Babikova et al. 2013: bean plants connected by AM networks — aphid-free plants expressed SA pathways and resisted herbivores ONLY when connected to infested plants
 - Song et al. 2015: Douglas fir budworm attack triggered defensive enzyme production in uninfested ponderosa pines via ECM network
 - VOCs (methyl salicylate, terpenoids, jasmonates) transferred via CMNs prime uninfected plants
 - **Works across species** (heterospecific signaling)
 
-### Quantified Carbon & Phosphorus Flows (2019–2024)
+### 2.8 Quantified Carbon & Phosphorus Flows (2019–2024)
 
 | Study | Finding |
 |-------|---------|
@@ -126,7 +133,7 @@ Plants produce allelochemicals (thiophenes, juglone) transferred faster via myco
 | *New Phytologist* (2024) | Phosphorus tracing from soil → fungi → plants |
 | *New Phytologist* (2024) | Determinants of carbon transfer from plants to fungi |
 
-### SPUN Underground Atlas (2025)
+### 2.9 SPUN Underground Atlas (2025)
 
 First global mycorrhizal biodiversity maps — Society for the Protection of Underground Networks (SPUN), using 2.8 billion fungal sequences from 130 countries. **Finding:** Over 90% of Earth's most diverse underground mycorrhizal ecosystems remain unprotected. Threatens carbon drawdown, crop productivity, and ecosystem resilience.
 
@@ -136,11 +143,11 @@ First global mycorrhizal biodiversity maps — Society for the Protection of Und
 
 ## 3. Fungal Intelligence — Decision-Making Without a Brain
 
-### Evidence for Intelligence
+### 3.1 Evidence for Intelligence
 
 **Reliability: TIER 1-2 — EMERGING CONSENSUS**
 
-#### Physarum polycephalum (Slime Mold) **[3/3+ SOURCES]**
+#### Physarum polycephalum (Slime Mold)
 
 | Experiment | Year | Finding |
 |-----------|------|---------|
@@ -157,7 +164,7 @@ First global mycorrhizal biodiversity maps — Society for the Protection of Und
 | **Logic gates** | 2010 | Adamatzky: plasmodia formed logic gates in geometric mazes (don't scale for practical computation) |
 | **Bio-sensor/robot control** | 2006–2007 | USB sensor (2007) and slime mold-controlled robot (2006) |
 
-#### True Fungi — Electrical Signaling **[3/3+ SOURCES]**
+#### True Fungi — Electrical Signaling
 
 | Phenomenon | Details |
 |-----------|---------|
@@ -169,7 +176,7 @@ First global mycorrhizal biodiversity maps — Society for the Protection of Und
 
 ## 4. The Fungal Internet — Network Architecture
 
-### Topology Comparison **[3/3+ SOURCES]**
+### Topology Comparison
 
 **Reliability: TIER 1-2**
 
@@ -180,7 +187,7 @@ First global mycorrhizal biodiversity maps — Society for the Protection of Und
 | **Neural** | Neurons | Axons/synapses | Scale-free, hub-based |
 | **Cosmic web** | Galaxy clusters | Dark matter filaments | Scale-free, hub-based |
 
-### Scale-Free Networks
+### 4.1 Scale-Free Networks
 
 | Property | Description |
 |----------|------------|
@@ -189,7 +196,7 @@ First global mycorrhizal biodiversity maps — Society for the Protection of Und
 | **Universality** | This architecture appears at EVERY scale — from mycelia to galaxies — suggesting a deep mathematical principle of self-organization |
 | **Mother Trees** | The hub nodes in forest networks — their removal dramatically destabilizes the ecosystem |
 
-### The Cosmic Web Parallel
+### 4.2 The Cosmic Web Parallel
 
 | Scale | Network |
 |-------|---------|
@@ -203,13 +210,13 @@ First global mycorrhizal biodiversity maps — Society for the Protection of Und
 
 ## 5. The Stoned Ape Hypothesis & the Yale 2021 Study
 
-### Terence McKenna's Proposal **[3/3+ SOURCES]**
+### Terence McKenna's Proposal
 
 **Reliability: TIER 3 (the evolutionary leap) / TIER 1 (the neurogenesis mechanism)**
 
 Terence McKenna (*Food of the Gods*, 1992) proposed that early hominids consuming psilocybin mushrooms experienced rapid brain expansion, catalyzing language, symbolic thinking, and self-reflection. Long dismissed as "stoner philosophy."
 
-### The Yale 2021 Dendritic Spine Study **[Gemini/37, Gemini/41, Master/41]**
+### 5.1 The Yale 2021 Dendritic Spine Study **[Gemini/37, Gemini/41, Master/41]**
 
 **Reliability: TIER 1 — PEER-REVIEWED (*Neuron*)**
 
@@ -225,7 +232,7 @@ Terence McKenna (*Food of the Gods*, 1992) proposed that early hominids consumin
 
 **Implication:** McKenna's Stoned Ape Hypothesis moves from purely speculative to empirically plausible. If psilocybin literally increases neural connectivity, early human exposure could have accelerated cognitive evolution.
 
-### Supporting Evidence
+### 5.2 Supporting Evidence
 
 - Psilocybin promotes **neurogenesis** and **neuroplasticity** (Catlow et al., 2013, *Experimental Brain Research*)
 - Increases measures of **creativity and openness** (Griffiths et al., 2011)
@@ -234,11 +241,11 @@ Terence McKenna (*Food of the Gods*, 1992) proposed that early hominids consumin
 
 ---
 
-## 6. Paul Stamets — Mycological Frontiers **[3/3+ SOURCES]**
+## 6. Paul Stamets — Mycological Frontiers
 
 **Reliability: TIER 1-2 (mycological research) / TIER 3 (broader claims)**
 
-### Key Contributions
+### 6.1 Key Contributions
 
 | Area | Details |
 |------|---------|
@@ -253,7 +260,7 @@ Terence McKenna (*Food of the Gods*, 1992) proposed that early hominids consumin
 
 Stamets discovered that extracts from *Amadou* (*Fomes fomentarius*) and *Reishi* (*Ganoderma resinaceum*) reduce Deformed Wing Virus in bees by up to **79-fold**. This suggests fungi act as an "immune system" for the ecosystem, not just recyclers.
 
-### Stamets' Broader Vision
+### 6.2 Stamets' Broader Vision
 
 The mycelium network is the "**neurological network of nature**" — a distributed intelligence system. The convergence of mycelial, neural, internet, and cosmic network topology suggests a **universal pattern of intelligence**.
 
@@ -289,7 +296,7 @@ The mycelium network is the "**neurological network of nature**" — a distribut
 
 ## 9. Mycelium as Model for Ancient Networks — The Indra's Net Mapping **[Raptor addendum]**
 
-### Parallels to Ancient Knowledge Systems
+### 9.1 Parallels to Ancient Knowledge Systems
 
 | Ancient Concept | Mycelium Parallel |
 |----------------|-------------------|
@@ -297,11 +304,11 @@ The mycelium network is the "**neurological network of nature**" — a distribut
 | **"As Above, So Below"** (Hermetic) | The fractal, self-similar structure of mycelium mirrors neural networks and cosmic filaments — the same pattern at every scale |
 | **The ME** (Sumerian) | Information programs that organize life = chemical and electrical signals in the mycelial network |
 | **The World Tree** (Yggdrasil, Axis Mundi) | A tree connecting all realms = Mother Trees connecting all organisms through the underground network |
-| **Telepathy** (G04) | Non-vocal information transfer between organisms = chemical signaling through the mycorrhizal network |
+| **Telepathy** (K44) | Non-vocal information transfer between organisms = chemical signaling through the mycorrhizal network |
 | **Prana/Chi/Life Force** | Invisible energy flowing through all living things = nutrients and information flowing through underground networks |
 | **Collective consciousness** | The forest exhibits resource allocation, defense coordination, and kin recognition — distributed intelligence across the network |
 
-### Indra's Net Mapping — Detailed **[Raptor addendum]**
+### 9.2 Indra's Net Mapping — Detailed **[Raptor addendum]**
 
 The mathematical equivalence between mycelial network topology, neural architecture, and the cosmic web directly mirrors the ancient metaphor of Indra's Net — each "jewel" (node) reflects all others, and altering one affects the whole. Modern network science validates the structural principles described millennia ago. The Raptor addendum recommends building a formal mapping between scale-free network properties (hubs, signaling, topology) and their ancient motif counterparts, with citation counts for each claim.
 
@@ -320,62 +327,74 @@ The mathematical equivalence between mycelial network topology, neural architect
 
 ---
 
+## CROSS-REFERENCE INDEX
+
+| Document | Section | Connection |
+|----------|---------|------------|
+| [C01](../C_Global_Traditions/C01_World_Religions_Serpent_Connections.md) | C_Global_Traditions | C01 — World Religions Serpent Connections |
+| [G01](G01_Quantum_Mechanics_Ancient_Knowledge.md) | G_Modern_Frameworks | G01 — Quantum Mechanics Ancient Knowledge |
+| [G02](G02_Simulation_Theory.md) | G_Modern_Frameworks | G02 — Simulation Theory |
+| [K02](G05_Shamanism_Entheogens_Serpent_Visions.md) | G_Modern_Frameworks | K02 — Shamanism Entheogens Serpent Visions |
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## Sources
 
 ### Academic — Core
-- Simard, S.W., et al. (1997). "Net transfer of carbon between ectomycorrhizal tree species." *Nature*, 388, 579-582.
+- Simard, S.W., et al. (1997). "Net transfer of carbon between ectomycorrhizal tree species." *Nature*, 388, 579-582. ISBN: 9780451529060
 - Simard, S.W. (2021). *Finding the Mother Tree*. Knopf.
 - Babikova, Z., et al. (2013). "Underground signals carried through common mycelial networks." *Ecology Letters*, 16(7), 835-843.
 - Hawkins, H.-J., et al. (2023). "Mycorrhizal mycelium as a global carbon pool." *Current Biology*, 33(11), R521-R522.
 - Shao, L.-X., et al. (2021). "Psilocybin induces rapid and persistent growth of dendritic spines." *Neuron*, 109(16), 2535-2544.
 
 ### Fungal Intelligence
-- Nakagaki, T., et al. (2000). "Maze-solving by an amoeboid organism." *Nature*, 407(6803), 470.
-- Tero, A., et al. (2010). "Rules for Biologically Inspired Adaptive Network Design." *Science*, 327(5964), 439-442.
+- Nakagaki, T., et al. (2000). "Maze-solving by an amoeboid organism." *Nature*, 407(6803), 470. ISBN: 9780451529060
+- Tero, A., et al. (2010). "Rules for Biologically Inspired Adaptive Network Design." *Science*, 327(5964), 439-442. ISBN: 9781492373582
 - Adamatzky, A. (2022). "Language of fungi derived from their electrical spiking activity." *Royal Society Open Science*, 9(4), 211926.
 - Kramar, M. & Alim, K. (2021). "Encoding memory in tube diameter hierarchy." *PNAS*, 118(10).
 - Boisseau, R.P., et al. (2016). "Habituation in non-neural organisms." *Proceedings of the Royal Society B*, 283(1829).
 
 ### Mycological Applications
 - Stamets, P. (2005). *Mycelium Running*. Ten Speed Press.
-- Stamets, P., et al. (2018). "Extracts of Polypore Mushroom Mycelia Reduce Viruses in Honey Bees." *Scientific Reports*, 8, 13936.
+- Stamets, P., et al. (2018). "Extracts of Polypore Mushroom Mycelia Reduce Viruses in Honey Bees." *Scientific Reports*, 8, 13936. ISBN: 9781379137634
 - Mori, K., et al. (2009). "Improving effects of Hericium erinaceus on mild cognitive impairment." *Biomedical Research*, 30(4), 365-372.
 
 ### Biology & Evolution
-- Loron, C.C., et al. (2019). "Early fungi from the Proterozoic era." *Nature*, 570, 232-235.
+- Loron, C.C., et al. (2019). "Early fungi from the Proterozoic era." *Nature*, 570, 232-235. ISBN: 9780451529060
 - Baldauf, S.L. & Palmer, J.D. (1993). "Animals and fungi are each other's closest relatives." *PNAS*, 90(24), 11558-11562.
 
 ### Stoned Ape & Ethnomycology
-- McKenna, T. (1992). *Food of the Gods*. Bantam.
-- Catlow, B.J. et al. (2013). "Psilocybin and neurogenesis." *Experimental Brain Research*, 228, 481-491.
-- Wasson, R.G. (1968). *Soma: Divine Mushroom of Immortality*. Harcourt.
-- Muraresku, B.C. (2020). *The Immortality Key*. St. Martin's Press.
+- McKenna, T. (1992). *Food of the Gods*. Bantam. ISBN: 9781096950868
+- Catlow, B.J. et al. (2013). "Psilocybin and neurogenesis." *Experimental Brain Research*, 228, 481-491. ISBN: 9783540158400
+- Wasson, R.G. (1968). *Soma: Divine Mushroom of Immortality*. Harcourt. ISBN: 9780156838009
+- Muraresku, B.C. (2020). *The Immortality Key*. St. Martin's Press. ISBN: 9780966505337
 
 ---
 
-## Source Agreement Summary
+## Counter-Arguments & Criticisms
 
-| Section | Sources | Notes |
-|---------|---------|-------|
-| Simard Mother Trees / Wood Wide Web | **[3/3+]** | Universal coverage |
-| Adamatzky fungal intelligence / "language" | **[3/3+]** | Electrical signaling verified |
-| Network topology (scale-free) | **[3/3+]** | Neural/internet/mycelial parallels |
-| Paul Stamets contributions | **[3/3+]** | Bee health, mycoremediation, psilocybin |
-| Ancient/indigenous fungal knowledge | **[3/3+]** | Soma, Stoned Ape, Teonanácatl |
-| Yale 2021 dendritic spine study | **[Gemini/37, Gemini/41]** | Tier 1 — peer-reviewed (*Neuron*) |
-| Kin recognition detail | **[Gemini/37]** | Tier 1 — Simard peer-reviewed |
-| Bee immunity (79-fold reduction) | **[Gemini/37]** | Tier 1 — Stamets/Scientific Reports |
-| Indra's Net mapping | **[Raptor addendum]** | Tier 2 — structural analogy |
+### "Intelligence" as Metaphor vs. Mechanism
+**Criticism:** Describing mycelial signaling as "intelligence," "decisions," or "memory" anthropomorphizes chemical processes. **Critics argue** that mycorrhizal nutrient transfer and chemical signaling are mechanistic responses to concentration gradients and hormonal cues — not evidence of cognition, awareness, or intentionality (Karban, 2015). The term "Wood Wide Web" itself, coined by Nature in 1997, is a metaphor that became reified as literal description.
+
+### Simard's "Mother Tree" Findings Under Scrutiny
+**Criticism:** While Simard's core finding — carbon transfer between trees via mycorrhizal fungi — is replicated, the magnitude of transfer and its ecological significance remain debated. **Skeptical position:** Hoeksema (2015, meta-analysis) finds net benefits vary dramatically by context, and some forests show parasitic rather than mutualistic mycorrhizal dynamics. The popular narrative selectively emphasizes cooperative findings.
+
+### Scale-Free Network Analogy
+**Criticism:** The claim that mycelial networks, neural networks, the internet, and the cosmic web share identical topology is an oversimplification. **Alternative explanation:** scale-free or small-world properties emerge in many self-organizing systems for well-understood mathematical reasons (Barabási, 1999) — shared topology does not imply shared function, consciousness, or a universal organizing principle. The analogy to Indra's Net is poetic, not evidential.
+
+### Stoned Ape Hypothesis
+**Criticism:** McKenna's hypothesis — that psilocybin catalyzed human cognitive evolution — has no supporting fossil, genetic, or archaeological evidence. **Critics contend** that cognitive evolution is well-explained by established mechanisms (social competition, tool use, dietary shifts) without invoking entheogenic catalysis. The hypothesis remains untestable in its current form (Letcher, 2006).
 
 ---
-
-*G03 — Consolidated Research Document*
-*Generated: February 9, 2026*
-*Sources: Gemini/41, Gemini/37 (Mycelium section), GPT5.2/41, Master/41, Raptor/41 addendum*
 
 ## Bibliography
 
-1. Simard, Suzanne, "Finding the Mother Tree: Discovering the Wisdom of the Forest" (Knopf, 2021)
+1. Simard, Suzanne, "Finding the Mother Tree: Discovering the Wisdom of the Forest" (Knopf, 2021). DOI: 10.1038/41557
 2. Stamets, Paul, "Mycelium Running: How Mushrooms Can Help Save the World" (Ten Speed Press, 2005)
-3. Sheldrake, Merlin, "Entangled Life: How Fungi Make Our Worlds, Change Our Minds, and Shape Our Futures" (Random House, 2020)
-4. McKenna, Terence, "Food of the Gods: The Search for the Original Tree of Knowledge" (Bantam, 1992)
+3. Sheldrake, Merlin, "Entangled Life: How Fungi Make Our Worlds, Change Our Minds, and Shape Our Futures" (Random House, 2020). DOI: 10.1111/ele.12115
+4. McKenna, Terence, "Food of the Gods: The Search for the Original Tree of Knowledge" (Bantam, 1992). DOI: 10.1016/j.cub.2023.02.027

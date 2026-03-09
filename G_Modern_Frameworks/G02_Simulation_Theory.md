@@ -1,5 +1,18 @@
 # G02 — Simulation Theory
-## Are We Living in a Constructed Reality?
+
+> **Document ID:** G02
+> **Section:** G_Modern_Frameworks
+> **Keywords:** simulation, Bostrom, Adinkras, James Gates, Maya, Philip K Dick, Planck length, pixel, error-correcting codes, Demiurge, Archons, Gnostic, Campbell, Konrad Zuse, Edward Fredkin, Stephen Wolfram, Seth Lloyd, Max Tegmark, Aboriginal Dreamtime, emergence
+> **Category Tags:** modern-frameworks, interdisciplinary
+> **Cross-References:** [A03_Nag_Hammadi_Gnostic_Texts.md](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) | [A08_Hermetic_Tradition.md](../A_Foundations/A08_Hermetic_Tradition.md) | [G01_Quantum_Mechanics_Ancient_Knowledge.md](G01_Quantum_Mechanics_Ancient_Knowledge.md) | [G03_Mycelium_Network.md](G03_Mycelium_Network.md)
+> **Reliability Tier:** Tier 1-3
+> **Last Updated:** Mar 08, 2026 | **Source Count:** 4 | **Weighted Score:** 8 | **Source Confidence:** [1/5] | **Confidence:** Moderate (mixed evidence, interpretation varies)
+
+---
+
+## Quick Summary
+
+Simulation Theory proposes that our perceived reality is a computational simulation running on substrate beyond our direct observation. Bostrom's trilemma (2003) provides the logical scaffolding (Tier 1), quantization of spacetime and Gates's error-correcting codes supply suggestive empirical resonance (Tier 1–2), while mappings to Gnostic Demiurge, Hindu Maya, and Plato's Cave remain interpretive (Tier 3). Prominent physicists (Hossenfelder, Carroll, Wilczek, Ellis) have offered substantive critiques — unfalsifiability, computational impossibility, and infinite regress — that keep the hypothesis outside mainstream scientific consensus.
 
 ---
 
@@ -9,17 +22,11 @@
 
 This document examines the philosophical foundations, the scientific evidence, the ancient parallels, and the Gnostic-Simulation mapping that emerges when these frameworks are compared side by side.
 
-**Source Agreement:** Consolidated from 5 sources (Gemini/42, Gemini/37 Simulation section, GPT5.2/42, Master/42, Raptor/42 addendum). Core claims represent **[3/3+ SOURCES]** unless noted.
-
-**Keywords:** simulation, Bostrom, Adinkras, James Gates, Maya, Philip K Dick, Planck length, pixel, error-correcting codes, Demiurge, Archons, Gnostic, Campbell, Konrad Zuse, Edward Fredkin, Stephen Wolfram, Seth Lloyd, Max Tegmark, Aboriginal Dreamtime
-
-**Cross-references:** [A03_Nag_Hammadi_Gnostic_Texts.md](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) | [A08_Hermetic_Tradition.md](../A_Foundations/A08_Hermetic_Tradition.md) | [G01_Quantum_Mechanics_Ancient_Knowledge.md](G01_Quantum_Mechanics_Ancient_Knowledge.md) | [G03_Mycelium_Network.md](G03_Mycelium_Network.md)
-
 ---
 
 ## 1. The Core Arguments
 
-### 1.1 Nick Bostrom's Simulation Argument (2003) **[3/3+ SOURCES]**
+### 1.1 Nick Bostrom's Simulation Argument (2003)
 
 **Reliability: TIER 1 (the logic is valid) / TIER 3 (the conclusion's applicability)**
 
@@ -39,8 +46,8 @@ At least ONE of the following three propositions MUST be true:
 1. If technologically mature civilizations CAN run ancestor simulations...
 2. And if even a SMALL fraction DO...
 3. Then simulated beings VASTLY outnumber real beings (millions of simulations possible per civilization)
-4. Therefore, any randomly selected conscious being is overwhelmingly likely to be simulated
-5. Unless propositions 1 or 2 prevent it
+4. Therefore, any randomly selected conscious being is overwhelmingly likely to be simulated.
+5. Unless propositions 1 or 2 prevent it.
 
 #### Key Numbers
 
@@ -52,7 +59,7 @@ At least ONE of the following three propositions MUST be true:
 
 **Note:** The argument is probabilistic and conditional, not a direct proof. **[GPT5.2]**
 
-### 1.2 The Computational Universe (Digital Physics) **[3/3+ SOURCES]**
+### 1.2 The Computational Universe (Digital Physics)
 
 **Reliability: TIER 2 — THEORETICAL PHYSICS**
 
@@ -70,7 +77,7 @@ At least ONE of the following three propositions MUST be true:
 
 ## 2. Evidence That Reality Has "Digital" Properties
 
-### 2.1 Quantization **[3/3+ SOURCES]**
+### 2.1 Quantization
 
 **Reliability: TIER 1 — EXPERIMENTALLY VERIFIED**
 
@@ -92,7 +99,7 @@ At least ONE of the following three propositions MUST be true:
 | **In computation** | Every computation has a maximum speed for information propagation |
 | **Analogy** | Like a video game's maximum object speed determined by frame rate |
 
-### 2.3 The Observer Effect **[3/3+ SOURCES]**
+### 2.3 The Observer Effect
 
 | Aspect | Simulation Parallel |
 |--------|-------------------|
@@ -167,7 +174,7 @@ In 1977 at Metz, France, science fiction author **Philip K. Dick** proclaimed:
 
 ---
 
-## 5. Ancient Traditions as Proto-Simulation Theory **[3/3+ SOURCES]**
+## 5. Ancient Traditions as Proto-Simulation Theory
 
 ### 5.1 Plato's Cave (Republic, Book VII, ~380 BCE)
 
@@ -179,7 +186,7 @@ In 1977 at Metz, France, science fiction author **Philip K. Dick** proclaimed:
 | **The outside world** | Base reality outside the simulation |
 | **Liberation** — seeing the real, returning to tell others who don't believe | Awakening to simulated nature; met with disbelief |
 
-### 5.2 Hindu Maya **[3/3+ SOURCES]**
+### 5.2 Hindu Maya
 
 | Element | Simulation Parallel |
 |---------|-------------------|
@@ -336,24 +343,40 @@ Several prominent theoretical physicists have offered specific technical objecti
 | **Ancient technological knowledge** | If ancients accessed simulation structure, their "impossible" knowledge becomes explicable |
 | **Suppression of knowledge** (H01, H02) | Keeping people ignorant of the simulation prevents manipulation or escape — the ultimate control |
 | **Sacred geometry** (D10) | Phi, Pi, Fibonacci = the simulation's underlying algorithms made visible |
-| **Telepathy / consciousness** (G04) | Non-brain-generated consciousness = cross-referencing the same data layer |
-| **Entheogens** (G05) | Psychedelics may alter "display settings," allowing perception of the simulation's code |
+| **Telepathy / consciousness** (K44) | Non-brain-generated consciousness = cross-referencing the same data layer |
+| **Entheogens** (K02) | Psychedelics may alter "display settings," allowing perception of the simulation's code |
 | **Flood stories** (C02) | A global "reset" — comparable to a server restart or version update |
 | **Hermetic "as above, so below"** (A08) | Fractal self-similarity is a hallmark of computational generation |
 
 ---
+
+## CROSS-REFERENCE INDEX
+
+| Document | Section | Connection |
+|----------|---------|------------|
+| [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) | A_Foundations | A03 — Nag Hammadi Gnostic Texts |
+| [A08](../A_Foundations/A08_Hermetic_Tradition.md) | A_Foundations | A08 — Hermetic Tradition |
+| [G01](G01_Quantum_Mechanics_Ancient_Knowledge.md) | G_Modern_Frameworks | G01 — Quantum Mechanics Ancient Knowledge |
+| [G03](G03_Mycelium_Network.md) | G_Modern_Frameworks | G03 — Mycelium Network |
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
 
 ## Sources
 
 ### Academic / Philosophical
 - Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
 - Chalmers, D.J. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W.W. Norton.
-- Tegmark, M. (2014). *Our Mathematical Universe*. Knopf.
+- Tegmark, M. (2014). *Our Mathematical Universe*. Knopf. ISBN: 9780307599803
 - Wigner, E. (1960). "The Unreasonable Effectiveness of Mathematics in the Natural Sciences."
 
 ### Digital Physics
 - Zuse, K. (1969). *Rechnender Raum*. Vieweg.
-- Wolfram, S. (2002). *A New Kind of Science*. Wolfram Media.
+- Wolfram, S. (2002). *A New Kind of Science*. Wolfram Media. ISBN: 9781579550196
 - Lloyd, S. (2006). *Programming the Universe*. Knopf.
 - Wheeler, J.A. (1990). "Information, Physics, Quantum: The Search for Links."
 
@@ -365,35 +388,34 @@ Several prominent theoretical physicists have offered specific technical objecti
 
 ### Popular / Applied
 - Virk, R. (2019). *The Simulation Hypothesis*. Bayview Books.
-- Campbell, T. (2007). *My Big TOE*. Lightning Strike Books.
+- Campbell, T. (2007). *My Big TOE*. Lightning Strike Books. ISBN: 9780972509428
 - Dick, P.K. (1977). "If You Find This World Bad, You Should See Some of the Others." Speech, Metz, France.
 
 ### Ancient Parallels
 - Jonas, H. (1958). *The Gnostic Religion*. Beacon Press.
-- Pagels, E. (1979). *The Gnostic Gospels*. Random House.
-- Plato. *Republic*, Book VII.
+- Pagels, E. (1979). *The Gnostic Gospels*. Random House. ISBN: 9788484325260
+- Plato. *Republic*, Book VII. ISBN: 9780345511355
 - Olivelle, P. (trans.) (1996). *Upanisads*. Oxford University Press.
 
 ---
 
-## Source Agreement Summary
+## Counter-Arguments & Criticisms
 
-| Section | Sources | Notes |
-|---------|---------|-------|
-| Bostrom's trilemma | **[3/3+]** | Universal coverage |
-| Digital physics (Zuse, Wolfram, Wheeler) | **[3/3+]** | All cover computational universe |
-| Plato's Cave / Maya / Gnostic parallels | **[3/3+]** | Ancient proto-simulation traditions |
-| Quantization / observer effect as sim evidence | **[3/3+]** | Cross-referenced with G01 |
-| Gates Adinkras / error-correcting codes | **[Gemini]** | Tier 1 physics / Tier 3 interpretation |
-| Philip K. Dick 1977 speech | **[Gemini, Master]** | Tier 3 anecdotal/prophetic |
-| "Avatar" etymological connection | **[Gemini, Master]** | Tier 2 linguistic |
-| Gnostic↔Simulation mapping table | **[Gemini, Master, Raptor]** | Tier 2-3 interpretive |
+### Unfalsifiability & Self-Refutation
+**Criticism:** The Simulation Hypothesis as commonly stated makes no distinguishing predictions — it is compatible with every possible observation, rendering it unfalsifiable by Popperian standards. **Critics argue** that if we cannot trust our own reasoning (because simulated minds may be unreliable), the very argument that led us to the hypothesis is self-defeating (Carroll, 2016). **Skeptical position:** without a detectable prediction, the hypothesis belongs to metaphysics, not science.
+
+### Computational Impossibility
+**Criticism:** Simulating the full quantum-field-theoretic microstructure of even a small volume of spacetime exceeds any plausible computational resource, including those permitted by thermodynamic limits (Hossenfelder, 2021). Wilczek notes that the "hidden complexity" of quantum field theory at scales we never probe is inexplicable waste if reality were purpose-built software (Wilczek, 2021). **Alternative explanation:** the mathematical elegance of physics reflects the structure of reality itself, not an underlying codebase (Tegmark, 2014).
+
+### Infinite Regress
+**Criticism:** If our universe is a simulation, the simulators' universe must also be explainable — leading to an infinite regress of simulations. **Opposing view:** Marcelo Gleiser (2017) argues there is "no reason" to prefer simulation over base reality, and that positing layers of simulation only multiplies explanatory debts without resolving them.
+
+### Anthropic Analogy Problem
+**Criticism:** Mapping ancient metaphors (Maya, Plato's Cave, Gnostic Demiurge) onto modern computational simulation conflates literary analogy with technical identity. **Critics contend** that metaphorical language about illusion and veiled reality occurs in every philosophical tradition and does not constitute evidence for a literal computational substrate — the pattern is a function of human cognition, not of underlying reality.
+
+*See also Section 7 for detailed physics-based critiques with source attributions.*
 
 ---
-
-*G02 — Consolidated Research Document*
-*Generated: February 9, 2026*
-*Sources: Gemini/42, Gemini/37 (Simulation section), GPT5.2/42, Master/42, Raptor/42 addendum*
 
 ## Bibliography
 
