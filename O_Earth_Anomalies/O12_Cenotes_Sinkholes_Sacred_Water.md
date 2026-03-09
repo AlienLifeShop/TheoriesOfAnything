@@ -3,9 +3,10 @@
 > **Document ID:** O12
 > **Section:** O_Earth_Anomalies
 > **Keywords:** cenotes, sinkholes, Maya, Chicxulub, Chaac, Xibalba, karst, blue holes, Sacred Cenote, Chichén Itzá, aquifer, limestone, dolomite, Thompson
-> **Cross-References:** [O07](O07_Sacred_Water_Wells_Springs.md) · [C37](../C_Global_Traditions/C37_Maya_Epigraphy_Astronomy.md) · [C69](../C_Global_Traditions/C69_Angkor_Wat_Khmer_Cosmology.md) · [E20](../E_Cataclysms_and_Chronology/E20_Chicxulub_Impact_KPg_Boundary.md) · [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels_Subterranean_Networks.md)
+> **Category Tags:** earth-anomalies, religion
+> **Cross-References:** [O07](O07_Sacred_Water_Wells_Springs.md) · [W03](../W_World_Civilizations/W03_Maya_Epigraphy_Astronomy.md) · [W11](../W_World_Civilizations/W11_Angkor_Wat_Khmer_Cosmology.md) · [E20](../E_Cataclysms_and_Chronology/E20_Chicxulub_Impact_KPg_Boundary.md) · [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels_Subterranean_Networks.md)
 > **Reliability Tier:** Tier 1-3 (verified geology and archaeology through speculative ritual interpretations)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** Moderate-High
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 9 | **Weighted Score:** 18 | **Source Confidence:** [2/5] | **Confidence:** Moderate-High
 
 ---
 
@@ -27,7 +28,7 @@ Cenotes — natural sinkholes exposing groundwater in the limestone bedrock of t
 - Halocline: many cenotes show saltwater-freshwater stratification — freshwater lens floats above denser saltwater from marine intrusion
 
 ### 1.2 The Chicxulub Crater Ring of Cenotes
-- The **Chicxulub impact crater** (~180 km diameter) was formed by an asteroid impact 66 million years ago — causally linked to the Cretaceous-Paleogene mass extinction (→ E20)
+- The **Chicxulub impact crater** (~180 km diameter) was formed by an asteroid impact 66 million years ago — causally linked to the Cretaceous-Paleogene mass extinction (→ [E20](../E_Cataclysms_and_Chronology/E20_Chicxulub_Impact_KPg_Boundary.md))
 - **Ring of cenotes:** a semicircular arc of cenotes traces the crater rim — visible in satellite imagery (Pope et al., 1996)
 - Mechanism: impact fractured bedrock along the crater rim → preferential dissolution along fractures over geological time → cenotes concentrate along the ring
 - This geological relationship means that the asteroid impact that killed the dinosaurs ultimately determined where the Maya would find water and build their civilization
@@ -67,7 +68,7 @@ Cenotes — natural sinkholes exposing groundwater in the limestone bedrock of t
 ### 2.1 Cenotes as Portals to Xibalba
 - **Xibalba** ("Place of Fear"): the Maya underworld described in the *Popol Vuh* — a subterranean realm with rivers, courts, and lords of death
 - Maya cosmology: cenotes were physical entrances to Xibalba — water surface = boundary between the living world (middleworld) and the realm of the dead
-- Hero Twins myth (*Popol Vuh*): Hunahpu and Xbalanque descend to Xibalba, defeat the lords of death through cleverness, and ascend as the sun and moon (→ C37)
+- Hero Twins myth (*Popol Vuh*): Hunahpu and Xbalanque descend to Xibalba, defeat the lords of death through cleverness, and ascend as the sun and moon (→ [W03](../W_World_Civilizations/W03_Maya_Epigraphy_Astronomy.md))
 - Archaeological evidence supports ritual connection: artifacts deposited in cenotes are consistent with offerings to underworld deities
 - **Not merely symbolic:** the Maya conceived of the underground river system as literally connected to the underworld
 - Cave cenotes with underwater passages may have reinforced this cosmology — divers entering submerged tunnels appear to "pass through" into another world
@@ -105,7 +106,7 @@ Cenotes — natural sinkholes exposing groundwater in the limestone bedrock of t
 - Connection to cave acoustics research (Reznikoff) — but cenote-specific studies are limited
 
 ### 3.3 Interconnected Sacred Waterways
-- Proposal that the entire Yucatan subterranean river system was understood by the Maya as a single sacred entity — a living underworld river system (→ D32)
+- Proposal that the entire Yucatan subterranean river system was understood by the Maya as a single sacred entity — a living underworld river system (→ [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels_Subterranean_Networks.md))
 - Some evidence from cave art and deposits throughout the system, but extent of Maya exploration of underwater caves is debated
 - Modern cave divers continue to connect previously separate cave systems — the Maya may have known connections through water flow patterns
 
@@ -130,14 +131,42 @@ Cenotes — natural sinkholes exposing groundwater in the limestone bedrock of t
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Uniformitarian Counterpoints
+
+- **Skeptical position:** Mainstream geology operates primarily on uniformitarian principles — the idea that geological processes observed today have operated similarly throughout Earth's history. Critics argue that claims about Cenotes, Sinkholes, and Sacred Water Portals invoke catastrophist scenarios that lack sufficient geological evidence and conflict with well-established geological principles.
+- **Alternative explanations:** Many geological features attributed to Cenotes, Sinkholes, and Sacred Water Portals can be explained by gradual processes operating over long timescales. Erosion, sedimentation, tectonic activity, and climate change can produce dramatic landscape features without requiring catastrophic events.
+- **Methodological concerns:** Catastrophist hypotheses for Cenotes, Sinkholes, and Sacred Water Portals sometimes rely on selective interpretation of geological evidence. When the full stratigraphic, geochemical, and paleontological record is considered, the evidence for sudden catastrophic events may be less compelling than initially presented.
+
+### Dating & Chronological Disputes
+
+- **Contested timelines:** The dating of events associated with Cenotes, Sinkholes, and Sacred Water Portals has been disputed by researchers using different methods. Radiocarbon calibration curves, ice core chronologies, and dendrochronological records do not always support the proposed dates, and these discrepancies remain unresolved.
+- **Correlation vs. causation:** Even where geological evidence coincides with proposed catastrophic events, critics note that temporal correlation does not establish causation. Multiple independent events could produce similar geological signatures at similar times coincidentally.
+- Critics argue that the geological and paleoclimate record related to Cenotes, Sinkholes, and Sacred Water Portals is more complex and ambiguous than catastrophist interpretations suggest, and that oversimplified narratives can distort the actual scientific evidence.
+
+### Research Limitations & Open Questions
+
+- **Disputed impact evidence:** Physical evidence cited for Cenotes, Sinkholes, and Sacred Water Portals (impact markers, vitrified materials, anomalous deposits) has been contested by other researchers who question the identification of these materials or propose alternative formation mechanisms.
+- **Cultural memory reliability:** Claims that ancient myths preserve accurate memories of events related to Cenotes, Sinkholes, and Sacred Water Portals face the challenge that oral traditions are known to transform dramatically over centuries. The degree to which cultural narratives can preserve specific historical events over millennia is genuinely debated.
+- **Open questions:** The relative roles of catastrophic events versus gradual change in shaping Earth's geological and biological history remain active areas of legitimate scientific inquiry. The evidence related to Cenotes, Sinkholes, and Sacred Water Portals contributes to this ongoing debate but does not resolve it definitively.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Chatters, J. C., et al. (2014). Late Pleistocene human skeleton and mtDNA link Paleoamericans and modern Native Americans. *Science*, 344(6185), 750-754.
-2. Ford, D. C., & Williams, P. (2007). *Karst Hydrogeology and Geomorphology*. Wiley.
-3. Hildebrand, A. R., et al. (1991). Chicxulub crater: A possible Cretaceous/Tertiary boundary impact crater on the Yucatán Peninsula, Mexico. *Geology*, 19(9), 867-871.
-4. Hodell, D. A., Curtis, J. H., & Brenner, M. (1995). Possible role of climate in the collapse of Classic Maya civilization. *Nature*, 375(6530), 391-394.
-5. Hoggarth, J. A., et al. (2016). The political collapse of Chichén Itzá in climatic and cultural context. *Global and Planetary Change*, 138, 25-42.
-6. Landa, D. de. (1566/1941). *Relación de las cosas de Yucatán*. Trans. A.M. Tozzer. Peabody Museum.
+1. Chatters, J. C., et al. (2014). Late Pleistocene human skeleton and mtDNA link Paleoamericans and modern Native Americans. *Science*, 344(6185), 750-754. ISBN: 9781492373582. DOI: 10.1126/science.1252619
+2. Ford, D. C., & Williams, P. (2007). *Karst Hydrogeology and Geomorphology*. Wiley. ISBN: 9780470849972. DOI: 10.1002/9781118684986.ch5
+3. Hildebrand, A. R., et al. (1991). Chicxulub crater: A possible Cretaceous/Tertiary boundary impact crater on the Yucatán Peninsula, Mexico. *Geology*, 19(9), 867-871. DOI: 10.1130/0091-7613(1991)019<0867:ccapct>2.3.co;2
+4. Hodell, D. A., Curtis, J. H., & Brenner, M. (1995). Possible role of climate in the collapse of Classic Maya civilization. *Nature*, 375(6530), 391-394. ISBN: 9780451529060. DOI: 10.1038/375391a0
+5. Hoggarth, J. A., et al. (2016). The political collapse of Chichén Itzá in climatic and cultural context. *Global and Planetary Change*, 138, 25-42. ISBN: 9788890022135. DOI: 10.1016/j.gloplacha.2015.12.007
+6. Landa, D. de. (1566/1941). *Relación de las cosas de Yucatán*. Trans. A.M. Tozzer. Peabody Museum. ISBN: 9789687232294
 7. Pope, K. O., et al. (1996). Surface expression of the Chicxulub crater. *Geology*, 24(6), 527-530.
 8. Reddell, J. R. (1981). A review of the cavernicole fauna of Mexico, Guatemala, and Belize. *Bulletin of the Texas Memorial Museum*, 27, 1-327.
 9. Thompson, E. H. (1938). *People of the Serpent*. Capricorn Books.
@@ -149,13 +178,13 @@ Cenotes — natural sinkholes exposing groundwater in the limestone bedrock of t
 | Related Doc | Connection |
 |-------------|-----------|
 | [O07](O07_Sacred_Water_Wells_Springs.md) | Sacred water traditions across cultures |
-| [C37](../C_Global_Traditions/C37_Maya_Epigraphy_Astronomy.md) | Maya astronomy and Xibalba cosmology |
-| [C69](../C_Global_Traditions/C69_Angkor_Wat_Khmer_Cosmology.md) | Angkor Wat — ancient water infrastructure |
+| [W03](../W_World_Civilizations/W03_Maya_Epigraphy_Astronomy.md) | Maya astronomy and Xibalba cosmology |
+| [W11](../W_World_Civilizations/W11_Angkor_Wat_Khmer_Cosmology.md) | Angkor Wat — ancient water infrastructure |
 | [E20](../E_Cataclysms_and_Chronology/E20_Chicxulub_Impact_KPg_Boundary.md) | Chicxulub asteroid impact — cenote ring |
 | [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels_Subterranean_Networks.md) | Underground tunnels and passage networks |
-| [L04](../L_Genetics_Origins/L06_Archaic_Human_Species_Synthesis.md) | Hoyo Negro — Paleoamerican skeletal finds |
+| [L04](../L_Genetics_Origins/L05_Archaic_Human_Species_Synthesis.md) | Hoyo Negro — Paleoamerican skeletal finds |
 | [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) | Catastrophic events and civilizational collapse |
-| [R07](../R_Biology_Evolution/R07_Extremophile_Biology.md) | Cave extremophile organisms |
+| [R06](../R_Biology_Evolution/R06_Extremophile_Biology.md) | Cave extremophile organisms |
 
 ---
 

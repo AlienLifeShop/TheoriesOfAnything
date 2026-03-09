@@ -3,9 +3,10 @@
 > **Document ID:** O10
 > **Section:** O_Earth_Anomalies
 > **Keywords:** earthquake prediction, Zhang Heng, seismoscope, animal precursors, radon, earthquake lights, piezoelectric, induced seismicity, fracking, Poseidon, Namazu, Ring of Fire
-> **Cross-References:** [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) · [O06](O06_Volcanism_Supervolcanoes.md) · [J15](../J_Ancient_Technology/J15_Chinese_Ancient_Technology.md) · [D21](../D_Sites_and_Artifacts/D21_Crystal_Stone_Piezoelectric_Technology.md)
+> **Category Tags:** earth-anomalies
+> **Cross-References:** [G08](../G_Modern_Frameworks/G08_Ball_Lightning_Atmospheric_Anomalies.md) · [O06](O06_Volcanism_Supervolcanoes.md) · [J15](../J_Ancient_Technology/J15_Chinese_Ancient_Technology.md) · [D21](../D_Sites_and_Artifacts/D21_Crystal_Stone_Piezoelectric_Technology.md)
 > **Reliability Tier:** Tier 1-3 (verified seismological science through debated prediction methods)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 26 scholarly sources | **Confidence:** Moderate
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 12 | **Weighted Score:** 28 | **Source Confidence:** [3/5] | **Confidence:** Moderate
 
 ---
 
@@ -33,7 +34,7 @@ Earthquake prediction remains one of the great unsolved problems of geoscience �
 ### 1.3 Zhang Heng's Seismoscope (132 CE)
 - Zhang Heng (張衡), Han Dynasty polymath, invented the "Houfeng Didong Yi" (候風地動儀) — "instrument for measuring seasonal winds and movements of the Earth"
 - Device: bronze vessel ~2 m diameter with 8 dragon heads around rim, each holding a bronze ball; internal pendulum mechanism
-- **Documented success:** detected an earthquake approximately 500 km away in Longxi (modern Gansu) when no tremor was felt in the capital Luoyang (→ J15)
+- **Documented success:** detected an earthquake approximately 500 km away in Longxi (modern Gansu) when no tremor was felt in the capital Luoyang (→ [J15](../J_Ancient_Technology/J15_Chinese_Ancient_Technology.md))
 - Represents the first known instrument designed specifically to detect seismic waves
 - Original device lost — modern reconstructions debated (Feng et al., 2006 attempted faithful reconstruction based on historical descriptions)
 - Principle: inertial pendulum — same basic principle used in modern seismometers
@@ -65,7 +66,7 @@ Earthquake prediction remains one of the great unsolved problems of geoscience �
 - Not reliable as standalone predictor but may contribute to multi-parameter monitoring
 
 ### 2.3 Earthquake Lights (EQLs)
-- Luminous atmospheric phenomena reported before, during, or after major earthquakes — flickering columns, globes, sheets of light (→ G12)
+- Luminous atmospheric phenomena reported before, during, or after major earthquakes — flickering columns, globes, sheets of light (→ [G08](../G_Modern_Frameworks/G08_Ball_Lightning_Atmospheric_Anomalies.md))
 - Thériault et al. (2014, *Seismological Research Letters*): compiled 65 documented cases from 1600-2009, found EQLs preferentially associated with rift zones and subvertical faults
 - **Proposed mechanism:** piezoelectric effect in quartz-bearing rocks under tectonic stress generates electric fields → ionization of air → luminescence
 - Freund (2010): proposed "positive hole" charge carriers — stress-activated electronic charge carriers flow through rock and ionize air at the surface
@@ -118,15 +119,43 @@ Earthquake prediction remains one of the great unsolved problems of geoscience �
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Uniformitarian Counterpoints
+
+- **Skeptical position:** Mainstream geology operates primarily on uniformitarian principles — the idea that geological processes observed today have operated similarly throughout Earth's history. Critics argue that claims about Earthquake Prediction — Ancient Seismological Knowledge and Modern Limits invoke catastrophist scenarios that lack sufficient geological evidence and conflict with well-established geological principles.
+- **Alternative explanations:** Many geological features attributed to Earthquake Prediction — Ancient Seismological Knowledge and Modern Limits can be explained by gradual processes operating over long timescales. Erosion, sedimentation, tectonic activity, and climate change can produce dramatic landscape features without requiring catastrophic events.
+- **Methodological concerns:** Catastrophist hypotheses for Earthquake Prediction — Ancient Seismological Knowledge and Modern Limits sometimes rely on selective interpretation of geological evidence. When the full stratigraphic, geochemical, and paleontological record is considered, the evidence for sudden catastrophic events may be less compelling than initially presented.
+
+### Dating & Chronological Disputes
+
+- **Contested timelines:** The dating of events associated with Earthquake Prediction — Ancient Seismological Knowledge and Modern Limits has been disputed by researchers using different methods. Radiocarbon calibration curves, ice core chronologies, and dendrochronological records do not always support the proposed dates, and these discrepancies remain unresolved.
+- **Correlation vs. causation:** Even where geological evidence coincides with proposed catastrophic events, critics note that temporal correlation does not establish causation. Multiple independent events could produce similar geological signatures at similar times coincidentally.
+- Critics argue that the geological and paleoclimate record related to Earthquake Prediction — Ancient Seismological Knowledge and Modern Limits is more complex and ambiguous than catastrophist interpretations suggest, and that oversimplified narratives can distort the actual scientific evidence.
+
+### Research Limitations & Open Questions
+
+- **Disputed impact evidence:** Physical evidence cited for Earthquake Prediction — Ancient Seismological Knowledge and Modern Limits (impact markers, vitrified materials, anomalous deposits) has been contested by other researchers who question the identification of these materials or propose alternative formation mechanisms.
+- **Cultural memory reliability:** Claims that ancient myths preserve accurate memories of events related to Earthquake Prediction — Ancient Seismological Knowledge and Modern Limits face the challenge that oral traditions are known to transform dramatically over centuries. The degree to which cultural narratives can preserve specific historical events over millennia is genuinely debated.
+- **Open questions:** The relative roles of catastrophic events versus gradual change in shaping Earth's geological and biological history remain active areas of legitimate scientific inquiry. The evidence related to Earthquake Prediction — Ancient Seismological Knowledge and Modern Limits contributes to this ongoing debate but does not resolve it definitively.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Ellsworth, W. L. (2013). Injection-induced earthquakes. *Science*, 341(6142), 1225942.
+1. Ellsworth, W. L. (2013). Injection-induced earthquakes. *Science*, 341(6142), 1225942. ISBN: 9781492373582. DOI: 10.1126/science.1225942
 2. Feng, R., et al. (2006). On the reconstruction and testing of Zhang Heng's seismoscope. *Acta Seismologica Sinica*, 19(5), 587-596.
-3. Freund, F. T. (2010). Toward a unified solid state theory for pre-earthquake signals. *Acta Geophysica*, 58(5), 719-766.
-4. Grant, R. A., & Halliday, T. (2010). Predicting the unpredictable: evidence of pre-seismic anticipatory behaviour in the common toad. *Journal of Zoology*, 280(3), 263-271.
-5. Hough, S. E. (2009). *Predicting the Unpredictable: The Tumultuous Science of Earthquake Prediction*. Princeton University Press.
-6. Igarashi, G., et al. (1995). Ground-water radon anomaly before the Kobe earthquake in Japan. *Science*, 269(5220), 60-61.
-7. Keranen, K. M., et al. (2014). Sharp increase in central Oklahoma seismicity since 2008 induced by massive wastewater injection. *Science*, 345(6195), 448-451.
+3. Freund, F. T. (2010). Toward a unified solid state theory for pre-earthquake signals. *Acta Geophysica*, 58(5), 719-766. DOI: 10.2478/s11600-009-0066-x
+4. Grant, R. A., & Halliday, T. (2010). Predicting the unpredictable: evidence of pre-seismic anticipatory behaviour in the common toad. *Journal of Zoology*, 280(3), 263-271. DOI: 10.1111/j.1469-7998.2010.00700.x
+5. Hough, S. E. (2009). *Predicting the Unpredictable: The Tumultuous Science of Earthquake Prediction*. Princeton University Press. DOI: 10.1515/9781400831807
+6. Igarashi, G., et al. (1995). Ground-water radon anomaly before the Kobe earthquake in Japan. *Science*, 269(5220), 60-61. ISBN: 9781492373582. DOI: 10.1126/science.269.5220.60
+7. Keranen, K. M., et al. (2014). Sharp increase in central Oklahoma seismicity since 2008 induced by massive wastewater injection. *Science*, 345(6195), 448-451. ISBN: 9781492373582
 8. Reid, H. F. (1910). *The Mechanics of the Earthquake, The California Earthquake of April 18, 1906*. Carnegie Institution of Washington.
 9. Thériault, R., et al. (2014). Prevalence of earthquake lights associated with rift environments. *Seismological Research Letters*, 85(1), 159-178.
 10. Tributsch, H. (1982). *When the Snakes Awake: Animals and Earthquake Prediction*. MIT Press.
@@ -139,13 +168,13 @@ Earthquake prediction remains one of the great unsolved problems of geoscience �
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) | Earthquake lights — luminous phenomena and piezoelectric effects |
+| [G08](../G_Modern_Frameworks/G08_Ball_Lightning_Atmospheric_Anomalies.md) | Earthquake lights — luminous phenomena and piezoelectric effects |
 | [O06](O06_Volcanism_Supervolcanoes.md) | Volcanism — related tectonic hazard |
 | [J15](../J_Ancient_Technology/J15_Chinese_Ancient_Technology.md) | Zhang Heng's seismoscope — ancient Chinese technology |
 | [D21](../D_Sites_and_Artifacts/D21_Crystal_Stone_Piezoelectric_Technology.md) | Crystal and piezoelectric properties in ancient contexts |
 | [O04](O04_Magnetosphere_Solar_Activity.md) | Electromagnetic precursors and geomagnetic context |
 | [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) | Catastrophism and cyclical geological events |
-| [C74](../C_Global_Traditions/C74_Pueblo_Hopi_Ancestral_Puebloan.md) | Ring of Fire cultural awareness in Pacific traditions |
+| [C48](../C_Global_Traditions/C48_Pueblo_Hopi_Ancestral_Puebloan.md) | Ring of Fire cultural awareness in Pacific traditions |
 
 ---
 
