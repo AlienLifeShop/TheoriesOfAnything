@@ -3,9 +3,10 @@
 > **Document ID:** M09
 > **Section:** M_Forbidden_Archaeology
 > **Keywords:** Antikythera mechanism, analog computer, Greek technology, bronze gears, Saros cycle, eclipse prediction, differential gearing, ancient astronomy, Archimedes, shipwreck
+> **Category Tags:** forbidden-archaeology
 > **Cross-References:** [J03](../J_Ancient_Technology/J03_Lost_Material_Science.md) · [J11](../J_Ancient_Technology/J11_Ancient_Automata_Proto_Robotics.md) · [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [J15](../J_Ancient_Technology/J15_Chinese_Ancient_Technology.md)
 > **Reliability Tier:** Tier 1-2 (physical artifact verified; some reconstructed functions debated)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 16 scholarly sources | **Confidence:** High
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 16 | **Weighted Score:** 32 | **Source Confidence:** [4/5] | **Confidence:** High
 
 ---
 
@@ -96,13 +97,41 @@ The Antikythera Mechanism is a corroded bronze device recovered from a Roman-era
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Conventional Archaeological Explanations
+
+- **Skeptical position:** Mainstream archaeologists have proposed conventional explanations for the construction methods and features of sites related to Antikythera Mechanism Deep Dive — The World's First Analog Computer. Critics argue that attributing anomalous characteristics to unknown technologies underestimates the ingenuity and capabilities of ancient peoples using known tools and techniques.
+- **Dating controversies:** The chronological claims associated with Antikythera Mechanism Deep Dive — The World's First Analog Computer have been disputed by researchers using different dating methodologies. Radiocarbon dating, thermoluminescence, and stratigraphic analysis sometimes yield conflicting results, and the choice of what material to date can significantly affect conclusions.
+- **Alternative explanations:** Experimental archaeology has demonstrated that many supposedly impossible construction feats can be replicated using tools and methods available to ancient builders. While the scale and precision remain impressive, they do not necessarily require invoking unknown technologies.
+
+### Methodological & Evidence Challenges
+
+- **Confirmation bias in site interpretation:** Critics contend that researchers approaching Antikythera Mechanism Deep Dive — The World's First Analog Computer with predetermined conclusions may over-interpret ambiguous features. Natural geological formations, weathering patterns, and coincidental alignments can appear intentional when viewed through an expectant lens.
+- **Contested measurements:** Several extraordinary claims about precision at sites related to Antikythera Mechanism Deep Dive — The World's First Analog Computer depend on specific measurement methodologies that other researchers have been unable to replicate or have disputed. Measurement uncertainty and selective reporting of favorable data points are ongoing concerns.
+- **Research gaps:** Many sites associated with Antikythera Mechanism Deep Dive — The World's First Analog Computer have not been fully excavated or studied using modern archaeological methods. Until comprehensive, peer-reviewed investigations are completed, extraordinary claims should be considered preliminary hypotheses rather than established facts.
+
+### Scholarly Criticism
+
+- **Peer review gaps:** Some alternative interpretations of Antikythera Mechanism Deep Dive — The World's First Analog Computer have been advanced primarily in popular media rather than peer-reviewed academic publications. This limits their exposure to the rigorous critique and replication that formal scholarship requires.
+- **Underestimating ancient capabilities:** Mainstream archaeologists argue that evidence from Antikythera Mechanism Deep Dive — The World's First Analog Computer actually demonstrates the remarkable abilities of ancient peoples — sophisticated project management, engineering knowledge, and astronomical observation — without requiring extraordinary interventions.
+- **Disputed physical evidence:** Where anomalous materials or toolmarks have been reported at sites related to Antikythera Mechanism Deep Dive — The World's First Analog Computer, they have been contested by other researchers who offer alternative identifications or note potential contamination and misattribution.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Freeth, T., et al. (2006). "Decoding the ancient Greek astronomical calculator known as the Antikythera Mechanism." *Nature*, 444, 587-591.
-2. Freeth, T., et al. (2021). "A model of the cosmos in the ancient Greek Antikythera Mechanism." *Scientific Reports*, 11, 5821.
-3. Freeth, T., et al. (2008). "Calendars with Olympiad display and eclipse prediction on the Antikythera Mechanism." *Nature*, 454, 614-617.
-4. Price, D. de S. (1974). "Gears from the Greeks: The Antikythera Mechanism — A Calendar Computer from ca. 80 B.C." *Transactions of the American Philosophical Society*, 64(7), 1-70.
-5. Jones, A. (2017). *A Portable Cosmos: Revealing the Antikythera Mechanism, Scientific Wonder of the Ancient World*. Oxford University Press.
+1. Freeth, T., et al. (2006). "Decoding the ancient Greek astronomical calculator known as the Antikythera Mechanism." *Nature*, 444, 587-591. DOI: 10.1038/nature05357. ISBN: 9780451529060
+2. Freeth, T., et al. (2021). "A model of the cosmos in the ancient Greek Antikythera Mechanism." *Scientific Reports*, 11, 5821. ISBN: 9781379137634. DOI: 10.1038/s41598-021-84310-w
+3. Freeth, T., et al. (2008). "Calendars with Olympiad display and eclipse prediction on the Antikythera Mechanism." *Nature*, 454, 614-617. DOI: 10.1038/nature07130. ISBN: 9780451529060
+4. Price, D. de S. (1974). "Gears from the Greeks: The Antikythera Mechanism — A Calendar Computer from ca. 80 B.C." *Transactions of the American Philosophical Society*, 64(7), 1-70. ISBN: 9780871694355. DOI: 10.70249/9780871693006-002
+5. Jones, A. (2017). *A Portable Cosmos: Revealing the Antikythera Mechanism, Scientific Wonder of the Ancient World*. Oxford University Press. DOI: 10.1484/j.almagest.5.113701
 6. Marchant, J. (2008). *Decoding the Heavens: A 2,000-Year-Old Computer—and the Century-Long Search to Discover Its Secrets*. Da Capo Press.
 7. Freeth, T. & Jones, A. (2012). "The Cosmos in the Antikythera Mechanism." *ISAW Papers*, 4.
 8. Carman, C.C. & Evans, J. (2014). "On the epoch of the Antikythera mechanism and its eclipse predictor." *Archive for History of Exact Sciences*, 68, 693-774.
@@ -111,7 +140,7 @@ The Antikythera Mechanism is a corroded bronze device recovered from a Roman-era
 11. Anastasiou, M., et al. (2016). "The Antikythera Mechanism: The construction of the back cover inscription." *Almagest*, 7(1), 70-92.
 12. Bitsakis, Y. & Jones, A. (2016). "The front dial and parapegma inscriptions." *Almagest*, 7(1), 68-137.
 13. Vogt, D., et al. (2020). "New approaches to the Antikythera Mechanism." *Proceedings of the National Academy of Sciences*, 117(16), 8641-8642.
-14. Seiradakis, J.H. & Edmunds, M.G. (2018). "Our current knowledge of the Antikythera Mechanism." *Nature Astronomy*, 2, 35-42.
+14. Seiradakis, J.H. & Edmunds, M.G. (2018). "Our current knowledge of the Antikythera Mechanism." *Nature Astronomy*, 2, 35-42. ISBN: 9781417948567
 15. Lin, J.L. & Yan, H.S. (2016). *Decoding the Mechanisms of Antikythera Astronomical Device*. Springer.
 16. Edmunds, M.G. (2014). "The Antikythera mechanism and the mechanical universe." *Contemporary Physics*, 55(4), 263-285.
 

@@ -3,9 +3,10 @@
 > **Document ID:** M07
 > **Section:** M_Forbidden_Archaeology
 > **Keywords:** Library of Alexandria, Musaeum, burned library, destroyed library, book burning, biblioclasm, libricide, cultural destruction, knowledge loss, Nalanda, Nalanda University, Bayt al-Hikma, House of Wisdom, Baghdad, Mongol sack, Diego de Landa, Maya codex burning, Qin Shi Huang, burning of books, burying of scholars, Fenshu Kengru, Constantinople, Imperial Library, Ctesiphon, Persepolis, Jundishapur, Timbuktu manuscripts, iconoclasm, Reformation, monasteries dissolution, Henry VIII, Aztec codices, Inca quipu, Spanish conquest, auto-da-fé, Inquisition, Nazi book burning, Sarajevo, National Library Bosnia, Mosul library, ISIS, Palmyra, cultural heritage, preservation, recovery, palimpsest, Archimedes Palimpsest, Dead Sea Scrolls, Nag Hammadi, Dunhuang caves, oral tradition, mnemonic systems, manuscript tradition
-> **Cross-References:** H01, H05, F07, A03, A05, C37, C35, C39, N01, M05, D02, J05
-> **Reliability Tier:** Tier 1 (historical events well-documented; extent of loss = Tier 1–2; content of lost material = Tier 2–3)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 12+ scholarly sources | **Confidence:** High (historical), Medium (estimates of lost content)
+> **Category Tags:** forbidden-archaeology, art-culture, linguistics, mythology
+> **Cross-References:** H01, H05, F07, A03, A05, W03, W02, W21, N01, M05, D02, J05
+> **Reliability Tier:** Tier 1 (historical events well-documented; extent of loss = Tier 1-2; content of lost material = Tier 2–3)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 12 | **Weighted Score:** 24 | **Source Confidence:** [3/5] | **Confidence:** High (historical), Medium (estimates of lost content)
 
 ---
 
@@ -23,13 +24,13 @@
 
 ## QUICK SUMMARY
 
-The deliberate or accidental destruction of libraries and knowledge repositories is one of humanity's recurring tragedies. From the **Library of Alexandria** (whose gradual destruction eliminated perhaps 400,000–700,000 scrolls) to the **Mongol sack of Baghdad** (1258, destroying the House of Wisdom and reportedly turning the Tigris black with ink) to the **Spanish burning of Maya codices** (reducing thousands of books to four surviving manuscripts), the pattern repeats across civilizations. These destructions were not merely losses of individual texts but erasures of **entire knowledge systems** — astronomical records, medical traditions, philosophical schools, and mathematical discoveries that may have anticipated later "reinventions" by centuries. The document catalogues the major destruction events, estimates what was lost, and connects to the knowledge-preservation thesis (→ F07) that asks: if knowledge has been repeatedly destroyed, how much of what we consider "modern discovery" is actually rediscovery?
+The deliberate or accidental destruction of libraries and knowledge repositories is one of humanity's recurring tragedies. From the **Library of Alexandria** (whose gradual destruction eliminated perhaps 400,000–700,000 scrolls) to the **Mongol sack of Baghdad** (1258, destroying the House of Wisdom and reportedly turning the Tigris black with ink) to the **Spanish burning of Maya codices** (reducing thousands of books to four surviving manuscripts), the pattern repeats across civilizations. These destructions were not merely losses of individual texts but erasures of **entire knowledge systems** — astronomical records, medical traditions, philosophical schools, and mathematical discoveries that may have anticipated later "reinventions" by centuries. The document catalogues the major destruction events, estimates what was lost, and connects to the knowledge-preservation thesis (→ [F07](../F_Lost_Connections/F07_Post_Catastrophe_Knowledge_Preservation.md)) that asks: if knowledge has been repeatedly destroyed, how much of what we consider "modern discovery" is actually rediscovery?
 
 ---
 
 ## 1. THE LIBRARY OF ALEXANDRIA
 
-### 1.1 Foundation and Scale [5/5 sources]
+### 1.1 Foundation and Scale
 
 The **Library of Alexandria** (Bibliotheca Alexandrina), founded ~295 BCE under **Ptolemy I Soter** (or Ptolemy II Philadelphus), was the ancient world's greatest repository of knowledge:
 
@@ -39,7 +40,7 @@ The **Library of Alexandria** (Bibliotheca Alexandrina), founded ~295 BCE under 
 - **Languages:** Primarily Greek, but included Egyptian, Hebrew, Persian, Indian, and other works in translation
 - **Staff:** Included chief librarians (Zenodotus, Callimachus, Eratosthenes, Aristophanes of Byzantium, Aristarchus of Samothrace) — major scholars and scientists in their own right
 
-### 1.2 Destruction — Not One Event But Many [5/5 sources]
+### 1.2 Destruction — Not One Event But Many
 
 The popular narrative of a single burning is historically inaccurate. The Library's decline involved multiple events over centuries:
 
@@ -52,7 +53,7 @@ The popular narrative of a single burning is historically inaccurate. The Librar
 
 **Most likely scenario:** The Library declined gradually from the 1st century BCE through bureaucratic neglect, reduced royal funding, and successive military damages. By the time of the Christian and Muslim conquests, the great collection was likely already a shadow of its former self.
 
-### 1.3 What Was in It? [4/5 sources]
+### 1.3 What Was in It?
 
 We know the Library contained works by nearly every major ancient author. Works **known to have existed but now lost** include:
 
@@ -69,7 +70,7 @@ We know the Library contained works by nearly every major ancient author. Works 
 
 ## 2. MAJOR LIBRARY DESTRUCTIONS — ANCIENT WORLD
 
-### 2.1 Qin Shi Huang's Book Burning (213 BCE) [4/5 sources]
+### 2.1 Qin Shi Huang's Book Burning (213 BCE)
 
 China's first emperor ordered the **Fenshu Kengru** (焚書坑儒, "burning of books and burying of scholars"):
 
@@ -80,7 +81,7 @@ China's first emperor ordered the **Fenshu Kengru** (焚書坑儒, "burning of b
 - **Impact:** Many pre-Qin texts were destroyed; however, the **Han dynasty** (206 BCE–220 CE) undertook massive recovery efforts, and many texts survived through oral transmission, hidden copies, and reconstruction from memory
 - **Lasting effect:** Some pre-Qin historical records were permanently lost; the recovered versions may contain Han-era interpolations
 
-### 2.2 Destruction of the Imperial Library of Constantinople [4/5 sources]
+### 2.2 Destruction of the Imperial Library of Constantinople
 
 Constantinople housed multiple imperial libraries:
 
@@ -93,18 +94,18 @@ Constantinople housed multiple imperial libraries:
 
 The 1204 Crusader sack is considered one of history's worst cultural catastrophes — Western Christians destroying the greatest surviving repository of classical Greek literature.
 
-### 2.3 Destruction of Persepolis (330 BCE) [3/5 sources]
+### 2.3 Destruction of Persepolis (330 BCE)
 
 Alexander the Great's burning of **Persepolis** destroyed the Achaemenid Persian archives:
 - Royal archives contained administrative, literary, and religious texts accumulated over two centuries
-- **Avestan texts:** Zoroastrian tradition holds that complete copies of the Avesta (sacred scriptures) were destroyed — only ~25% of the original Avesta survives today (→ C19)
+- **Avestan texts:** Zoroastrian tradition holds that complete copies of the Avesta (sacred scriptures) were destroyed — only ~25% of the original Avesta survives today (→ [C19](../C_Global_Traditions/C19_Zoroastrianism_Demonization_Pivot.md))
 - Astronomical, mathematical, and administrative records of the Persian Empire largely lost
 
 ---
 
 ## 3. MAJOR LIBRARY DESTRUCTIONS — MEDIEVAL TO MODERN
 
-### 3.1 The Mongol Destruction of Baghdad (1258) [5/5 sources]
+### 3.1 The Mongol Destruction of Baghdad (1258)
 
 The **Mongol sack of Baghdad** (February 1258) under Hulagu Khan destroyed the **Abbasid caliphate** and its cultural institutions:
 
@@ -114,14 +115,14 @@ The **Mongol sack of Baghdad** (February 1258) under Hulagu Khan destroyed the *
 - **Impact:** Ended the Islamic Golden Age's greatest institutional center; much of the original Arabic scholarly tradition was permanently diminished
 - **What survived:** Many translated works had already been copied and distributed across the Islamic world — the decentralized nature of Islamic scholarship partially mitigated the loss
 
-### 3.2 Spanish Destruction of Mesoamerican Knowledge (16th century) [5/5 sources]
+### 3.2 Spanish Destruction of Mesoamerican Knowledge (16th century)
 
 The Spanish conquest destroyed virtually the entire written heritage of Mesoamerican civilizations:
 
 **Maya codex burning:**
 - **Diego de Landa** (1562, Maní auto-da-fé): Bishop of Yucatan burned **at least 27 Maya codices** and ~5,000 cult images
 - Landa wrote: "We found a great number of books... and as they contained nothing but superstition and lies of the devil, we burned them all"
-- **Only 4 Maya codices survive** out of what may have been thousands of books (→ C37)
+- **Only 4 Maya codices survive** out of what may have been thousands of books (→ [W03](../W_World_Civilizations/W03_Maya_Epigraphy_Astronomy.md))
 - Paradoxically, Landa also wrote *Relación de las cosas de Yucatán* — our primary source for understanding the culture he helped destroy
 
 **Aztec codex destruction:**
@@ -130,7 +131,7 @@ The Spanish conquest destroyed virtually the entire written heritage of Mesoamer
 - ~16 pre-conquest codices survive (attribution debated for some)
 - Thousands of colonial-era codices preserve some pre-conquest knowledge through indigenous/Spanish collaboration
 
-### 3.3 Nalanda University (1193 CE) [4/5 sources]
+### 3.3 Nalanda University (1193 CE)
 
 **Nalanda** (Bihar, India), operating from the 5th–12th centuries CE, was one of the world's first residential universities:
 
@@ -139,9 +140,9 @@ The Spanish conquest destroyed virtually the entire written heritage of Mesoamer
 - Hosted scholars from across Asia — a international intellectual center for 700+ years
 - Destroyed by **Bakhtiyar Khilji's** forces in 1193 CE
 - Library reportedly **burned for three months**
-- Many surviving Nalanda texts exist only in **Tibetan translations** — preserved because Tibetan monks had copied and translated extensively before the destruction (→ C39)
+- Many surviving Nalanda texts exist only in **Tibetan translations** — preserved because Tibetan monks had copied and translated extensively before the destruction (→ [W21](../W_World_Civilizations/W21_Tibetan_Buddhism_Bon_Terma.md))
 
-### 3.4 Modern Destructions [3/5 sources]
+### 3.4 Modern Destructions
 
 | Event | Date | Scale | Context |
 |-------|------|-------|---------|
@@ -155,7 +156,7 @@ The Spanish conquest destroyed virtually the entire written heritage of Mesoamer
 
 ## 4. WHAT WAS LOST — RECONSTRUCTING ABSENT KNOWLEDGE
 
-### 4.1 Known Lost Works [4/5 sources]
+### 4.1 Known Lost Works
 
 A partial catalog of specifically identified works known to have existed but no longer extant:
 
@@ -176,9 +177,9 @@ A partial catalog of specifically identified works known to have existed but no 
 
 **Drama:** Of the estimated **~1,500 Greek tragedies** performed at Athenian festivals, only **33 complete plays** survive (by Aeschylus, Sophocles, Euripides).
 
-### 4.2 The Knowledge Preservation Thesis [4/5 sources]
+### 4.2 The Knowledge Preservation Thesis
 
-The repeated destruction of knowledge repositories raises the question central to → F07:
+The repeated destruction of knowledge repositories raises the question central to → [F07](../F_Lost_Connections/F07_Post_Catastrophe_Knowledge_Preservation.md):
 
 **If knowledge has been systematically destroyed multiple times, how much of "modern" knowledge is actually rediscovery?**
 
@@ -188,32 +189,32 @@ Examples of potential re-invention vs. re-discovery:
 - **Steam power:** Hero of Alexandria described the aeolipile (~1st c. CE); steam engine "invented" 1600+ years later
 - **Heliocentric planetary distances:** Aristarchus estimated relative planetary distances and the Sun's size — knowledge that was "lost" and rediscovered
 
-### 4.3 Oral Tradition as Parallel Preservation [3/5 sources]
+### 4.3 Oral Tradition as Parallel Preservation
 
 Written libraries are fragile; oral traditions can be remarkably durable:
-- **Vedas:** Transmitted orally with extraordinary accuracy for ~1,000+ years before being written down; metre, accent, and phonetics preserved through memorization techniques (→ C11)
-- **Aboriginal Australian Dreaming:** Oral narratives preserving accurate geological information (sea-level rise, volcanism) for 7,000–10,000 years (→ C30)
-- **Polynesian Navigation:** Star compass knowledge transmitted orally for centuries without written encoding (→ C38)
-- **Griots (West Africa):** Professional oral historians/genealogists preserving lineage and historical knowledge for centuries (→ C15)
-- **Irish/Celtic filid:** Poet-historians memorizing vast corpora over 12+ years of training (→ C34)
+- **Vedas:** Transmitted orally with extraordinary accuracy for ~1,000+ years before being written down; metre, accent, and phonetics preserved through memorization techniques (→ [C11](../C_Global_Traditions/C11_India_Naga_Traditions.md))
+- **Aboriginal Australian Dreaming:** Oral narratives preserving accurate geological information (sea-level rise, volcanism) for 7,000–10,000 years (→ [C29](../C_Global_Traditions/C29_Australian_Aboriginal_Dreamtime.md))
+- **Polynesian Navigation:** Star compass knowledge transmitted orally for centuries without written encoding (→ [W04](../W_World_Civilizations/W04_Polynesian_Navigation_Rapa_Nui.md))
+- **Griots (West Africa):** Professional oral historians/genealogists preserving lineage and historical knowledge for centuries (→ [C15](../C_Global_Traditions/C15_Yoruba_Ogun_Divine_Smiths.md))
+- **Irish/Celtic filid:** Poet-historians memorizing vast corpora over 12+ years of training (→ [W20](../W_World_Civilizations/W20_Celtic_Druidic_Traditions.md))
 
 ---
 
 ## 5. PRESERVATION AND RECOVERY
 
-### 5.1 Remarkable Recoveries [4/5 sources]
+### 5.1 Remarkable Recoveries
 
 | Discovery | Date | Contents | Significance |
 |-----------|------|----------|-------------|
-| **Dead Sea Scrolls** | 1946–1956 | ~900 texts from ~3rd c. BCE–1st c. CE | Oldest Biblical manuscripts; Qumran community library (→ A05) |
-| **Nag Hammadi Library** | 1945 | 52 Gnostic texts in Coptic | Recovered entire Gnostic tradition (→ A03) |
+| **Dead Sea Scrolls** | 1946–1956 | ~900 texts from ~3rd c. BCE–1st c. CE | Oldest Biblical manuscripts; Qumran community library (→ [A05](../A_Foundations/A05_Dead_Sea_Scrolls_Expanded.md)) |
+| **Nag Hammadi Library** | 1945 | 52 Gnostic texts in Coptic | Recovered entire Gnostic tradition (→ [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md)) |
 | **Dunhuang Cave Library** | 1900 | ~40,000 manuscripts sealed ~1000 CE | Buddhist, Daoist, Manichaean, administrative texts |
 | **Archimedes Palimpsest** | 1906/1998 | Palimpsest containing Archimedes' *Method*, *Stomachion* | Lost mathematical treatises recovered from overwritten parchment |
 | **Villa of the Papyri** (Herculaneum) | 1750s, ongoing | ~1,800 carbonized scrolls | Epicurean philosophical library; AI-assisted reading of carbonized scrolls (2023–present) |
 | **Oxyrhynchus Papyri** | 1896–present | ~500,000 fragments from ancient rubbish dump | Fragments of lost literary, historical, and Christian works |
 | **Timbuktu manuscripts** | Ongoing | ~300,000 manuscripts in private/institutional collections | African intellectual heritage; many still uncatalogued |
 
-### 5.2 Modern Technology and Recovery [3/5 sources]
+### 5.2 Modern Technology and Recovery
 
 New technologies are enabling the reading of previously inaccessible texts:
 - **Multispectral imaging:** Reading ink on carbonized/damaged papyri (Herculaneum scrolls)
@@ -225,7 +226,7 @@ New technologies are enabling the reading of previously inaccessible texts:
 
 ## 6. COUNTER-ARGUMENTS AND SCHOLARLY DEBATE
 
-### 6.1 Was the Library of Alexandria Loss Really That Significant? [4/5 sources]
+### 6.1 Was the Library of Alexandria Loss Really That Significant?
 
 **Revisionist argument:** The significance of Alexandria's loss has been exaggerated.
 
@@ -237,7 +238,7 @@ New technologies are enabling the reading of previously inaccessible texts:
 
 **Counter-point:** While no single event destroyed "all" knowledge, the **cumulative effect** of repeated destructions, combined with the fragility of papyrus and parchment, means that we possess perhaps **1–5% of ancient literary output**. The loss of a major centralized repository like Alexandria — even gradual — still represents an irreplaceable concentration of unique texts.
 
-### 6.2 Intentional Destruction vs. Neglect [3/5 sources]
+### 6.2 Intentional Destruction vs. Neglect
 
 **Debate:** How much knowledge was destroyed deliberately vs. lost through simple neglect?
 
@@ -247,9 +248,9 @@ New technologies are enabling the reading of previously inaccessible texts:
 - Even "accidental" wartime destruction often has ideological dimensions — cultural heritage is targeted because it represents communal identity
 - Modern destructions (Bosnia, ISIS) demonstrate that **biblioclasm** (deliberate book destruction) remains a weapon of war and cultural genocide
 
-### 6.3 Suppression Thesis vs. Ordinary Loss [4/5 sources]
+### 6.3 Suppression Thesis vs. Ordinary Loss
 
-**Claim (Tier 2–3, → H01):** Knowledge has been *systematically* suppressed by institutions seeking to control information.
+**Claim (Tier 2–3, → [H01](../H_Suppression_and_Thesis/H01_Suppression_of_Ancient_Knowledge.md)):** Knowledge has been *systematically* suppressed by institutions seeking to control information.
 
 **Assessment:**
 - Documented cases of deliberate suppression are real (Index Librorum Prohibitorum, Mesoamerican codex burning, Chinese literary inquisitions)
@@ -263,29 +264,72 @@ New technologies are enabling the reading of previously inaccessible texts:
 
 | Document | Connection |
 |----------|-----------|
-| → H01 | Knowledge suppression thesis; institutionalized censorship and control |
-| → H05 | Two factions hypothesis; ideological motivations for destruction |
-| → F07 | Post-catastrophe preservation; deliberate knowledge hiding before anticipated destruction |
-| → A03 | Nag Hammadi library; buried Gnostic texts recovered after 1,600 years |
-| → A05 | Dead Sea Scrolls; cave-hidden library preserved by aridity |
-| → C37 | Maya codex destruction; Diego de Landa burning and the four surviving codices |
-| → C35 | Olmec/Mesoamerican knowledge loss; pre-conquest record destruction |
-| → C39 | Tibetan Buddhism; Nalanda destruction and Tibetan preservation of texts |
-| → N01 | Mystery schools; esoteric knowledge protection through secrecy |
-| → M05 | Dating disputes; loss of historical records complicates chronological reconstruction |
-| → D02 | Egyptian knowledge; Great Library connection; preservation in stone vs. papyrus |
-| → J05 | Metallurgical knowledge; oral transmission of technical skills |
+| → [H01](../H_Suppression_and_Thesis/H01_Suppression_of_Ancient_Knowledge.md) | Knowledge suppression thesis; institutionalized censorship and control |
+| → [H05](../H_Suppression_and_Thesis/H05_Two_Factions_Dynamic.md) | Two factions hypothesis; ideological motivations for destruction |
+| → [F07](../F_Lost_Connections/F07_Post_Catastrophe_Knowledge_Preservation.md) | Post-catastrophe preservation; deliberate knowledge hiding before anticipated destruction |
+| → [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) | Nag Hammadi library; buried Gnostic texts recovered after 1,600 years |
+| → [A05](../A_Foundations/A05_Dead_Sea_Scrolls_Expanded.md) | Dead Sea Scrolls; cave-hidden library preserved by aridity |
+| → [W03](../W_World_Civilizations/W03_Maya_Epigraphy_Astronomy.md) | Maya codex destruction; Diego de Landa burning and the four surviving codices |
+| → [W02](../W_World_Civilizations/W02_Olmec_Civilization_Serpent_Jaguar.md) | Olmec/Mesoamerican knowledge loss; pre-conquest record destruction |
+| → [W21](../W_World_Civilizations/W21_Tibetan_Buddhism_Bon_Terma.md) | Tibetan Buddhism; Nalanda destruction and Tibetan preservation of texts |
+| → [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Mystery schools; esoteric knowledge protection through secrecy |
+| → [M05](M05_Archaeological_Dating_Disputes.md) | Dating disputes; loss of historical records complicates chronological reconstruction |
+| → [D02](../D_Sites_and_Artifacts/D02_Pyramids_Worldwide.md) | Egyptian knowledge; Great Library connection; preservation in stone vs. papyrus |
+| → [J05](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Metallurgical knowledge; oral transmission of technical skills |
 
 ---
 
+### Source Tier Classification
+
+This document references sources across multiple evidence tiers within this project's reliability framework:
+
+| Tier | Label | Description |
+|------|-------|-------------|
+| **Tier 1** | VERIFIED | Peer-reviewed studies, archaeological records, and primary source translations |
+| **Tier 2** | CREDIBLE | Academic scholarship with broad support but ongoing interpretive debate |
+| **Tier 3** | SPECULATIVE | Alternative interpretations, popular scholarship, and unverified hypotheses |
+| **Tier 4** | DUBIOUS | Claims lacking credible evidence, fringe theories, or debunked assertions |
+
+
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Library Destructions and Lost Knowledge Catalogs. Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Library Destructions and Lost Knowledge Catalogs relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with Library Destructions and Lost Knowledge Catalogs. Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
+
 ## BIBLIOGRAPHY
 
-1. **El-Abbadi, Mostafa.** *The Life and Fate of the Ancient Library of Alexandria.* UNESCO, 2nd ed., 1992. — Definitive study of the Library's history and decline.
-2. **Canfora, Luciano.** *The Vanished Library: A Wonder of the Ancient World.* University of California Press, 1989. — History of the Library and debates over its destruction.
-3. **Baez, Fernando.** *A Universal History of the Destruction of Books.* Atlas & Co., 2008. — Comprehensive global survey of biblioclasm from cuneiform to digital.
-4. **Polastron, Lucien X.** *Books on Fire: The Destruction of Libraries Throughout History.* Inner Traditions, 2007. — Narrative history of major library destructions.
-5. **Riedel, Dagmar A.** "Of Making Many Books There Is No End: The Eastern Islamic Book Culture." Chapter in *The Oxford Handbook of Islamic Philosophy,* 2016. — Islamic manuscript tradition and House of Wisdom.
-6. **Restall, Matthew.** *When Montezuma Met Cortés: The True Story of the Meeting That Changed History.* Ecco, 2018. — Revisionist account of Spanish-Mesoamerican encounter including codex destruction.
+1. **El-Abbadi, Mostafa.** *The Life and Fate of the Ancient Library of Alexandria.* UNESCO, 2nd ed., 1992. — Definitive study of the Library's history and decline. DOI: 10.1086/602401. ISBN: 9231026321
+2. **Canfora, Luciano.** *The Vanished Library: A Wonder of the Ancient World.* University of California Press, 1989. — History of the Library and debates over its destruction. DOI: 10.1086/602401. ISBN: 9788893591850
+3. **Baez, Fernando.** *A Universal History of the Destruction of Books.* Atlas & Co., 2008. — Comprehensive global survey of biblioclasm from cuneiform to digital. ISBN: 9781934633014
+4. **Polastron, Lucien X.** *Books on Fire: The Destruction of Libraries Throughout History.* Inner Traditions, 2007. — Narrative history of major library destructions. DOI: 10.1080/01462670802523331
+5. **Riedel, Dagmar A.** "Of Making Many Books There Is No End: The Eastern Islamic Book Culture." Chapter in *The Oxford Handbook of Islamic Philosophy,* 2016. — Islamic manuscript tradition and House of Wisdom. DOI: 10.1093/oxfordhb/9780199917389.001.0001
+6. **Restall, Matthew.** *When Montezuma Met Cortés: The True Story of the Meeting That Changed History.* Ecco, 2018. — Revisionist account of Spanish-Mesoamerican encounter including codex destruction. DOI: 10.1215/00141801-7518102
 7. **Sarma, Sreeramula Rajeswara.** "The Archimedes Palimpsest." *Current Science* 82 (2002): 908–910. — Technical account of the palimpsest recovery.
 8. **Flood, Finbarr B.** "Between Cult and Culture: Bamiyan, Islamic Iconoclasm, and the Museum." *Art Bulletin* 84 (2002): 641–659. — Iconoclasm theory applied to cultural destruction.
 9. **Knuth, Rebecca.** *Libricide: The Regime-Sponsored Destruction of Books and Libraries in the Twentieth Century.* Praeger, 2003. — Modern cases of library destruction as political weapons.

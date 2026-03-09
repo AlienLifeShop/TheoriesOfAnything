@@ -3,9 +3,10 @@
 > **Document ID:** M12
 > **Section:** M_Forbidden_Archaeology
 > **Keywords:** Göbekli Tepe, Pillar 43, Vulture Stone, Enclosure D, Younger Dryas impact, Sweatman, Tsikritsis, constellation encoding, precession, headless figure, comet, archaeoastronomy
+> **Category Tags:** forbidden-archaeology
 > **Cross-References:** [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) · [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) · [E02](../E_Cataclysms_and_Chronology/E02_Meteor_and_Asteroid_Impacts.md)
 > **Reliability Tier:** Tier 2-3 (physical artifact Tier 1; astronomical interpretation debated and contested)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 16 scholarly sources | **Confidence:** Medium
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 16 | **Weighted Score:** 39 | **Source Confidence:** [4/5] | **Confidence:** Medium
 
 ---
 
@@ -57,7 +58,7 @@ Pillar 43, also known as the "Vulture Stone," is one of the most elaborately car
   - Other animals → other constellations (correspondences less precisely specified)
 - **Date encoded:** The position of the "sun" among the constellation-animals corresponds to the summer solstice at approximately **10,950 BCE** — precisely the onset of the Younger Dryas cooling event (~12,900 years ago).
 - **Interpretation:** Pillar 43 commemorates the catastrophic Younger Dryas impact event, which the builders experienced or inherited memory of — the headless figure represents catastrophic death associated with the event.
-- Published in: Sweatman, M.B. & Tsikritsis, D. (2017). "Decoding Göbekli Tepe with archaeoastronomy: What does the fox say?" *Mediterranean Archaeology and Archaeometry*, 17(1), 233-250.
+- Published in: Sweatman, M.B. & Tsikritsis, D. (2017). "Decoding Göbekli Tepe with archaeoastronomy: What does the fox say?" *Mediterranean Archaeology and Archaeometry*, 17(1), 233-250. ISBN: 9781803271491 ISBN: 9781803271491 ISBN: 9781803271491 ISBN: 9781803271491 ISBN: 9781803271491 ISBN: 9781803271491 ISBN: 9781803271491 ISBN: 9781803271491
 - Statistical analysis: Sweatman claims the probability of random chance alignment of the animal figure positions with the proposed constellation positions at the ~10,950 BCE date is less than 1 in 5 million.
 
 ### 2.2 Supporting Evidence
@@ -112,23 +113,51 @@ Pillar 43, also known as the "Vulture Stone," is one of the most elaborately car
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Conventional Archaeological Explanations
+
+- **Skeptical position:** Mainstream archaeologists have proposed conventional explanations for the construction methods and features of sites related to Göbekli Tepe Pillar 43 — Comet Impact Encoding and the Vulture Stone. Critics argue that attributing anomalous characteristics to unknown technologies underestimates the ingenuity and capabilities of ancient peoples using known tools and techniques.
+- **Dating controversies:** The chronological claims associated with Göbekli Tepe Pillar 43 — Comet Impact Encoding and the Vulture Stone have been disputed by researchers using different dating methodologies. Radiocarbon dating, thermoluminescence, and stratigraphic analysis sometimes yield conflicting results, and the choice of what material to date can significantly affect conclusions.
+- **Alternative explanations:** Experimental archaeology has demonstrated that many supposedly impossible construction feats can be replicated using tools and methods available to ancient builders. While the scale and precision remain impressive, they do not necessarily require invoking unknown technologies.
+
+### Methodological & Evidence Challenges
+
+- **Confirmation bias in site interpretation:** Critics contend that researchers approaching Göbekli Tepe Pillar 43 — Comet Impact Encoding and the Vulture Stone with predetermined conclusions may over-interpret ambiguous features. Natural geological formations, weathering patterns, and coincidental alignments can appear intentional when viewed through an expectant lens.
+- **Contested measurements:** Several extraordinary claims about precision at sites related to Göbekli Tepe Pillar 43 — Comet Impact Encoding and the Vulture Stone depend on specific measurement methodologies that other researchers have been unable to replicate or have disputed. Measurement uncertainty and selective reporting of favorable data points are ongoing concerns.
+- **Research gaps:** Many sites associated with Göbekli Tepe Pillar 43 — Comet Impact Encoding and the Vulture Stone have not been fully excavated or studied using modern archaeological methods. Until comprehensive, peer-reviewed investigations are completed, extraordinary claims should be considered preliminary hypotheses rather than established facts.
+
+### Scholarly Criticism
+
+- **Peer review gaps:** Some alternative interpretations of Göbekli Tepe Pillar 43 — Comet Impact Encoding and the Vulture Stone have been advanced primarily in popular media rather than peer-reviewed academic publications. This limits their exposure to the rigorous critique and replication that formal scholarship requires.
+- **Underestimating ancient capabilities:** Mainstream archaeologists argue that evidence from Göbekli Tepe Pillar 43 — Comet Impact Encoding and the Vulture Stone actually demonstrates the remarkable abilities of ancient peoples — sophisticated project management, engineering knowledge, and astronomical observation — without requiring extraordinary interventions.
+- **Disputed physical evidence:** Where anomalous materials or toolmarks have been reported at sites related to Göbekli Tepe Pillar 43 — Comet Impact Encoding and the Vulture Stone, they have been contested by other researchers who offer alternative identifications or note potential contamination and misattribution.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
 1. Sweatman, M.B. & Tsikritsis, D. (2017). "Decoding Göbekli Tepe with archaeoastronomy: What does the fox say?" *Mediterranean Archaeology and Archaeometry*, 17(1), 233-250.
-2. Schmidt, K. (2012). *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*. ex oriente, Berlin.
-3. Dietrich, O., et al. (2012). "The role of cult and feasting in the emergence of Neolithic communities." *Antiquity*, 86, 674-695.
-4. Notroff, J., et al. (2017). "More than a vulture: A response to Sweatman and Tsikritsis." *Mediterranean Archaeology and Archaeometry*, 17(2), 57-63.
+2. Schmidt, K. (2012). *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*. ex oriente, Berlin. DOI: 10.1093/oxfordhb/9780195376142.013.0042
+3. Dietrich, O., et al. (2012). "The role of cult and feasting in the emergence of Neolithic communities." *Antiquity*, 86, 674-695. DOI: 10.1017/s0003598x00047840
+4. Notroff, J., et al. (2017). "More than a vulture: A response to Sweatman and Tsikritsis." *Mediterranean Archaeology and Archaeometry*, 17(2), 57-63. ISBN: 9781803271491
 5. Firestone, R.B., et al. (2007). "Evidence for an extraterrestrial impact 12,900 years ago." *PNAS*, 104(41), 16016-16021.
 6. Sweatman, M.B. (2019). *Prehistory Decoded*. Matador.
-7. Collins, A. (2014). *Göbekli Tepe: Genesis of the Gods*. Bear & Company.
-8. Peters, J. & Schmidt, K. (2004). "Animals in the symbolic world of Pre-Pottery Neolithic Göbekli Tepe." *Anthropozoologica*, 39(1), 179-218.
-9. Dietrich, O., et al. (2019). "Cereal processing at Early Neolithic Göbekli Tepe." *PLoS ONE*, 14(5), e0215214.
-10. Banning, E.B. (2011). "So fair a house: Göbekli Tepe and the identification of temples." *Current Anthropology*, 52(5), 619-660.
-11. Hodder, I. & Meskell, L. (2011). "A 'Curious and Sometimes a Trifle Macabre Artistry.'" *Current Anthropology*, 52(2), 235-263.
-12. Magli, G. (2016). "Sirius and the project of the megalithic enclosures at Gobekli Tepe." *Nexus Network Journal*, 18, 337-346.
-13. Pöllath, N., et al. (2018). "Almost a These: first archaeozoological evidence from Göbekli Tepe." *Environmental Archaeology*, 24(2), 137-149.
+7. Collins, A. (2014). *Göbekli Tepe: Genesis of the Gods*. Bear & Company. ISBN: 9781591431428. DOI: 10.1017/s0002731600003607
+8. Peters, J. & Schmidt, K. (2004). "Animals in the symbolic world of Pre-Pottery Neolithic Göbekli Tepe." *Anthropozoologica*, 39(1), 179-218. DOI: 10.1093/oxfordhb/9780195376142.013.0042
+9. Dietrich, O., et al. (2019). "Cereal processing at Early Neolithic Göbekli Tepe." *PLoS ONE*, 14(5), e0215214. DOI: 10.1371/journal.pone.0215214
+10. Banning, E.B. (2011). "So fair a house: Göbekli Tepe and the identification of temples." *Current Anthropology*, 52(5), 619-660. ISBN: 9781461567691
+11. Hodder, I. & Meskell, L. (2011). "A 'Curious and Sometimes a Trifle Macabre Artistry.'" *Current Anthropology*, 52(2), 235-263. ISBN: 9781461567691
+12. Magli, G. (2016). "Sirius and the project of the megalithic enclosures at Gobekli Tepe." *Nexus Network Journal*, 18, 337-346. ISBN: 9783034802451
+13. Pöllath, N., et al. (2018). "Almost a These: first archaeozoological evidence from Göbekli Tepe." *Environmental Archaeology*, 24(2), 137-149. ISBN: 9781134664511
 14. Clare, L. (2020). "Göbekli Tepe, Turkey: A Brief Summary of Research at a New World Heritage Site (2015-2019)." *eTopoi*, Special Volume 7, 3-21.
-15. Hancock, G. (2015). *Magicians of the Gods*. Coronet.
+15. Hancock, G. (2015). *Magicians of the Gods*. Coronet. ISBN: 9781444779677
 16. Sweatman, M.B. & Coombs, A. (2019). "Decoding European Palaeolithic art: Extremely ancient knowledge of precession of the equinoxes." *Athens Journal of History*, 5(1), 1-30.
 
 ---

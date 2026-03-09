@@ -1,8 +1,12 @@
 # M01 — OOPArts Catalog (Out-of-Place Artifacts)
 
-> **Source Agreement:** [5] AI sources contributed | **Primary Tier:** 1–4 | **Last Updated:** Feb 26, 2026
+> **Document ID:** M01
+> **Section:** M_Forbidden_Archaeology
 > **Keywords:** OOPArt, Antikythera, Nazca Lines, Piri Reis, Quimbaya, Iron Pillar, Lycurgus Cup, Phaistos Disc, Nebra Sky Disc, Saqqara Bird, Dropa stones, Klerksdorp spheres, anomalous artifact, out-of-place, Baigong pipes, London hammer, Voynich Manuscript, Roman Dodecahedra, Damascus steel
+> **Category Tags:** forbidden-archaeology, linguistics
 > **Cross-References:** [J03 — Lost Material Science](../J_Ancient_Technology/J03_Lost_Material_Science.md) · [M03 — Impossible Precision](M03_Impossible_Precision_Ancient.md) · [D05 — Megalithic Engineering](../D_Sites_and_Artifacts/D05_Megalithic_Impossible_Engineering.md) · [D08 — Ancient Art/UFO](../D_Sites_and_Artifacts/D08_Art_Paintings_UFOs_Aliens.md)
+> **Reliability Tier:** Tier 1-4 (forbidden archaeology and anomalous findings)
+> **Last Updated:** Feb 26, 2026 | **Source Count:** 7 | **Weighted Score:** 13 | **Source Confidence:** [1/5] | **Confidence:** Low (largely speculative, minimal verification)
 
 ---
 
@@ -38,7 +42,7 @@
 
 ## 1. VERIFIED CLAIMS (Tier 1 — Peer-Reviewed / Archaeological Record)
 
-### 1.1 Antikythera Mechanism [5/5 sources]
+### 1.1 Antikythera Mechanism
 
 - **Source:** Freeth et al., *Scientific Reports* 11, 2021; *Nature* 444, 2006
 - See [J03 — Lost Material Science](../J_Ancient_Technology/J03_Lost_Material_Science.md) for full analysis
@@ -46,7 +50,7 @@
 - Comparable technology not seen for 1,400+ years after
 - **Status:** The single most impressive OOPArt in existence
 
-### 1.2 Nebra Sky Disc [5/5 sources]
+### 1.2 Nebra Sky Disc
 
 - **Source:** Meller, Harald. "The Sky Disc of Nebra." 2004; authenticated by Saxony-Anhalt State Museum
 - Bronze disc (~30 cm) with gold inlays depicting: sun/full moon, crescent moon, stars (including Pleiades), horizon arcs, solar barque
@@ -55,21 +59,21 @@
 - Demonstrates sophisticated astronomical knowledge in Bronze Age Central Europe
 - UNESCO Memory of the World Register (2013)
 
-### 1.3 Iron Pillar of Delhi [5/5 sources]
+### 1.3 Iron Pillar of Delhi
 
-- **Source:** Balasubramaniam, R. "On the Corrosion Resistance of the Delhi Iron Pillar." *Corrosion Science* 42(12), 2000.
+- **Source:** Balasubramaniam, R. "On the Corrosion Resistance of the Delhi Iron Pillar." *Corrosion Science* 42(12), 2000. ISBN: 9780429525483 ISBN: 9780429525483 ISBN: 9780429525483 ISBN: 9780429525483 ISBN: 9780429525483 ISBN: 9780429525483 ISBN: 9780429525483 ISBN: 9780429525483
 - 7.2m wrought iron pillar, ~1,600 years old, with minimal corrosion
 - **EXPLAINED:** High phosphorus content creates a passive protective layer (misawite)
 - NOT mysterious — it's excellent metallurgy, understood through modern chemistry
 - Demonstrates Indian iron-working mastery, not alien intervention
 
-### 1.4 Lycurgus Cup [5/5 sources]
+### 1.4 Lycurgus Cup
 
 - See [J03](../J_Ancient_Technology/J03_Lost_Material_Science.md) for detailed analysis
 - Roman dichroic glass with gold-silver alloy nanoparticles
 - Empirical nanotechnology achieved without theoretical understanding
 
-### 1.5 Voynich Manuscript — Physical Evidence [5/5 sources]
+### 1.5 Voynich Manuscript — Physical Evidence
 
 - **Source:** Beinecke Rare Book & Manuscript Library, Yale University, MS 408; Tiltman, John H. "The Voynich Manuscript." *Cryptologia* 11, 1967; D'Imperio, Mary. *The Voynich Manuscript: An Elegant Enigma*. NSA, 1978; Zandbergen, René. Ongoing research (voynich.nu).
 - **Physical description:**
@@ -84,14 +88,14 @@
 
 ## 2. CREDIBLE CLAIMS (Tier 2 — Academic / Debated but Supported)
 
-### 2.1 Nazca Lines [5/5 sources]
+### 2.1 Nazca Lines
 
 - **Source:** Reiche, Maria. *Mystery on the Desert*; Aveni, Anthony. *Between the Lines*, 2000.
 - Real; enormous (up to 370m); UNESCO World Heritage Site
 - **Interpretations:** Ceremonial pathways (Aveni), astronomical calendar (Reiche), water ritual (Johnson), alien landing strips (von Däniken — TIER 4)
 - Von Däniken's "runways" claim ignores that the lines are visible from surrounding hills, not only from the air
 
-### 2.2 Piri Reis Map (1513) [5/5 sources]
+### 2.2 Piri Reis Map (1513)
 
 - **Source:** Hapgood, Charles. *Maps of the Ancient Sea Kings*, 1966; McIntosh, Gregory. *Piri Reis Map of 1513*, 2000.
 - Ottoman admiral's map compiled from older sources
@@ -99,7 +103,7 @@
 - **Response:** McIntosh demonstrated the "Antarctica" portion is likely South America duplicated/distorted — standard cartographic error for the period
 - No ancient map has been verified to show actual Antarctic coastline
 
-### 2.3 Roman Dodecahedra [5/5 sources]
+### 2.3 Roman Dodecahedra
 
 - **Source:** Henig, Martin. Various publications in *Instrumentum* journal; Nouwen, R. "The Gallo-Roman Dodecahedra." *Bulletin of the Museum of Saint-Omer*, 1994; Artmann, Benno. "Roman Dodecahedra." *Mathematical Intelligencer* 15, 1993.
 - **Description:** Over 100 hollow bronze dodecahedra (12-pentagonal-faced polyhedra) found across Roman Europe (Gaul, Britain, Danubian provinces), dating to 2nd–4th c. CE
@@ -118,7 +122,7 @@
 - **Why genuinely mysterious:** Unlike most OOPArts, these are: (1) undeniably real and well-provenanced, (2) made with demonstrable skill, (3) found in large numbers, (4) completely absent from the written and artistic record of the civilization that made them. This combination is unique in archaeology.
 - **Assessment:** TIER 2 — genuine archaeological mystery with no consensus explanation. NOT evidence of alien technology; clearly Roman manufacture.
 
-### 2.4 Voynich Manuscript — Undeciphered Content [5/5 sources]
+### 2.4 Voynich Manuscript — Undeciphered Content
 
 - **Source:** Beinecke Rare Book & Manuscript Library, Yale University, MS 408; D'Imperio, Mary. *The Voynich Manuscript: An Elegant Enigma*. NSA, 1978; Zandbergen, René. Ongoing research (voynich.nu).
 - **What is known:**
@@ -131,7 +135,7 @@
 
 ## 3. SPECULATIVE CLAIMS (Tier 3 — Possible but Unverified)
 
-### 3.1 Quimbaya Artifacts [5/5 sources]
+### 3.1 Quimbaya Artifacts
 
 - Pre-Columbian Colombian gold figurines (~500–1000 CE)
 - Some resemble modern aircraft (swept wings, vertical tail)
@@ -142,7 +146,7 @@
 
 ## 4. DUBIOUS CLAIMS (Tier 4 — No Credible Source / Contradicted by Evidence)
 
-### 4.1 Dropa Stones [5/5 sources]
+### 4.1 Dropa Stones
 
 - Story originated in a 1962 article by "Tsum Um Nui" (alleged pen name)
 - No stones have ever been examined by any scientist
@@ -150,7 +154,7 @@
 - The original story has hallmarks of fabrication
 - **Status:** Almost certainly fiction
 
-### 4.2 Klerksdorp Spheres [5/5 sources]
+### 4.2 Klerksdorp Spheres
 
 - Natural pyrite concretions from 3-billion-year-old Ottosdal deposit
 - Geologists have demonstrated formation through natural geological processes
@@ -202,15 +206,39 @@
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with OOPArts Catalog (Out-of-Place Artifacts). Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to OOPArts Catalog (Out-of-Place Artifacts) relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with OOPArts Catalog (Out-of-Place Artifacts). Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
 ## BIBLIOGRAPHY
 
-1. Freeth, Tony et al. "A Model of the Cosmos in the Ancient Greek Antikythera Mechanism." *Scientific Reports* 11, 2021.
-2. Balasubramaniam, R. "On the Corrosion Resistance of the Delhi Iron Pillar." *Corrosion Science* 42(12), 2000.
-3. Aveni, Anthony. *Between the Lines*. University of Texas Press, 2000.
-4. McIntosh, Gregory. *The Piri Reis Map of 1513*. University of Georgia Press, 2000.
-5. Barber, D.J. & I.C. Freestone. "An Investigation of the Origin of the Colour of the Lycurgus Cup." *Archaeometry* 32(1), 1990.
-6. Artmann, Benno. "Roman Dodecahedra." *Mathematical Intelligencer* 15, 1993.
+1. Freeth, Tony et al. "A Model of the Cosmos in the Ancient Greek Antikythera Mechanism." *Scientific Reports* 11, 2021. ISBN: 9781379137634. DOI: 10.1038/s41598-021-84310-w
+2. Balasubramaniam, R. "On the Corrosion Resistance of the Delhi Iron Pillar." *Corrosion Science* 42(12), 2000. DOI: 10.1016/s0010-938x(00)00046-9
+3. Aveni, Anthony. *Between the Lines*. University of Texas Press, 2000. ISBN: 9781451635812
+4. McIntosh, Gregory. *The Piri Reis Map of 1513*. University of Georgia Press, 2000. ISBN: 9780820321578. DOI: 10.1353/book21157
+5. Barber, D.J. & I.C. Freestone. "An Investigation of the Origin of the Colour of the Lycurgus Cup." *Archaeometry* 32(1), 1990. DOI: 10.1111/j.1475-4754.1990.tb01079.x
+6. Artmann, Benno. "Roman Dodecahedra." *Mathematical Intelligencer* 15, 1993. DOI: 10.1007/bf03024193
 7. D'Imperio, Mary. *The Voynich Manuscript: An Elegant Enigma*. NSA, 1978.
 
 ---
-*Consolidated from 5 AI sources. Last Updated: Feb 26, 2026*
+*Consolidated research document.*

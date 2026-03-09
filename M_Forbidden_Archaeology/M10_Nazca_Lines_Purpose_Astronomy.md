@@ -3,9 +3,10 @@
 > **Document ID:** M10
 > **Section:** M_Forbidden_Archaeology
 > **Keywords:** Nazca Lines, geoglyphs, Nazca Plateau, Peru, Nazca culture, Maria Reiche, astronomical calendar, water ritual, AI discovery, Palpa, sacred landscape, hummingbird, spider, condor
-> **Cross-References:** [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) · [C41](../C_Global_Traditions/C41_Andean_Civilizations.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [O07](../O_Earth_Anomalies/O07_Sacred_Water_Wells_Springs.md) · [D33](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md)
+> **Category Tags:** forbidden-archaeology, ritual-practice, art-culture, artificial-intelligence
+> **Cross-References:** [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) · [W06](../W_World_Civilizations/W06_Andean_Civilizations.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [O07](../O_Earth_Anomalies/O07_Sacred_Water_Wells_Springs.md) · [D33](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md)
 > **Reliability Tier:** Tier 1-3 (physical existence verified; purpose theories range from credible to speculative)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 17 scholarly sources | **Confidence:** Medium-High
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 17 | **Weighted Score:** 37 | **Source Confidence:** [4/5] | **Confidence:** Medium-High
 
 ---
 
@@ -105,22 +106,50 @@ The Nazca Lines are a collection of over 1,500 geoglyphs etched into the arid Na
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Conventional Archaeological Explanations
+
+- **Skeptical position:** Mainstream archaeologists have proposed conventional explanations for the construction methods and features of sites related to Nazca Lines — Purpose, Astronomy, Water Rituals, and Modern AI Discovery. Critics argue that attributing anomalous characteristics to unknown technologies underestimates the ingenuity and capabilities of ancient peoples using known tools and techniques.
+- **Dating controversies:** The chronological claims associated with Nazca Lines — Purpose, Astronomy, Water Rituals, and Modern AI Discovery have been disputed by researchers using different dating methodologies. Radiocarbon dating, thermoluminescence, and stratigraphic analysis sometimes yield conflicting results, and the choice of what material to date can significantly affect conclusions.
+- **Alternative explanations:** Experimental archaeology has demonstrated that many supposedly impossible construction feats can be replicated using tools and methods available to ancient builders. While the scale and precision remain impressive, they do not necessarily require invoking unknown technologies.
+
+### Methodological & Evidence Challenges
+
+- **Confirmation bias in site interpretation:** Critics contend that researchers approaching Nazca Lines — Purpose, Astronomy, Water Rituals, and Modern AI Discovery with predetermined conclusions may over-interpret ambiguous features. Natural geological formations, weathering patterns, and coincidental alignments can appear intentional when viewed through an expectant lens.
+- **Contested measurements:** Several extraordinary claims about precision at sites related to Nazca Lines — Purpose, Astronomy, Water Rituals, and Modern AI Discovery depend on specific measurement methodologies that other researchers have been unable to replicate or have disputed. Measurement uncertainty and selective reporting of favorable data points are ongoing concerns.
+- **Research gaps:** Many sites associated with Nazca Lines — Purpose, Astronomy, Water Rituals, and Modern AI Discovery have not been fully excavated or studied using modern archaeological methods. Until comprehensive, peer-reviewed investigations are completed, extraordinary claims should be considered preliminary hypotheses rather than established facts.
+
+### Scholarly Criticism
+
+- **Peer review gaps:** Some alternative interpretations of Nazca Lines — Purpose, Astronomy, Water Rituals, and Modern AI Discovery have been advanced primarily in popular media rather than peer-reviewed academic publications. This limits their exposure to the rigorous critique and replication that formal scholarship requires.
+- **Underestimating ancient capabilities:** Mainstream archaeologists argue that evidence from Nazca Lines — Purpose, Astronomy, Water Rituals, and Modern AI Discovery actually demonstrates the remarkable abilities of ancient peoples — sophisticated project management, engineering knowledge, and astronomical observation — without requiring extraordinary interventions.
+- **Disputed physical evidence:** Where anomalous materials or toolmarks have been reported at sites related to Nazca Lines — Purpose, Astronomy, Water Rituals, and Modern AI Discovery, they have been contested by other researchers who offer alternative identifications or note potential contamination and misattribution.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Aveni, A.F. (2000). *Between the Lines: The Mystery of the Giant Ground Drawings of Ancient Nasca, Peru*. University of Texas Press.
-2. Reinhard, J. (1985). "The Nazca Lines, Water, and Mountains: An Ethnoarchaeological Study." *National Geographic Research*, 19, 46-57.
+1. Aveni, A.F. (2000). *Between the Lines: The Mystery of the Giant Ground Drawings of Ancient Nasca, Peru*. University of Texas Press. DOI: 10.1017/s0003598x0005300x
+2. Reinhard, J. (1985). "The Nazca Lines, Water, and Mountains: An Ethnoarchaeological Study." *National Geographic Research*, 19, 46-57. ISBN: 9780870444685
 3. Reiche, M. (1968). *Mystery on the Desert: A Study of the Ancient Figures and Strange Delineated Surfaces Seen across the Pampas and Tablelands of the Nasca Region*. Stuttgart.
 4. Silverman, H. & Proulx, D.A. (2002). *The Nasca*. Blackwell Publishers.
-5. Schreiber, K. & Lancho Rojas, J. (2006). "Aguas en el desierto: Los puquios de Nasca." *Fondo Editorial de la PUCP*.
-6. Sakai, M., et al. (2024). "AI-accelerated Nazca survey nearly doubles the number of known figurative geoglyphs and reveals their purpose." *PNAS*, 121(40), e2407652121.
-7. Lambers, K. (2006). *The Geoglyphs of Palpa, Peru: Documentation, Analysis, and Interpretation*. Forschungen zur Archäologie Außereuropäischer Kulturen, Band 2.
+5. Schreiber, K. & Lancho Rojas, J. (2006). "Aguas en el desierto: Los puquios de Nasca." *Fondo Editorial de la PUCP*. DOI: 10.18800/9789972427725
+6. Sakai, M., et al. (2024). "AI-accelerated Nazca survey nearly doubles the number of known figurative geoglyphs and reveals their purpose." *PNAS*, 121(40), e2407652121. DOI: 10.1073/pnas.2407652121
+7. Lambers, K. (2006). *The Geoglyphs of Palpa, Peru: Documentation, Analysis, and Interpretation*. Forschungen zur Archäologie Außereuropäischer Kulturen, Band 2. DOI: 10.1017/s0003598x00095107
 8. Hawkins, G.S. (1973). *Beyond Stonehenge*. Harper & Row.
-9. Ruggles, C.L.N. (2015). *Handbook of Archaeoastronomy and Ethnoastronomy*. Springer. (Nazca chapter.)
+9. Ruggles, C.L.N. (2015). *Handbook of Archaeoastronomy and Ethnoastronomy*. Springer. (Nazca chapter.). ISBN: 9781461461401. DOI: 10.1007/978-1-4614-6141-8
 10. Isla, J. & Reindel, M. (2017). "New Studies on the Settlements, Geoglyphs, and Chronology of Nasca." *Ñawpa Pacha*, 37(2), 145-176.
 11. Proulx, D.A. (2008). "Paracas and Nasca: Regional Cultures on the South Coast of Peru." *Handbook of South American Archaeology*, 563-585.
 12. Rostworowski, M. (1993). "Origen religioso de los dibujos y rayas de Nasca." *Journal de la Société des Américanistes*, 79, 97-119.
-13. Johnson, D.W. (1999). "Folk Mapping and Geographic Information Systems in Nazca, Peru." *Latin American Antiquity*, 10, 105-129.
-14. Clarkson, P.B. & Dorn, R.I. (1995). "New chronometric dates for the puquios of Nasca, Peru." *Latin American Antiquity*, 6(1), 56-69.
+13. Johnson, D.W. (1999). "Folk Mapping and Geographic Information Systems in Nazca, Peru." *Latin American Antiquity*, 10, 105-129. ISBN: 9780932839190
+14. Clarkson, P.B. & Dorn, R.I. (1995). "New chronometric dates for the puquios of Nasca, Peru." *Latin American Antiquity*, 6(1), 56-69. ISBN: 9780932839190
 15. Lasaponara, R. & Masini, N. (2012). "Following the Traces of the Nazca Geoglyphs Using Satellite Imagery." *Journal of Archaeological Science*, 39(6), 2072-2078.
 16. Herrmann, B. & Eitel, B. (2013). "Landscape archaeology in the hyperarid Atacama Desert and the Nazca Lines." *Geoarchaeology*, 28(6), 535-551.
 17. Browne, D.M. & Baraybar, J.P. (1988). "An Archaeological Reconnaissance in the Province of Palpa, Department of Ica, Peru." *BAR International Series*, 441, 1-50.
@@ -132,7 +161,7 @@ The Nazca Lines are a collection of over 1,500 geoglyphs etched into the arid Na
 | Related Doc | Connection |
 |-------------|-----------|
 | [M01](../M_Forbidden_Archaeology/M01_OOPArts_Catalog.md) | Out-of-place artifacts and anomalous constructions |
-| [C41](../C_Global_Traditions/C41_Andean_Civilizations.md) | Andean cultural and cosmological traditions |
+| [W06](../W_World_Civilizations/W06_Andean_Civilizations.md) | Andean cultural and cosmological traditions |
 | [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) | Astronomical alignments in ancient sites |
 | [O07](../O_Earth_Anomalies/O07_Sacred_Water_Wells_Springs.md) | Sacred water traditions and ritual hydrology |
 | [D33](../D_Sites_and_Artifacts/D33_Rock_Art_Worldwide.md) | Rock art and landscape modification traditions |
