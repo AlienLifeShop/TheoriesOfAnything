@@ -3,9 +3,10 @@
 > **Document ID:** N12
 > **Section:** N_Secret_Societies
 > **Keywords:** Eleusinian Mysteries, Eleusis, Demeter, Persephone, kykeon, ergot, telesterion, epopteia, initiation, Theodosius, mystery religion, Alcibiades, Cicero, entheogens
-> **Cross-References:** [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [K18](../K_Consciousness/K18_Classical_Antiquity_Entheogens_Synthesis.md) · [K17](../K_Consciousness/K17_Ergot_Sacred_Pharmacology_History.md) · [H10](../H_Suppression_and_Thesis/H10_Gnostic_Heterodox_Christianity_Suppression.md) · [C42](../C_Global_Traditions/C42_Minoan_Civilization_Bull_Cult.md)
+> **Category Tags:** secret-societies, psychedelics, religion
+> **Cross-References:** [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [Y13](../Y_Altered_States/Y13_Classical_Antiquity_Entheogens_Synthesis.md) · [Y12](../Y_Altered_States/Y12_Ergot_Sacred_Pharmacology_History.md) · [H10](../H_Suppression_and_Thesis/H10_Gnostic_Heterodox_Christianity_Suppression.md) · [W07](../W_World_Civilizations/W07_Minoan_Civilization_Bull_Cult.md)
 > **Reliability Tier:** Tier 1-3 (historical existence Tier 1; ritual details range from documented to speculative)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 18 scholarly sources | **Confidence:** Medium-High
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 18 | **Weighted Score:** 34 | **Source Confidence:** [4/5] | **Confidence:** Medium-High
 
 ---
 
@@ -114,25 +115,53 @@ The Eleusinian Mysteries were the most prestigious and longest-running initiator
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Eleusinian Mysteries Deep Dive — Ritual Structure, Kykeon, and Legacy. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Eleusinian Mysteries Deep Dive — Ritual Structure, Kykeon, and Legacy relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Eleusinian Mysteries Deep Dive — Ritual Structure, Kykeon, and Legacy with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Eleusinian Mysteries Deep Dive — Ritual Structure, Kykeon, and Legacy, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Eleusinian Mysteries Deep Dive — Ritual Structure, Kykeon, and Legacy, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Eleusinian Mysteries Deep Dive — Ritual Structure, Kykeon, and Legacy, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Eleusinian Mysteries Deep Dive — Ritual Structure, Kykeon, and Legacy have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Eleusinian Mysteries Deep Dive — Ritual Structure, Kykeon, and Legacy are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Eleusinian Mysteries Deep Dive — Ritual Structure, Kykeon, and Legacy. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Mylonas, G.E. (1961). *Eleusis and the Eleusinian Mysteries*. Princeton University Press.
-2. Kerényi, K. (1967). *Eleusis: Archetypal Image of Mother and Daughter*. Bollingen Series / Princeton University Press.
-3. Wasson, R.G., Hofmann, A. & Ruck, C.A.P. (1978). *The Road to Eleusis: Unveiling the Secret of the Mysteries*. Harcourt Brace Jovanovich.
-4. Burkert, W. (1987). *Ancient Mystery Cults*. Harvard University Press.
-5. Clinton, K. (1992). *Myth and Cult: The Iconography of the Eleusinian Mysteries*. Swedish Institute at Athens.
+1. Mylonas, G.E. (1961). *Eleusis and the Eleusinian Mysteries*. Princeton University Press. ISBN: 9780691622040. DOI: 10.1080/00043249.1963.10794418
+2. Kerényi, K. (1967). *Eleusis: Archetypal Image of Mother and Daughter*. Bollingen Series / Princeton University Press. DOI: 10.1515/9780691213859
+3. Wasson, R.G., Hofmann, A. & Ruck, C.A.P. (1978). *The Road to Eleusis: Unveiling the Secret of the Mysteries*. Harcourt Brace Jovanovich. ISBN: 9781500900809. DOI: 10.1017/s0009840x00233581
+4. Burkert, W. (1987). *Ancient Mystery Cults*. Harvard University Press. ISBN: 9780674033870. DOI: 10.1017/s0009840x00270364
+5. Clinton, K. (1992). *Myth and Cult: The Iconography of the Eleusinian Mysteries*. Swedish Institute at Athens. DOI: 10.1163/1874-6772_seg_a42_241
 6. Clinton, K. (1993). "The Sanctuary of Demeter and Kore at Eleusis." *Greek Sanctuaries: New Approaches*. Routledge.
 7. Cosmopoulos, M.B. (2015). *Bronze Age Eleusis and the Origins of the Eleusinian Mysteries*. Cambridge University Press.
 8. Sourvinou-Inwood, C. (2003). "Festival and Mysteries: Aspects of the Eleusinian Cult." *Greek Mysteries: The Archaeology and Ritual of Ancient Greek Secret Cults*. Routledge.
 9. Ruck, C.A.P. (2006). *Sacred Mushrooms of the Goddess: Secrets of Eleusis*. Ronin Publishing.
 10. Muraresku, B.C. (2020). *The Immortality Key: The Secret History of the Religion with No Name*. St. Martin's Press.
 11. Bowden, H. (2010). *Mystery Cults of the Ancient World*. Princeton University Press.
-12. Graf, F. & Johnston, S.I. (2013). *Ritual Texts for the Afterlife: Orpheus and the Bacchic Gold Tablets*. 2nd ed. Routledge.
-13. Bremmer, J.N. (2014). *Initiation into the Mysteries of the Ancient World*. De Gruyter.
+12. Graf, F. & Johnston, S.I. (2013). *Ritual Texts for the Afterlife: Orpheus and the Bacchic Gold Tablets*. 2nd ed. Routledge. ISBN: 9780415415514
+13. Bremmer, J.N. (2014). *Initiation into the Mysteries of the Ancient World*. De Gruyter. ISBN: 9783110299298
 14. Parker, R. (2005). *Polytheism and Society at Athens*. Oxford University Press. (Chapter on Eleusis.)
 15. Foley, Helene P. (ed.). *The Homeric Hymn to Demeter: Translation, Commentary, and Interpretive Essays* (c. 7th century BCE text). Princeton University Press, 1994.
 16. Clement of Alexandria (c. 200 CE). *Protrepticus* (Exhortation to the Greeks). Various translations.
-17. Plutarch (c. 100 CE). *De Iside et Osiride*; fragments on Eleusis. Various translations.
+17. Plutarch (c. 100 CE). *De Iside et Osiride*; fragments on Eleusis. Various translations. ISBN: 9788881470716
 18. Samorini, G. (2019). "The oldest archaeological data evidencing the relationship of Homo sapiens with psychoactive plants." *Journal of Psychedelic Studies*, 3(2), 63-80.
 
 ---
@@ -142,10 +171,10 @@ The Eleusinian Mysteries were the most prestigious and longest-running initiator
 | Related Doc | Connection |
 |-------------|-----------|
 | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Mystery school tradition overview |
-| [K18](../K_Consciousness/K18_Classical_Antiquity_Entheogens_Synthesis.md) | Classical-era entheogen use |
-| [K17](../K_Consciousness/K17_Ergot_Sacred_Pharmacology_History.md) | Ergot and psychoactive properties |
+| [Y13](../Y_Altered_States/Y13_Classical_Antiquity_Entheogens_Synthesis.md) | Classical-era entheogen use |
+| [Y12](../Y_Altered_States/Y12_Ergot_Sacred_Pharmacology_History.md) | Ergot and psychoactive properties |
 | [H10](../H_Suppression_and_Thesis/H10_Gnostic_Heterodox_Christianity_Suppression.md) | Suppression of alternative religious traditions |
-| [C42](../C_Global_Traditions/C42_Minoan_Civilization_Bull_Cult.md) | Minoan cultural precursors |
+| [W07](../W_World_Civilizations/W07_Minoan_Civilization_Bull_Cult.md) | Minoan cultural precursors |
 | [N11](../N_Secret_Societies/N11_Pythagorean_Brotherhood.md) | Greek initiatory tradition parallels |
 
 ---

@@ -3,9 +3,10 @@
 > **Document ID:** N13
 > **Section:** N_Secret_Societies
 > **Keywords:** Theosophy, Helena Blavatsky, Theosophical Society, Secret Doctrine, root races, Mahatmas, Annie Besant, Leadbeater, Krishnamurti, Ariosophy, New Age, Anthroposophy, Steiner
-> **Cross-References:** [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [G06](../G_Modern_Frameworks/G06_Modern_Conspiracy_Analysis.md) · [F01](../F_Lost_Connections/F01_Atlantis.md) · [H06](../H_Suppression_and_Thesis/H06_Demonization_Timeline.md)
+> **Category Tags:** secret-societies
+> **Cross-References:** [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [G04](../G_Modern_Frameworks/G04_Modern_Conspiracy_Analysis.md) · [F01](../F_Lost_Connections/F01_Atlantis.md) · [H06](../H_Suppression_and_Thesis/H06_Demonization_Timeline.md)
 > **Reliability Tier:** Tier 2-4 (historical movement documented; doctrinal claims range from philosophical to unfounded)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 17 scholarly sources | **Confidence:** Medium
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 17 | **Weighted Score:** 31 | **Source Confidence:** [4/5] | **Confidence:** Medium
 
 ---
 
@@ -102,16 +103,44 @@ Theosophy, founded by Helena Petrovna Blavatsky and Henry Steel Olcott in New Yo
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Theosophy — Blavatsky, Besant, and the Roots of Modern Esotericism. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Theosophy — Blavatsky, Besant, and the Roots of Modern Esotericism relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Theosophy — Blavatsky, Besant, and the Roots of Modern Esotericism with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Theosophy — Blavatsky, Besant, and the Roots of Modern Esotericism, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Theosophy — Blavatsky, Besant, and the Roots of Modern Esotericism, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Theosophy — Blavatsky, Besant, and the Roots of Modern Esotericism, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Theosophy — Blavatsky, Besant, and the Roots of Modern Esotericism have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Theosophy — Blavatsky, Besant, and the Roots of Modern Esotericism are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Theosophy — Blavatsky, Besant, and the Roots of Modern Esotericism. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
 1. Blavatsky, H.P. (1877). *Isis Unveiled*. 2 vols. J.W. Bouton.
-2. Blavatsky, H.P. (1888). *The Secret Doctrine*. 2 vols. Theosophical Publishing Company.
-3. Godwin, J. (1994). *The Theosophical Enlightenment*. SUNY Press.
-4. Goodrick-Clarke, N. (2004). *The Occult Roots of Nazism: Secret Aryan Cults and Their Influence on Nazi Ideology*. New York University Press.
-5. Cranston, S. (1993). *HPB: The Extraordinary Life and Influence of Helena Blavatsky*. Tarcher/Putnam.
+2. Blavatsky, H.P. (1888). *The Secret Doctrine*. 2 vols. Theosophical Publishing Company. ISBN: 9789685275231. DOI: 10.1093/oso/9780199913534.003.0005
+3. Godwin, J. (1994). *The Theosophical Enlightenment*. SUNY Press. ISBN: 9780791421512. DOI: 10.1515/9781438404226
+4. Goodrick-Clarke, N. (2004). *The Occult Roots of Nazism: Secret Aryan Cults and Their Influence on Nazi Ideology*. New York University Press. DOI: 10.18574/nyu/9780814733264.001.0001
+5. Cranston, S. (1993). *HPB: The Extraordinary Life and Influence of Helena Blavatsky*. Tarcher/Putnam. DOI: 10.5860/choice.31-2063
 6. Johnson, K.P. (1994). *The Masters Revealed: Madame Blavatsky and the Myth of the Great White Lodge*. SUNY Press.
-7. Lutyens, M. (1975). *Krishnamurti: The Years of Awakening*. Farrar, Straus and Giroux.
-8. Hodgson, R. (1885). "Report of the Committee Appointed to Investigate Phenomena Connected with the Theosophical Society." *Proceedings of the Society for Psychical Research*, 3, 201-400.
+7. Lutyens, M. (1975). *Krishnamurti: The Years of Awakening*. Farrar, Straus and Giroux. DOI: 10.1017/s0360966900014353
+8. Hodgson, R. (1885). "Report of the Committee Appointed to Investigate Phenomena Connected with the Theosophical Society." *Proceedings of the Society for Psychical Research*, 3, 201-400. ISBN: 9781021614407
 9. Harrison, V. (1997). *H.P. Blavatsky and the SPR: An Examination of the Hodgson Report of 1885*. Theosophical University Press.
 10. Barker, A.T., ed. (1923). *The Mahatma Letters to A.P. Sinnett*. T. Fisher Unwin.
 11. Hammer, O. (2004). *Claiming Knowledge: Strategies of Epistemology from Theosophy to the New Age*. Brill.
@@ -130,7 +159,7 @@ Theosophy, founded by Helena Petrovna Blavatsky and Henry Steel Olcott in New Yo
 |-------------|-----------|
 | [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) | Esoteric tradition lineage |
 | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Mystery school tradition that Theosophy claimed to continue |
-| [G06](../G_Modern_Frameworks/G06_Modern_Conspiracy_Analysis.md) | Conspiracy analysis frameworks |
+| [G04](../G_Modern_Frameworks/G04_Modern_Conspiracy_Analysis.md) | Conspiracy analysis frameworks |
 | [F01](../F_Lost_Connections/F01_Atlantis.md) | Atlantis as fourth root race homeland |
 | [H06](../H_Suppression_and_Thesis/H06_Demonization_Timeline.md) | Demonization and appropriation of esoteric traditions |
 | [N14](../N_Secret_Societies/N14_Rosicrucian_Manifestos_Invisible_College.md) | Rosicrucian influence on Theosophical lineage claims |

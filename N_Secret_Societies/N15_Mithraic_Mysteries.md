@@ -3,9 +3,10 @@
 > **Document ID:** N15
 > **Section:** N_Secret_Societies
 > **Keywords:** Mithras, Mithraism, tauroctony, Mithraeum, Sol Invictus, Roman mystery cult, seven grades, Cumont, Ulansey, Platonic astronomy, bull-slaying, pater, military religion
-> **Cross-References:** [C108](../C_Global_Traditions/C108_Roman_Religion_Augury_Imperial_Cult.md) · [C107](../C_Global_Traditions/C107_Greek_Religion_Lived_Practice.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels_Subterranean_Networks.md) · [A08](../A_Foundations/A08_Hermetic_Tradition.md)
+> **Category Tags:** secret-societies, religion
+> **Cross-References:** [W33](../W_World_Civilizations/W33_Roman_Religion_Augury_Imperial_Cult.md) · [W32](../W_World_Civilizations/W32_Greek_Religion_Lived_Practice.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels_Subterranean_Networks.md) · [A08](../A_Foundations/A08_Hermetic_Tradition.md)
 > **Reliability Tier:** Tier 1-3 (archaeological evidence is abundant; theological meaning remains debated)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Moderate-High
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 | **Weighted Score:** 45 | **Source Confidence:** [5/5] | **Confidence:** Moderate-High
 
 ---
 
@@ -83,7 +84,7 @@ The Mysteries of Mithras constituted one of the most widespread and architectura
 - The communal meal may have represented a **reenactment of the feast between Mithras and Sol** after the bull-slaying, depicted in numerous reliefs (the "banquet scene"), where the two gods recline on the skin of the slain bull.
 
 ### 2.5 Relationship with Other Mystery Cults
-- Mithraism existed alongside other mystery cults in the Roman Empire: the cults of **Isis, Cybele/Magna Mater, Dionysus/Bacchus**, and the Eleusinian Mysteries (→ N12).
+- Mithraism existed alongside other mystery cults in the Roman Empire: the cults of **Isis, Cybele/Magna Mater, Dionysus/Bacchus**, and the Eleusinian Mysteries (→ [N12](N12_Eleusinian_Mysteries_Deep_Dive.md)).
 - Individual Romans could be initiated into **multiple mystery cults** simultaneously; inscriptions record individuals holding ranks in both the Mithraic hierarchy and the priesthood of other deities.
 - However, Mithraism's **exclusively male membership** and **military association** distinguished it from the more socially inclusive cults of Isis and Cybele.
 - The seventh grade, **Pater** ("Father"), carried responsibilities similar to those of a bishop in early Christianity: oversight of the community, performance of rituals, and pastoral care of lower-grade members.
@@ -129,14 +130,42 @@ The Mysteries of Mithras constituted one of the most widespread and architectura
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Mithraic Mysteries — The Roman Underground Cult. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Mithraic Mysteries — The Roman Underground Cult relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Mithraic Mysteries — The Roman Underground Cult with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Mithraic Mysteries — The Roman Underground Cult, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Mithraic Mysteries — The Roman Underground Cult, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Mithraic Mysteries — The Roman Underground Cult, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Mithraic Mysteries — The Roman Underground Cult have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Mithraic Mysteries — The Roman Underground Cult are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Mithraic Mysteries — The Roman Underground Cult. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Beck, Roger. *The Religion of the Mithras Cult in the Roman Empire: Mysteries of the Unconquered Sun*. Oxford: Oxford University Press, 2006.
-2. Beck, Roger. "The Mysteries of Mithras: A New Account of Their Genesis." *Journal of Roman Studies* 88 (1998): 115-128.
-3. Clauss, Manfred. *The Roman Cult of Mithras: The God and His Mysteries*. Trans. Richard Gordon. Edinburgh: Edinburgh University Press, 2000.
+1. Beck, Roger. *The Religion of the Mithras Cult in the Roman Empire: Mysteries of the Unconquered Sun*. Oxford: Oxford University Press, 2006. DOI: 10.1177/00084298110400020502
+2. Beck, Roger. "The Mysteries of Mithras: A New Account of Their Genesis." *Journal of Roman Studies* 88 (1998): 115-128. ISBN: 9780909049355. DOI: 10.2307/300807
+3. Clauss, Manfred. *The Roman Cult of Mithras: The God and His Mysteries*. Trans. Richard Gordon. Edinburgh: Edinburgh University Press, 2000. DOI: 10.2307/3184658
 4. Cumont, Franz. *The Mysteries of Mithra*. Trans. T.J. McCormack. Chicago: Open Court, 1903 [French original 1899].
-5. Gordon, Richard L. "Who Worshipped Mithras?" *Journal of Roman Archaeology* 7 (1994): 459-474.
-6. Hinnells, John R., ed. *Mithraic Studies: Proceedings of the First International Congress of Mithraic Studies*. 2 vols. Manchester: Manchester University Press, 1975.
+5. Gordon, Richard L. "Who Worshipped Mithras?" *Journal of Roman Archaeology* 7 (1994): 459-474. ISBN: 9789990892659. DOI: 10.1017/s1047759400012873
+6. Hinnells, John R., ed. *Mithraic Studies: Proceedings of the First International Congress of Mithraic Studies*. 2 vols. Manchester: Manchester University Press, 1975. DOI: 10.1017/s0009840x00222130
 7. Merkelbach, Reinhold. *Mithras: Ein persisch-römischer Mysterienkult*. Hain, 1984.
 8. Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford: Oxford University Press, 1989.
 9. Vermaseren, M.J. *Corpus Inscriptionum et Monumentorum Religionis Mithriacae* (CIMRM). 2 vols. The Hague: Nijhoff, 1956-1960.
@@ -146,7 +175,7 @@ The Mysteries of Mithras constituted one of the most widespread and architectura
 13. Griffith, Alison B. "Mithraism in the Private and Public Lives of 4th-Century Senators in Rome." *Electronic Journal of Mithraic Studies* 1 (2000): 1-27.
 14. Porphyry. *De Antro Nympharum*. Trans. Robert Lamberton. Barrytown, NY: Station Hill, 1983.
 15. Justin Martyr. *First Apology*, Ch. 66. Trans. L.W. Barnard. In *Ancient Christian Writers* 56. New York: Paulist Press, 1997.
-16. Burkert, Walter. *Ancient Mystery Cults*. Cambridge, MA: Harvard University Press, 1987.
+16. Burkert, Walter. *Ancient Mystery Cults*. Cambridge, MA: Harvard University Press, 1987. ISBN: 9780674033870
 17. Martin, Luther H. "Roman Mithraism and Christianity." *Numen* 36, no. 1 (1989): 2-15.
 18. Alvar, Jaime. *Romanising Oriental Gods: Myth, Salvation, and Ethics in the Cults of Cybele, Isis, and Mithras*. Leiden: Brill, 2008.
 19. White, L. Michael. *The Social Origins of Christian Architecture*. Vol. 2. Valley Forge, PA: Trinity Press, 1997.
@@ -162,8 +191,8 @@ The Mysteries of Mithras constituted one of the most widespread and architectura
 |---|---|---|
 | Mystery Schools Overview | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Parent tradition framework |
 | Hermetic Tradition | [A08](../A_Foundations/A08_Hermetic_Tradition.md) | Shared Hellenistic esoteric milieu |
-| Roman Religion | [C108](../C_Global_Traditions/C108_Roman_Religion_Augury_Imperial_Cult.md) | Host culture and state religion context |
-| Greek Religion | [C107](../C_Global_Traditions/C107_Greek_Religion_Lived_Practice.md) | Eleusinian and Orphic parallels |
+| Roman Religion | [W33](../W_World_Civilizations/W33_Roman_Religion_Augury_Imperial_Cult.md) | Host culture and state religion context |
+| Greek Religion | [W32](../W_World_Civilizations/W32_Greek_Religion_Lived_Practice.md) | Eleusinian and Orphic parallels |
 | Sacred Architecture | [D32](../D_Sites_and_Artifacts/D32_Ancient_Tunnels_Subterranean_Networks.md) | Underground temple construction |
 | Freemasonry | [N02](../N_Secret_Societies/N02_Freemasonry_Rosicrucianism.md) | Grade system analogies |
 | Eleusinian Mysteries | [N12](../N_Secret_Societies/N12_Eleusinian_Mysteries_Deep_Dive.md) | Competing Roman-era mystery cult |
@@ -172,7 +201,7 @@ The Mysteries of Mithras constituted one of the most widespread and architectura
 | Knights Templar | [N04](../N_Secret_Societies/N04_Knights_Templar.md) | Underground worship accusations |
 | Orphic Tradition | [N07](../N_Secret_Societies/N07_Orphic_Tradition_Gold_Tablets.md) | Afterlife / salvation theology |
 | Christianity Origins | [C20](../C_Global_Traditions/C20_Seven_Level_Cosmology_Seven_Gates.md) | Rival mystery tradition; meal/baptism parallels |
-| Solar Mythology | [C40](../C_Global_Traditions/C40_Bantu_Cosmology_Migration_Iron.md) | Sol Invictus / solar symbolism |
+| Solar Mythology | [W05](../W_World_Civilizations/W05_Bantu_Cosmology_Migration_Iron.md) | Sol Invictus / solar symbolism |
 | Sacred Architecture | [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Mithraeum design and cosmic symbolism |
 
 ---

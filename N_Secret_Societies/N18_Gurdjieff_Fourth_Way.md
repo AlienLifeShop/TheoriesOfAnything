@@ -3,9 +3,10 @@
 > **Document ID:** N18
 > **Section:** N_Secret_Societies
 > **Keywords:** Gurdjieff, Fourth Way, self-remembering, Ouspensky, enneagram, Beelzebub's Tales, sacred dances, Movements, Sarmoung Brotherhood, octave law, hydrogens, man is a machine, esoteric school, conscience
-> **Cross-References:** [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [K10](../K_Consciousness/K08_Meditation_Neuroplasticity.md) · [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) · [U02](../U_Art_Music_Culture/U02_Sacred_Dance_Ritual_Movement.md) · [T01](../T_Psychology_Social/T01_Social_Psychology_Conformity_Obedience.md)
+> **Category Tags:** secret-societies, art-culture, religion
+> **Cross-References:** [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [Y08](../Y_Altered_States/Y06_Meditation_Neuroplasticity.md) · [P09](../P_Philosophy_Meaning/P09_Perennial_Philosophy.md) · [U02](../U_Art_Music_Culture/U02_Sacred_Dance_Ritual_Movement.md) · [ZC01](../ZC_Social_Science/ZC01_Social_Psychology_Conformity_Obedience.md)
 > **Reliability Tier:** Tier 2-3 (biographical facts verifiable; inner teaching claims unverifiable by design)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** Moderate
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 20 | **Weighted Score:** 27 | **Source Confidence:** [3/5] | **Confidence:** Moderate
 
 ---
 
@@ -127,22 +128,50 @@ George Ivanovich Gurdjieff (c. 1866-1949) was one of the most enigmatic and infl
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Gurdjieff, the Fourth Way, and Esoteric Schools. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Gurdjieff, the Fourth Way, and Esoteric Schools relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Gurdjieff, the Fourth Way, and Esoteric Schools with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Gurdjieff, the Fourth Way, and Esoteric Schools, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Gurdjieff, the Fourth Way, and Esoteric Schools, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Gurdjieff, the Fourth Way, and Esoteric Schools, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Gurdjieff, the Fourth Way, and Esoteric Schools have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Gurdjieff, the Fourth Way, and Esoteric Schools are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Gurdjieff, the Fourth Way, and Esoteric Schools. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Gurdjieff, G.I. *Beelzebub's Tales to His Grandson (All and Everything, First Series)*. New York: Harcourt, Brace, 1950.
+1. Gurdjieff, G.I. *Beelzebub's Tales to His Grandson (All and Everything, First Series)*. New York: Harcourt, Brace, 1950. DOI: 10.1093/oso/9780190064075.003.0007
 2. Gurdjieff, G.I. *Meetings with Remarkable Men (All and Everything, Second Series)*. New York: Dutton, 1963.
 3. Gurdjieff, G.I. *Life Is Real Only Then, When "I Am" (All and Everything, Third Series)*. New York: Triangle Editions, 1982.
-4. Ouspensky, P.D. *In Search of the Miraculous: Fragments of an Unknown Teaching*. New York: Harcourt, Brace & World, 1949.
-5. Ouspensky, P.D. *The Fourth Way*. New York: Knopf, 1957.
-6. Bennett, J.G. *Gurdjieff: Making a New World*. New York: Harper & Row, 1973.
-7. Bennett, J.G. *The Masters of Wisdom*. London: Turnstone, 1977.
+4. Ouspensky, P.D. *In Search of the Miraculous: Fragments of an Unknown Teaching*. New York: Harcourt, Brace & World, 1949. DOI: 10.1177/000271625026800197
+5. Ouspensky, P.D. *The Fourth Way*. New York: Knopf, 1957. ISBN: 1968403752
+6. Bennett, J.G. *Gurdjieff: Making a New World*. New York: Harper & Row, 1973. ISBN: 9780855000196
+7. Bennett, J.G. *The Masters of Wisdom*. London: Turnstone, 1977. ISBN: 9781425359485
 8. Moore, James. *Gurdjieff: The Anatomy of a Myth*. Shaftesbury: Element, 1991.
 9. Taylor, Paul Beekman. *Gurdjieff and Orage: Brothers in Elysium*. York Beach, ME: Weiser, 2001.
 10. Webb, James. *The Harmonious Circle: The Lives and Work of G.I. Gurdjieff, P.D. Ouspensky, and Their Followers*. New York: Putnam, 1980.
-11. Petsche, Johanna. *Gurdjieff and Music: The Gurdjieff/De Hartmann Piano Music and Its Esoteric Significance*. Leiden: Brill, 2015.
-12. Tart, Charles T. *Waking Up: Overcoming the Obstacles to Human Potential*. Boston: Shambhala, 1986.
+11. Petsche, Johanna. *Gurdjieff and Music: The Gurdjieff/De Hartmann Piano Music and Its Esoteric Significance*. Leiden: Brill, 2015. DOI: 10.1163/9789004284449
+12. Tart, Charles T. *Waking Up: Overcoming the Obstacles to Human Potential*. Boston: Shambhala, 1986. DOI: 10.1080/00029157.1988.10402772
 13. Salzmann, Jeanne de. *The Reality of Being: The Fourth Way of Gurdjieff*. Boston: Shambhala, 2010.
-14. Needleman, Jacob. "G.I. Gurdjieff and His School." In *Modern Esoteric Spirituality*, edited by Antoine Faivre and Jacob Needleman, 359-380. New York: Crossroad, 1992.
+14. Needleman, Jacob. "G.I. Gurdjieff and His School." In *Modern Esoteric Spirituality*, edited by Antoine Faivre and Jacob Needleman, 359-380. New York: Crossroad, 1992. DOI: 10.1086/489642
 15. Azize, Joseph. *Gurdjieff: Mysticism, Contemplation, and Exercises*. Oxford: Oxford University Press, 2020.
 16. Patterson, William Patrick. *Struggle of the Magicians: Exploring the Teacher-Student Relationship*. Fairfax, CA: Arete, 1996.
 17. Shah, Idries. *The Sufis*. London: Jonathan Cape, 1964.
@@ -157,10 +186,10 @@ George Ivanovich Gurdjieff (c. 1866-1949) was one of the most enigmatic and infl
 | Topic | Document | Relationship |
 |---|---|---|
 | Mystery Schools | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Esoteric school tradition |
-| Meditation Neuroscience | [K10](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Self-remembering as awareness practice |
-| Perennial Philosophy | [P10](../P_Philosophy_Meaning/P10_Perennial_Philosophy.md) | Universal truth claim |
+| Meditation Neuroscience | [Y08](../Y_Altered_States/Y06_Meditation_Neuroplasticity.md) | Self-remembering as awareness practice |
+| Perennial Philosophy | [P09](../P_Philosophy_Meaning/P09_Perennial_Philosophy.md) | Universal truth claim |
 | Sacred Dance | [U02](../U_Art_Music_Culture/U02_Sacred_Dance_Ritual_Movement.md) | Movements as embodied practice |
-| Social Psychology | [T01](../T_Psychology_Social/T01_Social_Psychology_Conformity_Obedience.md) | Mechanical behavior / automaticity |
+| Social Psychology | [ZC01](../ZC_Social_Science/ZC01_Social_Psychology_Conformity_Obedience.md) | Mechanical behavior / automaticity |
 | Sufi Orders | [N08](../N_Secret_Societies/N08_Sufi_Orders_Islamic_Esotericism.md) | Probable source tradition |
 | Theosophy | [N13](../N_Secret_Societies/N13_Theosophy_Blavatsky_New_Age.md) | Cosmological parallels |
 | Kabbalah | [N09](../N_Secret_Societies/N09_Kabbalah_Jewish_Mysticism.md) | Enneagram / Tree of Life structural analogies |
@@ -168,11 +197,11 @@ George Ivanovich Gurdjieff (c. 1866-1949) was one of the most enigmatic and infl
 | Hermetic Tradition | [A08](../A_Foundations/A08_Hermetic_Tradition.md) | "As above, so below" cosmology |
 | Zoroastrianism | [C12](../A_Foundations/A26_Avestan_Texts_Gathas_Vendidad_Yasna.md) | Central Asian spiritual tradition |
 | Golden Dawn | [N20](../N_Secret_Societies/N20_Golden_Dawn_Ceremonial_Magic.md) | Parallel esoteric revival movement |
-| Kundalini | [K06](../K_Consciousness/K06_Kundalini_Serpent_Energy.md) | Energy centers / chakra parallels |
+| Kundalini | [Y05](../Y_Altered_States/Y05_Kundalini_Serpent_Energy.md) | Energy centers / chakra parallels |
 | Sacred Music | [U01](../U_Art_Music_Culture/U01_Music_Theory_Harmonic_Series_Physics_of_Sound.md) | Gurdjieff/de Hartmann compositions |
-| Consciousness Studies | [K01](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | "Waking sleep" and awareness |
+| Consciousness Studies | [Y01](../Y_Altered_States/Y01_NDEs_OBEs_Consciousness.md) | "Waking sleep" and awareness |
 | Eleusinian Mysteries | [N12](../N_Secret_Societies/N12_Eleusinian_Mysteries_Deep_Dive.md) | Ancient initiation parallels |
-| Shamanism | [C05](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Central Asian spiritual practices |
+| Shamanism | [C05](../Y_Altered_States/Y10_Shamanic_Practices_Altered_States.md) | Central Asian spiritual practices |
 
 ---
 

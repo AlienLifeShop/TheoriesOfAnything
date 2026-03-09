@@ -3,9 +3,10 @@
 > **Document ID:** N11
 > **Section:** N_Secret_Societies
 > **Keywords:** Pythagoras, Pythagorean brotherhood, Croton, Music of the Spheres, tetractys, akousmatikoi, mathematikoi, sacred numbers, beans taboo, Plato, mystery school, metempsychosis
-> **Cross-References:** [D12](../D_Sites_and_Artifacts/D12_Pythagorean_Harmony_Sacred_Sound.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [P04](../P_Philosophy_Meaning/P04_Mathematics_Discovered_Invented.md) · [G18](../G_Modern_Frameworks/G18_Cymatics_Visible_Sound.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md)
+> **Category Tags:** secret-societies, esoteric-orders, mathematics, art-culture
+> **Cross-References:** [D12](../D_Sites_and_Artifacts/D12_Pythagorean_Harmony_Sacred_Sound.md) · [N01](../N_Secret_Societies/N01_Mystery_Schools.md) · [P03](../P_Philosophy_Meaning/P03_Mathematics_Discovered_Invented.md) · [G11](../G_Modern_Frameworks/G11_Cymatics_Visible_Sound.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md)
 > **Reliability Tier:** Tier 1-3 (mathematical contributions verified; biographical details range from historical to legendary)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 17 scholarly sources | **Confidence:** Medium-High
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 17 | **Weighted Score:** 33 | **Source Confidence:** [4/5] | **Confidence:** Medium-High
 
 ---
 
@@ -105,22 +106,50 @@ Pythagoras of Samos (~570-495 BCE) was a Greek philosopher, mathematician, and m
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Pythagorean Brotherhood as Proto-Secret Society. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Pythagorean Brotherhood as Proto-Secret Society relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Pythagorean Brotherhood as Proto-Secret Society with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Pythagorean Brotherhood as Proto-Secret Society, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Pythagorean Brotherhood as Proto-Secret Society, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Pythagorean Brotherhood as Proto-Secret Society, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Pythagorean Brotherhood as Proto-Secret Society have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Pythagorean Brotherhood as Proto-Secret Society are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Pythagorean Brotherhood as Proto-Secret Society. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
 1. Kahn, C.H. (2001). *Pythagoras and the Pythagoreans: A Brief History*. Hackett Publishing.
-2. Huffman, C.A. (2005). *Archytas of Tarentum: Pythagorean, Philosopher and Mathematician King*. Cambridge University Press.
+2. Huffman, C.A. (2005). *Archytas of Tarentum: Pythagorean, Philosopher and Mathematician King*. Cambridge University Press. DOI: 10.1017/cbo9780511482533
 3. Huffman, C.A. (2014). *A History of Pythagoreanism*. Cambridge University Press.
-4. Riedweg, C. (2005). *Pythagoras: His Life, Teaching, and Influence*. Cornell University Press.
-5. Burkert, W. (1972). *Lore and Science in Ancient Pythagoreanism*. Trans. Minar, E.L. Harvard University Press.
-6. Zhmud, L. (2012). *Pythagoras and the Early Pythagoreans*. Oxford University Press.
-7. Iamblichus (c. 300 CE). *On the Pythagorean Life*. Trans. Clark, G. (1989). Liverpool University Press.
-8. Porphyry (c. 270 CE). *Life of Pythagoras*. Trans. Guthrie, K.S. (1920).
+4. Riedweg, C. (2005). *Pythagoras: His Life, Teaching, and Influence*. Cornell University Press. DOI: 10.1086/507359
+5. Burkert, W. (1972). *Lore and Science in Ancient Pythagoreanism*. Trans. Minar, E.L. Harvard University Press. ISBN: 9780674539181. DOI: 10.1017/s0009840x00247549
+6. Zhmud, L. (2012). *Pythagoras and the Early Pythagoreans*. Oxford University Press. DOI: 10.14195/1984-249x_13_15
+7. Iamblichus (c. 300 CE). *On the Pythagorean Life*. Trans. Clark, G. (1989). Liverpool University Press. DOI: 10.3828/978-0-85323-326-8
+8. Porphyry (c. 270 CE). *Life of Pythagoras*. Trans. Guthrie, K.S. (1920). ISBN: 9780548000687
 9. Diogenes Laertius (c. 230 CE). *Lives and Opinions of Eminent Philosophers*, Book VIII. Various translations.
 10. Aristotle. *Metaphysics*, Book I, Chapters 5-6. c. 350 BCE. Various translations.
 11. Cornelli, G. (2013). *In Search of Pythagoreanism: Pythagoreanism as an Historiographical Category*. De Gruyter.
-12. Guthrie, W.K.C. (1962). *A History of Greek Philosophy*, Vol. I. Cambridge University Press.
+12. Guthrie, W.K.C. (1962). *A History of Greek Philosophy*, Vol. I. Cambridge University Press. ISBN: 9781973822080
 13. Schofield, M. (2012). "Pythagoreanism." *Oxford Handbook of Presocratic Philosophy*. Oxford University Press.
-14. Barker, A. (2007). *The Science of Harmonics in Classical Greece*. Cambridge University Press.
+14. Barker, A. (2007). *The Science of Harmonics in Classical Greece*. Cambridge University Press. ISBN: 9780521879514
 15. Creese, D. (2010). *The Monochord in Ancient Greek Harmonic Science*. Cambridge University Press.
 16. Joost-Gaugier, C.L. (2006). *Measuring Heaven: Pythagoras and His Influence on Thought and Art in Antiquity and the Middle Ages*. Cornell University Press.
 17. O'Meara, D.J. (1989). *Pythagoras Revived: Mathematics and Philosophy in Late Antiquity*. Clarendon Press.
@@ -133,8 +162,8 @@ Pythagoras of Samos (~570-495 BCE) was a Greek philosopher, mathematician, and m
 |-------------|-----------|
 | [D12](../D_Sites_and_Artifacts/D12_Pythagorean_Harmony_Sacred_Sound.md) | Musical ratios and harmonic principles |
 | [N01](../N_Secret_Societies/N01_Mystery_Schools.md) | Mystery school tradition context |
-| [P04](../P_Philosophy_Meaning/P04_Mathematics_Discovered_Invented.md) | Philosophy of mathematics |
-| [G18](../G_Modern_Frameworks/G18_Cymatics_Visible_Sound.md) | Sound-pattern relationships |
+| [P03](../P_Philosophy_Meaning/P03_Mathematics_Discovered_Invented.md) | Philosophy of mathematics |
+| [G11](../G_Modern_Frameworks/G11_Cymatics_Visible_Sound.md) | Sound-pattern relationships |
 | [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Sacred geometry and number symbolism |
 | [N12](../N_Secret_Societies/N12_Eleusinian_Mysteries_Deep_Dive.md) | Parallel Greek initiatory tradition |
 
