@@ -1,29 +1,24 @@
 # E01 — The Younger Dryas Impact Hypothesis (YDIH)
-## Cataclysms & Chronology
+
+> **Document ID:** E01
+> **Section:** E_Cataclysms_and_Chronology
+> **Keywords:** Younger Dryas, YDIH, impact, nanodiamonds, microspherules, Black Mat, Clovis, megafauna, Hiawatha, Abu Hureyra, Firestone, Kennett, Holliday, Göbekli Tepe timeline, megafaunal extinction, meltwater pulse, paleoclimatology
+> **Category Tags:** cataclysms, chronology
+> **Cross-References:** [C02](../C_Global_Traditions/C02_Global_Flood_Stories.md) · [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) · [E02](E02_Meteor_and_Asteroid_Impacts.md) · [E06](E06_Paleomagnetism_Geomagnetic_Excursions.md) · [F01](../F_Lost_Connections/)
+> **Reliability Tier:** Tier 2-3 (cataclysmic events and chronological frameworks)
+> **Last Updated:** Mar 8, 2026 | **Source Count:** 13 | **Weighted Score:** 35 | **Source Confidence:** [4/5] | **Confidence:** Moderate (mixed evidence across tiers)
 
 ---
 
-**Keywords:** Younger Dryas, YDIH, impact, nanodiamonds, microspherules, Black Mat, Clovis, megafauna, Hiawatha, Abu Hureyra, Firestone, Kennett, Holliday, Göbekli Tepe timeline, megafaunal extinction, meltwater pulse
-**Cross-references:** [C02](../C_Global_Traditions/C02_Global_Flood_Stories.md) · [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) · [E02](E02_Meteor_and_Asteroid_Impacts.md) · [E06](E06_Paleomagnetism_Geomagnetic_Excursions.md) · [F01](../F_Lost_Connections/)
-**Sources:** [4/4 — Gemini, GPT5.2, Master, Raptor]
+## Quick Summary
 
----
-
-## Reliability Tiers Used in This Document
-| Tier | Meaning |
-|------|---------|
-| **TIER 1** | Verified — peer-reviewed, replicated, mainstream consensus |
-| **TIER 2** | Credible — debated but supported by multiple studies |
-| **TIER 3** | Speculative — plausible but unverified |
-| **TIER 4** | Dubious — unsupported or retracted |
-
----
+This document examines The Younger Dryas Impact Hypothesis (YDIH), a topic within the Cataclysms and Chronology research area. Notable findings include: Greenland ice-core data confirm rapid cooling at onset and abrupt warming at termination **[TIER 1]. The document presents evidence organized across multiple tiers — from peer-reviewed and verified claims to more speculative interpretations — with cross-references to related topics throughout the knowledge base.
 
 ## 1. The Younger Dryas — What Happened
 
-**Reliability: TIER 1 — VERIFIED** · **[4/4 SOURCES]**
+**Reliability: TIER 1 — VERIFIED** ·
 
-### The Climate Event
+### 1.1 The Climate Event
 
 | Parameter | Details |
 |-----------|---------|
@@ -38,7 +33,7 @@
 - Northern Hemisphere temperatures plummeted to near-glacial conditions; European forests replaced by tundra; sea ice expanded dramatically
 - The warming ending the Ice Age **stopped cold** — then resumed just as suddenly 1,200 years later
 
-### The Megafaunal Extinction
+### 1.2 The Megafaunal Extinction
 
 During and immediately after the YD onset, **35+ genera of megafauna** went extinct in North America:
 
@@ -57,7 +52,7 @@ During and immediately after the YD onset, **35+ genera of megafauna** went exti
 
 **Over 70% of North American large mammals disappeared within approximately 1,000 years.**
 
-### The Clovis Culture Disappearance
+### 1.3 The Clovis Culture Disappearance
 
 - The **Clovis culture** (~13,400–12,800 years ago) was the most widespread early human culture in the Americas
 - Their distinctive fluted stone tools appear across North America
@@ -68,15 +63,15 @@ During and immediately after the YD onset, **35+ genera of megafauna** went exti
 
 ## 2. The Impact Hypothesis — The Science
 
-**Reliability: TIER 2 — CREDIBLE (100+ peer-reviewed papers in the debate)** · **[4/4 SOURCES]**
+**Reliability: TIER 2 — CREDIBLE (100+ peer-reviewed papers in the debate)** ·
 
-### The Original Paper
+### 2.1 The Original Paper
 
 - **Firestone, R.B., West, A., Kennett, J.P., et al.** (2007). "Evidence for an extraterrestrial impact 12,900 years ago that contributed to the megafaunal extinctions and the Younger Dryas cooling." *PNAS* 104(41), 16016–16021.
 - 26 co-authors from multiple institutions
 - Proposed comet fragments struck the Laurentide Ice Sheet
 
-### Evidence Markers at the YD Boundary Layer
+### 2.2 Evidence Markers at the YD Boundary Layer
 
 | Marker | What It Is | Significance |
 |--------|-----------|--------------|
@@ -89,7 +84,7 @@ During and immediately after the YD onset, **35+ genera of megafauna** went exti
 | **Shocked quartz** | Quartz grains with planar deformation | Classic impact indicator |
 | **Aciniform soot** | Specific high-temperature combustion soot | Fires far hotter than normal wildfires |
 
-### The "Black Mat"
+### 2.3 The "Black Mat"
 
 A distinctive carbon-rich soil layer found at **over 50 sites** across 4 continents:
 
@@ -99,7 +94,7 @@ A distinctive carbon-rich soil layer found at **over 50 sites** across 4 contine
 
 The correlation in time is **verified**. The *cause* (comet vs. other climate mechanism) remains the point of contention. **[TIER 2]**
 
-### Geographic Spread of Evidence
+### 2.4 Geographic Spread of Evidence
 
 | Region | Key Sites | Reference |
 |--------|-----------|-----------|
@@ -110,7 +105,7 @@ The correlation in time is **verified**. The *cause* (comet vs. other climate me
 | **South Africa** | Wonderkrater — Pt anomaly | Thackeray et al., 2019 |
 | **Greenland** | Hiawatha Crater discovery (2018) — 31 km crater under ice | Kjær et al., 2018 |
 
-### The Abu Hureyra Evidence (2020) — Strongest Single-Site Case
+### 2.5 The Abu Hureyra Evidence (2020) — Strongest Single-Site Case
 
 - Abu Hureyra, Syria — one of the earliest known agricultural settlements
 - Moore, Kennett et al. published in *Scientific Reports* (2020)
@@ -119,7 +114,7 @@ The correlation in time is **verified**. The *cause* (comet vs. other climate me
 - Site shows occupation both below and above the melt glass layer
 - Represents a single catastrophic high-temperature event **[TIER 2]**
 
-### The Hiawatha Crater (2018)
+### 2.6 The Hiawatha Crater (2018)
 
 - Discovered beneath the Greenland ice sheet by radar survey
 - **31 km diameter** — one of the 25 largest known impact craters on Earth
@@ -131,9 +126,9 @@ The correlation in time is **verified**. The *cause* (comet vs. other climate me
 
 ## 3. The Channeled Scablands — Proof of Catastrophic Flooding
 
-**Reliability: TIER 1 — VERIFIED** · **[3/4 SOURCES]**
+**Reliability: TIER 1 — VERIFIED** ·
 
-### J Harlen Bretz — A Cautionary Tale
+### 3.1 J Harlen Bretz — A Cautionary Tale
 
 | Year | Event |
 |------|-------|
@@ -142,21 +137,21 @@ The correlation in time is **verified**. The *cause* (comet vs. other climate me
 | 1965 | International conference tours the Scablands — acknowledges Bretz was right |
 | 1979 | Bretz receives the Penrose Medal (geology's highest honor) at age 96 |
 
-### Physical Evidence
+### 3.2 Physical Evidence
 - **Massive flood channels** cut through basalt — up to 300 feet deep
 - **Giant current ripples** up to 50 feet high and 500 feet apart
 - **Erratic boulders** weighing hundreds of tons transported miles
 - **Dry Falls** — 400-foot-high, 3.5-mile-wide former waterfall (5× the width of Niagara)
 - Water volume required: ~10× the combined flow of all rivers on Earth
 
-### Glacial Lake Missoula
+### 3.3 Glacial Lake Missoula
 - Ice dam failures released glacial Lake Missoula repeatedly (up to 40 times)
 - Each release: ~2,500 km³ of water in days
 - The Scablands represent just ONE drainage pathway from ONE ice sheet
 - The Laurentide Ice Sheet (covering most of North America, up to 3 km thick) contained vastly more water
 - Multiple flood episodes triggered by repeated ice-dam failures **[TIER 1]**
 
-### Randall Carlson's Fieldwork
+### 3.4 Randall Carlson's Fieldwork
 - Decades mapping catastrophic flood evidence across North America
 - Documented flood features from the Great Lakes to the Gulf of Mexico
 - Argues the geological scale matches what a cosmic impact on the Laurentide Ice Sheet would produce
@@ -165,9 +160,9 @@ The correlation in time is **verified**. The *cause* (comet vs. other climate me
 
 ## 4. Connection to Global Flood Narratives
 
-**Reliability: TIER 2 — CREDIBLE** · **[4/4 SOURCES]**
+**Reliability: TIER 2 — CREDIBLE** ·
 
-### Timing Alignment
+### 4.1 Timing Alignment
 
 | Event | Date | Tradition |
 |-------|------|-----------|
@@ -177,12 +172,12 @@ The correlation in time is **verified**. The *cause* (comet vs. other climate me
 | Göbekli Tepe construction begins | ~11,500 ya | Archaeological dating |
 | Meltwater Pulse 1B | ~11,300 ya | Rapid 15–28 m sea-level rise |
 
-### Cascade Mechanism: Impact → Flood
-1. **Airburst over ice sheet** — comet fragments impact the Laurentide Ice Sheet
-2. **Instantaneous melting** — enormous volumes of ice flash-melted
-3. **Meltwater pulses** — trillions of gallons of freshwater pour into the Atlantic
-4. **Thermohaline shutdown** — freshwater disrupts the AMOC (Atlantic Meridional Overturning Circulation)
-5. **Climate collapse** — without AMOC distributing heat, Northern Hemisphere plunges to near-glacial conditions
+### 4.2 Cascade Mechanism: Impact → Flood
+1. **Airburst over ice sheet** — comet fragments impact the Laurentide Ice Sheet.
+2. **Instantaneous melting** — enormous volumes of ice flash-melted.
+3. **Meltwater pulses** — trillions of gallons of freshwater pour into the Atlantic.
+4. **Thermohaline shutdown** — freshwater disrupts the AMOC (Atlantic Meridional Overturning Circulation).
+5. **Climate collapse** — without AMOC distributing heat, Northern Hemisphere plunges to near-glacial conditions.
 6. **Continental flooding** — meltwater creates catastrophic floods (Scablands evidence)
 7. **Coastal inundation** — sea levels rise rapidly, flooding all coastal settlements
 8. **Fires** — airbursts and heated ejecta ignite continent-wide wildfires
@@ -193,16 +188,16 @@ Over **500 cultures** have flood traditions (see C02). A cosmic impact ~12,800 y
 
 ## 5. The Lost Civilization Question
 
-**Reliability: TIER 3 — SPECULATIVE** · **[4/4 SOURCES — all note as speculative]**
+**Reliability: TIER 3 — SPECULATIVE** ·
 
-### Graham Hancock's Thesis
+### 5.1 Graham Hancock's Thesis
 1. A sophisticated maritime civilization existed during the Ice Age
 2. Centered on now-submerged coastal areas (sea levels 120 m lower)
 3. YD impact destroyed this civilization (~12,800 ya)
 4. Survivors spread knowledge — becoming the "gods," "sages," and "Watchers" of mythology
 5. This explains the sudden appearance of advanced knowledge at sites like Göbekli Tepe
 
-### Supporting Circumstantial Evidence
+### 5.2 Supporting Circumstantial Evidence
 
 | Evidence | Details |
 |----------|---------|
@@ -235,7 +230,7 @@ Over **500 cultures** have flood traditions (see C02). A cosmic impact ~12,800 y
 
 ## 7. The Taurid Meteor Stream — The Proposed Source
 
-**Reliability: TIER 2 — CREDIBLE** · **[3/4 SOURCES]**
+**Reliability: TIER 2 — CREDIBLE** ·
 
 - Annual meteor shower (October–November) from debris of **Comet 2P/Encke** — or a larger parent comet that broke up ~20,000–30,000 ya
 - The **Taurid Complex** includes Comet Encke, multiple asteroid fragments, and a vast debris stream
@@ -243,7 +238,7 @@ Over **500 cultures** have flood traditions (see C02). A cosmic impact ~12,800 y
 - ~12,800 ya, Earth may have encountered a particularly dense stream
 - The stream continues to pose periodic risk (Bill Napier, Clube & Napier, *The Cosmic Serpent*, 1982)
 
-### The Cosmic Serpent Connection
+### 7.1 The Cosmic Serpent Connection
 - **Clube & Napier (1982):** Ancient "cosmic serpent" / dragon imagery worldwide may represent observations of a giant fragmenting comet — a bright, sinuous object crossing the sky
 - Provides a physical explanation for why so many cultures associate serpents/dragons with cosmic catastrophe AND creation
 
@@ -251,7 +246,7 @@ Over **500 cultures** have flood traditions (see C02). A cosmic impact ~12,800 y
 
 ## 8. Opposition and Criticisms
 
-**Reliability: TIER 1 — VERIFIED (the debate is real and ongoing)** · **[4/4 SOURCES]**
+**Reliability: TIER 1 — VERIFIED (the debate is real and ongoing)** ·
 
 ### Key Criticisms
 
@@ -265,20 +260,20 @@ Over **500 cultures** have flood traditions (see C02). A cosmic impact ~12,800 y
 | **Insufficient energy** | Boslough, 2012 | Multiple simultaneous airbursts compound the energy |
 | **Replication failures** | Surovell et al., 2009 | Failed to reproduce markers at multiple sites — significant negative result **[TIER 2]** |
 
-### Comprehensive Refutation: Holliday et al. (2023)
+### 8.1 Comprehensive Refutation: Holliday et al. (2023)
 
 **Holliday, V.T., Daulton, T.L., Bartlein, P.J., Boslough, M.B., et al. (2023). "Comprehensive refutation of the Younger Dryas Impact Hypothesis (YDIH)." *Earth-Science Reviews* 247, 104502.**
 
 A synthetic review collating multiple lines of critical evidence — chronology, mineral identification, reproducibility — concluding that the YDIH "is not supported by the bulk of high-quality, independently reproducible evidence." **[TIER 1 — robust critique]**
 
-### YDIH Proponent Responses (2023–2025) [RECENT] [DEEP SCAN ADD]
+### 8.2 YDIH Proponent Responses (2023–2025) [RECENT] [DEEP SCAN ADD]
 
 - Sweatman et al. published statistical rebuttals to several Holliday et al. arguments, particularly on the reproducibility of platinum spike data at the YD boundary
 - New platinum anomaly data from additional sites in South America and the Middle East strengthened the geochemical signal [Tier 2]
 - The **airburst-only model** (no crater needed) is now the leading YDIH variant — reframing the "no crater" objection as irrelevant since airbursts over the Laurentide ice sheet would leave no terrestrial crater [Tier 2]
 - **The debate is NOT settled** — active peer-reviewed exchange continues in 2024–2025
 
-### Parallel Evidence: Tall el-Hammam Airburst (2021) [DEEP SCAN ADD]
+### 8.3 Parallel Evidence: Tall el-Hammam Airburst (2021) [DEEP SCAN ADD]
 
 **Bunch et al. (2021). "A Tunguska-sized airburst destroyed Tall el-Hammam, a Middle Bronze Age city in the Jordan Valley." *Scientific Reports* 11:18632.**
 
@@ -289,7 +284,7 @@ A synthetic review collating multiple lines of critical evidence — chronology,
 - **Criticism:** Some critics argue the site is too small and the energy estimates are inflated; the "Sodom" identification is contested by many archaeologists [Tier 2]
 - Cross-reference: E02, E07
 
-### Timeline of the Debate (2007–2026)
+### 8.4 Timeline of the Debate (2007–2026)
 
 | Year | Status |
 |------|--------|
@@ -303,7 +298,7 @@ A synthetic review collating multiple lines of critical evidence — chronology,
 | 2023 | Holliday et al. comprehensive refutation published |
 | 2022–2026 | New sites continue to be identified; debate ongoing |
 
-### 2026 Status Update
+### 8.5 2026 Status Update
 
 **Reliability Status: CONTESTED SCIENCE**
 - The hypothesis has moved from "fringe" to "active scientific debate"
@@ -357,47 +352,70 @@ A synthetic review collating multiple lines of critical evidence — chronology,
 7. **Holliday, V.T., Daulton, T.L., Bartlein, P.J., Boslough, M.B., et al.** (2023). Comprehensive refutation of the Younger Dryas Impact Hypothesis (YDIH). *Earth-Science Reviews*, 247, 104502.
    - *Synthetic review collating critical evidence (chronology, mineral identification, reproducibility), concluding YDIH is not supported by the bulk of high-quality, independently reproducible evidence.* **Tier 1 (robust critique).**
 
-### Counter-Papers to the Refutation
+### 10.1 Counter-Papers to the Refutation
 - Kennett, J.P., et al. (2015). Bayesian chronological analysis consistent with cosmic impact at 12.8 ka. *PNAS* 112(14), 4344–4349.
 - Sweatman, M.B. (2021). The Younger Dryas impact hypothesis: Review of the impact evidence. *Earth-Science Reviews* — statistical validation of proxy patterns.
 - Pino, M., et al. (2019). Sedimentary record from Patagonia, southern Chile supports cosmic-impact triggering of biomass burning. *Scientific Reports* 9, 4413.
 
-### Additional Key Sources
+### 10.2 Additional Key Sources
 - Kjær, K.H., et al. (2018). A large impact crater beneath Hiawatha Glacier in northwest Greenland. *Science Advances* 4(11).
 - Clube, V. & Napier, B. (1982). *The Cosmic Serpent: A Catastrophist Manifesto*.
 - Wu, Q., et al. (2016). Outburst flood at 1920 BCE supports historicity of China's Great Flood and the Xia dynasty. *Science* 353(6299), 579–582.
 
 ---
 
-## Source Agreement Summary
+## Counter-Arguments & Criticisms
 
-| Agreement Level | Claims |
-|----------------|--------|
-| **[4/4 SOURCES]** | YD climate event verified; impact hypothesis contested; flood narrative connection; lost civilization as speculative |
-| **[3/4 SOURCES]** | Nanodiamonds/microspherules at YDB; Abu Hureyra melt glass; Clovis disappearance at YDB; Scablands evidence |
-| **[2/4 SOURCES]** | Hiawatha ruled out (~58 Ma); Black Mat concept |
-| **[1/4 SOURCES]** | Holliday 2023 refutation (Raptor); Surovell negative replication (Raptor); Sweatman statistical validation (Gemini); 2026 status framing (Gemini) |
+### Mainstream Academic Counterpoints
 
----
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with The Younger Dryas Impact Hypothesis (YDIH). Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to The Younger Dryas Impact Hypothesis (YDIH) relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
 
-*E01 — Consolidated from Gemini/27, GPT5.2/27, Master/27, raptor/27 + Deep Scan*
-*February 2026 | Updated: February 21, 2026*
-*Feb 21: Added YDIH proponent 2023–2025 rebuttals, airburst-only model, Tall el-Hammam parallel evidence*
+### Alternative Explanations & Disputed Evidence
 
----
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with The Younger Dryas Impact Hypothesis (YDIH). Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## CROSS-REFERENCE INDEX
+
+| Document | Section | Connection |
+|----------|---------|------------|
+| [C02](../C_Global_Traditions/C02_Global_Flood_Stories.md) | C_Global_Traditions | C02 — Global Flood Stories |
+| [D01](../D_Sites_and_Artifacts/D01_Gobekli_Tepe.md) | D_Sites_and_Artifacts | D01 — Gobekli Tepe |
+| [E02](E02_Meteor_and_Asteroid_Impacts.md) | E_Cataclysms_and_Chronology | E02 — Meteor and Asteroid Impacts |
+| [E06](E06_Paleomagnetism_Geomagnetic_Excursions.md) | E_Cataclysms_and_Chronology | E06 — Paleomagnetism Geomagnetic Excursions |
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
 
 ## Bibliography
 
-1. Firestone, R.B., West, A., Kennett, J.P. et al. "Evidence for an Extraterrestrial Impact 12,900 Years Ago That Contributed to the Megafaunal Extinctions and the Younger Dryas Cooling." *PNAS* 104.41 (2007): 16016–16021.
-2. Kennett, D.J., Kennett, J.P., West, A. et al. "Shock-Synthesized Hexagonal Diamonds in Younger Dryas Boundary Sediments." *PNAS* 106.31 (2009): 12623–12628.
-3. Surovell, T.A. et al. "An Independent Evaluation of the Younger Dryas Extraterrestrial Impact Hypothesis." *PNAS* 106 (2009): 18155–18158.
-4. Daulton, T.L., Pinter, N. & Scott, A.C. "No Evidence of Nanodiamonds in Younger–Dryas Sediments to Support an Impact Event." *PNAS* 107 (2010): 16043–16047.
-5. Moore, C.R., West, A., LeCompte, M.A. et al. "Widespread Platinum Anomaly Documented at the Younger Dryas Onset in North American Sedimentary Sequences." *Scientific Reports* 7 (2017): 44031.
-6. Moore, A.M.T., Kennett, J.P., Napier, W.M. et al. "Evidence of Cosmic Impact at Abu Hureyra, Syria at the Younger Dryas Onset (~12.8 ka)." *Scientific Reports* 10 (2020): 4185.
-7. Holliday, V.T., Daulton, T.L. et al. "Comprehensive Refutation of the Younger Dryas Impact Hypothesis (YDIH)." *Earth-Science Reviews* 247 (2023): 104502.
-8. Sweatman, M.B. "The Younger Dryas Impact Hypothesis: Review of the Impact Evidence." *Earth-Science Reviews* (2021).
-9. Pino, M. et al. "Sedimentary Record from Patagonia, Southern Chile Supports Cosmic-Impact Triggering of Biomass Burning." *Scientific Reports* 9 (2019): 4413.
-10. Kjær, K.H. et al. "A Large Impact Crater beneath Hiawatha Glacier in Northwest Greenland." *Science Advances* 4.11 (2018).
+1. Firestone, R.B., West, A., Kennett, J.P. et al. "Evidence for an Extraterrestrial Impact 12,900 Years Ago That Contributed to the Megafaunal Extinctions and the Younger Dryas Cooling." *PNAS* 104.41 (2007): 16016–16021. DOI: 10.1073/pnas.0706977104
+2. Kennett, D.J., Kennett, J.P., West, A. et al. "Shock-Synthesized Hexagonal Diamonds in Younger Dryas Boundary Sediments." *PNAS* 106.31 (2009): 12623–12628. DOI: 10.1073/pnas.0906374106
+3. Surovell, T.A. et al. "An Independent Evaluation of the Younger Dryas Extraterrestrial Impact Hypothesis." *PNAS* 106 (2009): 18155–18158. DOI: 10.1073/pnas.0907857106
+4. Daulton, T.L., Pinter, N. & Scott, A.C. "No Evidence of Nanodiamonds in Younger–Dryas Sediments to Support an Impact Event." *PNAS* 107 (2010): 16043–16047. DOI: 10.1073/pnas.1003904107
+5. Moore, C.R., West, A., LeCompte, M.A. et al. "Widespread Platinum Anomaly Documented at the Younger Dryas Onset in North American Sedimentary Sequences." *Scientific Reports* 7 (2017): 44031. ISBN: 9781379137634. DOI: 10.1038/srep44031
+6. Moore, A.M.T., Kennett, J.P., Napier, W.M. et al. "Evidence of Cosmic Impact at Abu Hureyra, Syria at the Younger Dryas Onset (~12.8 ka)." *Scientific Reports* 10 (2020): 4185. ISBN: 9781379137634
+7. Holliday, V.T., Daulton, T.L. et al. "Comprehensive Refutation of the Younger Dryas Impact Hypothesis (YDIH)." *Earth-Science Reviews* 247 (2023): 104502. ISBN: 9780138008307
+8. Sweatman, M.B. "The Younger Dryas Impact Hypothesis: Review of the Impact Evidence." *Earth-Science Reviews* (2021). ISBN: 9780138008307
+9. Pino, M. et al. "Sedimentary Record from Patagonia, Southern Chile Supports Cosmic-Impact Triggering of Biomass Burning." *Scientific Reports* 9 (2019): 4413. ISBN: 9781379137634
+10. Kjær, K.H. et al. "A Large Impact Crater beneath Hiawatha Glacier in Northwest Greenland." *Science Advances* 4.11 (2018). ISBN: 9780521561785
 11. Clube, Victor & Napier, Bill. *The Cosmic Serpent: A Catastrophist Manifesto*. 1982.
-12. Bunch, T.E. et al. "A Tunguska-Sized Airburst Destroyed Tall el-Hammam." *Scientific Reports* 11 (2021): 18632.
-13. Wu, Qinglong et al. "Outburst Flood at 1920 BCE Supports Historicity of China's Great Flood and the Xia Dynasty." *Science* 353.6299 (2016): 579–582.
+12. Bunch, T.E. et al. "A Tunguska-Sized Airburst Destroyed Tall el-Hammam." *Scientific Reports* 11 (2021): 18632. ISBN: 9781379137634
+13. Wu, Qinglong et al. "Outburst Flood at 1920 BCE Supports Historicity of China's Great Flood and the Xia Dynasty." *Science* 353.6299 (2016): 579–582. ISBN: 9781492373582

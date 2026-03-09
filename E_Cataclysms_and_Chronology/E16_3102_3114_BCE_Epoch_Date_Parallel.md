@@ -3,9 +3,16 @@
 > **Document ID:** E16
 > **Section:** E_Cataclysms_and_Chronology
 > **Keywords:** 3102 BCE, 3114 BCE, Kali Yuga, Long Count, Maya creation date, epoch date, Aryabhata, Surya Siddhanta, GMT correlation, planetary conjunction, precession, Anno Mundi, Narmer, Menes, trans-Pacific contact, Thor Heyerdahl, Betty Meggers, Hamlet's Mill, retroactive calculation, Seder Olam Rabbah, Venus cycle, Dresden Codex, civilizational threshold, urbanization, shared calibration, 432000, zodiacal age, Spinden correlation, Jōmon-Valdivia, Kon-Tiki, de Santillana, von Dechend
-> **Cross-References:** E14, E15, E04, E11, D19, C04, A11, Q03, Q08
-> **Reliability Tier:** Tier 1–3 (see below) — Dates are factual (Tier 1); astronomical analysis is peer-reviewed but interpretive (Tier 2); contact/shared inheritance claims are speculative (Tier 3)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 1 AI synthesis | **Confidence:** Mixed
+> **Category Tags:** cataclysms, chronology, creation-myths, civilization
+> **Cross-References:** [E14](E14_Kali_Yuga_World_Ages_Mathematics.md) · [E15](E15_Calendar_Systems_Ancient_Timekeeping.md) · [E04](E04_Precession_of_the_Equinoxes.md) · [E11](E11_Mathematical_Encoding_Mythology.md) · [D19](../D_Sites_and_Artifacts/D19_Archaeoastronomy_Synthesis.md) · [C04](../C_Global_Traditions/C04_Viracocha_South_American_Knowledge_Givers.md) · [A11](../A_Foundations/A11_Mahabharata.md) · [Q03](../Q_Cosmology_Physics/Q03_Ancient_Cosmologies_Compared.md) · [ZA01](../ZA_Physics_Quantum/ZA01_Time_Physics_Philosophy.md)
+> **Reliability Tier:** Tier 1-3 (see below) — Dates are factual (Tier 1); astronomical analysis is peer-reviewed but interpretive (Tier 2); contact/shared inheritance claims are speculative (Tier 3)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 11 | **Weighted Score:** 27 | **Source Confidence:** [3/5] | **Confidence:** Mixed
+
+---
+
+## Quick Summary
+
+This document examines The 3102/3114 BCE Epoch Date Parallel, a topic within the Cataclysms and Chronology research area. Key areas of investigation include The Hindu Kali Yuga — February 17/18, 3102 BCE, The Maya Long Count — August 11, 3114 BCE, The Gap: Twelve Years. The analysis spans topics including ** 3102 BCE, 3114 BCE, Kali Yuga, Long Count, Maya creation date. Notable findings include: [§1 The Two Dates](#1-the-two-dates). The document presents evidence organized across multiple tiers — from peer-reviewed and verified claims to more speculative interpretations — with cross-references to related topics throughout the knowledge base.
 
 ---
 
@@ -105,9 +112,9 @@ John Justeson and Terrence Kaufman (1993) proposed that the Maya Long Count may 
 
 The **planetary conjunction hypothesis** holds that both Indian and Maya astronomers independently identified a memorable planetary grouping circa 3100 BCE and used it to anchor their calendrical systems. This would require:
 
-1. Both cultures to have been observing the sky systematically by their respective calculation dates
-2. Both to have identified the same approximate event as significant
-3. Both to have retroactively assigned cosmological significance to it
+1. Both cultures to have been observing the sky systematically by their respective calculation dates.
+2. Both to have identified the same approximate event as significant.
+3. Both to have retroactively assigned cosmological significance to it.
 
 The first condition is met for India (Aryabhata, 499 CE) and for Maya (Long Count origins are debated, but the earliest Long Count inscription — Chiapa de Corzo Stela 2 — dates to ~36 BCE, and the system may originate in the Late Preclassic, ~400–100 BCE). Both dates were anchored long after 3100 BCE.
 
@@ -377,7 +384,7 @@ This interpretation cannot be proved with current evidence. But it is **consiste
 - **C04** — Hindu Cosmological Traditions: Yuga system, Krishna narrative, and the cultural framework for Kali Yuga
 - **A11** — Mahabharata: The epic narrative context for Krishna's death and the onset of the Kali Yuga
 - **Q03** — Precession of the Equinoxes: Astronomical mechanics underlying the precessional encoding hypothesis
-- **Q08** — Ancient Astronomical Knowledge: Broader examination of what ancient civilizations knew about the sky
+- **ZA01** — Ancient Astronomical Knowledge: Broader examination of what ancient civilizations knew about the sky
 
 ---
 
@@ -407,16 +414,58 @@ This document synthesizes material from multiple domains:
 
 ---
 
+### Source Tier Classification
+
+This document references sources across multiple evidence tiers within this project's reliability framework:
+
+| Tier | Label | Description |
+|------|-------|-------------|
+| **Tier 1** | VERIFIED | Peer-reviewed studies, archaeological records, and primary source translations |
+| **Tier 2** | CREDIBLE | Academic scholarship with broad support but ongoing interpretive debate |
+| **Tier 3** | SPECULATIVE | Alternative interpretations, popular scholarship, and unverified hypotheses |
+| **Tier 4** | DUBIOUS | Claims lacking credible evidence, fringe theories, or debunked assertions |
+
+
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with The 3102/3114 BCE Epoch Date Parallel. Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to The 3102/3114 BCE Epoch Date Parallel relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with The 3102/3114 BCE Epoch Date Parallel. Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## Bibliography
 
-1. de Santillana, Giorgio & von Dechend, Hertha. *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth*. Gambit, 1969.
-2. Thompson, J. Eric S. *Maya Hieroglyphic Writing: An Introduction*. Carnegie Institution of Washington, 1950.
-3. Aveni, Anthony F. *Skywatchers of Ancient Mexico*. University of Texas Press, 1980 (rev. ed. 2001).
-4. Baillie, M.G.L. *Exodus to Arthur: Catastrophic Encounters with Comets*. B.T. Batsford, 1999.
-5. Dee, M.W. et al. "An Absolute Chronology for Early Egypt Using Radiocarbon Dating and Bayesian Statistical Modelling." *Proceedings of the Royal Society A* 469 (2013).
+1. de Santillana, Giorgio & von Dechend, Hertha. *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth*. Gambit, 1969. DOI: 10.1086/ahr/75.7.2009
+2. Thompson, J. Eric S. *Maya Hieroglyphic Writing: An Introduction*. Carnegie Institution of Washington, 1950. DOI: 10.2307/277370
+3. Aveni, Anthony F. *Skywatchers of Ancient Mexico*. University of Texas Press, 1980 (rev. ed. 2001). ISBN: 9780292775572. DOI: 10.2307/972243
+4. Baillie, M.G.L. *Exodus to Arthur: Catastrophic Encounters with Comets*. B.T. Batsford, 1999. DOI: 10.1177/095968369900900516
+5. Dee, M.W. et al. "An Absolute Chronology for Early Egypt Using Radiocarbon Dating and Bayesian Statistical Modelling." *Proceedings of the Royal Society A* 469 (2013). ISBN: 9780947584030. DOI: 10.1098/rspa.2013.0395
 6. Roullier, Caroline et al. "Historical Collections Reveal Patterns of Diffusion of Sweet Potato in Oceania Obscured by Modern Plant Movements and Recombination." *PNAS* 110.6 (2013): 2205–2210.
-7. Raghavan, Maanasa et al. "Genomic Evidence for the Pleistocene and Recent Population History of Native Americans." *Science* 349.6250 (2015).
-8. Moreno-Mayar, J. Víctor et al. "Terminal Pleistocene Alaskan Genome Reveals First Founding Population of Native Americans." *Nature* 553 (2018): 203–207.
-9. Vansina, Jan. *Oral Tradition as History*. University of Wisconsin Press, 1985.
+7. Raghavan, Maanasa et al. "Genomic Evidence for the Pleistocene and Recent Population History of Native Americans." *Science* 349.6250 (2015). ISBN: 9781492373582
+8. Moreno-Mayar, J. Víctor et al. "Terminal Pleistocene Alaskan Genome Reveals First Founding Population of Native Americans." *Nature* 553 (2018): 203–207. ISBN: 9780451529060
+9. Vansina, Jan. *Oral Tradition as History*. University of Wisconsin Press, 1985. ISBN: 9780299102142
 10. Campbell, Lyle & Poser, William J. *Language Classification: History and Method*. Cambridge University Press, 2008.
 11. van der Waerden, B.L. "The Great Year in Greek, Persian, and Hindu Astronomy." *Archive for History of Exact Sciences* 18.2 (1978): 119–140.

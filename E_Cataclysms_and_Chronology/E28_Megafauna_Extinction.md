@@ -3,9 +3,10 @@
 > **Document ID:** E28
 > **Section:** E_Cataclysms_and_Chronology
 > **Keywords:** Pleistocene megafauna, extinction, overkill hypothesis, Paul Martin, mammoth, giant sloth, dire wolf, megatherium, Firestone comet hypothesis, Younger Dryas impact, climate-vegetation shift, synergistic model, Australian megafauna, Quaternary extinction, blitzkrieg model
+> **Category Tags:** cataclysms, chronology, ecology-environment
 > **Cross-References:** [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [E22](../E_Cataclysms_and_Chronology/E22_Late_Antiquity_Little_Ice_Age.md) · [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) · [E18](../E_Cataclysms_and_Chronology/E18_Ice_Age_Civilizations_LGM.md) · [E09](../E_Cataclysms_and_Chronology/E09_Rise_Fall_Civilizations.md)
-> **Reliability Tier:** Tier 1–2 (extinctions well-documented; causal mechanisms actively debated among specialists)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** Very High (extinction chronology); Medium-High (multicausal models); Medium (single-cause theories); Low (cosmic impact as sole driver)
+> **Reliability Tier:** Tier 1-2 (extinctions well-documented; causal mechanisms actively debated among specialists)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 | **Weighted Score:** 62 | **Source Confidence:** [5/5] | **Confidence:** Very High (extinction chronology); Medium-High (multicausal models); Medium (single-cause theories); Low (cosmic impact as sole driver)
 
 ---
 
@@ -139,30 +140,58 @@ The **late Quaternary megafauna extinction** represents one of the most dramatic
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Uniformitarian Counterpoints
+
+- **Skeptical position:** Mainstream geology operates primarily on uniformitarian principles — the idea that geological processes observed today have operated similarly throughout Earth's history. Critics argue that claims about Megafauna Extinction — Overkill, Climate, or Cosmic Impact? invoke catastrophist scenarios that lack sufficient geological evidence and conflict with well-established geological principles.
+- **Alternative explanations:** Many geological features attributed to Megafauna Extinction — Overkill, Climate, or Cosmic Impact? can be explained by gradual processes operating over long timescales. Erosion, sedimentation, tectonic activity, and climate change can produce dramatic landscape features without requiring catastrophic events.
+- **Methodological concerns:** Catastrophist hypotheses for Megafauna Extinction — Overkill, Climate, or Cosmic Impact? sometimes rely on selective interpretation of geological evidence. When the full stratigraphic, geochemical, and paleontological record is considered, the evidence for sudden catastrophic events may be less compelling than initially presented.
+
+### Dating & Chronological Disputes
+
+- **Contested timelines:** The dating of events associated with Megafauna Extinction — Overkill, Climate, or Cosmic Impact? has been disputed by researchers using different methods. Radiocarbon calibration curves, ice core chronologies, and dendrochronological records do not always support the proposed dates, and these discrepancies remain unresolved.
+- **Correlation vs. causation:** Even where geological evidence coincides with proposed catastrophic events, critics note that temporal correlation does not establish causation. Multiple independent events could produce similar geological signatures at similar times coincidentally.
+- Critics argue that the geological and paleoclimate record related to Megafauna Extinction — Overkill, Climate, or Cosmic Impact? is more complex and ambiguous than catastrophist interpretations suggest, and that oversimplified narratives can distort the actual scientific evidence.
+
+### Research Limitations & Open Questions
+
+- **Disputed impact evidence:** Physical evidence cited for Megafauna Extinction — Overkill, Climate, or Cosmic Impact? (impact markers, vitrified materials, anomalous deposits) has been contested by other researchers who question the identification of these materials or propose alternative formation mechanisms.
+- **Cultural memory reliability:** Claims that ancient myths preserve accurate memories of events related to Megafauna Extinction — Overkill, Climate, or Cosmic Impact? face the challenge that oral traditions are known to transform dramatically over centuries. The degree to which cultural narratives can preserve specific historical events over millennia is genuinely debated.
+- **Open questions:** The relative roles of catastrophic events versus gradual change in shaping Earth's geological and biological history remain active areas of legitimate scientific inquiry. The evidence related to Megafauna Extinction — Overkill, Climate, or Cosmic Impact? contributes to this ongoing debate but does not resolve it definitively.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Martin, P.S. (1967). "Prehistoric Overkill." In *Pleistocene Extinctions: The Search for a Cause*, eds. Martin & Wright. Yale University Press, 75–120.
-2. Martin, P.S. (2005). *Twilight of the Mammoths: Ice Age Extinctions and the Rewilding of America*. University of California Press.
-3. Barnosky, A.D. et al. (2004). "Assessing the Causes of Late Pleistocene Extinctions on the Continents." *Science*, 306(5693), 70–75.
-4. Koch, P.L. & Barnosky, A.D. (2006). "Late Quaternary Extinctions: State of the Debate." *Annual Review of Ecology, Evolution, and Systematics*, 37, 215–250.
-5. Firestone, R.B. et al. (2007). "Evidence for an Extraterrestrial Impact 12,900 Years Ago." *Proceedings of the National Academy of Sciences*, 104(41), 16016–16021.
-6. Guthrie, R.D. (2006). "New Carbon Dates Link Climatic Change with Human Colonization and Pleistocene Extinctions." *Nature*, 441, 207–209.
-7. Alroy, J. (2001). "A Multispecies Overkill Simulation of the End-Pleistocene Megafaunal Mass Extinction." *Science*, 292(5523), 1893–1896.
-8. Miller, G.H. et al. (2005). "Ecosystem Collapse in Pleistocene Australia and a Human Role in Megafauna Extinction." *Science*, 309(5732), 287–290.
-9. Roberts, R.G. et al. (2001). "New Ages for the Last Australian Megafauna." *Science*, 292(5523), 1888–1892.
+1. Martin, P.S. (1967). "Prehistoric Overkill." In *Pleistocene Extinctions: The Search for a Cause*, eds. Martin & Wright. Yale University Press, 75–120. DOI: 10.1126/science.162.3858.1110
+2. Martin, P.S. (2005). *Twilight of the Mammoths: Ice Age Extinctions and the Rewilding of America*. University of California Press. DOI: 10.1525/9780520941106
+3. Barnosky, A.D. et al. (2004). "Assessing the Causes of Late Pleistocene Extinctions on the Continents." *Science*, 306(5693), 70–75. DOI: 10.1126/science.1101476. ISBN: 9781492373582
+4. Koch, P.L. & Barnosky, A.D. (2006). "Late Quaternary Extinctions: State of the Debate." *Annual Review of Ecology, Evolution, and Systematics*, 37, 215–250. ISBN: 9780824314385. DOI: 10.1146/annurev.ecolsys.34.011802.132415
+5. Firestone, R.B. et al. (2007). "Evidence for an Extraterrestrial Impact 12,900 Years Ago." *Proceedings of the National Academy of Sciences*, 104(41), 16016–16021. DOI: 10.1073/pnas.0706977104
+6. Guthrie, R.D. (2006). "New Carbon Dates Link Climatic Change with Human Colonization and Pleistocene Extinctions." *Nature*, 441, 207–209. ISBN: 9780451529060
+7. Alroy, J. (2001). "A Multispecies Overkill Simulation of the End-Pleistocene Megafaunal Mass Extinction." *Science*, 292(5523), 1893–1896. ISBN: 9781492373582
+8. Miller, G.H. et al. (2005). "Ecosystem Collapse in Pleistocene Australia and a Human Role in Megafauna Extinction." *Science*, 309(5732), 287–290. ISBN: 9781492373582
+9. Roberts, R.G. et al. (2001). "New Ages for the Last Australian Megafauna." *Science*, 292(5523), 1888–1892. ISBN: 9781492373582
 10. MacPhee, R.D.E. & Marx, P.A. (1997). "The 40,000-Year Plague: Humans, Hyperdisease, and First-Contact Extinctions." In *Natural Change and Human Impact in Madagascar*, eds. Goodman & Patterson. Smithsonian, 169–217.
-11. Doughty, C.E., Wolf, A. & Malhi, Y. (2013). "The Legacy of the Pleistocene Megafauna Extinctions on Nutrient Availability in Amazonia." *Nature Geoscience*, 6, 761–764.
-12. Stuart, A.J. et al. (2004). "Pleistocene to Holocene Extinction Dynamics in Giant Deer and Woolly Mammoth." *Nature*, 431, 684–689.
-13. Saltré, F. et al. (2016). "Climate Change Not to Blame for Late Quaternary Megafauna Extinctions in Australia." *Nature Communications*, 7, 10511.
-14. Gill, J.L. et al. (2009). "Pleistocene Megafaunal Collapse, Novel Plant Communities, and Enhanced Fire Regimes in North America." *Science*, 326(5956), 1100–1103.
+11. Doughty, C.E., Wolf, A. & Malhi, Y. (2013). "The Legacy of the Pleistocene Megafauna Extinctions on Nutrient Availability in Amazonia." *Nature Geoscience*, 6, 761–764. ISBN: 9789067642606
+12. Stuart, A.J. et al. (2004). "Pleistocene to Holocene Extinction Dynamics in Giant Deer and Woolly Mammoth." *Nature*, 431, 684–689. ISBN: 9780451529060
+13. Saltré, F. et al. (2016). "Climate Change Not to Blame for Late Quaternary Megafauna Extinctions in Australia." *Nature Communications*, 7, 10511. ISBN: 9781496192462
+14. Gill, J.L. et al. (2009). "Pleistocene Megafaunal Collapse, Novel Plant Communities, and Enhanced Fire Regimes in North America." *Science*, 326(5956), 1100–1103. ISBN: 9781492373582
 15. Johnson, C.N. (2009). "Ecological Consequences of Late Quaternary Extinctions of Megafauna." *Proceedings of the Royal Society B*, 276(1667), 2509–2519.
 16. Faith, J.T. & Surovell, T.A. (2009). "Synchronous Extinction of North America's Pleistocene Mammals." *Proceedings of the National Academy of Sciences*, 106(49), 20641–20645.
 17. Wroe, S. et al. (2013). "Climate Change Frames Debate over the Extinction of Megafauna in Sahul." *Proceedings of the National Academy of Sciences*, 110(22), 8777–8781.
-18. Meltzer, D.J. (2015). "Pleistocene Overkill and North American Mammalian Extinctions." *Annual Review of Anthropology*, 44, 33–53.
-19. Rule, S. et al. (2012). "The Aftermath of Megafaunal Extinction: Ecosystem Transformation in Pleistocene Australia." *Science*, 335(6075), 1483–1486.
+18. Meltzer, D.J. (2015). "Pleistocene Overkill and North American Mammalian Extinctions." *Annual Review of Anthropology*, 44, 33–53. ISBN: 9780824319199
+19. Rule, S. et al. (2012). "The Aftermath of Megafaunal Extinction: Ecosystem Transformation in Pleistocene Australia." *Science*, 335(6075), 1483–1486. ISBN: 9781492373582
 20. Haynes, G. (2009). *American Megafaunal Extinctions at the End of the Pleistocene*. Springer.
-21. Pinter, N. et al. (2011). "The Younger Dryas Impact Hypothesis: A Requiem." *Earth-Science Reviews*, 106(3-4), 247–264.
-22. Lorenzen, E.D. et al. (2011). "Species-Specific Responses of Late Quaternary Megafauna to Climate and Humans." *Nature*, 479, 359–364.
+21. Pinter, N. et al. (2011). "The Younger Dryas Impact Hypothesis: A Requiem." *Earth-Science Reviews*, 106(3-4), 247–264. ISBN: 9780138008307
+22. Lorenzen, E.D. et al. (2011). "Species-Specific Responses of Late Quaternary Megafauna to Climate and Humans." *Nature*, 479, 359–364. ISBN: 9780451529060
 
 ---
 

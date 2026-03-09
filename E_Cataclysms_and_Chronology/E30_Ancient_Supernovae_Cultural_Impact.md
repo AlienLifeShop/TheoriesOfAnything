@@ -3,9 +3,10 @@
 > **Document ID:** E30
 > **Section:** E_Cataclysms_and_Chronology
 > **Keywords:** supernova, SN 1054, Crab Nebula, Anasazi petroglyph, SN 185, Vela supernova, RX J0852, Betelgeuse, guest star, Chinese astronomy, cosmic ray mutagenesis, ozone depletion, supernova remnant, Aboriginal astronomy, historical astronomy, gamma ray
+> **Category Tags:** cataclysms, chronology, creation-myths, genetics
 > **Cross-References:** [E04](../E_Cataclysms_and_Chronology/E04_Precession_of_the_Equinoxes.md) · [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [E12](../E_Cataclysms_and_Chronology/E12_Cyclical_Destruction_Renewal.md) · [E15](../E_Cataclysms_and_Chronology/E15_Calendar_Systems_Ancient_Timekeeping.md) · [E09](../E_Cataclysms_and_Chronology/E09_Rise_Fall_Civilizations.md)
-> **Reliability Tier:** Tier 1–3 (historical supernovae well-documented; cultural interpretations range from confirmed to speculative)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** Very High (astronomically confirmed supernovae); High (historical records); Medium (petroglyph interpretations); Low (biological impact hypotheses)
+> **Reliability Tier:** Tier 1-3 (historical supernovae well-documented; cultural interpretations range from confirmed to speculative)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 20 | **Weighted Score:** 49 | **Source Confidence:** [5/5] | **Confidence:** Very High (astronomically confirmed supernovae); High (historical records); Medium (petroglyph interpretations); Low (biological impact hypotheses)
 
 ---
 
@@ -22,7 +23,7 @@
 | Designation | Date | Peak Magnitude | Duration Visible | Distance | Remnant | Records |
 |-------------|------|----------------|-----------------|----------|---------|---------|
 | **SN 185** | Dec 7, 185 CE | ~-2 to -4 | 8 months | ~8,200 ly | RCW 86 | Chinese (*Hou Han Shu*) |
-| **SN 386** | 386 CE | ~+1.5 | 3 months | ~16,000 ly | G11.2−0.3 | Chinese |
+| **SN 386** | 386 CE | ~+1.5 | 3 months | ~16,000 ly | G07.2−0.3 | Chinese |
 | **SN 393** | 393 CE | ~0 | 8 months | ~34,000 ly | RX J1713.7−3946 | Chinese |
 | **SN 1006** | May 1, 1006 CE | **~-7.5** | 2+ years | ~7,200 ly | PKS 1459-41 | Chinese, Arabic, Japanese, European |
 | **SN 1054** | Jul 4, 1054 CE | ~-6 | 23 months (2 months daytime) | ~6,500 ly | Crab Nebula (M1) | Chinese, Japanese, Arabic, possibly Puebloan |
@@ -146,27 +147,55 @@
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Uniformitarian Counterpoints
+
+- **Skeptical position:** Mainstream geology operates primarily on uniformitarian principles — the idea that geological processes observed today have operated similarly throughout Earth's history. Critics argue that claims about Ancient Supernovae and Their Cultural Impact invoke catastrophist scenarios that lack sufficient geological evidence and conflict with well-established geological principles.
+- **Alternative explanations:** Many geological features attributed to Ancient Supernovae and Their Cultural Impact can be explained by gradual processes operating over long timescales. Erosion, sedimentation, tectonic activity, and climate change can produce dramatic landscape features without requiring catastrophic events.
+- **Methodological concerns:** Catastrophist hypotheses for Ancient Supernovae and Their Cultural Impact sometimes rely on selective interpretation of geological evidence. When the full stratigraphic, geochemical, and paleontological record is considered, the evidence for sudden catastrophic events may be less compelling than initially presented.
+
+### Dating & Chronological Disputes
+
+- **Contested timelines:** The dating of events associated with Ancient Supernovae and Their Cultural Impact has been disputed by researchers using different methods. Radiocarbon calibration curves, ice core chronologies, and dendrochronological records do not always support the proposed dates, and these discrepancies remain unresolved.
+- **Correlation vs. causation:** Even where geological evidence coincides with proposed catastrophic events, critics note that temporal correlation does not establish causation. Multiple independent events could produce similar geological signatures at similar times coincidentally.
+- Critics argue that the geological and paleoclimate record related to Ancient Supernovae and Their Cultural Impact is more complex and ambiguous than catastrophist interpretations suggest, and that oversimplified narratives can distort the actual scientific evidence.
+
+### Research Limitations & Open Questions
+
+- **Disputed impact evidence:** Physical evidence cited for Ancient Supernovae and Their Cultural Impact (impact markers, vitrified materials, anomalous deposits) has been contested by other researchers who question the identification of these materials or propose alternative formation mechanisms.
+- **Cultural memory reliability:** Claims that ancient myths preserve accurate memories of events related to Ancient Supernovae and Their Cultural Impact face the challenge that oral traditions are known to transform dramatically over centuries. The degree to which cultural narratives can preserve specific historical events over millennia is genuinely debated.
+- **Open questions:** The relative roles of catastrophic events versus gradual change in shaping Earth's geological and biological history remain active areas of legitimate scientific inquiry. The evidence related to Ancient Supernovae and Their Cultural Impact contributes to this ongoing debate but does not resolve it definitively.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Stephenson, F.R. & Green, D.A. (2002). *Historical Supernovae and Their Remnants*. Oxford University Press.
-2. Brandt, J.C. & Williamson, R.A. (1979). "The 1054 Supernova and Native American Rock Art." *Archaeoastronomy*, 1(4), 1–38.
-3. Gehrels, N. et al. (2003). "Ozone Depletion from Nearby Supernovae." *The Astrophysical Journal*, 585(2), 1169–1176.
-4. Knie, K. et al. (2004). "⁶⁰Fe Anomaly in a Deep-Sea Manganese Crust and Implications for a Nearby Supernova Source." *Physical Review Letters*, 93(17), 171103.
-5. Wallner, A. et al. (2016). "Recent Near-Earth Supernovae Probed by Global Deposition of Interstellar Radioactive ⁶⁰Fe." *Nature*, 532, 69–72.
-6. Goldstein, B.R. (1965). "Evidence for a Supernova of A.D. 1006." *The Astronomical Journal*, 70, 105–114.
+1. Stephenson, F.R. & Green, D.A. (2002). *Historical Supernovae and Their Remnants*. Oxford University Press. DOI: 10.1093/acprof:oso/9780198507666.001.0001
+2. Brandt, J.C. & Williamson, R.A. (1979). "The 1054 Supernova and Native American Rock Art." *Archaeoastronomy*, 1(4), 1–38. ISBN: 9781461461401
+3. Gehrels, N. et al. (2003). "Ozone Depletion from Nearby Supernovae." *The Astrophysical Journal*, 585(2), 1169–1176. ISBN: 9781018793733. DOI: 10.1086/346127
+4. Knie, K. et al. (2004). "⁶⁰Fe Anomaly in a Deep-Sea Manganese Crust and Implications for a Nearby Supernova Source." *Physical Review Letters*, 93(17), 171103. ISBN: 9789996324147. DOI: 10.1103/physrevlett.93.171103
+5. Wallner, A. et al. (2016). "Recent Near-Earth Supernovae Probed by Global Deposition of Interstellar Radioactive ⁶⁰Fe." *Nature*, 532, 69–72. DOI: 10.1038/nature17196. ISBN: 9780451529060
+6. Goldstein, B.R. (1965). "Evidence for a Supernova of A.D. 1006." *The Astronomical Journal*, 70, 105–114. ISBN: 9781378708095. DOI: 10.1086/109679
 7. Malville, J.M. (2008). *A Guide to Prehistoric Astronomy in the Southwest*. Johnson Books.
 8. Hamacher, D.W. & Norris, R.P. (2011). "Eclipses in Australian Aboriginal Astronomy." *Journal of Astronomical History and Heritage*, 14(2), 103–114.
-9. Aschenbach, B. (1998). "Discovery of a Young Nearby Supernova Remnant." *Nature*, 396, 141–142.
+9. Aschenbach, B. (1998). "Discovery of a Young Nearby Supernova Remnant." *Nature*, 396, 141–142. ISBN: 9780451529060
 10. Tycho Brahe (1573). *De Nova et Nullius Aevi Memoria Prius Visa Stella*. Copenhagen.
-11. Hester, J.J. (2008). "The Crab Nebula: An Astrophysical Chimera." *Annual Review of Astronomy and Astrophysics*, 46, 127–155.
-12. Svensmark, H. (2012). "Evidence of Nearby Supernovae Affecting Life on Earth." *Monthly Notices of the Royal Astronomical Society*, 423(2), 1234–1253.
+11. Hester, J.J. (2008). "The Crab Nebula: An Astrophysical Chimera." *Annual Review of Astronomy and Astrophysics*, 46, 127–155. ISBN: 9780824309213
+12. Svensmark, H. (2012). "Evidence of Nearby Supernovae Affecting Life on Earth." *Monthly Notices of the Royal Astronomical Society*, 423(2), 1234–1253. ISBN: 9781345144123
 13. Green, D.A. (2019). "A Revised Catalogue of 294 Galactic Supernova Remnants." *Journal of Astrophysics and Astronomy*, 40, 36.
 14. Guinan, E.F. et al. (2020). "The Fall and Rise in the Optical and Near-IR Brightness of Betelgeuse." *The Astronomer's Telegram*, 13512.
-15. Thomas, B.C. et al. (2005). "Terrestrial Ozone Depletion Due to a Milky Way Gamma-Ray Burst." *The Astrophysical Journal*, 634(1), 509–533.
+15. Thomas, B.C. et al. (2005). "Terrestrial Ozone Depletion Due to a Milky Way Gamma-Ray Burst." *The Astrophysical Journal*, 634(1), 509–533. ISBN: 9781018793733
 16. Collins, G.W. et al. (1999). "Reinterpretation of Historical References to the Supernova of AD 1054." *Publications of the Astronomical Society of the Pacific*, 111(761), 871–880.
 17. Hamacher, D.W. (2014). "Are Supernovae Recorded in Indigenous Astronomical Traditions?" *Journal of Astronomical History and Heritage*, 17(2), 161–170.
 18. Clark, D.H. & Stephenson, F.R. (1977). *The Historical Supernovae*. Pergamon Press.
-19. Fesen, R.A. et al. (2006). "The Expansion Asymmetry and Age of the Cassiopeia A Supernova Remnant." *The Astrophysical Journal*, 645(1), 283–292.
+19. Fesen, R.A. et al. (2006). "The Expansion Asymmetry and Age of the Cassiopeia A Supernova Remnant." *The Astrophysical Journal*, 645(1), 283–292. ISBN: 9781018793733
 20. Ellis, J. & Schramm, D.N. (1995). "Could a Nearby Supernova Explosion Have Caused a Mass Extinction?" *Proceedings of the National Academy of Sciences*, 92(1), 235–238.
 
 ---

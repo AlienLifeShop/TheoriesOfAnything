@@ -2,10 +2,11 @@
 
 > **Document ID:** E27
 > **Section:** E_Cataclysms_and_Chronology
-> **Keywords:** Doggerland, Sundaland, continental shelf, post-glacial flooding, Storegga Slide, sea level rise, mammoth steppe, Brown Bank, Wallace Line, Homo floresiensis, submerged landscapes, North Sea, Southeast Asia, Beringia, bathymetry
+> **Keywords:** Doggerland, Sundaland, continental shelf, post-glacial flooding, Storegga Slide, sea level rise, mammoth steppe, Brown Bank, Wallace Line, Homo floresiensis, submerged landscapes, North Sea, Southeast Asia, Beringia, bathymetry, meltwater pulse
+> **Category Tags:** cataclysms, chronology, flood-traditions
 > **Cross-References:** [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [F19](../F_Lost_Connections/F19_Sundaland_Eden_East_Hypothesis.md) · [E10](../E_Cataclysms_and_Chronology/E10_Catastrophic_Flood_Geomorphology.md) · [E18](../E_Cataclysms_and_Chronology/E18_Ice_Age_Civilizations_LGM.md) · [E22](../E_Cataclysms_and_Chronology/E22_Late_Antiquity_Little_Ice_Age.md)
-> **Reliability Tier:** Tier 1–2 (submergence events geologically confirmed; human occupation well-attested; cultural implications debated)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** Very High (geological submergence); High (human occupation and archaeology); Medium (cultural memory hypotheses)
+> **Reliability Tier:** Tier 1-2 (submergence events geologically confirmed; human occupation well-attested; cultural implications debated)
+> **Last Updated:** Mar 08, 2026 | **Source Count:** 21 | **Weighted Score:** 50 | **Source Confidence:** [5/5] | **Confidence:** Very High (geological submergence); High (human occupation and archaeology); Medium (cultural memory hypotheses)
 
 ---
 
@@ -140,29 +141,57 @@
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Uniformitarian Counterpoints
+
+- **Skeptical position:** Mainstream geology operates primarily on uniformitarian principles — the idea that geological processes observed today have operated similarly throughout Earth's history. Critics argue that claims about Doggerland and Sundaland — Drowned Continental Shelves invoke catastrophist scenarios that lack sufficient geological evidence and conflict with well-established geological principles.
+- **Alternative explanations:** Many geological features attributed to Doggerland and Sundaland — Drowned Continental Shelves can be explained by gradual processes operating over long timescales. Erosion, sedimentation, tectonic activity, and climate change can produce dramatic landscape features without requiring catastrophic events.
+- **Methodological concerns:** Catastrophist hypotheses for Doggerland and Sundaland — Drowned Continental Shelves sometimes rely on selective interpretation of geological evidence. When the full stratigraphic, geochemical, and paleontological record is considered, the evidence for sudden catastrophic events may be less compelling than initially presented.
+
+### Dating & Chronological Disputes
+
+- **Contested timelines:** The dating of events associated with Doggerland and Sundaland — Drowned Continental Shelves has been disputed by researchers using different methods. Radiocarbon calibration curves, ice core chronologies, and dendrochronological records do not always support the proposed dates, and these discrepancies remain unresolved.
+- **Correlation vs. causation:** Even where geological evidence coincides with proposed catastrophic events, critics note that temporal correlation does not establish causation. Multiple independent events could produce similar geological signatures at similar times coincidentally.
+- Critics argue that the geological and paleoclimate record related to Doggerland and Sundaland — Drowned Continental Shelves is more complex and ambiguous than catastrophist interpretations suggest, and that oversimplified narratives can distort the actual scientific evidence.
+
+### Research Limitations & Open Questions
+
+- **Disputed impact evidence:** Physical evidence cited for Doggerland and Sundaland — Drowned Continental Shelves (impact markers, vitrified materials, anomalous deposits) has been contested by other researchers who question the identification of these materials or propose alternative formation mechanisms.
+- **Cultural memory reliability:** Claims that ancient myths preserve accurate memories of events related to Doggerland and Sundaland — Drowned Continental Shelves face the challenge that oral traditions are known to transform dramatically over centuries. The degree to which cultural narratives can preserve specific historical events over millennia is genuinely debated.
+- **Open questions:** The relative roles of catastrophic events versus gradual change in shaping Earth's geological and biological history remain active areas of legitimate scientific inquiry. The evidence related to Doggerland and Sundaland — Drowned Continental Shelves contributes to this ongoing debate but does not resolve it definitively.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Gaffney, V., Fitch, S. & Smith, D. (2009). *Europe's Lost World: The Rediscovery of Doggerland*. CBA Research Report 160. Council for British Archaeology.
-2. Coles, B.J. (1998). "Doggerland: A Speculative Survey." *Proceedings of the Prehistoric Society*, 64, 45–81.
-3. Weninger, B. et al. (2008). "The Catastrophic Final Flooding of Doggerland by the Storegga Slide Tsunami." *Documenta Praehistorica*, 35, 1–24.
-4. Bondevik, S. et al. (2005). "The Storegga Slide Tsunami — Comparing Field Observations with Numerical Simulations." *Marine and Petroleum Geology*, 22(1-2), 195–208.
-5. Oppenheimer, S. (1998). *Eden in the East: The Drowned Continent of Southeast Asia*. Weidenfeld & Nicolson.
+1. Gaffney, V., Fitch, S. & Smith, D. (2009). *Europe's Lost World: The Rediscovery of Doggerland*. CBA Research Report 160. Council for British Archaeology. DOI: 10.1017/s0003598x00100377
+2. Coles, B.J. (1998). "Doggerland: A Speculative Survey." *Proceedings of the Prehistoric Society*, 64, 45–81. DOI: 10.1017/s0079497x00002176
+3. Weninger, B. et al. (2008). "The Catastrophic Final Flooding of Doggerland by the Storegga Slide Tsunami." *Documenta Praehistorica*, 35, 1–24. DOI: 10.4312/dp.35.1
+4. Bondevik, S. et al. (2005). "The Storegga Slide Tsunami — Comparing Field Observations with Numerical Simulations." *Marine and Petroleum Geology*, 22(1-2), 195–208. DOI: 10.1016/j.marpetgeo.2004.10.003
+5. Oppenheimer, S. (1998). *Eden in the East: The Drowned Continent of Southeast Asia*. Weidenfeld & Nicolson. DOI: 10.1086/200054
 6. Voris, H.K. (2000). "Maps of Pleistocene Sea Levels in Southeast Asia: Shorelines, River Systems and Time Durations." *Journal of Biogeography*, 27(5), 1153–1167.
 7. Sathiamurthy, E. & Voris, H.K. (2006). "Maps of Holocene Sea Level Transgression and Submerged Lakes on the Sunda Shelf." *The Natural History Journal of Chulalongkorn University*, Suppl. 2, 1–44.
 8. Morley, R.J. (2000). *Origin and Evolution of Tropical Rain Forests*. John Wiley & Sons.
 9. Hansson, A. et al. (2018). "Mapped Submerged Mesolithic Landscape, North Sea — Brown Bank." *Netherlands Journal of Geosciences*, 97(3), 149–163.
 10. Bicket, A. & Tizzard, L. (2015). "A Review of the Submerged Prehistory and Palaeolandscapes of the British Isles." *Proceedings of the Geologists' Association*, 126(6), 643–663.
 11. Lambeck, K. et al. (2014). "Sea Level and Global Ice Volumes from the Last Glacial Maximum to the Holocene." *Proceedings of the National Academy of Sciences*, 111(43), 15296–15303.
-12. Deschamps, P. et al. (2012). "Ice-Sheet Collapse and Sea-Level Rise at the Bølling Warming 14,600 Years Ago." *Nature*, 483, 559–564.
-13. Bellwood, P. (2007). *Prehistory of the Indo-Malaysian Archipelago*. 3rd ed. ANU E Press.
-14. Morwood, M.J. et al. (2004). "Archaeology and Age of a New Hominin from Flores in Eastern Indonesia." *Nature*, 431, 1087–1091.
+12. Deschamps, P. et al. (2012). "Ice-Sheet Collapse and Sea-Level Rise at the Bølling Warming 14,600 Years Ago." *Nature*, 483, 559–564. ISBN: 9780451529060
+13. Bellwood, P. (2007). *Prehistory of the Indo-Malaysian Archipelago*. 3rd ed. ANU E Press. ISBN: 9781921313127
+14. Morwood, M.J. et al. (2004). "Archaeology and Age of a New Hominin from Flores in Eastern Indonesia." *Nature*, 431, 1087–1091. ISBN: 9780451529060
 15. Gaffney, V. et al. (2020). "Multi-Marine Proxy Evidence for a Major Tsunami Event at ~8150 cal BP." *Sedimentology*, 67, 1773–1790.
-16. Ward, I. & Larcombe, P. (2008). "Determining the Preservation Rating of Submerged Archaeology in the Post-Glacial Southern North Sea." *Environmental Archaeology*, 13(1), 59–70.
+16. Ward, I. & Larcombe, P. (2008). "Determining the Preservation Rating of Submerged Archaeology in the Post-Glacial Southern North Sea." *Environmental Archaeology*, 13(1), 59–70. ISBN: 9781134664511
 17. Solheim, W.G. (2006). *Archaeology and Culture in Southeast Asia: Unraveling the Nusantao*. University of the Philippines Press.
 18. Sturt, F., Garrow, D. & Bradley, S. (2013). "New Models of North West European Holocene Palaeogeography and Inundation." *Journal of Archaeological Science*, 40(11), 3963–3976.
 19. Bird, M.I. et al. (2005). "An Inflection in the Rate of Early Mid-Holocene Eustatic Sea-Level Rise: A New Sea-Level Curve from Singapore." *Estuarine, Coastal and Shelf Science*, 65(1-2), 98–104.
-20. Flemming, N.C. et al. (eds.) (2017). *Submerged Landscapes of the European Continental Shelf*. Wiley-Blackwell.
-21. Pelejero, C. et al. (1999). "High-Resolution U-K37 Temperature Reconstructions in the South China Sea over the Past 220 kyr." *Paleoceanography*, 14(2), 224–231.
+20. Flemming, N.C. et al. (eds.) (2017). *Submerged Landscapes of the European Continental Shelf*. Wiley-Blackwell. ISBN: 9781118927502
+21. Pelejero, C. et al. (1999). "High-Resolution U-Y28 Temperature Reconstructions in the South China Sea over the Past 220 kyr." *Paleoceanography*, 14(2), 224–231. ISBN: 9780674652156
 
 ---
 

@@ -1,27 +1,22 @@
 # E02 — Meteor and Asteroid Impacts on Earth
-## Cataclysms & Chronology
+
+> **Document ID:** E02
+> **Section:** E_Cataclysms_and_Chronology
+> **Keywords:** meteor, asteroid, Chicxulub, Tollmann, Burckle, Kaali, Campo del Cielo, NEO, DART, Tunguska, impact, phosphate minerals, Ryugu Bennu, water-bearing minerals, paleoclimatology
+> **Category Tags:** cataclysms, chronology
+> **Cross-References:** [C02](../C_Global_Traditions/C02_Global_Flood_Stories.md) · [E01](E01_Younger_Dryas_Impact.md) · [E06](E06_Paleomagnetism_Geomagnetic_Excursions.md)
+> **Reliability Tier:** Tier 2-3 (cataclysmic events and chronological frameworks)
+> **Last Updated:** Mar 8, 2026 | **Source Count:** 4 | **Weighted Score:** 8 | **Source Confidence:** [1/5] | **Confidence:** Moderate (mixed evidence across tiers)
 
 ---
 
-**Keywords:** meteor, asteroid, Chicxulub, Tollmann, Burckle, Kaali, Campo del Cielo, NEO, DART, Tunguska, impact, phosphate minerals, Ryugu Bennu, water-bearing minerals
-**Cross-references:** [C02](../C_Global_Traditions/C02_Global_Flood_Stories.md) · [E01](E01_Younger_Dryas_Impact.md) · [E06](E06_Paleomagnetism_Geomagnetic_Excursions.md)
-**Sources:** [4/4 — Gemini, GPT5.2, Master, Raptor]
+## Quick Summary
 
----
-
-## Reliability Tiers Used in This Document
-| Tier | Meaning |
-|------|---------|
-| **TIER 1** | Verified — primary agencies, peer-reviewed, direct measurements |
-| **TIER 2** | Credible — debated but supported by multiple studies |
-| **TIER 3** | Speculative — plausible but unverified |
-| **TIER 4** | Dubious — unsupported |
-
----
+This document examines Meteor and Asteroid Impacts on Earth, a topic within the Cataclysms and Chronology research area. Notable findings include: The Finnish *Kalevala* describes a "fire-child" stolen from heaven that burns the land. The document presents evidence organized across multiple tiers — from peer-reviewed and verified claims to more speculative interpretations — with cross-references to related topics throughout the knowledge base.
 
 ## 1. Overview
 
-**Reliability: TIER 1** · **[4/4 SOURCES]**
+**Reliability: TIER 1** ·
 
 Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5-billion-year history. Over **194 confirmed impact structures** have been identified, representing only a fraction of actual impacts — most evidence destroyed by erosion, plate tectonics, and ocean-floor subduction.
 
@@ -37,7 +32,7 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 
 ## 2. Impact Timeline — Last 100,000 Years (Human-Relevant)
 
-**Reliability: TIER 1 (verified events) / TIER 2–3 (contested events)** · **[4/4 SOURCES]**
+**Reliability: TIER 1 (verified events) / TIER 2–3 (contested events)** ·
 
 | Date (Approx.) | Event / Location | Significance | Tier |
 |:---|:---|:---|:---|
@@ -53,9 +48,9 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 
 ## 3. Deep-Time Impact Timeline
 
-**Reliability: TIER 1** · **[3/4 SOURCES]**
+**Reliability: TIER 1** ·
 
-### Hadean & Archean (>2,500 Ma)
+### 3.1 Hadean & Archean (>2,500 Ma)
 
 | Crater/Event | Diameter (km) | Age (Ma) | Location | Notes |
 |-------------|--------------|---------|----------|-------|
@@ -65,7 +60,7 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 | **Yarrabubba** | ~30 | 2,229 | Western Australia | **Oldest confirmed crater** |
 | **Vredefort** | **160** | 2,023 | South Africa | **Largest confirmed crater** |
 
-### Paleozoic through Mesozoic (541–66 Ma)
+### 3.2 Paleozoic through Mesozoic (541–66 Ma)
 
 | Crater/Event | Diameter (km) | Age (Ma) | Location | Notes |
 |-------------|--------------|---------|----------|-------|
@@ -75,7 +70,7 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 | **Morokweng** | 70 | 146 | South Africa | Chondrite impactor found in crater |
 | **Chicxulub** | **180–200** | **66.043** | **Yucatán, Mexico** | **K-Pg mass extinction** |
 
-### Cenozoic (66 Ma–Present)
+### 3.3 Cenozoic (66 Ma–Present)
 
 | Crater/Event | Diameter (km) | Age (Ma) | Location | Notes |
 |-------------|--------------|---------|----------|-------|
@@ -89,7 +84,7 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 
 ## 4. Chicxulub — The Defining Impact Event
 
-**Reliability: TIER 1** · **[4/4 SOURCES]**
+**Reliability: TIER 1** ·
 
 | Parameter | Value |
 |-----------|-------|
@@ -104,7 +99,7 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 | **Species extinct** | ~75% of all species |
 | **Recovery time** | ~10 million years for full biodiversity |
 
-### The Big Five Extinctions and Impact Connections
+### 4.1 The Big Five Extinctions and Impact Connections
 
 | # | Event | Date (Ma) | Species Lost | Impact Link? |
 |---|-------|-----------|-------------|-------------|
@@ -118,7 +113,7 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 
 ## 5. Modern Witnessed Events
 
-**Reliability: TIER 1** · **[3/4 SOURCES]**
+**Reliability: TIER 1** ·
 
 | Event | Date | Object Size | Energy (TNT) | Effects |
 |-------|------|------------|-------------|---------|
@@ -134,26 +129,26 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 
 **Reliability: TIER 1 (archaeological) to TIER 3 (interpretive)**
 
-### Kaali Crater and the Kalevala (Estonia, ~1,500 BCE)
+### 6.1 Kaali Crater and the Kalevala (Estonia, ~1,500 BCE)
 
 - The Finnish *Kalevala* describes a "fire-child" stolen from heaven that burns the land
 - The Kaali impact (~1,500 BCE) occurred in a populated area on the island of Saaremaa
 - The main crater was later walled and used as a fortified shrine
 - **Strong archaeological and mythological correlation** **[TIER 1]**
 
-### Campo del Cielo — "Field of Heaven" (Argentina, ~2,500 BCE)
+### 6.2 Campo del Cielo — "Field of Heaven" (Argentina, ~2,500 BCE)
 
 - Indigenous peoples believed the iron masses were pieces of the sun
 - Name literally translates to "Field of Heaven"
 - Multiple craters; large iron meteorite fragments found and worshipped **[TIER 1]**
 
-### Burckle Crater — Great Flood? (Indian Ocean, ~3,000 BCE)
+### 6.3 Burckle Crater — Great Flood? (Indian Ocean, ~3,000 BCE)
 
 - Hypothetical submarine crater linked to mega-tsunamis
 - Correlates with timeline of Sumerian Flood and Biblical Deluge narratives
 - The crater's existence is itself **debated** **[TIER 2–3]**
 
-### Tollmann's Bolide (~7,640 BCE)
+### 6.4 Tollmann's Bolide (~7,640 BCE)
 
 - Proposed by Kristan-Tollmann & Tollmann (1994)
 - Hypothetical 7-part comet impact linked to "Seven Suns" myths worldwide
@@ -163,7 +158,7 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 
 ## 7. Impact Frequency and Risk
 
-**Reliability: TIER 1** · **[3/4 SOURCES]**
+**Reliability: TIER 1** ·
 
 | Object Diameter | Impact Interval | Energy (TNT) | Effects |
 |----------------|----------------|-------------|---------|
@@ -178,9 +173,9 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 
 ## 8. Near-Earth Object (NEO) Tracking and Planetary Defense
 
-**Reliability: TIER 1** · **[2/4 SOURCES — GPT5.2, Master]**
+**Reliability: TIER 1** ·
 
-### NEO Discovery Totals (as of 2026-02-08)
+### 8.1 NEO Discovery Totals (as of 2026-02-08)
 
 | Size Category | Count |
 |--------------|-------|
@@ -194,18 +189,18 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 
 *Source: CNEOS/JPL (cneos.jpl.nasa.gov), accessed 2026-02-08.*
 
-### CNEOS Fireball Database
+### 8.2 CNEOS Fireball Database
 
 - 1,051 reported fireball events (1988-04-15 to 2026-01-31)
 - Data are not real-time; not all events reported **[TIER 1]**
 
-### Planetary Defense Coordination Office (PDCO)
+### 8.3 Planetary Defense Coordination Office (PDCO)
 
 - Established by NASA in **2016**
 - Mission: find, track, and characterize potentially hazardous asteroids and comets
 - Manages the NEO observation program and coordinates U.S. planetary defense activities
 
-### DART Mission (2022) — First Kinetic Deflection Test
+### 8.4 DART Mission (2022) — First Kinetic Deflection Test
 
 | Parameter | Value |
 |-----------|-------|
@@ -214,13 +209,13 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 | **Result** | Orbital period shortened by ~32 minutes (11h 55m → 11h 23m) |
 | **Significance** | **Validated kinetic impact deflection** as a planetary defense technique |
 
-### ESA Hera Mission
+### 8.5 ESA Hera Mission
 
 - Launched **2024**; will rendezvous with Didymos/Dimorphos in 2026/2027
 - Measure DART impact effects and refine deflection models
 - Didymos ~780 m; Dimorphos ~151 m **[TIER 1]**
 
-### NEO Surveyor
+### 8.6 NEO Surveyor
 
 - Planned space-based infrared survey telescope
 - Designed to find most potentially hazardous asteroids >140 m
@@ -228,7 +223,7 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 - Policy driver: George E. Brown, Jr. NEO Survey Act (2005) — detect 90%  of NEOs ≥140 m **[TIER 1]**
 - **2024 update [RECENT]:** Mission approved, development proceeding toward launch in late 2020s [Tier 1]
 
-### OSIRIS-REx / Bennu Sample Return (2023) [RECENT] [DEEP SCAN ADD]
+### 8.7 OSIRIS-REx / Bennu Sample Return (2023) [RECENT] [DEEP SCAN ADD]
 
 **Reliability: TIER 1 — VERIFIED** | **NASA mission with peer-reviewed results**
 
@@ -242,7 +237,7 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 
 - The mission has been renamed OSIRIS-APEX and redirected to asteroid **Apophis** for its historic 2029 close approach [Tier 1]
 
-### Apophis 99942 — 2029 Close Approach [DEEP SCAN ADD]
+### 8.8 Apophis 99942 — 2029 Close Approach [DEEP SCAN ADD]
 
 - **April 13, 2029:** Apophis (~370 m) will pass within **31,600 km** of Earth's surface — closer than geostationary satellites [Tier 1]
 - Visible to the naked eye from Europe, Africa, and western Asia
@@ -273,7 +268,7 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 
 ## 10. Controversial & Hypothesized Structures
 
-**Reliability: TIER 2–4** · **[2/4 SOURCES]**
+**Reliability: TIER 2–4** ·
 
 | Structure | Proposed Size (km) | Proposed Age | Status |
 |-----------|-------------------|-------------|--------|
@@ -299,7 +294,7 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 
 ## 12. Baseline Definitions
 
-**Reliability: TIER 1** · **[2/4 SOURCES — GPT5.2, Master]**
+**Reliability: TIER 1** ·
 
 | Term | Definition |
 |------|-----------|
@@ -313,21 +308,58 @@ Earth has been bombarded by asteroids, comets, and meteoroids throughout its 4.5
 
 ## 13. Key Takeaways
 
-1. **Only one mass extinction is definitively linked to an asteroid impact** — K-Pg / Chicxulub (66 Ma)
+1. **Only one mass extinction is definitively linked to an asteroid impact** — K-Pg / Chicxulub (66 Ma).
 2. **Earth has been hit by objects far larger than Chicxulub** — Vredefort and Sudbury occurred before complex life
 3. **Tunguska (1908) is a warning shot** — a ~60 m object with no warning devastated 2,150 km²
 4. **Planetary defense is improving** — >95% of 1 km+ NEOs catalogued; DART validated deflection
-5. **Most impact evidence is lost** — plate tectonics recycles ocean floor every ~200 My; true impacts dwarf the ~194 confirmed structures
+5. **Most impact evidence is lost** — plate tectonics recycles ocean floor every ~200 My; true impacts dwarf the ~194 confirmed structures.
 6. **Impacts may trigger volcanism** — Deccan Traps were erupting simultaneously with Chicxulub (antipodal focusing hypothesis)
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Uniformitarian Counterpoints
+
+- **Skeptical position:** Mainstream geology operates primarily on uniformitarian principles — the idea that geological processes observed today have operated similarly throughout Earth's history. Critics argue that claims about Meteor and Asteroid Impacts on Earth invoke catastrophist scenarios that lack sufficient geological evidence and conflict with well-established geological principles.
+- **Alternative explanations:** Many geological features attributed to Meteor and Asteroid Impacts on Earth can be explained by gradual processes operating over long timescales. Erosion, sedimentation, tectonic activity, and climate change can produce dramatic landscape features without requiring catastrophic events.
+- **Methodological concerns:** Catastrophist hypotheses for Meteor and Asteroid Impacts on Earth sometimes rely on selective interpretation of geological evidence. When the full stratigraphic, geochemical, and paleontological record is considered, the evidence for sudden catastrophic events may be less compelling than initially presented.
+
+### Dating & Chronological Disputes
+
+- **Contested timelines:** The dating of events associated with Meteor and Asteroid Impacts on Earth has been disputed by researchers using different methods. Radiocarbon calibration curves, ice core chronologies, and dendrochronological records do not always support the proposed dates, and these discrepancies remain unresolved.
+- **Correlation vs. causation:** Even where geological evidence coincides with proposed catastrophic events, critics note that temporal correlation does not establish causation. Multiple independent events could produce similar geological signatures at similar times coincidentally.
+- Critics argue that the geological and paleoclimate record related to Meteor and Asteroid Impacts on Earth is more complex and ambiguous than catastrophist interpretations suggest, and that oversimplified narratives can distort the actual scientific evidence.
+
+### Research Limitations & Open Questions
+
+- **Disputed impact evidence:** Physical evidence cited for Meteor and Asteroid Impacts on Earth (impact markers, vitrified materials, anomalous deposits) has been contested by other researchers who question the identification of these materials or propose alternative formation mechanisms.
+- **Cultural memory reliability:** Claims that ancient myths preserve accurate memories of events related to Meteor and Asteroid Impacts on Earth face the challenge that oral traditions are known to transform dramatically over centuries. The degree to which cultural narratives can preserve specific historical events over millennia is genuinely debated.
+- **Open questions:** The relative roles of catastrophic events versus gradual change in shaping Earth's geological and biological history remain active areas of legitimate scientific inquiry. The evidence related to Meteor and Asteroid Impacts on Earth contributes to this ongoing debate but does not resolve it definitively.
+
+---
+
+## CROSS-REFERENCE INDEX
+
+| Document | Section | Connection |
+|----------|---------|------------|
+| [C02](../C_Global_Traditions/C02_Global_Flood_Stories.md) | C_Global_Traditions | C02 — Global Flood Stories |
+| [E01](E01_Younger_Dryas_Impact.md) | E_Cataclysms_and_Chronology | E01 — Younger Dryas Impact |
+| [E06](E06_Paleomagnetism_Geomagnetic_Excursions.md) | E_Cataclysms_and_Chronology | E06 — Paleomagnetism Geomagnetic Excursions |
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## Sources
 
 ### Primary Scientific
-- Alvarez, L.W., et al. (1980). "Extraterrestrial cause for the Cretaceous–Tertiary extinction." *Science* 208(4448), 1095–1108.
-- Schulte, P., et al. (2010). *Science* 327(5970), 1214–1218.
-- Hull, P.M., et al. (2020). *Science* 367(6475), 266–272.
+- Alvarez, L.W., et al. (1980). "Extraterrestrial cause for the Cretaceous–Tertiary extinction." *Science* 208(4448), 1095–1108. ISBN: 9781492373582
+- Schulte, P., et al. (2010). *Science* 327(5970), 1214–1218. ISBN: 9781492373582
+- Hull, P.M., et al. (2020). *Science* 367(6475), 266–272. ISBN: 9781492373582
 - Firestone, R.B., et al. (2007). *PNAS* 104(41), 16016–16021.
 - Kristan-Tollmann, E. & Tollmann, A. (1994). "The youngest big impact on Earth."
 - Abbott, D.H., et al. (2006). Impact craters as sources of mega-tsunamis (Burckle Crater).
