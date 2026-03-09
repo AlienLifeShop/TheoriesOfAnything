@@ -3,9 +3,10 @@
 > **Document ID:** U04
 > **Section:** U_Art_Music_Culture
 > **Keywords:** sacred music, Gregorian chant, Byzantine chant, Vedic chanting, raga, gamelan, overtone chanting, Quranic recitation, tajwid, psalms, liturgical music, Bach, acoustic theology, neumes
-> **Cross-References:** [U01](U01_Music_Theory_Harmonic_Series_Physics_of_Sound.md) · [C99](../C_Global_Traditions/C99_Shinto_Lived_Religion_Ritual_Purity.md) · [C111](../C_Global_Traditions/C111_Pygmy_Mbuti_BaAka_Forest_Cosmology.md) · [K10](../K_Consciousness/K08_Meditation_Neuroplasticity.md) · [A34](../A_Foundations/A34_Guru_Granth_Sahib_Primary_Sacred_Text.md)
+> **Category Tags:** art, music, culture, acoustics-sound, art-culture, religion
+> **Cross-References:** [U01](U01_Music_Theory_Harmonic_Series_Physics_of_Sound.md) · [W30](../W_World_Civilizations/W30_Shinto_Lived_Religion_Ritual_Purity.md) · [C66](../C_Global_Traditions/C66_Pygmy_Mbuti_BaAka_Forest_Cosmology.md) · [Y08](../Y_Altered_States/Y06_Meditation_Neuroplasticity.md) · [A34](../A_Foundations/A34_Guru_Granth_Sahib_Primary_Sacred_Text.md)
 > **Reliability Tier:** Tier 1-2 (musicological documentation solid; consciousness effects partially verified)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 | **Weighted Score:** 33 | **Source Confidence:** [4/5] | **Confidence:** High
 
 ---
 
@@ -115,22 +116,50 @@ Sacred music — sound deliberately structured for ritual, worship, or spiritual
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Sacred Music — Chant, Raga, and Acoustic Theology. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Sacred Music — Chant, Raga, and Acoustic Theology relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Sacred Music — Chant, Raga, and Acoustic Theology with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Sacred Music — Chant, Raga, and Acoustic Theology, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Sacred Music — Chant, Raga, and Acoustic Theology, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Sacred Music — Chant, Raga, and Acoustic Theology, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Sacred Music — Chant, Raga, and Acoustic Theology have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Sacred Music — Chant, Raga, and Acoustic Theology are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Sacred Music — Chant, Raga, and Acoustic Theology. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Hiley, D. (1993). *Western Plainchant: A Handbook*. Clarendon Press.
-2. Wellesz, E. (1961). *A History of Byzantine Music and Hymnography*. 2nd ed. Oxford University Press.
+1. Hiley, D. (1993). *Western Plainchant: A Handbook*. Clarendon Press. DOI: 10.1093/oso/9780198162896.001.0001
+2. Wellesz, E. (1961). *A History of Byzantine Music and Hymnography*. 2nd ed. Oxford University Press. DOI: 10.1017/s0075426900085736
 3. Nelson, K. (2001). *The Art of Reciting the Qur'an*. American University in Cairo Press.
 4. Staal, F. (1961). *Nambudiri Veda Recitation*. Mouton.
-5. Bake, A. (1957). "The Music of India." In *The New Oxford History of Music*, vol. 1. Oxford University Press.
+5. Bake, A. (1957). "The Music of India." In *The New Oxford History of Music*, vol. 1. Oxford University Press. DOI: 10.1093/gmo/9781561592630.article.l2268071
 6. Trân Quang Hai & Guillou, D. (1980). "Original Research and Acoustical Analysis in Connection with the Xöömij Style of Biphonic Singing." *Musical Voices of Asia*, 162-173.
-7. Arom, S. (1991). *African Polyphony and Polyrhythm: Musical Structure and Methodology*. Cambridge University Press.
-8. Blesser, B., & Salter, L.-R. (2007). *Spaces Speak, Are You Listening? Experiencing Aural Architecture*. MIT Press.
+7. Arom, S. (1991). *African Polyphony and Polyrhythm: Musical Structure and Methodology*. Cambridge University Press. DOI: 10.1017/cbo9780511518317
+8. Blesser, B., & Salter, L.-R. (2007). *Spaces Speak, Are You Listening? Experiencing Aural Architecture*. MIT Press. DOI: 10.7551/mitpress/6384.001.0001
 9. Sumarsam. (1995). *Gamelan: Cultural Interaction and Musical Development in Central Java*. University of Chicago Press.
 10. Tatlow, R. (2015). *Bach's Numbers: Compositional Proportion and Significance*. Cambridge University Press.
 11. Levin, T. C. (2006). *Where Rivers and Mountains Sing: Sound, Music, and Nomadism in Tuva*. Indiana University Press.
 12. Katz, R. (1982). *Boiling Energy: Community Healing Among the Kalahari Kung*. Harvard University Press.
 13. Howard, K. (2006). *Preserving Korean Music: Intangible Cultural Properties as Icons of Identity*. Ashgate.
-14. Gao, J., et al. (2019). "The Neurophysiological Correlates of Religious Chanting." *Scientific Reports*, 9, 4262.
+14. Gao, J., et al. (2019). "The Neurophysiological Correlates of Religious Chanting." *Scientific Reports*, 9, 4262. ISBN: 9781379137634
 15. McKinnon, J. (2001). "Christian Church, Music of the Early." In *New Grove Dictionary of Music and Musicians*. Oxford University Press.
 16. Grout, D. J., & Palisca, C. V. (2009). *A History of Western Music*. 8th ed. Norton.
 17. Ramanathan, S. (2004). *Music in the Temples of South India*. Sundeep Prakashan.
@@ -138,7 +167,7 @@ Sacred music — sound deliberately structured for ritual, worship, or spiritual
 19. Turnbull, C. M. (1961). *The Forest People*. Simon & Schuster.
 20. Wolpert, R. F. (1990). "The Musical Dimension of the Sikh Scripture." *Sikh Formations*, 1(1), 47-63.
 21. Deva, B. C. (1981). *The Music of India: A Scientific Study*. Munshiram Manoharlal.
-22. Levin, T. C., & Edgerton, M. E. (1999). "The Throat Singers of Tuva." *Scientific American*, 281(3), 80-87.
+22. Levin, T. C., & Edgerton, M. E. (1999). "The Throat Singers of Tuva." *Scientific American*, 281(3), 80-87. ISBN: 9780671636531
 
 ---
 
@@ -147,12 +176,12 @@ Sacred music — sound deliberately structured for ritual, worship, or spiritual
 | Related Doc | Connection |
 |-------------|-----------|
 | [U01 — Music Theory](U01_Music_Theory_Harmonic_Series_Physics_of_Sound.md) | Physics of sound underlying sacred tuning systems |
-| [C99 — Shinto Lived Religion](../C_Global_Traditions/C99_Shinto_Lived_Religion_Ritual_Purity.md) | Kagura sacred music-dance in Shinto ritual |
-| [C111 — Mbuti Cosmology](../C_Global_Traditions/C111_Pygmy_Mbuti_BaAka_Forest_Cosmology.md) | BaAka polyphonic singing as sacred communication |
-| [K10 — Meditation](../K_Consciousness/K08_Meditation_Neuroplasticity.md) | Chanting as meditative practice — EEG correlates |
+| [W30 — Shinto Lived Religion](../W_World_Civilizations/W30_Shinto_Lived_Religion_Ritual_Purity.md) | Kagura sacred music-dance in Shinto ritual |
+| [C66 — Mbuti Cosmology](../C_Global_Traditions/C66_Pygmy_Mbuti_BaAka_Forest_Cosmology.md) | BaAka polyphonic singing as sacred communication |
+| [Y08 — Meditation](../Y_Altered_States/Y06_Meditation_Neuroplasticity.md) | Chanting as meditative practice — EEG correlates |
 | [A34 — Guru Granth Sahib](../A_Foundations/A34_Guru_Granth_Sahib_Primary_Sacred_Text.md) | Sikh scripture organized by musical raga |
 | [U02 — Sacred Dance](U02_Sacred_Dance_Ritual_Movement.md) | Dance and music as inseparable in ritual context |
-| [K30 — Mystical Experience](../K_Consciousness/K30_Mystical_Experience_Neuroscience.md) | Music-induced numinous states |
+| [Y24 — Mystical Experience](../Y_Altered_States/Y24_Mystical_Experience_Neuroscience.md) | Music-induced numinous states |
 
 ---
 

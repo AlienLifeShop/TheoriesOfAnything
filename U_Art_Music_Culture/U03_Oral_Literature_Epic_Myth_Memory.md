@@ -3,9 +3,10 @@
 > **Document ID:** U03
 > **Section:** U_Art_Music_Culture
 > **Keywords:** oral literature, oral tradition, epic poetry, Homer, griot, songlines, oral-formulaic theory, Milman Parry, Albert Lord, memory, Kalevala, bards, skalds, storytelling, pre-literate
-> **Cross-References:** [C07](../C_Global_Traditions/C07_Pacific_Island_Traditions.md) · [A31](../A_Foundations/A31_Epic_of_Gilgamesh_Oldest_Literary_Work.md) · [A32](../A_Foundations/A32_Hesiod_Theogony_Works_and_Days.md) · [H16](../H_Suppression_and_Thesis/H16_Linguistic_Extinction_Lost_Knowledge_Systems.md) · [C38](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md)
+> **Category Tags:** art, music, culture, mythology
+> **Cross-References:** [C07](../C_Global_Traditions/C07_Pacific_Island_Traditions.md) · [A31](../A_Foundations/A31_Epic_of_Gilgamesh_Oldest_Literary_Work.md) · [A32](../A_Foundations/A32_Hesiod_Theogony_Works_and_Days.md) · [H16](../H_Suppression_and_Thesis/H16_Linguistic_Extinction_Lost_Knowledge_Systems.md) · [W04](../W_World_Civilizations/W04_Polynesian_Navigation_Rapa_Nui.md)
 > **Reliability Tier:** Tier 1-2 (oral-formulaic theory well-established; deep-time memory claims debated)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 | **Weighted Score:** 40 | **Source Confidence:** [4/5] | **Confidence:** High
 
 ---
 
@@ -95,30 +96,58 @@ Before writing systems emerged (~3400 BCE in Sumer), all human knowledge was tra
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Oral Literature — Epic, Myth, and Memory Before Writing. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Oral Literature — Epic, Myth, and Memory Before Writing relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Oral Literature — Epic, Myth, and Memory Before Writing with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Oral Literature — Epic, Myth, and Memory Before Writing, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Oral Literature — Epic, Myth, and Memory Before Writing, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Oral Literature — Epic, Myth, and Memory Before Writing, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Oral Literature — Epic, Myth, and Memory Before Writing have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Oral Literature — Epic, Myth, and Memory Before Writing are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Oral Literature — Epic, Myth, and Memory Before Writing. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Parry, M. (1930). "Studies in the Epic Technique of Oral Verse-Making." *Harvard Studies in Classical Philology*, 41, 73-147.
-2. Lord, A. B. (1960). *The Singer of Tales*. Harvard University Press. 2nd ed., 2000.
-3. Niane, D. T. (1960). *Sundiata: An Epic of Old Mali*. Longman (English trans. 1965).
-4. Ong, W. J. (1982). *Orality and Literacy: The Technologizing of the Word*. Methuen.
-5. Goody, J. (1977). *The Domestication of the Savage Mind*. Cambridge University Press.
+1. Parry, M. (1930). "Studies in the Epic Technique of Oral Verse-Making." *Harvard Studies in Classical Philology*, 41, 73-147. DOI: 10.2307/310626
+2. Lord, A. B. (1960). *The Singer of Tales*. Harvard University Press. 2nd ed., 2000. ISBN: 9780689701290
+3. Niane, D. T. (1960). *Sundiata: An Epic of Old Mali*. Longman (English trans. 1965). DOI: 10.1017/s0022278x00022229
+4. Ong, W. J. (1982). *Orality and Literacy: The Technologizing of the Word*. Methuen. DOI: 10.4324/9780203328064
+5. Goody, J. (1977). *The Domestication of the Savage Mind*. Cambridge University Press. DOI: 10.1017/s0047404500007806
 6. Kelly, L. (2016). *The Memory Code: The Secrets of Stonehenge, Easter Island, and Other Ancient Monuments*. Pegasus.
-7. Nunn, P. D., & Reid, N. J. (2015). "Aboriginal Memories of Inundation of the Australian Coast." *Australian Geographer*, 47(1), 11-47.
-8. Witzel, E. J. M. (2012). *The Origins of the World's Mythologies*. Oxford University Press.
+7. Nunn, P. D., & Reid, N. J. (2015). "Aboriginal Memories of Inundation of the Australian Coast." *Australian Geographer*, 47(1), 11-47. ISBN: 9783034335454. DOI: 10.1080/00049182.2015.1077539
+8. Witzel, E. J. M. (2012). *The Origins of the World's Mythologies*. Oxford University Press. ISBN: 9780199812851
 9. Lönnrot, E. (1849). *Kalevala*. Finnish Literature Society.
 10. Sturluson, S. (~1220). *Prose Edda*. Various translations.
 11. Havelock, E. A. (1963). *Preface to Plato*. Harvard University Press.
 12. Foley, J. M. (1988). *The Theory of Oral Composition: History and Methodology*. Indiana University Press.
-13. Vansina, J. (1985). *Oral Tradition as History*. University of Wisconsin Press.
+13. Vansina, J. (1985). *Oral Tradition as History*. University of Wisconsin Press. ISBN: 9780299102142
 14. Finnegan, R. (1977). *Oral Poetry: Its Nature, Significance, and Social Context*. Cambridge University Press.
 15. Tedlock, D. (1983). *The Spoken Word and the Work of Interpretation*. University of Pennsylvania Press.
 16. Honko, L. (1998). *Textualising the Siri Epic*. Folklore Fellows Communications.
 17. Barber, K. (2007). *The Anthropology of Texts, Persons and Publics*. Cambridge University Press.
-18. Stager, L. E., & Barber, E. J. W. (1994). *Women's Work: The First 20,000 Years*. Norton.
-19. d'Huy, J. (2016). "The Evolution of Myths." *Scientific American*, 315(6), 62-69.
+18. Stager, L. E., & Barber, E. J. W. (1994). *Women's Work: The First 20,000 Years*. Norton. ISBN: 9780393313482
+19. d'Huy, J. (2016). "The Evolution of Myths." *Scientific American*, 315(6), 62-69. ISBN: 9780671636531
 20. Rubin, D. C. (1995). *Memory in Oral Traditions: The Cognitive Science of Epic, Ballads, and Counting-Out Rhymes*. Oxford University Press.
 21. Rose, D. B. (1996). *Nourishing Terrains: Australian Aboriginal Views of Landscape and Wilderness*. Australian Heritage Commission.
-22. Tolkien, J. R. R. (1936). "Beowulf: The Monsters and the Critics." *Proceedings of the British Academy*, 22, 245-295.
+22. Tolkien, J. R. R. (1936). "Beowulf: The Monsters and the Critics." *Proceedings of the British Academy*, 22, 245-295. ISBN: 9780197260975
 
 ---
 
@@ -130,9 +159,9 @@ Before writing systems emerged (~3400 BCE in Sumer), all human knowledge was tra
 | [A31 — Epic of Gilgamesh](../A_Foundations/A31_Epic_of_Gilgamesh_Oldest_Literary_Work.md) | Oldest literary work, oral-to-written transition |
 | [A32 — Hesiod](../A_Foundations/A32_Hesiod_Theogony_Works_and_Days.md) | Greek oral tradition crystallized in writing |
 | [H16 — Linguistic Extinction](../H_Suppression_and_Thesis/H16_Linguistic_Extinction_Lost_Knowledge_Systems.md) | Death of oral traditions with language loss |
-| [C38 — African Oral Cosmologies](../C_Global_Traditions/C38_Polynesian_Navigation_Rapa_Nui.md) | Griot and African oral traditions |
+| [W04 — African Oral Cosmologies](../W_World_Civilizations/W04_Polynesian_Navigation_Rapa_Nui.md) | Griot and African oral traditions |
 | [U04 — Sacred Music](U04_Sacred_Music_Chant_Raga_Acoustic_Theology.md) | Sung oral literature — chant as memory technology |
-| [C100 — Ainu Mythology](../C_Global_Traditions/C100_Ainu_Mythology_Bear_Ceremonialism.md) | Yukar epic oral tradition |
+| [W43 — Ainu Mythology](../W_World_Civilizations/W43_Ainu_Mythology_Bear_Ceremonialism.md) | Yukar epic oral tradition |
 
 ---
 

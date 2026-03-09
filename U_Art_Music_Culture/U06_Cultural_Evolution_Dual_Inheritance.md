@@ -3,9 +3,10 @@
 > **Document ID:** U06
 > **Section:** U_Art_Music_Culture
 > **Keywords:** cultural evolution, dual inheritance, gene-culture coevolution, cumulative culture, Boyd Richerson, memetics, prestige bias, conformity bias, cultural group selection, WEIRD, cultural phylogenetics, niche construction, cultural ratchet
-> **Cross-References:** [G29](../G_Modern_Frameworks/G29_Memetics_Cultural_Evolution.md) · [R01](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) · [T06](../T_Psychology_Social/T06_Cross_Cultural_Psychology.md) · [G12](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) · [L14](../L_Genetics_Origins/L14_Domestication_Genetics.md)
+> **Category Tags:** art, music, culture, genetics, evolution, art-culture
+> **Cross-References:** [G18](../G_Modern_Frameworks/G18_Memetics_Cultural_Evolution.md) · [R01](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) · [ZC03](../ZC_Social_Science/ZC03_Cross_Cultural_Psychology.md) · [G08](../G_Modern_Frameworks/G08_Ball_Lightning_Atmospheric_Anomalies.md) · [L11](../L_Genetics_Origins/L11_Domestication_Genetics.md)
 > **Reliability Tier:** Tier 1-2 (theoretical framework well-established; specific mechanisms debated)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 | **Weighted Score:** 45 | **Source Confidence:** [5/5] | **Confidence:** High
 
 ---
 
@@ -100,30 +101,58 @@ Cultural evolution theory applies Darwinian principles — variation, selection,
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Cultural Evolution — Dual Inheritance and Cumulative Culture. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Cultural Evolution — Dual Inheritance and Cumulative Culture relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Cultural Evolution — Dual Inheritance and Cumulative Culture with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Cultural Evolution — Dual Inheritance and Cumulative Culture, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Cultural Evolution — Dual Inheritance and Cumulative Culture, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Cultural Evolution — Dual Inheritance and Cumulative Culture, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Cultural Evolution — Dual Inheritance and Cumulative Culture have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Cultural Evolution — Dual Inheritance and Cumulative Culture are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Cultural Evolution — Dual Inheritance and Cumulative Culture. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Boyd, R., & Richerson, P. J. (1985). *Culture and the Evolutionary Process*. University of Chicago Press.
-2. Richerson, P. J., & Boyd, R. (2005). *Not by Genes Alone: How Culture Transformed Human Evolution*. University of Chicago Press.
-3. Henrich, J. (2016). *The Secret of Our Success: How Culture Is Driving Human Evolution*. Princeton University Press.
-4. Tomasello, M. (1999). *The Cultural Origins of Human Cognition*. Harvard University Press.
-5. Henrich, J., Heine, S. J., & Norenzayan, A. (2010). "The Weirdest People in the World?" *Behavioral and Brain Sciences*, 33(2-3), 61-83.
-6. Henrich, J., & Gil-White, F. J. (2001). "The Evolution of Prestige." *Evolution and Human Behavior*, 22(3), 165-196.
-7. Dawkins, R. (1976). *The Selfish Gene*. Oxford University Press.
-8. Cavalli-Sforza, L. L., & Feldman, M. W. (1981). *Cultural Transmission and Evolution*. Princeton University Press.
+1. Boyd, R., & Richerson, P. J. (1985). *Culture and the Evolutionary Process*. University of Chicago Press. ISBN: 9780226069333. DOI: 10.1126/science.230.4728.931-a
+2. Richerson, P. J., & Boyd, R. (2005). *Not by Genes Alone: How Culture Transformed Human Evolution*. University of Chicago Press. DOI: 10.1007/s10818-008-9031-z
+3. Henrich, J. (2016). *The Secret of Our Success: How Culture Is Driving Human Evolution*. Princeton University Press. DOI: 10.1515/9781400873296
+4. Tomasello, M. (1999). *The Cultural Origins of Human Cognition*. Harvard University Press. ISBN: 9780674000704. DOI: 10.2307/j.ctvjsf4jc
+5. Henrich, J., Heine, S. J., & Norenzayan, A. (2010). "The Weirdest People in the World?" *Behavioral and Brain Sciences*, 33(2-3), 61-83. ISBN: 9781107671706. DOI: 10.1017/s0140525x0999152x
+6. Henrich, J., & Gil-White, F. J. (2001). "The Evolution of Prestige." *Evolution and Human Behavior*, 22(3), 165-196. ISBN: 9780262531702
+7. Dawkins, R. (1976). *The Selfish Gene*. Oxford University Press. ISBN: 9780192860927
+8. Cavalli-Sforza, L. L., & Feldman, M. W. (1981). *Cultural Transmission and Evolution*. Princeton University Press. ISBN: 9780691082806
 9. Odling-Smee, F. J., Laland, K. N., & Feldman, M. W. (2003). *Niche Construction: The Neglected Process in Evolution*. Princeton University Press.
-10. Gray, R. D., & Atkinson, Q. D. (2003). "Language-Tree Divergence Times Support the Anatolian Theory of Indo-European Origin." *Nature*, 426, 435-439.
+10. Gray, R. D., & Atkinson, Q. D. (2003). "Language-Tree Divergence Times Support the Anatolian Theory of Indo-European Origin." *Nature*, 426, 435-439. ISBN: 9780451529060
 11. da Silva, S. G., & Tehrani, J. J. (2016). "Comparative Phylogenetic Analyses Uncover the Ancient Roots of Indo-European Folktales." *Royal Society Open Science*, 3, 150645.
 12. Perry, G. H., et al. (2007). "Diet and the Evolution of Human Amylase Gene Copy Number Variation." *Nature Genetics*, 39(10), 1256-1260.
 13. Norenzayan, A. (2013). *Big Gods: How Religion Transformed Cooperation and Conflict*. Princeton University Press.
 14. Whitehouse, H. (2004). *Modes of Religiosity: A Cognitive Theory of Religious Transmission*. AltaMira Press.
-15. Dean, L. G., et al. (2012). "Identification of the Social and Cognitive Processes Underlying Human Cumulative Culture." *Science*, 335(6072), 1114-1118.
+15. Dean, L. G., et al. (2012). "Identification of the Social and Cognitive Processes Underlying Human Cumulative Culture." *Science*, 335(6072), 1114-1118. ISBN: 9781492373582
 16. Muthukrishna, M., & Henrich, J. (2016). "Innovation in the Collective Brain." *Philosophical Transactions of the Royal Society B*, 371, 20150192.
 17. Mesoudi, A. (2011). *Cultural Evolution: How Darwinian Theory Can Explain Human Culture*. University of Chicago Press.
 18. Sperber, D. (1996). *Explaining Culture: A Naturalistic Approach*. Blackwell.
-19. West, S. A., El Mouden, C., & Gardner, A. (2011). "Sixteen Common Misconceptions About the Evolution of Cooperation in Humans." *Evolution and Human Behavior*, 32(4), 231-262.
+19. West, S. A., El Mouden, C., & Gardner, A. (2011). "Sixteen Common Misconceptions About the Evolution of Cooperation in Humans." *Evolution and Human Behavior*, 32(4), 231-262. ISBN: 9780262531702
 20. Laland, K. N. (2017). *Darwin's Unfinished Symphony: How Culture Made the Human Mind*. Princeton University Press.
-21. Blackmore, S. (1999). *The Meme Machine*. Oxford University Press.
-22. Henrich, J. (2004). "Demography and Cultural Evolution: How Adaptive Cultural Processes Can Produce Maladaptive Losses — The Tasmanian Case." *American Antiquity*, 69(2), 197-214.
+21. Blackmore, S. (1999). *The Meme Machine*. Oxford University Press. ISBN: 9788449309670
+22. Henrich, J. (2004). "Demography and Cultural Evolution: How Adaptive Cultural Processes Can Produce Maladaptive Losses — The Tasmanian Case." *American Antiquity*, 69(2), 197-214. ISBN: 9781430499701
 
 ---
 
@@ -131,13 +160,13 @@ Cultural evolution theory applies Darwinian principles — variation, selection,
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [G29 — Memetics](../G_Modern_Frameworks/G29_Memetics_Cultural_Evolution.md) | Dawkins's meme theory vs Boyd-Richerson population-level approach |
+| [G18 — Memetics](../G_Modern_Frameworks/G18_Memetics_Cultural_Evolution.md) | Dawkins's meme theory vs Boyd-Richerson population-level approach |
 | [R01 — Darwin & Evolution](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) | Darwinian framework applied to cultural change |
-| [T06 — Cross-Cultural Psychology](../T_Psychology_Social/T06_Cross_Cultural_Psychology.md) | WEIRD problem and cultural variation in cognition |
-| [G12 — Evolutionary Dynamics](../G_Modern_Frameworks/G12_Ball_Lightning_Atmospheric_Anomalies.md) | Mathematical models of selection and drift |
-| [L14 — Domestication Genetics](../L_Genetics_Origins/L14_Domestication_Genetics.md) | Gene-culture coevolution in domestication |
-| [R30 — Self-Domestication](../R_Biology_Evolution/R30_Self_Domestication.md) | Cultural self-domestication of Homo sapiens |
-| [R27 — Altruism](../R_Biology_Evolution/R27_Altruism_Cooperation.md) | Cultural group selection and prosociality |
+| [ZC03 — Cross-Cultural Psychology](../ZC_Social_Science/ZC03_Cross_Cultural_Psychology.md) | WEIRD problem and cultural variation in cognition |
+| [G08 — Evolutionary Dynamics](../G_Modern_Frameworks/G08_Ball_Lightning_Atmospheric_Anomalies.md) | Mathematical models of selection and drift |
+| [L11 — Domestication Genetics](../L_Genetics_Origins/L11_Domestication_Genetics.md) | Gene-culture coevolution in domestication |
+| [R23 — Self-Domestication](../R_Biology_Evolution/R23_Self_Domestication.md) | Cultural self-domestication of Homo sapiens |
+| [R20 — Altruism](../R_Biology_Evolution/R20_Altruism_Cooperation.md) | Cultural group selection and prosociality |
 
 ---
 
