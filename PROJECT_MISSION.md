@@ -1,7 +1,7 @@
 # Project Mission — Theories of Everything
 
-> **Created:** Feb 27, 2026 | **Last Updated:** Mar 2, 2026
-> **Status:** ACTIVE — Expanded Mission v3.0
+> **Created:** Feb 27, 2026 | **Last Updated:** Mar 8, 2026
+> **Status:** ACTIVE — Expanded Mission v3.2
 
 ---
 
@@ -80,11 +80,11 @@ We evaluate ALL claims — ancient, modern, mainstream, alternative — using th
 | **3 — SPECULATIVE** | Possible but unverified, intriguing | Atlantis as historical place, Narby's DNA-shamanism link |
 | **4 — DUBIOUS** | No credible evidence, contradicted | Shapeshifting reptilian leaders, flat Earth |
 
-### The Multi-Agent Approach
-We don't trust any single source — human or AI. Every major claim is verified across multiple AI agents (Claude, GPT, Gemini, and others) and checked against primary sources. The [N/5] source agreement system tracks confidence levels. At current scale (602 documents, 10,387 keywords, 13,485 keyword-doc links), this system enables rapid cross-validation of any claim.
+### The Source Confidence System (Weighted)
+Every document's evidential strength is measured by a **weighted bibliography scoring system** where higher-quality sources count for more. Each bibliography entry is classified by type: peer-reviewed journal articles earn **3 points**, academic press books and primary texts earn **2 points**, and popular books, websites, and other sources earn **1 point**. The weighted score determines the [N/5] confidence rating (< 14 = [1/5], 14–21 = [2/5], 22–29 = [3/5], 30–41 = [4/5], 42+ = [5/5]). This is objective and verifiable — anyone can check a document's bibliography entries and their types. The Tier system separately rates evidence *quality*.
 
 ### The Connection Principle
-No topic exists in isolation. Every document is cross-referenced to related topics across all 22 sections. The CONNECTED_TOPICS_RESEARCH_MAP traces 20+ major threads through 200+ cross-domain connection points. The goal is not a collection of facts but a WEB of understanding.
+No topic exists in isolation. Every document is cross-referenced to related topics across all 32 sections. The CONNECTED_TOPICS_RESEARCH_MAP traces 20+ major threads through 200+ cross-domain connection points. The goal is not a collection of facts but a WEB of understanding.
 
 ### The Neutrality Commitment
 - We present ALL sides of every debate
@@ -95,46 +95,56 @@ No topic exists in isolation. Every document is cross-referenced to related topi
 
 ---
 
-## PROJECT SECTIONS (A–V)
+## PROJECT SECTIONS (A--ZF)
 
-### Full Corpus: 602 documents, ~146,000+ lines across 22 sections
+### Full Corpus: 1,071 documents, ~239,000+ lines across 32 sections
 
-### Original Core Sections (A–O): 465 documents
-
-| Code | Section | Docs | Scope |
-|---|---|---|---|
-| **A** | Foundations | 34 | Ancient texts: Sumerian, Biblical, Gnostic, Hermetic, Enoch, DSS, Vedic, Quranic, Daoist |
-| **B** | Beings & Entities | 29 | Non-human beings: serpent beings, Nagas, Anunnaki, jinn, angels, faeries, chimeric entities |
-| **C** | Global Traditions | 112 | Cross-cultural traditions: 80+ civilizations from every inhabited continent |
-| **D** | Sites & Artifacts | 43 | Physical locations: megaliths, pyramids, temples, geometry, labyrinths, art |
-| **E** | Cataclysms & Chronology | 30 | Impact events, floods, precession, volcanic catastrophes, civilizational collapse |
-| **F** | Lost Connections | 22 | Pre-historic contact, Atlantis, trans-oceanic trade, lost technology, maritime |
-| **G** | Modern Frameworks | 33 | Modern science connecting to ancient knowledge: quantum, simulation, mycelium |
-| **H** | Suppression & Thesis | 16 | Meta-analysis, reliability, demonization thesis, propaganda, epistemicide |
-| **I** | UAP Disclosure | 18 | Government programs, military encounters, USOs, ancient astronaut, abduction |
-| **J** | Ancient Technology | 24 | Engineering, metallurgy, acoustics, optics, medicine, textiles, weapons |
-| **K** | Consciousness | 35 | NDEs, psychedelics, remote viewing, meditation, Gateway, dreams, savants |
-| **L** | Genetics & Origins | 16 | DNA, interbreeding, admixture, mitochondrial Eve, epigenetics, caduceus |
-| **M** | Forbidden Archaeology | 17 | OOPArts, suppressed discoveries, impossible precision, dating disputes |
-| **N** | Secret Societies | 20 | Mystery schools, Freemasonry, Vatican, Templars, Kabbalah, Sufi orders |
-| **O** | Earth Anomalies | 16 | Ley lines, Bermuda Triangle, volcanism, sacred water, ocean mysteries |
-
-### Expanded Sections (P–S): 114 documents
+### Original Core Sections (A--O, X): 602 documents
 
 | Code | Section | Docs | Scope |
 |---|---|---|---|
-| **P** | Philosophy & Meaning | 34 | Meaning of life, ethics, epistemology, existential questions, death & afterlife |
-| **Q** | Cosmology & Physics | 24 | Big Bang, multiverse, dark matter, holographic principle, time, entropy |
-| **R** | Biology & Evolution | 31 | Abiogenesis, evolution, brain development, extremophiles, ecology, Gaia theory |
+| **A** | Foundations | 43 | Ancient texts: Sumerian, Biblical, Gnostic, Hermetic, Enoch, DSS, Vedic, Quranic, Daoist |
+| **B** | Beings & Entities | 41 | Non-human beings: serpent beings, Nagas, Anunnaki, jinn, angels, faeries, chimeric entities |
+| **C** | Mythology & Cross-Cultural | 75 | Cross-cultural traditions: mythology, folklore, and comparative pattern analysis |
+| **D** | Sites & Artifacts | 52 | Physical locations: megaliths, pyramids, temples, geometry, labyrinths, art |
+| **E** | Cataclysms & Chronology | 35 | Impact events, floods, precession, volcanic catastrophes, civilizational collapse |
+| **F** | Lost Connections | 32 | Pre-historic contact, Atlantis, trans-oceanic trade, lost technology, maritime |
+| **G** | Modern Frameworks | 24 | Modern science connecting to ancient knowledge: simulation, mycelium, paradigm shifts |
+| **H** | Suppression & Thesis | 28 | Meta-analysis, reliability, demonization thesis, propaganda, epistemicide |
+| **I** | UAP Disclosure | 27 | Government programs, military encounters, USOs, ancient astronaut, abduction |
+| **J** | Ancient Technology | 25 | Engineering, metallurgy, acoustics, optics, medicine, textiles, weapons |
+| **K** | Consciousness & Mind | 46 | NDEs, remote viewing, meditation, Gateway, dreams, savants, neural correlates |
+| **L** | Genetics & Human Origins | 30 | DNA, interbreeding, admixture, mitochondrial Eve, epigenetics, caduceus |
+| **M** | Forbidden Archaeology | 25 | OOPArts, suppressed discoveries, impossible precision, dating disputes |
+| **N** | Secret Societies | 25 | Mystery schools, Freemasonry, Vatican, Templars, Kabbalah, Sufi orders |
+| **O** | Earth Science & Anomalies | 25 | Ley lines, Bermuda Triangle, volcanism, sacred water, ocean mysteries |
+| **X** | Medicine & Healing | 15 | Traditional medicine, pharmacology, medical history, healing practices |
+
+### Expanded Sections (P--W): 248 documents
+
+| Code | Section | Docs | Scope |
+|---|---|---|---|
+| **P** | Philosophy | 38 | Meaning of life, epistemology, existential questions, death & afterlife |
+| **Q** | Cosmology & Astrophysics | 37 | Big Bang, multiverse, dark matter, holographic principle, stellar evolution |
+| **R** | Evolution & Origins of Life | 43 | Abiogenesis, evolution, brain development, extremophiles, speciation |
 | **S** | Future & Technology | 25 | AI, singularity, transhumanism, genetic engineering, existential risk, post-human |
+| **T** | Psychology | 33 | Archetypes, conformity, cult psychology, developmental psychology, neurodiversity |
+| **U** | Art, Music & Culture | 25 | Sacred music, dance, oral literature, color symbolism, cultural evolution |
+| **V** | Mathematics | 54 | History of zero, primes, algorithms, infinity, ethnomathematics, topology |
+| **W** | World Civilizations | 45 | Civilization profiles, religions, and cultural systems (Olmec, Minoan, Daoism, Tibetan Buddhism, Vodou) |
 
-### Phase 8 Sections (T–V): 23 documents
+### Split-Out Sections (Y--ZF): 236 documents
 
 | Code | Section | Docs | Scope |
 |---|---|---|---|
-| **T** | Psychology & Social | 10 | Archetypes, conformity, cult psychology, propaganda, developmental psychology, neurodiversity |
-| **U** | Art, Music & Culture | 6 | Sacred music, dance, oral literature, color symbolism, cultural evolution |
-| **V** | Mathematics & Information | 7 | History of zero, primes, algorithms, infinity, ethnomathematics, information theory, cryptography |
+| **Y** | Altered States & Psychedelics | 38 | Psychedelic research, plant medicine, NDEs, entheogenic traditions, DMT |
+| **Z** | Molecular Biology & Genomics | 45 | Gene editing, epigenomics, ancient DNA, functional genomics, microbiome |
+| **ZA** | Physics & Quantum Mechanics | 40 | Quantum mechanics, relativity, particle physics, time physics, entanglement |
+| **ZB** | Ecology & Organismal Biology | 33 | Ecology, Gaia theory, marine biology, extremophiles, biomechanics, symbiosis |
+| **ZC** | Social Science & Anthropology | 17 | Propaganda, social dynamics, anthropology, collective behavior, game theory |
+| **ZD** | Information & Computation | 23 | Information theory, cryptography, computation, algorithms, language theory |
+| **ZE** | Ethics & Applied Philosophy | 12 | Bioethics, AI ethics, philosophy of mind, political philosophy, logic |
+| **ZF** | Oceanography | 15 | Thermohaline circulation, coral reefs, deep-sea ecosystems, tides, marine archaeology |
 
 ---
 
@@ -162,3 +172,19 @@ The ultimate goal is not to prove any single theory. It is to build the most com
 
 *This document defines the WHY of the project. For the HOW, see ORGANIZATION_RULES.md and RESEARCH_METHODOLOGY.md.*
 *For the WHAT NEXT, see CONNECTED_TOPICS_RESEARCH_MAP.md and FUTURE_RESEARCH_QUEUE.md.*
+
+---
+
+## DISCLAIMER
+
+This knowledge base was researched and compiled using **multiple AI sources and search engines**, including but not limited to: **Claude (Anthropic), GPT (OpenAI), Gemini (Google), Perplexity, and conventional academic search engines** (Google Scholar, JSTOR, PubMed). All claims are rated using a [N/5] weighted source confidence system (journals ×3, academic ×2, other ×1).
+
+**This is a research compilation, not a definitive authority.** Readers should:
+- **Independently verify all claims** against primary sources cited in bibliographies
+- **Check source confidence ratings** — higher [N/5] scores indicate stronger source quality and quantity
+- **Note tier ratings** — Tier 1 (verified) through Tier 4 (dubious) indicate evidence quality
+- **Consult the original academic papers, primary texts, and archaeological reports** referenced throughout
+- **Recognize that AI-assisted research may contain errors**, hallucinated citations, or incomplete context
+- **Apply critical thinking** — this project presents all sides of debates, including claims it explicitly rejects
+
+No AI source or search engine is infallible. This project exists to connect dots and raise questions, not to provide final answers. Always check the sources.

@@ -1,6 +1,6 @@
 # Style Guide — Document Formatting Standards
 
-> **Last Updated:** Feb 27, 2026
+> **Last Updated:** Mar 8, 2026
 > **Purpose:** Quick reference for creating and formatting documents in the knowledge base
 
 ---
@@ -12,7 +12,7 @@ Every content document MUST follow this structure:
 ```markdown
 # [ID] — [Full Title]
 
-> **Source Agreement:** [N] AI sources contributed | **Primary Tier:** [N] or [N–N] | **Last Updated:** [Month Day, Year]
+> **Source Count:** [N] | **Weighted Score:** [N] | **Source Confidence:** [N/5] | **Primary Tier:** [N] or [N–N] | **Last Updated:** [Month Day, Year]
 > **Keywords:** comma, separated, relevant, terms
 > **Cross-References:** [DocID — Short Name](relative/path.md) · [DocID](relative/path.md)
 
@@ -84,7 +84,7 @@ Every content document MUST follow this structure:
 - `###` — Individual claims or subsections
 
 ### Tags & Labels
-- Source agreement: `[N/5 sources]` on claims, `[N/5]` in tables
+- Source confidence: `[N/5]` based on weighted bibliography scoring (peer-reviewed journal = 3 pts, academic press/primary text = 2 pts, popular/other = 1 pt). Thresholds: < 14 = [1/5], 14–21 = [2/5], 22–29 = [3/5], 30–41 = [4/5], 42+ = [5/5]
 - Tier inline: `(Tier N)` or `(Tier N–N)`
 - Key findings: `[KEY FINDING]` 
 - Debunked: `**[DEBUNKED]** Claim — Explanation`
@@ -107,7 +107,7 @@ Use relative paths: `[A01](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md)`
 [SectionLetter][TwoDigitNumber]_Short_Descriptive_Name.md
 ```
 
-- Section letter: A–V (uppercase)
+- Section letter: A–ZF (uppercase)
 - Number: Two-digit, zero-padded (01, 02, 03)
 - Name: Underscores between words, Title_Case
 - No spaces, max ~50 characters for name portion
