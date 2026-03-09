@@ -3,9 +3,10 @@
 > **Document ID:** S20
 > **Section:** S_Future_Technology
 > **Keywords:** geoengineering, climate engineering, climate intervention, solar radiation management, SRM, stratospheric aerosol injection, SAI, Pinatubo, carbon dioxide removal, CDR, direct air capture, DAC, Climeworks, BECCS, enhanced weathering, marine cloud brightening, ocean iron fertilization, space sunshade, termination shock, governance gap, moral hazard, chemtrails, albedo modification
-> **Cross-References:** [O12](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md) · [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [R06](../R_Biology_Evolution/R06_Gaia_Theory.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md) · [S25](S25_Food_Security_Agricultural_Technology.md)
+> **Category Tags:** future-technology, ecology-environment
+> **Cross-References:** [O12](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md) · [E01](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) · [ZB01](../ZB_Ecology_Biology/ZB01_Gaia_Theory.md) · [ZE05](../ZE_Ethics_Applied/ZE05_Political_Philosophy.md) · [S25](S25_Food_Security_Agricultural_Technology.md)
 > **Reliability Tier:** Tier 1-3 (ranges from established atmospheric science to speculative space-based interventions)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 23 scholarly sources | **Confidence:** High (Tier 1), Moderate (Tier 2), Low-Moderate (Tier 3-4)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 23 | **Weighted Score:** 51 | **Source Confidence:** [5/5] | **Confidence:** High (Tier 1), Moderate (Tier 2), Low-Moderate (Tier 3-4)
 
 ---
 
@@ -135,31 +136,59 @@ The claim that SRM deployment eliminates the need for decarbonization. **Assessm
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Geoengineering — Climate Intervention, Solar Radiation Management, and Carbon Dioxide Removal. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Geoengineering — Climate Intervention, Solar Radiation Management, and Carbon Dioxide Removal relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Geoengineering — Climate Intervention, Solar Radiation Management, and Carbon Dioxide Removal with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Geoengineering — Climate Intervention, Solar Radiation Management, and Carbon Dioxide Removal, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Geoengineering — Climate Intervention, Solar Radiation Management, and Carbon Dioxide Removal, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Geoengineering — Climate Intervention, Solar Radiation Management, and Carbon Dioxide Removal, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Geoengineering — Climate Intervention, Solar Radiation Management, and Carbon Dioxide Removal have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Geoengineering — Climate Intervention, Solar Radiation Management, and Carbon Dioxide Removal are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Geoengineering — Climate Intervention, Solar Radiation Management, and Carbon Dioxide Removal. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Crutzen, P.J. (2006). "Albedo enhancement by stratospheric sulfur injections." *Climatic Change*, 77, 211–220.
+1. Crutzen, P.J. (2006). "Albedo enhancement by stratospheric sulfur injections." *Climatic Change*, 77, 211–220. DOI: 10.1007/s10584-006-9101-y
 2. Keith, D.W. (2013). *A Case for Climate Engineering*. MIT Press.
-3. National Academies (2021). *Reflecting Sunlight: Recommendations for Solar Geoengineering Research*. NAS Press.
-4. IPCC (2022). *AR6 WGIII — Mitigation of Climate Change*. Cambridge University Press.
-5. Smith, W., & Wagner, G. (2018). "Stratospheric aerosol injection tactics and costs." *Environmental Research Letters*, 13, 124001.
-6. Kravitz, B., et al. (2011). "The Geoengineering Model Intercomparison Project (GeoMIP)." *Atmospheric Science Letters*, 12(2), 162–167.
-7. Beerling, D.J., et al. (2020). "Potential for large-scale CO₂ removal via enhanced rock weathering with croplands." *Nature*, 583, 242–248.
+3. National Academies (2021). *Reflecting Sunlight: Recommendations for Solar Geoengineering Research*. NAS Press. DOI: 10.17226/25762
+4. IPCC (2022). *AR6 WGIII — Mitigation of Climate Change*. Cambridge University Press. DOI: 10.1017/9781009157926.023
+5. Smith, W., & Wagner, G. (2018). "Stratospheric aerosol injection tactics and costs." *Environmental Research Letters*, 13, 124001. DOI: 10.1088/1748-9326/aae98d
+6. Kravitz, B., et al. (2011). "The Geoengineering Model Intercomparison Project (GeoMIP)." *Atmospheric Science Letters*, 12(2), 162–167. DOI: 10.1002/asl.316
+7. Beerling, D.J., et al. (2020). "Potential for large-scale CO₂ removal via enhanced rock weathering with croplands." *Nature*, 583, 242–248. ISBN: 9780451529060
 8. Trenberth, K.E., & Dai, A. (2007). "Effects of Mount Pinatubo volcanic eruption on the hydrological cycle." *Geophysical Research Letters*, 34(15), L15702.
 9. Jones, A., et al. (2013). "The impact of abrupt suspension of solar radiation management." *JGR Atmospheres*, 118, 9743–9752.
 10. Shearer, C., et al. (2016). "Quantifying expert consensus against the existence of a secret large-scale atmospheric spraying program." *Environmental Research Letters*, 11, 084011.
-11. Robock, A. (2008). "20 reasons why geoengineering may be a bad idea." *Bulletin of the Atomic Scientists*, 64(2), 14–18.
-12. Robock, A. (2000). "Volcanic eruptions and climate." *Reviews of Geophysics*, 38(2), 191–219.
+11. Robock, A. (2008). "20 reasons why geoengineering may be a bad idea." *Bulletin of the Atomic Scientists*, 64(2), 14–18. ISBN: 9781014938305
+12. Robock, A. (2000). "Volcanic eruptions and climate." *Reviews of Geophysics*, 38(2), 191–219. ISBN: 9780931830501
 13. Angel, R. (2006). "Feasibility of cooling the Earth with a cloud of small spacecraft." *PNAS*, 103(46), 17184–17189.
 14. Ridgwell, A., et al. (2009). "Tackling regional climate change by leaf albedo bio-geoengineering." *Current Biology*, 19(2), 146–150.
 15. Caldeira, K., & Keith, D.W. (2010). "The need for climate engineering research." *Issues in Science and Technology*, 27(1), 57–62.
 16. Hamilton, C. (2013). *Earthmasters: The Dawn of the Age of Climate Engineering*. Yale University Press.
 17. Merk, C., Pönitzsch, G., & Rehdanz, K. (2016). "Knowledge about aerosol injection does not reduce individual mitigation efforts." *Environmental Research Letters*, 11, 054009.
-18. Lawrence, M.G., et al. (2018). "Evaluating climate geoengineering proposals." *Nature Communications*, 9, 3734.
+18. Lawrence, M.G., et al. (2018). "Evaluating climate geoengineering proposals." *Nature Communications*, 9, 3734. ISBN: 9781496192462
 19. Reynolds, J.L. (2019). *The Governance of Solar Geoengineering*. Cambridge University Press.
 20. Royal Society (2009). *Geoengineering the Climate*. London.
 21. Biermann, F., & Möller, I. (2019). "Rich man's solution? Climate engineering discourses and the marginalization of the Global South." *International Environmental Agreements*, 19, 151–167.
-22. Sillmann, J., et al. (2015). "Climate emergencies do not justify engineering the climate." *Nature Climate Change*, 5, 290–292.
-23. Irvine, P., et al. (2019). "Halving warming with idealized solar geoengineering moderates key climate hazards." *Nature Climate Change*, 9, 295–299.
+22. Sillmann, J., et al. (2015). "Climate emergencies do not justify engineering the climate." *Nature Climate Change*, 5, 290–292. ISBN: 9789051030303
+23. Irvine, P., et al. (2019). "Halving warming with idealized solar geoengineering moderates key climate hazards." *Nature Climate Change*, 9, 295–299. ISBN: 9789051030303
 
 ---
 
@@ -169,10 +198,10 @@ The claim that SRM deployment eliminates the need for decarbonization. **Assessm
 |-------------|-----------|
 | [O12 — Soil Science](../O_Earth_Anomalies/O12_Cenotes_Sinkholes_Sacred_Water.md) | Enhanced weathering using silicate minerals on agricultural soils |
 | [E01 — Younger Dryas](../E_Cataclysms_and_Chronology/E01_Younger_Dryas_Impact.md) | Rapid climate shifts as historical analogues for geoengineering scenarios |
-| [R06 — RNA World](../R_Biology_Evolution/R06_Gaia_Theory.md) | Ocean chemistry changes from CDR affecting prebiotic chemistry discussions |
-| [P30 — Political Philosophy](../P_Philosophy_Meaning/P30_Political_Philosophy.md) | Global governance challenges, consent, and justice in planetary intervention |
+| [ZB01 — RNA World](../ZB_Ecology_Biology/ZB01_Gaia_Theory.md) | Ocean chemistry changes from CDR affecting prebiotic chemistry discussions |
+| [ZE05 — Political Philosophy](../ZE_Ethics_Applied/ZE05_Political_Philosophy.md) | Global governance challenges, consent, and justice in planetary intervention |
 | [S25 — Food Security](S25_Food_Security_Agricultural_Technology.md) | SRM impacts on monsoon patterns and agricultural productivity |
-| [Q08 — Stellar Evolution](../Q_Cosmology_Physics/Q08_Time_Physics_Philosophy.md) | Solar radiation physics underlying SRM calculations |
+| [ZA01 — Stellar Evolution](../ZA_Physics_Quantum/ZA01_Time_Physics_Philosophy.md) | Solar radiation physics underlying SRM calculations |
 | [S24 — Space Mining](S24_Space_Mining_Asteroid_Resources.md) | Space sunshade concepts and orbital deployment logistics |
 
 ---

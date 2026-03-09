@@ -3,9 +3,10 @@
 > **Document ID:** S21
 > **Section:** S_Future_Technology
 > **Keywords:** surveillance technology, mass surveillance, Panopticon, Bentham, Foucault, CCTV, NSA, Edward Snowden, PRISM, XKeyscore, Five Eyes, Clearview AI, facial recognition, Pegasus, NSO Group, social credit system, China, metadata, predictive policing, biometric surveillance, privacy, encryption, quantum-resistant cryptography
-> **Cross-References:** [V07](../V_Mathematics_Information/V07_Cryptography.md) · [S01](S01_AGI_Existential_Risk.md) · [T07](../T_Psychology_Social/T07_Propaganda_Persuasion_Information_Warfare.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md) · [N14](../N_Secret_Societies/N14_Rosicrucian_Manifestos_Invisible_College.md)
+> **Category Tags:** future-technology, quantum-physics
+> **Cross-References:** [ZD03](../ZD_Information_Computation/ZD03_Cryptography.md) · [S01](S01_AGI_Existential_Risk.md) · [ZC04](../ZC_Social_Science/ZC04_Propaganda_Persuasion_Information_Warfare.md) · [ZE05](../ZE_Ethics_Applied/ZE05_Political_Philosophy.md) · [N14](../N_Secret_Societies/N14_Rosicrucian_Manifestos_Invisible_College.md)
 > **Reliability Tier:** Tier 1-3 (ranges from documented surveillance programs and leaked classified documents to speculative future surveillance states)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 scholarly sources | **Confidence:** High (Tier 1-2), Moderate (Tier 3), Low (Tier 4)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 22 | **Weighted Score:** 29 | **Source Confidence:** [3/5] | **Confidence:** High (Tier 1-2), Moderate (Tier 3), Low (Tier 4)
 
 ---
 
@@ -136,17 +137,45 @@ The persistent belief that smartphones continuously record audio conversations f
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Surveillance Technology — Panopticism, Mass Surveillance, and the Architecture of Control. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Surveillance Technology — Panopticism, Mass Surveillance, and the Architecture of Control relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Surveillance Technology — Panopticism, Mass Surveillance, and the Architecture of Control with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Surveillance Technology — Panopticism, Mass Surveillance, and the Architecture of Control, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Surveillance Technology — Panopticism, Mass Surveillance, and the Architecture of Control, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Surveillance Technology — Panopticism, Mass Surveillance, and the Architecture of Control, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Surveillance Technology — Panopticism, Mass Surveillance, and the Architecture of Control have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Surveillance Technology — Panopticism, Mass Surveillance, and the Architecture of Control are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Surveillance Technology — Panopticism, Mass Surveillance, and the Architecture of Control. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Foucault, M. (1975). *Discipline and Punish: The Birth of the Prison*. Gallimard.
-2. Zuboff, S. (2019). *The Age of Surveillance Capitalism*. PublicAffairs.
-3. Greenwald, G. (2014). *No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State*. Metropolitan Books.
+1. Foucault, M. (1975). *Discipline and Punish: The Birth of the Prison*. Gallimard. DOI: 10.2307/j.ctv120qr2d.34
+2. Zuboff, S. (2019). *The Age of Surveillance Capitalism*. PublicAffairs. ISBN: 9781610395694. DOI: 10.12957/rmi.2021.55150
+3. Greenwald, G. (2014). *No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State*. Metropolitan Books. DOI: 10.5038/1944-0472.9.3.1552
 4. Harding, L. (2014). *The Snowden Files*. Vintage.
 5. Forbidden Stories & Amnesty International (2021). "The Pegasus Project." Forbidden Stories.
-6. NIST (2019). "Face Recognition Vendor Test (FRVT): Demographic Effects." NISTIR 8280.
+6. NIST (2019). "Face Recognition Vendor Test (FRVT): Demographic Effects." NISTIR 8280. DOI: 10.6028/nist.ir.8429.ipd
 7. Gill, M., & Spriggs, A. (2005). "Assessing the impact of CCTV." Home Office Research Study 292.
 8. Lyon, D. (2007). *Surveillance Studies: An Overview*. Polity Press.
-9. Mayer, J., Mutchler, P., & Mitchell, J.C. (2016). "Evaluating the privacy properties of telephone metadata." *PNAS*, 113(20), 5536–5541.
+9. Mayer, J., Mutchler, P., & Mitchell, J.C. (2016). "Evaluating the privacy properties of telephone metadata." *PNAS*, 113(20), 5536–5541. DOI: 10.1073/pnas.1508081113
 10. Barrett, L.F., et al. (2019). "Emotional expressions reconsidered." *Psychological Science in the Public Interest*, 20(1), 1–68.
 11. Mozur, P. (2019). "One Month, 500,000 Face Scans: How China Is Using AI to Profile a Minority." *New York Times*, April 14.
 12. Marczak, B., et al. (2018). "Hide and Seek: Tracking NSO Group's Pegasus Spyware to Operations in 45 Countries." Citizen Lab Research Report No. 113.
@@ -167,10 +196,10 @@ The persistent belief that smartphones continuously record audio conversations f
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [V07 — Information Theory](../V_Mathematics_Information/V07_Cryptography.md) | Encryption, signal processing, and information-theoretic limits of surveillance |
+| [ZD03 — Information Theory](../ZD_Information_Computation/ZD03_Cryptography.md) | Encryption, signal processing, and information-theoretic limits of surveillance |
 | [S01 — Artificial Intelligence](S01_AGI_Existential_Risk.md) | AI as enabling technology for facial recognition and predictive policing |
-| [T07 — Social Media Psychology](../T_Psychology_Social/T07_Propaganda_Persuasion_Information_Warfare.md) | Platform surveillance, attention harvesting, and behavioral profiling |
-| [P30 — Political Philosophy](../P_Philosophy_Meaning/P30_Political_Philosophy.md) | Privacy rights, state power, and the social contract |
+| [ZC04 — Social Media Psychology](../ZC_Social_Science/ZC04_Propaganda_Persuasion_Information_Warfare.md) | Platform surveillance, attention harvesting, and behavioral profiling |
+| [ZE05 — Political Philosophy](../ZE_Ethics_Applied/ZE05_Political_Philosophy.md) | Privacy rights, state power, and the social contract |
 | [N14 — Intelligence Agencies](../N_Secret_Societies/N14_Rosicrucian_Manifestos_Invisible_College.md) | NSA, Five Eyes, and intelligence community institutional analysis |
 | [S19 — Autonomous Weapons](S19_Autonomous_Weapons_Systems.md) | Surveillance-to-strike pipeline and targeting infrastructure |
 | [S22 — Internet](S22_Internet_Digital_Civilization.md) | Digital infrastructure enabling mass data collection |

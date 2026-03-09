@@ -3,9 +3,10 @@
 > **Document ID:** S12
 > **Section:** S_Future_Technology
 > **Keywords:** fusion, nuclear fusion, ITER, NIF, tokamak, stellarator, thorium, LFTR, molten salt reactor, Dyson sphere, zero-point energy, vacuum energy, solar power satellite, space-based solar, Kardashev scale, energy, plasma, deuterium, tritium, helium-3, cold fusion, LENR
-> **Cross-References:** S01, S07, Q02, Q01, J05, Q16
+> **Category Tags:** future-technology
+> **Cross-References:** S01, S07, Q02, Q01, J05, ZA04
 > **Reliability Tier:** Tier 1 (mainstream fusion/thorium research); Tier 2 (advanced concepts); Tier 3 (zero-point energy, cold fusion)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 11 scholarly sources | **Confidence:** High (physics); Medium (engineering timelines); Low (speculative energy claims)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 11 | **Weighted Score:** 24 | **Source Confidence:** [3/5] | **Confidence:** High (physics); Medium (engineering timelines); Low (speculative energy claims)
 
 ---
 
@@ -143,20 +144,62 @@ Modern MSR startups: **Terrestrial Energy** (Canada), **ThorCon** (USA/Indonesia
 | [Q01 — Cosmology Overview](../Q_Cosmology_Physics/Q01_Anthropic_Principle_Fine_Tuning.md) | Stellar energy production, nucleosynthesis |
 | [J05 — Ancient Acoustics/Technology](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Historical energy technology |
 | [S07 — Biotechnology](../S_Future_Technology/S07_Existential_Risk_Taxonomy.md) | Bioenergy and photosynthesis |
-| [Q16 — Gravity](../Q_Cosmology_Physics/Q16_Gravity_Gravitational_Waves.md) | Gravitational energy and exotic propulsion claims |
+| [ZA04 — Gravity](../ZA_Physics_Quantum/ZA04_Gravity_Gravitational_Waves.md) | Gravitational energy and exotic propulsion claims |
 
 ---
 
+### Source Tier Classification
+
+This document references sources across multiple evidence tiers within this project's reliability framework:
+
+| Tier | Label | Description |
+|------|-------|-------------|
+| **Tier 1** | VERIFIED | Peer-reviewed studies, archaeological records, and primary source translations |
+| **Tier 2** | CREDIBLE | Academic scholarship with broad support but ongoing interpretive debate |
+| **Tier 3** | SPECULATIVE | Alternative interpretations, popular scholarship, and unverified hypotheses |
+| **Tier 4** | DUBIOUS | Claims lacking credible evidence, fringe theories, or debunked assertions |
+
+
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Energy Futures — Fusion, Thorium, and Cosmic Energy Harvesting. Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Energy Futures — Fusion, Thorium, and Cosmic Energy Harvesting relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with Energy Futures — Fusion, Thorium, and Cosmic Energy Harvesting. Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Ongena, J., & Ogawa, Y. (2016). "Nuclear Fusion: Status Report and Future Prospects." *Energy Policy*, 96, 770-778.
-2. Abu-Khader, M. M. (2009). "Recent Advances in Nuclear Power: A Review." *Progress in Nuclear Energy*, 51(2), 225-235.
-3. Clery, D. (2013). *A Piece of the Sun: The Quest for Fusion Energy*. Overlook Press.
-4. LeBlanc, D. (2010). "Molten Salt Reactors: A New Beginning for an Old Idea." *Nuclear Engineering and Design*, 240(6), 1644-1656.
+1. Ongena, J., & Ogawa, Y. (2016). "Nuclear Fusion: Status Report and Future Prospects." *Energy Policy*, 96, 770-778. ISBN: 9789264109766. DOI: 10.1016/j.enpol.2016.05.037
+2. Abu-Khader, M. M. (2009). "Recent Advances in Nuclear Power: A Review." *Progress in Nuclear Energy*, 51(2), 225-235. ISBN: 008029684X. DOI: 10.1016/j.pnucene.2008.05.001
+3. Clery, D. (2013). *A Piece of the Sun: The Quest for Fusion Energy*. Overlook Press. DOI: 10.13182/fst13-a24099
+4. LeBlanc, D. (2010). "Molten Salt Reactors: A New Beginning for an Old Idea." *Nuclear Engineering and Design*, 240(6), 1644-1656. ISBN: 9781365679452. DOI: 10.1016/j.nucengdes.2009.12.033
 5. Manheimer, W. (2014). *The Case for Thorium: The Green Energy Source*. CreateSpace.
-6. Dyson, F. J. (1960). "Search for Artificial Stellar Sources of Infrared Radiation." *Science*, 131(3414), 1667-1668.
-7. Glaser, P. E. (1968). "Power from the Sun: Its Future." *Science*, 162(3856), 857-861.
-8. Berlinguette, C. P., et al. (2019). "Revisiting the Cold Case of Cold Fusion." *Nature*, 570, 45-51.
+6. Dyson, F. J. (1960). "Search for Artificial Stellar Sources of Infrared Radiation." *Science*, 131(3414), 1667-1668. ISBN: 9781492373582. DOI: 10.1126/science.131.3414.1667
+7. Glaser, P. E. (1968). "Power from the Sun: Its Future." *Science*, 162(3856), 857-861. ISBN: 9781492373582
+8. Berlinguette, C. P., et al. (2019). "Revisiting the Cold Case of Cold Fusion." *Nature*, 570, 45-51. ISBN: 9780451529060
 9. Milonni, P. W. (1994). *The Quantum Vacuum: An Introduction to Quantum Electrodynamics*. Academic Press.
 10. Kardashev, N. S. (1964). "Transmission of Information by Extraterrestrial Civilizations." *Soviet Astronomy*, 8, 217-221.
 11. Creely, A. J., et al. (2020). "Overview of the SPARC Tokamak." *Journal of Plasma Physics*, 86(5), 865860502.

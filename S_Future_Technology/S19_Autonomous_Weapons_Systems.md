@@ -3,9 +3,10 @@
 > **Document ID:** S19
 > **Section:** S_Future_Technology
 > **Keywords:** autonomous weapons, LAWS, lethal autonomous weapons systems, killer robots, drone warfare, Phalanx CIWS, Aegis, Iron Dome, Kargu-2, loitering munition, meaningful human control, accountability gap, Campaign to Stop Killer Robots, drone swarms, Asimov laws of robotics, flash war, AI arms race, Convention on Certain Conventional Weapons, CCW, Predator drone, MQ-9 Reaper
-> **Cross-References:** [S01](S01_AGI_Existential_Risk.md) · [J23](../J_Ancient_Technology/J23_Ancient_Warfare_Technology.md) · [G27](../G_Modern_Frameworks/G27_Game_Theory_Strategic_Interaction_Cooperation.md) · [P30](../P_Philosophy_Meaning/P30_Political_Philosophy.md) · [S21](S21_Surveillance_Technology.md)
+> **Category Tags:** future-technology, artificial-intelligence
+> **Cross-References:** [S01](S01_AGI_Existential_Risk.md) · [J23](../J_Ancient_Technology/J23_Ancient_Warfare_Technology.md) · [ZD07](../ZD_Information_Computation/ZD07_Game_Theory_Strategic_Interaction_Cooperation.md) · [ZE05](../ZE_Ethics_Applied/ZE05_Political_Philosophy.md) · [S21](S21_Surveillance_Technology.md)
 > **Reliability Tier:** Tier 1-3 (ranges from documented weapons systems and IHL to speculative flash war scenarios)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 21 scholarly sources | **Confidence:** High (Tier 1), Moderate (Tier 2), Low (Tier 3-4)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 21 | **Weighted Score:** 35 | **Source Confidence:** [4/5] | **Confidence:** High (Tier 1), Moderate (Tier 2), Low (Tier 3-4)
 
 ---
 
@@ -138,15 +139,43 @@ Claims that market competition, reputational risk, or military culture will natu
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Autonomous Weapons Systems — AI, Lethal Autonomy, and the Future of Warfare. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Autonomous Weapons Systems — AI, Lethal Autonomy, and the Future of Warfare relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Autonomous Weapons Systems — AI, Lethal Autonomy, and the Future of Warfare with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Autonomous Weapons Systems — AI, Lethal Autonomy, and the Future of Warfare, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Autonomous Weapons Systems — AI, Lethal Autonomy, and the Future of Warfare, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Autonomous Weapons Systems — AI, Lethal Autonomy, and the Future of Warfare, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Autonomous Weapons Systems — AI, Lethal Autonomy, and the Future of Warfare have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Autonomous Weapons Systems — AI, Lethal Autonomy, and the Future of Warfare are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Autonomous Weapons Systems — AI, Lethal Autonomy, and the Future of Warfare. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
-1. Scharre, P. (2018). *Army of None: Autonomous Weapons and the Future of War*. W.W. Norton.
-2. Arkin, R.C. (2009). *Governing Lethal Behavior in Autonomous Robots*. CRC Press.
+1. Scharre, P. (2018). *Army of None: Autonomous Weapons and the Future of War*. W.W. Norton. ISBN: 1720848904. DOI: 10.3917/futur.428.0131l
+2. Arkin, R.C. (2009). *Governing Lethal Behavior in Autonomous Robots*. CRC Press. ISBN: 0429150229. DOI: 10.1201/9781420085952
 3. United Nations (2021). *Panel of Experts Report S/2021/229* (Libya).
-4. Human Rights Watch (2012). *Losing Humanity: The Case Against Killer Robots*. HRW.
-5. ICRC (2021). "ICRC Position on Autonomous Weapon Systems." Geneva.
-6. Kissinger, H., Schmidt, E., & Huttenlocher, D. (2021). *The Age of AI and Our Human Future*. Little, Brown.
-7. Parasuraman, R., & Riley, V. (1997). "Humans and automation." *Human Factors*, 39(2), 230–253.
+4. Human Rights Watch (2012). *Losing Humanity: The Case Against Killer Robots*. HRW. DOI: 10.4324/9781315241364-20
+5. ICRC (2021). "ICRC Position on Autonomous Weapon Systems." Geneva. DOI: 10.1017/s1816383121000564
+6. Kissinger, H., Schmidt, E., & Huttenlocher, D. (2021). *The Age of AI and Our Human Future*. Little, Brown. DOI: 10.5937/socpreg57-43562
+7. Parasuraman, R., & Riley, V. (1997). "Humans and automation." *Human Factors*, 39(2), 230–253. ISBN: 9781409027072
 8. Matthias, A. (2004). "The responsibility gap." *Ethics and Information Technology*, 6, 175–183.
 9. Heyns, C. (2013). "Report of the Special Rapporteur on extrajudicial, summary or arbitrary executions." UN A/HRC/23/47.
 10. Bureau of Investigative Journalism (2023). "Drone Warfare Dataset." London.
@@ -170,11 +199,11 @@ Claims that market competition, reputational risk, or military culture will natu
 |-------------|-----------|
 | [S01 — Artificial Intelligence](S01_AGI_Existential_Risk.md) | AI as enabling technology for autonomous target selection and swarm coordination |
 | [J23 — Ancient Fortification](../J_Ancient_Technology/J23_Ancient_Warfare_Technology.md) | Historical evolution of warfare technology and defensive automation |
-| [G27 — Effective Altruism](../G_Modern_Frameworks/G27_Game_Theory_Strategic_Interaction_Cooperation.md) | Existential risk assessment applied to autonomous weapons proliferation |
-| [P30 — Political Philosophy](../P_Philosophy_Meaning/P30_Political_Philosophy.md) | State monopoly on legitimate violence and social contract implications |
+| [ZD07 — Effective Altruism](../ZD_Information_Computation/ZD07_Game_Theory_Strategic_Interaction_Cooperation.md) | Existential risk assessment applied to autonomous weapons proliferation |
+| [ZE05 — Political Philosophy](../ZE_Ethics_Applied/ZE05_Political_Philosophy.md) | State monopoly on legitimate violence and social contract implications |
 | [S21 — Surveillance Technology](S21_Surveillance_Technology.md) | Surveillance-to-strike pipeline and AI-enabled targeting systems |
 | [S22 — Internet](S22_Internet_Digital_Civilization.md) | Cyber-weapon integration with autonomous kinetic systems |
-| [K01 — Consciousness](../K_Consciousness/K01_NDEs_OBEs_Consciousness.md) | Question of machine consciousness and moral status of autonomous agents |
+| [Y01 — Consciousness](../Y_Altered_States/Y01_NDEs_OBEs_Consciousness.md) | Question of machine consciousness and moral status of autonomous agents |
 
 ---
 

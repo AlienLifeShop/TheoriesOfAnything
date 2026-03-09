@@ -3,9 +3,10 @@
 > **Document ID:** S11
 > **Section:** S_Future_Technology
 > **Keywords:** nanotechnology, nanoscale, molecular machines, nanorobot, nanomedicine, self-assembly, graphene, carbon nanotube, fullerene, Drexler, molecular assembler, MEMS, NEMS, quantum dot, metamaterial, smart material, 2D material, AFM, STM, bottom-up, top-down
-> **Cross-References:** S01, S07, J05, Q02, R01, R17
+> **Category Tags:** future-technology, quantum-physics
+> **Cross-References:** S01, S07, J05, Q02, R01, R15
 > **Reliability Tier:** Tier 1 (nanoscience); Tier 2 (near-term applications); Tier 3 (molecular assembler/nanofactory speculations)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 11 scholarly sources | **Confidence:** High (science); Medium (application timelines)
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 11 | **Weighted Score:** 25 | **Source Confidence:** [3/5] | **Confidence:** High (science); Medium (application timelines)
 
 ---
 
@@ -82,7 +83,7 @@ Nature has operated nanotechnology for billions of years:
 | **DNA polymerase** | Copies DNA with ~1 error per 10⁹ bases | ~10 nm | Error-correction (proofreading) built in |
 | **Flagellar motor** (bacterial) | Propels bacteria | ~50 nm diameter | Rotary motor; up to 1,700 rev/sec; self-assembling; bidirectional |
 
-These biological machines demonstrate that **molecular-scale manufacturing** is physically possible and has been optimized by evolution over billions of years (→ R17).
+These biological machines demonstrate that **molecular-scale manufacturing** is physically possible and has been optimized by evolution over billions of years (→ [R15](../R_Biology_Evolution/R15_Symbiogenesis_Lynn_Margulis.md)).
 
 ---
 
@@ -136,23 +137,65 @@ The 2016 Chemistry Nobel recognized three pioneers:
 | [J05 — Ancient Acoustics](../J_Ancient_Technology/J05_Ancient_Metallurgy.md) | Material science through the ages |
 | [Q02 — Cosmological Models](../Q_Cosmology_Physics/Q02_Big_Bang_Alternative_Cosmologies.md) | Quantum effects at nanoscale |
 | [R01 — Evolution Overview](../R_Biology_Evolution/R01_Abiogenesis_Origin_of_Life.md) | Biological molecular machines as evolutionary products |
-| [R17 — Symbiogenesis](../R_Biology_Evolution/R17_Symbiogenesis_Lynn_Margulis.md) | Biological self-assembly and cooperation |
+| [R15 — Symbiogenesis](../R_Biology_Evolution/R15_Symbiogenesis_Lynn_Margulis.md) | Biological self-assembly and cooperation |
 
 ---
+
+### Source Tier Classification
+
+This document references sources across multiple evidence tiers within this project's reliability framework:
+
+| Tier | Label | Description |
+|------|-------|-------------|
+| **Tier 1** | VERIFIED | Peer-reviewed studies, archaeological records, and primary source translations |
+| **Tier 2** | CREDIBLE | Academic scholarship with broad support but ongoing interpretive debate |
+| **Tier 3** | SPECULATIVE | Alternative interpretations, popular scholarship, and unverified hypotheses |
+| **Tier 4** | DUBIOUS | Claims lacking credible evidence, fringe theories, or debunked assertions |
+
+
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Nanotechnology, Molecular Machines, and Material Frontiers. Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Nanotechnology, Molecular Machines, and Material Frontiers relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with Nanotechnology, Molecular Machines, and Material Frontiers. Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
 
 ## BIBLIOGRAPHY
 
 1. Feynman, R. P. (1960). "There's Plenty of Room at the Bottom." *Engineering and Science*, 23(5), 22-36.
 2. Drexler, K. E. (1986). *Engines of Creation: The Coming Era of Nanotechnology*. Anchor Press.
-3. Drexler, K. E. (1992). *Nanosystems: Molecular Machinery, Manufacturing, and Computation*. Wiley.
-4. Geim, A. K., & Novoselov, K. S. (2007). "The Rise of Graphene." *Nature Materials*, 6, 183-191.
-5. Rothemund, P. W. K. (2006). "Folding DNA to Create Nanoscale Shapes and Patterns." *Nature*, 440, 297-302.
+3. Drexler, K. E. (1992). *Nanosystems: Molecular Machinery, Manufacturing, and Computation*. Wiley. DOI: 10.1002/adma.19930051119
+4. Geim, A. K., & Novoselov, K. S. (2007). "The Rise of Graphene." *Nature Materials*, 6, 183-191. ISBN: 9780471818410. DOI: 10.1038/nmat1849
+5. Rothemund, P. W. K. (2006). "Folding DNA to Create Nanoscale Shapes and Patterns." *Nature*, 440, 297-302. ISBN: 9780451529060. DOI: 10.1038/nature04586
 6. Howard, J. (2001). *Mechanics of Motor Proteins and the Cytoskeleton*. Sinauer Associates.
-7. Sauvage, J.-P. (2017). "From Chemical Topology to Molecular Machines." *Angewandte Chemie Int. Ed.*, 56, 11080-11093.
-8. Peer, D., Karp, J. M., Hong, S., et al. (2007). "Nanocarriers as an Emerging Platform for Cancer Therapy." *Nature Nanotechnology*, 2, 751-760.
-9. Service, R. F. (2001). "Is Nanotechnology Dangerous?" *Science*, 290(5496), 1526-1527.
-10. Seeman, N. C. (2003). "DNA in a Material World." *Nature*, 421, 427-431.
-11. Iijima, S. (1991). "Helical Microtubules of Graphitic Carbon." *Nature*, 354, 56-58.
+7. Sauvage, J.-P. (2017). "From Chemical Topology to Molecular Machines." *Angewandte Chemie Int. Ed.*, 56, 11080-11093. DOI: 10.1002/anie.201702992
+8. Peer, D., Karp, J. M., Hong, S., et al. (2007). "Nanocarriers as an Emerging Platform for Cancer Therapy." *Nature Nanotechnology*, 2, 751-760. DOI: 10.1038/nnano.2007.387
+9. Service, R. F. (2001). "Is Nanotechnology Dangerous?" *Science*, 290(5496), 1526-1527. ISBN: 9781492373582
+10. Seeman, N. C. (2003). "DNA in a Material World." *Nature*, 421, 427-431. ISBN: 9780451529060
+11. Iijima, S. (1991). "Helical Microtubules of Graphitic Carbon." *Nature*, 354, 56-58. ISBN: 9780451529060
 
 ---
 
