@@ -290,7 +290,9 @@ This project is built for the good of humanity. All research is intended to be f
 - Suggest new sources or counter-arguments
 - Propose topics for new documents following the established template
 - Point out hallucinated or fabricated citations so they can be corrected
-- 
+- Discord: https://discord.gg/7VbWTA8t
+
+Share your Prompts and responses or Expanded Topics Here to help the project grow!
 ---
 
 ## DISCLAIMER
