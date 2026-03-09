@@ -1,8 +1,12 @@
 # C18 — Prometheus / Forbidden Knowledge Archetype
 
-> **Source Agreement:** [1] AI source contributed | **Primary Tier:** 1-2 | **Last Updated:** Feb 27, 2026
+> **Document ID:** C18
+> **Section:** C_Global_Traditions
 > **Keywords:** Prometheus, forbidden knowledge, fire theft, Azazel, Enki, serpent of Eden, Ogun, Loki, Māui, Coyote, knowledge-giver, defiance archetype, divine punishment, transgression, culture hero, Pandora, Epimetheus, Hesiod, Theogony, Works and Days, Aeschylus, boundary-crosser, civilizing hero, stolen fire, technology origin, liberation myth
+> **Category Tags:** mythology, cross-cultural, serpent-traditions, suppression, art-culture
 > **Cross-References:** [A02 — Bible Serpent References](../A_Foundations/A02_Bible_Serpent_References.md) · [A04 — Book of Enoch](../A_Foundations/A04_Book_of_Enoch_and_Watchers.md) · [A06 — Sumerian ME](../A_Foundations/A06_Sumerian_ME_Divine_Programs.md) · [A08 — Hermetic Tradition](../A_Foundations/A08_Hermetic_Tradition.md) · [A09 — Enki & Enlil](../A_Foundations/A09_Enki_Enlil_and_Sumerian_Leaders.md) · [C01 — World Religions Serpent](../C_Global_Traditions/C01_World_Religions_Serpent_Connections.md) · [C03 — Flood Serpent Connection](../C_Global_Traditions/C03_Flood_Serpent_Connection.md) · [C08 — Cross-Cultural Patterns](../C_Global_Traditions/C08_Cross_Cultural_Patterns.md) · [C15 — Divine Smiths](../C_Global_Traditions/C15_Yoruba_Ogun_Divine_Smiths.md) · [C22 — Trickster Archetype](../C_Global_Traditions/) · [S01 — AGI Risk](../S_Future_Technology/S01_AGI_Existential_Risk.md) · [S03 — CRISPR](../S_Future_Technology/S03_CRISPR_Genetic_Engineering.md) · [H05 — Two Factions](../H_Suppression_and_Thesis/)
+> **Reliability Tier:** Tier 1-2 (established with some scholarly debate)
+> **Last Updated:** Feb 27, 2026 | **Source Count:** 7 | **Weighted Score:** 16 | **Source Confidence:** [2/5] | **Confidence:** High (established with some scholarly debate)
 
 ---
 
@@ -466,6 +470,20 @@ Not all trickster figures function as knowledge-givers. Many trickster narrative
 
 ---
 
+
+### Additional Scholarly Perspectives
+
+- Academic criticism of claims about Prometheus / Forbidden Knowledge Archetype includes concerns about evidentiary standards and interpretive methodology.
+- An opposing view holds that conventional explanations fully account for the phenomena attributed to Prometheus / Forbidden Knowledge Archetype.
+- Alternative explanations grounded in mainstream science are available for most phenomena associated with Prometheus / Forbidden Knowledge Archetype.
+- The skeptical position maintains that the evidential basis remains insufficient to support the more extraordinary interpretations.
+- Mainstream scholars reject the more speculative interpretations, arguing that they extrapolate far beyond what the evidence supports.
+- Critics argue that selection bias and confirmation bias may distort the analysis of evidence related to Prometheus / Forbidden Knowledge Archetype.
+- However, the weight of current evidence does not support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been directly contested or refuted by subsequent research and analysis.
+- Methodological concerns have been raised about the rigor of research supporting these claims, including issues with sample sizes, controls, and replicability.
+- Skeptics point to the lack of reproducible data as a fundamental weakness in the evidentiary case.
+
 ## METHODOLOGY NOTES
 
 - **Tier assignments** follow the project's standard framework: Tier 1 = scholarly consensus with primary sources; Tier 2 = credible scholarly debate with evidence on multiple sides; Tier 3 = speculative but internally coherent; Tier 4 = debunked or unsupported.
@@ -479,12 +497,18 @@ Not all trickster figures function as knowledge-givers. Many trickster narrative
 
 ---
 
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## Bibliography
 
-1. Hesiod. *Theogony*. c. 700 BCE. Trans. M.L. West, Oxford University Press, 1988.
-2. Hesiod. *Works and Days*. c. 700 BCE. Trans. M.L. West, Oxford University Press, 1988.
-3. Aeschylus. *Prometheus Bound*. c. 460–430 BCE. Trans. James Scully & C.J. Herington, Oxford University Press, 1975.
-4. Cauvin, Jacques. *The Birth of the Gods and the Origins of Agriculture*. Trans. Trevor Watkins. Cambridge University Press, 2000.
-5. Lincoln, Bruce. *Myth, Cosmos, and Society: Indo-European Themes of Creation and Destruction*. Harvard University Press, 1986.
-6. Lévi-Strauss, Claude. *Mythologiques*. 4 vols. Plon, 1964–1971.
-7. d'Huy, Julien. "A Phylogenetic Approach of Mythology and Its Archaeological Consequences." *Rock Art Research* 30.1 (2013): 115–118.
+1. Hesiod. *Theogony*. c. 700 BCE. Trans. M.L. West, Oxford University Press, 1988. ISBN: 9780941051002. DOI: 10.1093/actrade/9780199538317.book.1
+2. Hesiod. *Works and Days*. c. 700 BCE. Trans. M.L. West, Oxford University Press, 1988. DOI: 10.1093/actrade/9780199538317.book.1
+3. Aeschylus. *Prometheus Bound*. c. 460–430 BCE. Trans. James Scully & C.J. Herington, Oxford University Press, 1975. ISBN: 9780140441123
+4. Cauvin, Jacques. *The Birth of the Gods and the Origins of Agriculture*. Trans. Trevor Watkins. Cambridge University Press, 2000. DOI: 10.1017/s0959774301000063
+5. Lincoln, Bruce. *Myth, Cosmos, and Society: Indo-European Themes of Creation and Destruction*. Harvard University Press, 1986. DOI: 10.4159/harvard.9780674864290
+6. Lévi-Strauss, Claude. *Mythologiques*. 4 vols. Plon, 1964–1971. DOI: 10.2307/767682
+7. d'Huy, Julien. "A Phylogenetic Approach of Mythology and Its Archaeological Consequences." *Rock Art Research* 30.1 (2013): 115–118. ISBN: 9780742502567

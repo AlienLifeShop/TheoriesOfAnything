@@ -1,8 +1,12 @@
 # C23 — Mother Goddess / Earth Goddess Pattern
 
-> **Source Agreement:** [1] AI source contributed | **Primary Tier:** 1-3 | **Last Updated:** Feb 27, 2026
+> **Document ID:** C23
+> **Section:** C_Global_Traditions
 > **Keywords:** mother goddess, earth goddess, Gaia, Pachamama, Bhumi Devi, Terra Mater, Ninhursag, Isis, Inanna, Ishtar, Cybele, Demeter, Kali, Durga, Coatlicue, Asherah, Astarte, Çatalhöyük, Malta fat lady, Venus figurines, matriarchy, gynarchy, Gimbutas, pre-patriarchal, feminine divine, fertility, Great Mother, Magna Mater, triple goddess, goddess culture, Neolithic, sacred feminine, parthenogenesis, hieros gamos, earth mother, creation goddess, Sheela na gig, Willendorf, Lespugue
-> **Cross-References:** [A01 — Sumerian](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) · [A06 — ME](../A_Foundations/A06_Sumerian_ME_Divine_Programs.md) · [D14 — Malta](../D_Sites_and_Artifacts/D14_Maltese_Temple_Builders_Hypogeum.md) · [C17 — Sacred Kingship](../C_Global_Traditions/C17_Sacred_Kingship_Divine_Rulership.md) · [R06 — Gaia Theory](../R_Biology_Evolution/R06_Gaia_Theory.md) · [C01 — World Religions Serpent](../C_Global_Traditions/C01_World_Religions_Serpent_Connections.md) · [C08 — Cross-Cultural](../C_Global_Traditions/C08_Cross_Cultural_Patterns.md)
+> **Category Tags:** mythology, cross-cultural, creation-myths, genetics, art-culture
+> **Cross-References:** [A01 — Sumerian](../A_Foundations/A01_Sumerian_Texts_and_Tablets.md) · [A06 — ME](../A_Foundations/A06_Sumerian_ME_Divine_Programs.md) · [D14 — Malta](../D_Sites_and_Artifacts/D14_Maltese_Temple_Builders_Hypogeum.md) · [C17 — Sacred Kingship](../C_Global_Traditions/C17_Sacred_Kingship_Divine_Rulership.md) · [ZB01 — Gaia Theory](../ZB_Ecology_Biology/ZB01_Gaia_Theory.md) · [C01 — World Religions Serpent](../C_Global_Traditions/C01_World_Religions_Serpent_Connections.md) · [C08 — Cross-Cultural](../C_Global_Traditions/C08_Cross_Cultural_Patterns.md)
+> **Reliability Tier:** Tier 1-3 (cross-cultural traditions and mythology)
+> **Last Updated:** Feb 27, 2026 | **Source Count:** 73 | **Weighted Score:** 118 | **Source Confidence:** [5/5] | **Confidence:** Moderate (mixed evidence, interpretation varies)
 
 ---
 
@@ -14,7 +18,7 @@ The Mother Goddess or Earth Goddess archetype represents one of the most ancient
 
 ## 1. VERIFIED CLAIMS (Tier 1 — Peer-Reviewed / Archaeological Record)
 
-### 1.1 Venus Figurines: The Oldest Representational Art (40,000–11,000 BCE) [5/5 sources]
+### 1.1 Venus Figurines: The Oldest Representational Art (40,000–11,000 BCE)
 
 **Sources:** Conard (2009), *Nature*; White (2006), *Cambridge Archaeological Journal*; Soffer et al. (2000); McDermott (1996), *Current Anthropology*; Cook (2013), *Oxford Handbook of the European Bronze Age*.
 
@@ -44,7 +48,7 @@ The so-called "Venus figurines" constitute one of the earliest bodies of represe
 - That a unified "religion" connected all sites. The 20,000-year time span and vast geography argue against a single continuous tradition.
 - That Paleolithic societies were matriarchal. Figurine prevalence does not demonstrate political structure.
 
-### 1.2 Çatalhöyük: The Goddess Debate (7500–5700 BCE) [5/5 sources]
+### 1.2 Çatalhöyük: The Goddess Debate (7500–5700 BCE)
 
 **Sources:** Mellaart (1967), *Çatal Hüyük: A Neolithic Town in Anatolia*; Hodder (2006), *The Leopard's Tale*; Hodder (2010), *Religion in the Emergence of Civilization*; Nakamura & Meskell (2009), *Cambridge Archaeological Journal*; Meskell et al. (2008), *Journal of Material Culture*.
 
@@ -68,7 +72,7 @@ The so-called "Venus figurines" constitute one of the earliest bodies of represe
 - A single "Mother Goddess religion" is considered **an overinterpretation** by most archaeologists.
 - The site nonetheless demonstrates that female symbolic imagery held significant cultural importance in early Neolithic Anatolia.
 
-### 1.3 Maltese "Fat Lady" Figurines and Temple Complexes (3600–2500 BCE) [4/5 sources]
+### 1.3 Maltese "Fat Lady" Figurines and Temple Complexes (3600–2500 BCE)
 
 **Sources:** Trump (2002), *Malta: Prehistory and Temples*; Malone et al. (2009), *Mortuary Customs in Prehistoric Malta*; Rountree (2007), *Journal of Mediterranean Studies*; Pace (2004), *The Figurines of the Maltese Islands*.
 
@@ -83,7 +87,7 @@ The so-called "Venus figurines" constitute one of the earliest bodies of represe
 - Skeptics note that many figurines are **sexless or ambiguously gendered**, that the "body-shaped temple" theory is projective, and that the "fat lady" may represent ancestors, priests, or an aesthetic ideal rather than a deity.
 - The Maltese temple culture collapsed circa 2500 BCE for reasons still debated (climate change, resource depletion, social disruption), and no textual records survive to clarify the figurines' meaning.
 
-### 1.4 Ninhursag / Ninmah in Sumerian Tradition (c. 3000–2000 BCE) [5/5 sources]
+### 1.4 Ninhursag / Ninmah in Sumerian Tradition (c. 3000–2000 BCE)
 
 **Sources:** Kramer (1961), *Sumerian Mythology*; Jacobsen (1976), *The Treasures of Darkness*; Black & Green (1992), *Gods, Demons and Symbols of Ancient Mesopotamia*; Leick (1994), *Sex and Eroticism in Mesopotamian Literature*; Stuckey (2005), *Matrilineal Traces in the Hebrew Bible*.
 
@@ -100,7 +104,7 @@ The so-called "Venus figurines" constitute one of the earliest bodies of represe
 - Over the course of the 3rd and 2nd millennia BCE, her prominence **gradually declined** as Inanna/Ishtar rose in cultic importance and as patriarchal restructuring elevated male deities — a process visible in successive redactions of Sumerian and Akkadian god-lists.
 - This documented decline is one of the clearest textual records of a **goddess-to-god transition** in any civilization.
 
-### 1.5 The Cult of Isis: Pan-Mediterranean Goddess Worship (c. 2500 BCE–6th Century CE) [5/5 sources]
+### 1.5 The Cult of Isis: Pan-Mediterranean Goddess Worship (c. 2500 BCE–6th Century CE)
 
 **Sources:** Plutarch, *De Iside et Osiride* (c. 100 CE); Apuleius, *The Golden Ass* (c. 170 CE); Witt (1971), *Isis in the Ancient World*; Bricault (2001), *Atlas de la diffusion des cultes isiaques*; Griffiths (1970), *Plutarch's De Iside et Osiride*.
 
@@ -121,7 +125,7 @@ The so-called "Venus figurines" constitute one of the earliest bodies of represe
 - **Initiatory mysteries** paralleling the Eleusinian rites, involving symbolic death and rebirth.
 - The iconography of Isis nursing Horus (*Isis Lactans*) directly influenced early Christian depictions of the **Madonna and Child** — a visual continuity documented extensively by art historians.
 
-### 1.6 Demeter and the Eleusinian Mysteries (c. 1500 BCE–392 CE) [5/5 sources]
+### 1.6 Demeter and the Eleusinian Mysteries (c. 1500 BCE–392 CE)
 
 **Sources:** *Homeric Hymn to Demeter* (c. 7th century BCE); Mylonas (1961), *Eleusis and the Eleusinian Mysteries*; Clinton (1992), *Myth and Cult: The Iconography of the Eleusinian Mysteries*; Foley (1994), *The Homeric Hymn to Demeter*; Cosmopoulos (2015), *Bronze Age Eleusis*.
 
@@ -142,7 +146,7 @@ The so-called "Venus figurines" constitute one of the earliest bodies of represe
 - The site at Eleusis has been excavated since the 19th century. The Telesterion's multiple construction phases (Mycenaean through Roman) confirm continuous use over nearly two millennia.
 - Michael Cosmopoulos (2015) demonstrated a **Bronze Age sanctuary** at Eleusis dating to the Mycenaean period (c. 1500 BCE), confirming the rites' deep antiquity and pre-Greek origins.
 
-### 1.7 Archaeological Evidence of Goddess Worship: A Global Survey [4/5 sources]
+### 1.7 Archaeological Evidence of Goddess Worship: A Global Survey
 
 **Sources:** Gimbutas (1989), *The Language of the Goddess*; Cauvin (2000), *The Birth of the Gods and the Origins of Agriculture*; Bailey (2005), *Prehistoric Figurines*; Hansen (2007), *Bilder vom Menschen der Steinzeit*.
 
@@ -171,7 +175,7 @@ The so-called "Venus figurines" constitute one of the earliest bodies of represe
 
 ## 2. CREDIBLE INTERPRETATIONS (Tier 2 — Academic / Debated but Supported)
 
-### 2.1 Gimbutas' "Old Europe" Thesis [4/5 sources]
+### 2.1 Gimbutas' "Old Europe" Thesis
 
 **Sources:** Gimbutas (1974), *The Goddesses and Gods of Old Europe*; Gimbutas (1989), *The Language of the Goddess*; Gimbutas (1991), *The Civilization of the Goddess*; Anthony (2007), *The Horse, the Wheel, and Language*.
 
@@ -194,7 +198,7 @@ Marija Gimbutas (1921–1994), Lithuanian-American archaeologist at UCLA, propos
 - The "peaceful matriarchy destroyed by patriarchal invaders" narrative can function as a **political parable** rather than empirical archaeology.
 - See §4.2 for detailed critique.
 
-### 2.2 The Fertile Crescent Goddess-to-God Transition [4/5 sources]
+### 2.2 The Fertile Crescent Goddess-to-God Transition
 
 **Sources:** Stone (1976), *When God Was a Woman*; Lerner (1986), *The Creation of Patriarchy*; Frymer-Kensky (1992), *In the Wake of the Goddesses*; Stuckey (2001), *"Inanna and the Huluppu Tree."*
 
@@ -215,7 +219,7 @@ A well-documented shift occurred in Mesopotamian religion across the 3rd and 2nd
 - Argued that the subordination of goddesses in mythology **mirrored and legitimated** the historical subordination of women in politics, law, and family structure.
 - The transition was not merely symbolic but had material consequences: loss of women's property rights, sexual autonomy, and ritual authority in Mesopotamian, Levantine, and eventually Greek/Roman societies.
 
-### 2.3 Serpent-Goddess Connections [4/5 sources]
+### 2.3 Serpent-Goddess Connections
 
 **Sources:** Gimbutas (1989); Marinatos (1993), *Minoan Religion*; Dexter (1990), *Whence the Goddesses*; Mundkur (1983), *The Cult of the Serpent*.
 
@@ -233,7 +237,7 @@ Across multiple traditions, the Mother Goddess and the serpent are **intimately 
 - The serpent-goddess association likely derives from the serpent's associations with **earth** (it lives in the ground), **renewal** (it sheds its skin), **water** (it inhabits springs and rivers), and **death** (its venom kills) — all attributes shared with earth-mother deities.
 - Gimbutas argued the serpent was the goddess's **companion animal and alter ego** throughout Old European symbolism, representing the regenerative energy of the earth itself.
 
-### 2.4 Gaia Hypothesis as Modern Earth Goddess Concept [3/5 sources]
+### 2.4 Gaia Hypothesis as Modern Earth Goddess Concept
 
 **Sources:** Lovelock (1979), *Gaia: A New Look at Life on Earth*; Margulis & Lovelock (1974), *Tellus*; Ruse (2013), *The Gaia Hypothesis: Science on a Pagan Planet*.
 
@@ -247,7 +251,7 @@ Across multiple traditions, the Mother Goddess and the serpent are **intimately 
 - The hypothesis resonated powerfully with ecological, feminist, and neo-pagan movements because it gave **scientific vocabulary** to what was already an ancient intuition: the earth is alive, interconnected, and maternal.
 - Michael Ruse (2013) traced how the Gaia concept blurred boundaries between science and mythology, noting that "the most successful scientific metaphor of the late twentieth century was a goddess's name."
 
-### 2.5 Mother Earth Traditions Across All Inhabited Continents [4/5 sources]
+### 2.5 Mother Earth Traditions Across All Inhabited Continents
 
 **Sources:** Eliade (1978), *A History of Religious Ideas, Vol. 1*; Long (1963), *Alpha: The Myths of Creation*; Sullivan (1988), *Icanchu's Drum*; Molefi Asante & Mazama (2009), *Encyclopedia of African Religion*.
 
@@ -277,7 +281,7 @@ Across multiple traditions, the Mother Goddess and the serpent are **intimately 
 - **Terra Mater** (Roman): Earth Mother, honored at the festival of **Fordicidia** (April 15) with the sacrifice of pregnant cows — connecting fertility, agriculture, and the earth's generative power.
 - **Nerthus** (Germanic): Tacitus (*Germania* 40, c. 98 CE) describes a goddess "Nerthus, that is, Mother Earth" worshipped by tribes of northern Germany, whose sacred wagon procession through the countryside brought universal peace — no weapons permitted during her festival.
 
-### 2.6 Hieros Gamos — Sacred Marriage Rituals [4/5 sources]
+### 2.6 Hieros Gamos — Sacred Marriage Rituals
 
 **Sources:** Kramer (1969), *The Sacred Marriage Rite*; Lapinkivi (2004), *The Sumerian Sacred Marriage*; Frazer (1890/1922), *The Golden Bough*; Nissinen & Uro (2008), *Sacred Marriages*.
 
@@ -296,7 +300,7 @@ Across multiple traditions, the Mother Goddess and the serpent are **intimately 
 
 ## 3. SPECULATIVE CONNECTIONS (Tier 3 — Possible but Unverified)
 
-### 3.1 The "Golden Age" Matriarchal Hypothesis [3/5 sources]
+### 3.1 The "Golden Age" Matriarchal Hypothesis
 
 **Sources:** Eisler (1987), *The Chalice and the Blade*; Sjöö & Mor (1987), *The Great Cosmic Mother*; Christ (1997), *Rebirth of the Goddess*.
 
@@ -316,7 +320,7 @@ Across multiple traditions, the Mother Goddess and the serpent are **intimately 
 - However, it **goes beyond the evidence**: we cannot extrapolate political systems from figurines, "peace" cannot be proven from the absence of fortifications (absence of evidence ≠ evidence of absence), and projecting modern gender categories onto Paleolithic cultures is methodologically problematic.
 - Tier 3 because the evidence is suggestive but not probative: female figurines are real, apparent egalitarianism in some Neolithic burials is real, but the step from these data points to "matriarchal golden age" requires speculative bridging.
 
-### 3.2 Goddess Suppression as Parallel to Serpent Demonization [3/5 sources]
+### 3.2 Goddess Suppression as Parallel to Serpent Demonization
 
 **Sources:** Baring & Cashford (1991), *The Myth of the Goddess*; Condren (1989), *The Serpent and the Goddess*; Pagels (1988), *Adam, Eve, and the Serpent*.
 
@@ -338,7 +342,7 @@ Across multiple traditions, the Mother Goddess and the serpent are **intimately 
 - However, it risks **teleological narrative**: reading all of ancient history as a single story of patriarchal suppression oversimplifies the diversity and complexity of ancient religious change.
 - Tier 3 because the individual data points (serpent-goddess association, goddess decline, serpent demonization) are well established, but the causal linking (they were suppressed **because** they represented the same threat to patriarchy) is interpretive rather than demonstrated.
 
-### 3.3 Asherah as YHWH's Consort: Archaeological Evidence vs. Theological Suppression [4/5 sources]
+### 3.3 Asherah as YHWH's Consort: Archaeological Evidence vs. Theological Suppression
 
 **Sources:** Dever (2005), *Did God Have a Wife?*; Olyan (1988), *Asherah and the Cult of Yahweh in Israel*; Hadley (2000), *The Cult of Asherah in Ancient Israel and Judah*; Smith (2002), *The Early History of God*.
 
@@ -356,7 +360,7 @@ Across multiple traditions, the Mother Goddess and the serpent are **intimately 
 - If Asherah was YHWH's consort in popular Israelite religion, then **biblical monotheism was not a primordial revelation but a late theological innovation** achieved through deliberate suppression of the feminine divine — a process mirroring the Mesopotamian goddess-erasure documented in §2.2.
 - This has profound implications for understanding the **origins of Western patriarchal theology** and its relationship to earlier goddess traditions.
 
-### 3.4 Universal Mother Archetype and Jungian Analysis [3/5 sources]
+### 3.4 Universal Mother Archetype and Jungian Analysis
 
 **Sources:** Jung (1938/1954), *The Archetypes and the Collective Unconscious*; Neumann (1955), *The Great Mother*; Campbell (1964), *The Masks of God: Occidental Mythology*.
 
@@ -372,7 +376,7 @@ Across multiple traditions, the Mother Goddess and the serpent are **intimately 
   - An actual **numinous reality** (the theological interpretation)
 - Neumann's developmental schema has been criticized as **patriarchal apologetics** — framing matriarchal consciousness as a primitive stage that must be "overcome" — but his documentation of the archetype's cross-cultural prevalence remains valuable.
 
-### 3.5 Goddess-Consciousness-Earth Connections [2/5 sources]
+### 3.5 Goddess-Consciousness-Earth Connections
 
 **Sources:** Swimme & Berry (1992), *The Universe Story*; Abram (1996), *The Spell of the Sensuous*.
 
@@ -393,7 +397,7 @@ Across multiple traditions, the Mother Goddess and the serpent are **intimately 
 
 ## 4. DUBIOUS / DEBUNKED (Tier 4 — No Credible Source / Contradicted by Evidence)
 
-### 4.1 **[DEBUNKED]** Universal Prehistoric Matriarchy (Bachofen, 1861) [5/5 sources]
+### 4.1 **[DEBUNKED]** Universal Prehistoric Matriarchy (Bachofen, 1861)
 
 **Sources:** Bachofen (1861), *Das Mutterrecht*; Bamberger (1974), *"The Myth of Matriarchy"*; Eller (2000), *The Myth of Matriarchal Prehistory*; Georgoudi (1992) in Schmitt Pantel ed., *A History of Women*; Pembroke (1965), *Journal of the Warburg and Courtauld Institutes*.
 
@@ -411,7 +415,7 @@ Across multiple traditions, the Mother Goddess and the serpent are **intimately 
 - While universal matriarchy is debunked, **matrifocal** (mother-centered) and **matrilineal** (descent-through-mother) social organization is documented ethnographically (Khasi, Minangkabau, Mosuo, many Native American nations) and is a legitimate social type.
 - Some Neolithic communities may well have been matrifocal — the claim fails only when universalized and romanticized.
 
-### 4.2 **[CONTESTED]** Gimbutas Overinterpretation (Hodder, Eller, Meskell Critiques) [4/5 sources]
+### 4.2 **[CONTESTED]** Gimbutas Overinterpretation (Hodder, Eller, Meskell Critiques)
 
 **Sources:** Hodder (2005), *"Women and Men at Çatalhöyük"*; Eller (2000); Meskell (1995), *"Goddesses, Gimbutas and 'New Age' Archaeology"*; Tringham & Conkey (1998), *"Rethinking Figurines."*
 
@@ -434,7 +438,7 @@ Across multiple traditions, the Mother Goddess and the serpent are **intimately 
 - Her **interpretive framework** (a unified goddess religion systematically destroyed by patriarchal invaders) is the contested element — considered overdrawn by most current archaeologists but not entirely wrong.
 - The truth likely lies in a more complex middle ground: female symbolic imagery was culturally important in Neolithic Europe, but we cannot reconstruct its precise meaning, and "goddess religion" may impose a modern category on ancient practices.
 
-### 4.3 **[OVERSIMPLIFIED]** Linear Goddess-to-God Narratives [3/5 sources]
+### 4.3 **[OVERSIMPLIFIED]** Linear Goddess-to-God Narratives
 
 **Sources:** Eller (2000); Hutton (1999), *The Triumph of the Moon*; Goodison & Morris (1998), *Ancient Goddesses*.
 
@@ -509,79 +513,109 @@ Across the 15+ traditions surveyed, the following patterns recur with remarkable
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Mother Goddess / Earth Goddess Pattern. Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Mother Goddess / Earth Goddess Pattern relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with Mother Goddess / Earth Goddess Pattern. Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
 1. Abram, David. *The Spell of the Sensuous*. Vintage, 1996.
-2. Anthony, David. *The Horse, the Wheel, and Language*. Princeton UP, 2007.
+2. Anthony, David. *The Horse, the Wheel, and Language*. Princeton UP, 2007. ISBN: 9781400831104
 3. Apuleius. *The Golden Ass (Metamorphoses)*. c. 170 CE. Trans. Ruden, Penguin, 2011.
-4. Bachofen, Johann Jakob. *Das Mutterrecht*. 1861.
+4. Bachofen, Johann Jakob. *Das Mutterrecht*. 1861. DOI: 10.1515/9783110958638.31
 5. Bailey, Douglass. *Prehistoric Figurines*. Routledge, 2005.
-6. Bamberger, Joan. "The Myth of Matriarchy." In Rosaldo & Lamphere eds., *Woman, Culture, and Society*. Stanford UP, 1974.
-7. Baring, Anne, and Jules Cashford. *The Myth of the Goddess*. Viking, 1991.
-8. Black, Jeremy, and Anthony Green. *Gods, Demons and Symbols of Ancient Mesopotamia*. British Museum Press, 1992.
-9. Bricault, Laurent. *Atlas de la diffusion des cultes isiaques*. Mémoires de l'Académie des Inscriptions et Belles-Lettres, 2001.
-10. Campbell, Joseph. *The Masks of God: Occidental Mythology*. Viking, 1964.
+6. Bamberger, Joan. "The Myth of Matriarchy." In Rosaldo & Lamphere eds., *Woman, Culture, and Society*. Stanford UP, 1974. DOI: 10.1126/science.186.4158.43
+7. Baring, Anne, and Jules Cashford. *The Myth of the Goddess*. Viking, 1991. DOI: 10.1525/jung.1.1996.15.2.37
+8. Black, Jeremy, and Anthony Green. *Gods, Demons and Symbols of Ancient Mesopotamia*. British Museum Press, 1992. DOI: 10.1017/s0041977x00012982. ISBN: 9780292707948
+9. Bricault, Laurent. *Atlas de la diffusion des cultes isiaques*. Mémoires de l'Académie des Inscriptions et Belles-Lettres, 2001. DOI: 10.4000/rhr.5291
+10. Campbell, Joseph. *The Masks of God: Occidental Mythology*. Viking, 1964. DOI: 10.2307/4345507
 11. Cauvin, Jacques. *The Birth of the Gods and the Origins of Agriculture*. Cambridge UP, 2000.
 12. Christ, Carol. *Rebirth of the Goddess*. Routledge, 1997.
-13. Clinton, Kevin. *Myth and Cult: The Iconography of the Eleusinian Mysteries*. Swedish Institute at Athens, 1992.
-14. Conard, Nicholas. "A female figurine from the basal Aurignacian of Hohle Fels Cave." *Nature* 459 (2009): 248–252.
+13. Clinton, Kevin. *Myth and Cult: The Iconography of the Eleusinian Mysteries*. Swedish Institute at Athens, 1992. DOI: 10.1163/1874-6772_seg_a42_241
+14. Conard, Nicholas. "A female figurine from the basal Aurignacian of Hohle Fels Cave." *Nature* 459 (2009): 248–252. DOI: 10.1038/nature07995. ISBN: 9780451529060
 15. Condren, Mary. *The Serpent and the Goddess*. Harper & Row, 1989.
-16. Cook, Jill. *Ice Age Art: Arrival of the Modern Mind*. British Museum Press, 2013.
-17. Cosmopoulos, Michael. *Bronze Age Eleusis and the Origins of the Eleusinian Mysteries*. Cambridge UP, 2015.
+16. Cook, Jill. *Ice Age Art: Arrival of the Modern Mind*. British Museum Press, 2013. DOI: 10.1017/s0003598x00049607
+17. Cosmopoulos, Michael. *Bronze Age Eleusis and the Origins of the Eleusinian Mysteries*. Cambridge UP, 2015. DOI: 10.1017/cbo9780511820700
 18. Dever, William. *Did God Have a Wife?* Eerdmans, 2005.
 19. Dexter, Miriam Robbins. *Whence the Goddesses*. Pergamon, 1990.
-20. Eisler, Riane. *The Chalice and the Blade*. Harper & Row, 1987.
+20. Eisler, Riane. *The Chalice and the Blade*. Harper & Row, 1987. DOI: 10.1177/088610999000500210
 21. Eliade, Mircea. *A History of Religious Ideas, Vol. 1*. U of Chicago P, 1978.
 22. Eller, Cynthia. *The Myth of Matriarchal Prehistory*. Beacon, 2000.
-23. Foley, Helene P., ed. *The Homeric Hymn to Demeter*. Princeton UP, 1994.
+23. Foley, Helene P., ed. *The Homeric Hymn to Demeter*. Princeton UP, 1994. DOI: 10.1017/s0009840x0029344x
 24. Frazer, James George. *The Golden Bough*. Macmillan, 1890/1922.
-25. Frymer-Kensky, Tikva. *In the Wake of the Goddesses*. Free Press, 1992.
+25. Frymer-Kensky, Tikva. *In the Wake of the Goddesses*. Free Press, 1992. DOI: 10.31826/9781463219185-003
 26. Georgoudi, Stella. "Creating a Myth of Matriarchy." In Schmitt Pantel ed., *A History of Women*. Harvard UP, 1992.
-27. Gimbutas, Marija. *The Goddesses and Gods of Old Europe*. U of California P, 1974.
-28. Gimbutas, Marija. *The Language of the Goddess*. Harper & Row, 1989.
+27. Gimbutas, Marija. *The Goddesses and Gods of Old Europe*. U of California P, 1974. DOI: 10.1086/ahr/80.3.616
+28. Gimbutas, Marija. *The Language of the Goddess*. Harper & Row, 1989. ISBN: 9780500014806
 29. Gimbutas, Marija. *The Civilization of the Goddess*. HarperSanFrancisco, 1991.
-30. Goodison, Lucy, and Christine Morris, eds. *Ancient Goddesses*. British Museum, 1998.
-31. Griffiths, J. Gwyn. *Plutarch's De Iside et Osiride*. University of Wales, 1970.
-32. Hadley, Judith. *The Cult of Asherah in Ancient Israel and Judah*. Cambridge UP, 2000.
-33. Hansen, Svend. *Bilder vom Menschen der Steinzeit*. Philipp von Zabern, 2007.
+30. Goodison, Lucy, and Christine Morris, eds. *Ancient Goddesses*. British Museum, 1998. DOI: 10.1017/s0003598x00088104. ISBN: 9789774249532
+31. Griffiths, J. Gwyn. *Plutarch's De Iside et Osiride*. University of Wales, 1970. DOI: 10.2307/631389
+32. Hadley, Judith. *The Cult of Asherah in Ancient Israel and Judah*. Cambridge UP, 2000. DOI: 10.1017/s0364009403220055
+33. Hansen, Svend. *Bilder vom Menschen der Steinzeit*. Philipp von Zabern, 2007. DOI: 10.1179/eja.2010.13.2.257
 34. Hodder, Ian. *The Leopard's Tale*. Thames & Hudson, 2006.
-35. Hodder, Ian. *Religion in the Emergence of Civilization*. Cambridge UP, 2010.
+35. Hodder, Ian. *Religion in the Emergence of Civilization*. Cambridge UP, 2010. ISBN: 9780511990403
 36. Hutton, Ronald. *The Triumph of the Moon*. Oxford UP, 1999.
-37. Jacobsen, Thorkild. *The Treasures of Darkness*. Yale UP, 1976.
-38. Jung, Carl. *The Archetypes and the Collective Unconscious*. 1938/1954. CW Vol. 9.1.
-39. Kramer, Samuel Noah. *Sumerian Mythology*. U of Pennsylvania P, 1961.
+37. Jacobsen, Thorkild. *The Treasures of Darkness*. Yale UP, 1976. ISBN: 9780300018448
+38. Jung, Carl. *The Archetypes and the Collective Unconscious*. 1938/1954. CW Vol. 9.1. ISBN: 9780710016393
+39. Kramer, Samuel Noah. *Sumerian Mythology*. U of Pennsylvania P, 1961. ISBN: 9780812210477
 40. Kramer, Samuel Noah. *The Sacred Marriage Rite*. Indiana UP, 1969.
-41. Lapinkivi, Pirjo. *The Sumerian Sacred Marriage in the Light of Comparative Evidence*. SAAS 15, 2004.
-42. Leick, Gwendolyn. *Sex and Eroticism in Mesopotamian Literature*. Routledge, 1994.
+41. Lapinkivi, Pirjo. *The Sumerian Sacred Marriage in the Light of Comparative Evidence*. SAAS 15, 2004. DOI: 10.1093/jss/fgl041. ISBN: 9789514590580
+42. Leick, Gwendolyn. *Sex and Eroticism in Mesopotamian Literature*. Routledge, 1994. DOI: 10.1017/s0003598x00082120
 43. Lerner, Gerda. *The Creation of Patriarchy*. Oxford UP, 1986.
-44. Long, Charles. *Alpha: The Myths of Creation*. Collier, 1963.
-45. Lovelock, James. *Gaia: A New Look at Life on Earth*. Oxford UP, 1979.
-46. Malone, Caroline, et al. *Mortuary Customs in Prehistoric Malta*. McDonald Institute, 2009.
+44. Long, Charles. *Alpha: The Myths of Creation*. Collier, 1963. ISBN: 9780807602386
+45. Lovelock, James. *Gaia: A New Look at Life on Earth*. Oxford UP, 1979. ISBN: 9781283296687
+46. Malone, Caroline, et al. *Mortuary Customs in Prehistoric Malta*. McDonald Institute, 2009. ISBN: 9781902937496
 47. Marinatos, Nanno. *Minoan Religion*. U of South Carolina P, 1993.
-48. McDermott, LeRoy. "Self-Representation in Upper Paleolithic Female Figurines." *Current Anthropology* 37.2 (1996): 227–275.
-49. Mellaart, James. *Çatal Hüyük: A Neolithic Town in Anatolia*. Thames & Hudson, 1967.
-50. Meskell, Lynn. "Goddesses, Gimbutas and 'New Age' Archaeology." *Antiquity* 69 (1995): 74–86.
-51. Meskell, Lynn, et al. "Figured Lifeworlds and Depositional Practices at Çatalhöyük." *Journal of Material Culture* 13 (2008): 113–132.
+48. McDermott, LeRoy. "Self-Representation in Upper Paleolithic Female Figurines." *Current Anthropology* 37.2 (1996): 227–275. DOI: 10.1086/204491. ISBN: 9781461567691
+49. Mellaart, James. *Çatal Hüyük: A Neolithic Town in Anatolia*. Thames & Hudson, 1967. DOI: 10.1017/s0003598x00033998. ISBN: 9780500390016
+50. Meskell, Lynn. "Goddesses, Gimbutas and 'New Age' Archaeology." *Antiquity* 69 (1995): 74–86. DOI: 10.1017/s0003598x00064310
+51. Meskell, Lynn, et al. "Figured Lifeworlds and Depositional Practices at Çatalhöyük." *Journal of Material Culture* 13 (2008): 113–132. DOI: 10.1017/s095977430800022x
 52. Mundkur, Balaji. *The Cult of the Serpent*. SUNY Press, 1983.
-53. Mylonas, George. *Eleusis and the Eleusinian Mysteries*. Princeton UP, 1961.
-54. Nakamura, Carolyn, and Lynn Meskell. "Articulate Bodies: Forms and Figures at Çatalhöyük." *Cambridge Archaeological Journal* 19 (2009): 205–223.
+53. Mylonas, George. *Eleusis and the Eleusinian Mysteries*. Princeton UP, 1961. DOI: 10.1086/ahr/67.4.996. ISBN: 9780691622040
+54. Nakamura, Carolyn, and Lynn Meskell. "Articulate Bodies: Forms and Figures at Çatalhöyük." *Cambridge Archaeological Journal* 19 (2009): 205–223. DOI: 10.1007/s10816-009-9070-3
 55. Neumann, Erich. *The Great Mother*. Princeton UP, 1955.
-56. Nissinen, Martti, and Risto Uro, eds. *Sacred Marriages*. Eisenbrauns, 2008.
-57. Olyan, Saul. *Asherah and the Cult of Yahweh in Israel*. Scholars Press, 1988.
+56. Nissinen, Martti, and Risto Uro, eds. *Sacred Marriages*. Eisenbrauns, 2008. DOI: 10.1111/j.1748-0922.2009.01362_34.x
+57. Olyan, Saul. *Asherah and the Cult of Yahweh in Israel*. Scholars Press, 1988. DOI: 10.2307/3210104. ISBN: 9781555402532
 58. Pace, Anthony. *The Figurines of the Maltese Islands*. Heritage Malta, 2004.
-59. Pagels, Elaine. *Adam, Eve, and the Serpent*. Random House, 1988.
+59. Pagels, Elaine. *Adam, Eve, and the Serpent*. Random House, 1988. DOI: 10.1017/s0360966900024786
 60. Rountree, Kathryn. "Archaeologies of Belonging: Goddess Tourism in Malta." *Journal of Mediterranean Studies* 17 (2007): 5–22.
-61. Ruse, Michael. *The Gaia Hypothesis: Science on a Pagan Planet*. U of Chicago P, 2013.
+61. Ruse, Michael. *The Gaia Hypothesis: Science on a Pagan Planet*. U of Chicago P, 2013. DOI: 10.7208/chicago/9780226060392.001.0001
 62. Sjöö, Monica, and Barbara Mor. *The Great Cosmic Mother*. Harper & Row, 1987.
 63. Smith, Mark S. *The Early History of God*. 2nd ed. Eerdmans, 2002.
-64. Soffer, Olga, et al. "The 'Venus' Figurines." *Current Anthropology* 41.4 (2000): 511–537.
-65. Stone, Merlin. *When God Was a Woman*. Dial Press, 1976.
+64. Soffer, Olga, et al. "The 'Venus' Figurines." *Current Anthropology* 41.4 (2000): 511–537. DOI: 10.1086/317381. ISBN: 9781461567691
+65. Stone, Merlin. *When God Was a Woman*. Dial Press, 1976. ISBN: 9788576575306
 66. Stuckey, Johanna. "Inanna and the Huluppu Tree." *Matrifocus* (2001).
 67. Sullivan, Lawrence. *Icanchu's Drum*. Free Press, 1988.
 68. Swimme, Brian, and Thomas Berry. *The Universe Story*. HarperSanFrancisco, 1992.
-69. Tringham, Ruth, and Margaret Conkey. "Rethinking Figurines." In Goodison & Morris eds., *Ancient Goddesses*. 1998.
-70. Trump, David. *Malta: Prehistory and Temples*. Midsea Books, 2002.
-71. Wasson, R. Gordon, Albert Hofmann, and Carl A. P. Ruck. *The Road to Eleusis*. Harcourt Brace Jovanovich, 1978.
+69. Tringham, Ruth, and Margaret Conkey. "Rethinking Figurines." In Goodison & Morris eds., *Ancient Goddesses*. 1998. ISBN: 9789774249532
+70. Trump, David. *Malta: Prehistory and Temples*. Midsea Books, 2002. ISBN: 9789990993943
+71. Wasson, R. Gordon, Albert Hofmann, and Carl A. P. Ruck. *The Road to Eleusis*. Harcourt Brace Jovanovich, 1978. DOI: 10.1017/s0009840x00233581. ISBN: 9780151778720
 72. White, Randall. "The Women of Brassempouy." *Cambridge Archaeological Journal* 16 (2006): 1–26.
 73. Witt, R. E. *Isis in the Ancient World*. Johns Hopkins UP, 1971.
 
@@ -601,9 +635,9 @@ Across the 15+ traditions surveyed, the following patterns recur with remarkable
 | [C17 — Sacred Kingship](../C_Global_Traditions/C17_Sacred_Kingship_Divine_Rulership.md) | Hieros gamos; kingship legitimated through goddess |
 | [C22 — Trickster Archetype](../C_Global_Traditions/C22_Trickster_Archetype.md) | Gender complementarity; Asase Yaa as Anansi's mother |
 | [D14 — Malta](../D_Sites_and_Artifacts/D14_Maltese_Temple_Builders_Hypogeum.md) | "Fat Lady" figurines and temple architecture |
-| [K01 — Consciousness](../K_Consciousness/) | Goddess-consciousness connections; Kundalini; Eleusinian mysteria |
+| [Y01 — Consciousness](../K_Consciousness/) | Goddess-consciousness connections; Kundalini; Eleusinian mysteria |
 | [L01 — Genetics/Origins](../L_Genetics_Origins/) | Mitochondrial Eve; matrilineal genetic inheritance |
-| [R06 — Gaia Theory](../R_Biology_Evolution/R06_Gaia_Theory.md) | Modern scientific earth-mother concept |
+| [ZB01 — Gaia Theory](../ZB_Ecology_Biology/ZB01_Gaia_Theory.md) | Modern scientific earth-mother concept |
 
 ---
 

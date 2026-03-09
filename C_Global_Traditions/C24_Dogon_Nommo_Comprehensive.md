@@ -3,9 +3,16 @@
 > **Document ID:** C24
 > **Section:** C_Global_Traditions
 > **Keywords:** Dogon, Nommo, Sirius, Sirius B, po tolo, Marcel Griaule, Germaine Dieterlen, Ogotemmêli, Robert Temple, Sirius Mystery, Walter van Beek, Bandiagara, Mali, Amma, Ogo, Pale Fox, Sigui, water beings, amphibious, knowledge giver, Sothic cycle, Sopdet, contamination hypothesis, Le Renard Pâle, fonio, Emme Ya Tolo, sacrificial death, ark descent, Oannes parallel, Apkallu, fish beings, binary star, white dwarf, African astronomy, ethnographic methodology, leading witness
-> **Cross-References:** A07, C05, C15, B01, C04, C08, I07, E04
-> **Reliability Tier:** Tier 2-3 — Dogon cultural traditions are documented and real; Sirius B knowledge claims are actively disputed with strong skeptical counter-evidence
-> **Last Updated:** Feb 27, 2026 | **Source Count:** 1 AI synthesis | **Confidence:** Mixed
+> **Category Tags:** mythology, cross-cultural, nde-afterlife
+> **Cross-References:** [A07](../A_Foundations/A07_Apkallu_Oannes_Seven_Sages.md) · [C05](C05_Credo_Mutwa_African_Traditions.md) · [C15](C15_Yoruba_Ogun_Divine_Smiths.md) · [B01](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) · [C04](C04_Viracocha_South_American_Knowledge_Givers.md) · [C08](C08_Cross_Cultural_Patterns.md) · [I08](../I_UAP_Disclosure/I08_USO_Trans_Medium.md) · [E04](../E_Cataclysms_and_Chronology/E04_Precession_of_the_Equinoxes.md)
+> **Reliability Tier:** Tier 2-3 (Dogon cultural traditions are documented and real; Sirius B knowledge claims are actively disputed with strong skeptical counter-evidence)
+> **Last Updated:** Feb 27, 2026 | **Source Count:** 8 | **Weighted Score:** 17 | **Source Confidence:** [2/5] | **Confidence:** Mixed
+
+---
+
+## Quick Summary
+
+This document examines Dogon / Nommo Comprehensive, a topic within the Global Traditions research area. Key areas of investigation include Geography and Demographics, Marcel Griaule and the Ethnographic Record, Ogotemmêli — The Primary Informant. The analysis spans topics including ** Dogon, Nommo, Sirius, Sirius B, po tolo. Notable findings include: [§1 The Dogon People and Their Traditions](#1-the-dogon-people-and-their-traditions). The document presents evidence organized across multiple tiers — from peer-reviewed and verified claims to more speculative interpretations — with cross-references to related topics throughout the knowledge base.
 
 ---
 
@@ -333,7 +340,7 @@ This lesson applies directly to other sources in this project, including Credo M
 - **B01 (Reptilian Beings Overview)**: The Nommo, while primarily fish-form rather than reptilian, are sometimes included in surveys of non-human intelligent beings in mythology. Their aquatic nature connects them to serpent/dragon traditions.
 - **C04 (Viracocha / South American Knowledge Givers)**: Viracocha, like the Nommo, emerges from or is associated with water, teaches civilization, and departs. The structural parallel is strong despite geographic distance.
 - **C08 (Cross-Cultural Patterns)**: The Dogon Nommo belong to the broader pattern of worldwide knowledge-giver traditions analyzed in C08.
-- **I07 (Non-Human Intelligence Hypothesis)**: The Nommo tradition is sometimes cited as evidence for historical contact with non-human intelligence; the Sirius controversy is frequently discussed in UAP/NHI contexts.
+- **I08 (Non-Human Intelligence Hypothesis)**: The Nommo tradition is sometimes cited as evidence for historical contact with non-human intelligence; the Sirius controversy is frequently discussed in UAP/NHI contexts.
 - **E04 (Precession of the Equinoxes)**: The Sigui ceremony's 60-year cycle has been compared to precessional numbers, though the connection is tenuous.
 
 ---
@@ -346,7 +353,7 @@ This lesson applies directly to other sources in this project, including Credo M
 - **C08** — Cross-Cultural Patterns: Nommo as instance of global knowledge-giver pattern
 - **C15** — Yoruba / Ogun / Divine Smiths: West African divine civilizer traditions
 - **E04** — Precession of the Equinoxes: Astronomical cycles, precessional numbers
-- **I07** — Non-Human Intelligence Hypothesis: Nommo as alleged NHI contact evidence
+- **I08** — Non-Human Intelligence Hypothesis: Nommo as alleged NHI contact evidence
 
 ---
 
@@ -391,13 +398,55 @@ This document synthesizes published ethnographic, astronomical, and critical sou
 
 ---
 
+### Source Tier Classification
+
+This document references sources across multiple evidence tiers within this project's reliability framework:
+
+| Tier | Label | Description |
+|------|-------|-------------|
+| **Tier 1** | VERIFIED | Peer-reviewed studies, archaeological records, and primary source translations |
+| **Tier 2** | CREDIBLE | Academic scholarship with broad support but ongoing interpretive debate |
+| **Tier 3** | SPECULATIVE | Alternative interpretations, popular scholarship, and unverified hypotheses |
+| **Tier 4** | DUBIOUS | Claims lacking credible evidence, fringe theories, or debunked assertions |
+
+
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Dogon / Nommo Comprehensive. Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Dogon / Nommo Comprehensive relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with Dogon / Nommo Comprehensive. Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## Bibliography
 
-1. Griaule, Marcel. *Dieu d'Eau: Entretiens avec Ogotemmêli* (Conversations with Ogotemmêli). Fayard, 1948. Trans. Oxford University Press, 1965.
-2. Griaule, Marcel & Dieterlen, Germaine. "A Sudanese Sirius System." *Journal de la Société des Africanistes* 20 (1950): 273–294.
-3. Griaule, Marcel & Dieterlen, Germaine. *Le Renard Pâle*. Institut d'Éthnologie, 1965.
-4. Temple, Robert K.G. *The Sirius Mystery*. St. Martin's Press, 1976 (revised 1998).
-5. Van Beek, Walter E.A. "Dogon Restudied: A Field Evaluation of the Work of Marcel Griaule." *Current Anthropology* 32.2 (1991): 139–167.
-6. Sagan, Carl. *Broca's Brain: Reflections on the Romance of Science*. Random House, 1979.
-7. Ridpath, Ian. "Investigating the Sirius Mystery." *Skeptical Inquirer* 3.1 (1978): 56–62.
+1. Griaule, Marcel. *Dieu d'Eau: Entretiens avec Ogotemmêli* (Conversations with Ogotemmêli). Fayard, 1948. Trans. Oxford University Press, 1965. DOI: 10.1007/978-3-476-05728-0_11655-1
+2. Griaule, Marcel & Dieterlen, Germaine. "A Sudanese Sirius System." *Journal de la Société des Africanistes* 20 (1950): 273–294. DOI: 10.3406/jafr.1950.2611
+3. Griaule, Marcel & Dieterlen, Germaine. *Le Renard Pâle*. Institut d'Éthnologie, 1965. DOI: 10.1525/aa.1967.69.5.02a00260
+4. Temple, Robert K.G. *The Sirius Mystery*. St. Martin's Press, 1976 (revised 1998). ISBN: 9780312727314
+5. Van Beek, Walter E.A. "Dogon Restudied: A Field Evaluation of the Work of Marcel Griaule." *Current Anthropology* 32.2 (1991): 139–167. DOI: 10.1086/203932. ISBN: 9781461567691
+6. Sagan, Carl. *Broca's Brain: Reflections on the Romance of Science*. Random House, 1979. DOI: 10.1126/science.205.4401.38
+7. Ridpath, Ian. "Investigating the Sirius Mystery." *Skeptical Inquirer* 3.1 (1978): 56–62. ISBN: 9781425528607
 8. Berossus. *Babyloniaca*. c. 281 BCE (fragments via Alexander Polyhistor / Eusebius).

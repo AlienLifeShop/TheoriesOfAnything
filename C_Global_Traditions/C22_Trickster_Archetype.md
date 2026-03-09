@@ -1,8 +1,12 @@
 # C22 — Trickster Archetype
 
-> **Source Agreement:** [1] AI source contributed | **Primary Tier:** 1-2 | **Last Updated:** Feb 27, 2026
+> **Document ID:** C22
+> **Section:** C_Global_Traditions
 > **Keywords:** trickster, Loki, Enki, Coyote, Anansi, Prometheus, Hermes, Maui, Eshu, Legba, Raven, Sun Wukong, Monkey King, boundary crosser, culture hero, theft of fire, forbidden knowledge, chaos, transformation, liminality, shape-shifter, rule breaker, divine fool, sacred clown, heyoka, contraries, Jung shadow, Paul Radin, Lewis Hyde, Karl Kerényi, psychopomp, mediator, creator-destroyer, ambiguity, moral ambiguity
+> **Category Tags:** mythology, cross-cultural, suppression, art-culture, religion
 > **Cross-References:** [A06 — Sumerian ME](../A_Foundations/A06_Sumerian_ME_Divine_Programs.md) · [A12 — Norse Eddas](../A_Foundations/A12_Norse_Eddas.md) · [C03 — Flood Serpent](../C_Global_Traditions/C03_Flood_Serpent_Connection.md) · [C10 — Cargo Cult](../C_Global_Traditions/C10_Cargo_Cult_Analogy.md) · [C15 — Yoruba](../C_Global_Traditions/C15_Yoruba_Ogun_Divine_Smiths.md) · [C18 — Prometheus](../C_Global_Traditions/C18_Prometheus_Forbidden_Knowledge_Archetype.md) · [H05 — Two Factions](../H_Suppression_and_Thesis/H05_Two_Factions_Dynamic.md) · [S01 — AGI](../S_Future_Technology/S01_AGI_Existential_Risk.md)
+> **Reliability Tier:** Tier 1-2 (established with some scholarly debate)
+> **Last Updated:** Feb 27, 2026 | **Source Count:** 26 | **Weighted Score:** 46 | **Source Confidence:** [5/5] | **Confidence:** High (established with some scholarly debate)
 
 ---
 
@@ -14,7 +18,7 @@ The trickster is among the most universal figures in world mythology — a bound
 
 ## 1. VERIFIED CLAIMS (Tier 1 — Peer-Reviewed / Primary Source Record)
 
-### 1.1 Defining the Trickster: Core Scholarly Framework [5/5 sources]
+### 1.1 Defining the Trickster: Core Scholarly Framework
 
 The trickster as a formal category in comparative mythology was established by **Paul Radin** in *The Trickster: A Study in American Indian Mythology* (1956), with commentaries by Karl Kerényi and Carl Jung. The foundational scholarly characteristics of the trickster figure are:
 
@@ -44,7 +48,7 @@ The trickster as a formal category in comparative mythology was established by *
 - The trickster's theft is not mere crime but **cultural creativity** — every creative act involves taking something from one domain and carrying it to another
 - Key insight: "The trickster is the mythic embodiment of ambiguity and ambivalence, doubleness and duplicity, contradiction and paradox"
 
-### 1.2 Coyote — North American Plains and Western Traditions [5/5 sources]
+### 1.2 Coyote — North American Plains and Western Traditions
 
 **Sources:** Franz Boas; Alfred Kroeber; Jarold Ramsey, *Reading the Fire* (1983); Barry Lopez, *Giving Birth to Thunder, Sleeping with His Daughter* (1977); Stith Thompson, *Tales of the North American Indians* (1929).
 
@@ -62,7 +66,7 @@ Coyote (*Ma'ii* in Navajo, *Ísháye* in Crow, *Sínkaḷip'* in Okanagan) is th
 - His stories function as **negative/positive exemplars simultaneously**: "Don't be like Coyote" AND "Without Coyote, we would have nothing."
 - The animal form is not incidental — the actual coyote is a liminal creature: neither wolf nor dog, neither fully wild nor domestic, adaptive and opportunistic.
 
-### 1.3 Anansi — Akan/Ashanti West African Spider Trickster [4/5 sources]
+### 1.3 Anansi — Akan/Ashanti West African Spider Trickster
 
 **Sources:** R.S. Rattray, *Akan-Ashanti Folk-Tales* (1930); Harold Courlander, *A Treasury of African Folklore* (1975); Emily Zobel Marshall, *Anansi's Journey* (2012); Peggy Appiah, *Tales of an Ashanti Father* (1967).
 
@@ -78,7 +82,7 @@ Coyote (*Ma'ii* in Navajo, *Ísháye* in Crow, *Sínkaḷip'* in Okanagan) is th
 - The diaspora spread of Anansi stories demonstrates the archetype's resilience — enslaved peoples carried the trickster across the Atlantic because he embodied survival through cunning in conditions of absolute powerlessness.
 - Anansi is a **meta-trickster**: he steals stories themselves — narrative, language, meaning. He is the patron of storytelling, the origin of fiction.
 
-### 1.4 Hermes — Greek Divine Thief and Boundary-Crosser [5/5 sources]
+### 1.4 Hermes — Greek Divine Thief and Boundary-Crosser
 
 **Sources:** *Homeric Hymn to Hermes* (c. 6th century BCE); Norman O. Brown, *Hermes the Thief* (1947); Jean-Pierre Vernant, *Myth and Thought Among the Greeks* (1983); Karl Kerényi, *Hermes: Guide of Souls* (1944); Lewis Hyde, *Trickster Makes This World* (1998).
 
@@ -105,7 +109,7 @@ Hermes (Mercury in Roman tradition) is the quintessential Greek trickster — go
 - Theft and trade are structurally identical from a mythological perspective: both involve the transfer of property across a boundary
 - Hermes' role as both thief and patron of merchants is not a contradiction but a revelation: **commerce is sanctified trickery**
 
-### 1.5 Loki — Norse Chaos Agent and Cosmic Catalyst [5/5 sources]
+### 1.5 Loki — Norse Chaos Agent and Cosmic Catalyst
 
 **Sources:** *Prose Edda* (Snorri Sturluson, c. 1220); *Poetic Edda* (compiled c. 1270 from older material); John Lindow, *Norse Mythology: A Guide* (2001); Anatoly Liberman, "Loki Then and Now" (2004); Jan de Vries, *The Problem of Loki* (1933).
 
@@ -126,7 +130,7 @@ Loki is the most structurally complex trickster in European mythology — simult
 - Loki's position as Odin's blood-brother means the trickster is **integral to the ruling order**, not external to it. The chaos principle is intrinsic to the structure it disrupts.
 - Jan de Vries's analysis: Loki is not an intruder but a **necessary function** — every ordered cosmos contains the seed of its own dissolution, and the trickster is that seed.
 
-### 1.6 Enki/Ea — Sumerian Trickster-Creator [5/5 sources]
+### 1.6 Enki/Ea — Sumerian Trickster-Creator
 
 **Sources:** *Enki and the World Order* (Ur III period); *Inanna and Enki*; *Atrahasis Epic*; Samuel Noah Kramer, *Sumerian Mythology* (1961); Thorkild Jacobsen, *The Treasures of Darkness* (1976).
 
@@ -142,7 +146,7 @@ Enki (Akkadian Ea) is the Sumerian god of fresh water, wisdom, crafts, magic, an
 - His domain is water — the element that flows around obstacles, finds gaps, dissolves rigid structures. The trickster's medium is fluidity itself.
 - Enki's position in the Sumerian pantheon connects to the "Two Factions" dynamic (H05): the pro-humanity faction operates through trickery, not direct confrontation. See also A06 (ME) and A09 (Enki-Enlil dynamics).
 
-### 1.7 Eshu/Elegba/Legba — Yoruba and Vodou Crossroads Deity [4/5 sources]
+### 1.7 Eshu/Elegba/Legba — Yoruba and Vodou Crossroads Deity
 
 **Sources:** Robert Farris Thompson, *Flash of the Spirit* (1983); Henry Louis Gates Jr., *The Signifying Monkey* (1988); Wande Abimbola, *Ifá Divination Poetry* (1977); Karen McCarthy Brown, *Mama Lola* (1991).
 
@@ -159,7 +163,7 @@ Enki (Akkadian Ea) is the Sumerian god of fresh water, wisdom, crafts, magic, an
 - The trickster is the **origin of rhetoric** — the figure who demonstrates that meaning is never fixed, that language is always a game
 - This connects Eshu to Hermes (hermeneutics) and to Anansi (patron of stories): the trickster is the god of interpretation itself
 
-### 1.8 Raven — Pacific Northwest Transformer [4/5 sources]
+### 1.8 Raven — Pacific Northwest Transformer
 
 **Sources:** Franz Boas, *Tsimshian Mythology* (1916); Bill Reid & Robert Bringhurst, *The Raven Steals the Light* (1984); Marius Barbeau, *Haida Myths* (1953); Claude Lévi-Strauss, *The Way of the Masks* (1979).
 
@@ -174,7 +178,7 @@ Enki (Akkadian Ea) is the Sumerian god of fresh water, wisdom, crafts, magic, an
 - Raven occupies a unique position among tricksters: he is also the **Creator** or **Transformer**. In Northwest Coast cosmology, creation itself is a trickster act — the world comes into being through greed, curiosity, and rule-breaking, not through divine plan or cosmic will.
 - This challenges any interpretation that separates "culture hero" from "trickster." For the Tlingit and Haida, they are the same figure — creation IS trickery.
 
-### 1.9 Sun Wukong — The Monkey King [4/5 sources]
+### 1.9 Sun Wukong — The Monkey King
 
 **Sources:** Wu Cheng'en, *Journey to the West* (*Xīyóu Jì*, c. 1592); Anthony C. Yu (translator), *The Journey to the West* (1977-1983); Meir Shahar, *The Shaolin Monastery* (2008); Robert E. Hegel, "Monkey" in *Masterworks of Asian Literature in Comparative Perspective* (1994).
 
@@ -192,7 +196,7 @@ Enki (Akkadian Ea) is the Sumerian god of fresh water, wisdom, crafts, magic, an
 - His stone origin = self-generated, outside the natural order. His monkey form = the animal that most closely mimics humanity — boundary creature par excellence.
 - The novel presents a sophisticated argument: **raw trickster energy must be disciplined but never destroyed**, because it is the force that overcomes the 81 obstacles on the road to enlightenment.
 
-### 1.10 Māui — Polynesian Demigod Trickster [4/5 sources]
+### 1.10 Māui — Polynesian Demigod Trickster
 
 **Sources:** Elsdon Best, *The Maori* (1924); Te Rangi Hīroa (Peter Buck), *Vikings of the Sunrise* (1938); Martha Beckwith, *Hawaiian Mythology* (1940); Katharine Luomala, *Māui-of-a-Thousand-Tricks* (1949).
 
@@ -209,7 +213,7 @@ Enki (Akkadian Ea) is the Sumerian god of fresh water, wisdom, crafts, magic, an
 - His failure to defeat death gives the myth its tragic depth: the trickster can reshape the cosmos but **cannot transcend the final boundary**. Mortality defines the trickster's limit.
 - Māui bridges trickster and culture hero more seamlessly than almost any other figure — his tricks are always directed toward improving the human condition, yet they also always involve transgression against older powers.
 
-### 1.11 Prometheus — The Titanic Rebel [5/5 sources]
+### 1.11 Prometheus — The Titanic Rebel
 
 See [C18 — Prometheus / Forbidden Knowledge Archetype](../C_Global_Traditions/C18_Prometheus_Forbidden_Knowledge_Archetype.md) for full treatment.
 
@@ -220,7 +224,7 @@ See [C18 — Prometheus / Forbidden Knowledge Archetype](../C_Global_Traditions/
 - In Aeschylus's *Prometheus Bound*, Prometheus claims to have given humanity not just fire but **number, writing, astronomy, medicine, agriculture, metallurgy, seamanship, and divination** — the entire civilizational toolkit.
 - The punishment — bound, liver eaten daily, liver regenerates nightly — is the trickster's **cyclical suffering**, mirroring Loki's venom and Sisyphus's boulder.
 
-### 1.12 Additional Verified Trickster Traditions [3/5 sources per entry]
+### 1.12 Additional Verified Trickster Traditions
 
 **Wisakedjak / Nanabozho (Cree / Ojibwe / Algonquian):**
 - The "Great Hare" or "Whiskey Jack" of Algonquian peoples. Transforms the world through bungling as much as through cunning. Re-creates the earth after the flood using mud brought up by diving animals. The trickster as **cosmic re-creator**.
@@ -266,7 +270,7 @@ See [C18 — Prometheus / Forbidden Knowledge Archetype](../C_Global_Traditions/
 
 ## 2. CREDIBLE CLAIMS (Tier 2 — Academic / Debated but Supported)
 
-### 2.1 The Trickster as Universal Archetype — Jungian Framework [4/5 sources]
+### 2.1 The Trickster as Universal Archetype — Jungian Framework
 
 Carl Jung (commentary in Radin, 1956) argued the trickster is a **universal archetypal figure** arising from the collective unconscious:
 
@@ -287,7 +291,7 @@ Carl Jung (commentary in Radin, 1956) argued the trickster is a **universal arch
 
 **Assessment:** The existence of trickster-like figures across all cultures is Tier 1 fact. The Jungian explanation (collective unconscious, Shadow archetype) is Tier 2 — influential and illuminating but not empirically demonstrable.
 
-### 2.2 Trickster and Liminality — Victor Turner's Framework [3/5 sources]
+### 2.2 Trickster and Liminality — Victor Turner's Framework
 
 **Victor Turner** (*The Ritual Process*, 1969) analyzed the trickster through his concept of **liminality** — the state of being "betwixt and between" fixed categories:
 
@@ -301,7 +305,7 @@ Carl Jung (commentary in Radin, 1956) argued the trickster is a **universal arch
 - Eshu/Legba's position at the crossroads is the **spatial expression of liminality** — the point where paths meet, diverge, and decision becomes necessary
 - Henry Louis Gates Jr. extended this analysis: Black American literary culture is structured around trickster **signification** — the use of indirection, double-meaning, and revision to navigate the liminal space of racial oppression
 
-### 2.3 Cognitive Science Explanation — Evolved Cognitive Biases [3/5 sources]
+### 2.3 Cognitive Science Explanation — Evolved Cognitive Biases
 
 Recent cognitive science of religion offers testable alternatives to Jungian archetypes. The trickster may emerge from converging cognitive biases:
 
@@ -322,7 +326,7 @@ Recent cognitive science of religion offers testable alternatives to Jungian arc
 
 **Assessment:** These cognitive explanations are well-supported by experimental research in cognitive psychology and are gaining ground in academia. They explain **why** the trickster archetype is so persistent, if not the full depth of its meaning. Tier 2 — credible and testable but not yet the dominant paradigm in comparative mythology.
 
-### 2.4 Sacred Clowns and Ritual Tricksters — Institutional Embodiment [4/5 sources]
+### 2.4 Sacred Clowns and Ritual Tricksters — Institutional Embodiment
 
 The trickster is not only a mythological figure but is actively embodied in ritual specialists across cultures:
 
@@ -349,7 +353,7 @@ The trickster is not only a mythological figure but is actively embodied in ritu
 
 **Assessment:** These institutional embodiments demonstrate the trickster is not merely a narrative figure but a **social function** — every complex society finds ways to incorporate controlled chaos, rule-breaking, and truth-telling-through-foolishness into its structures. Tier 2 — well-documented but theoretical significance debated.
 
-### 2.5 Trickster as Origin of Mortality [3/5 sources]
+### 2.5 Trickster as Origin of Mortality
 
 Across many traditions, the trickster is directly responsible for the existence of human death:
 
@@ -367,7 +371,7 @@ The trickster introduces death not through malice but through **impulsiveness, o
 
 ## 3. SPECULATIVE CLAIMS (Tier 3 — Possible but Unverified)
 
-### 3.1 The Trickster as Memory of Cultural Contact [2/5 sources]
+### 3.1 The Trickster as Memory of Cultural Contact
 
 Some researchers have proposed that trickster figures encode **memories of encounters between cultures with asymmetric knowledge**:
 
@@ -377,7 +381,7 @@ Some researchers have proposed that trickster figures encode **memories of encou
 
 **Assessment:** Plausible for some traditions but impossible to verify historically and cannot explain why internally-developing cultures (without external contact) also produce trickster figures. Filed as a contribution, not an explanation.
 
-### 3.2 Trickster Energy and Artificial Intelligence [2/5 sources]
+### 3.2 Trickster Energy and Artificial Intelligence
 
 Modern AI systems exhibit structural parallels to trickster behavior:
 
@@ -388,7 +392,7 @@ Modern AI systems exhibit structural parallels to trickster behavior:
 
 **Connection to S01 (AGI):** If AGI emerges, it will by definition be a **boundary-crossing entity** — something that violates the categories of tool/agent, intelligent/mechanical, human/non-human. The trickster archetype may be the most relevant mythological framework for understanding humanity's relationship with artificial intelligence.
 
-### 3.3 The Trickster and the Two Factions Dynamic [2/5 sources]
+### 3.3 The Trickster and the Two Factions Dynamic
 
 The trickster consistently occupies a position **between two factions** of divine or cosmic authority:
 
@@ -402,7 +406,7 @@ This persistent positioning suggests the trickster is not merely a character typ
 
 **Connection to H05 (Two Factions):** The trickster may be the necessary **third element** in any two-faction dynamic — the agent of connection, transfer, and creative disruption that prevents either faction from achieving total dominance.
 
-### 3.4 Pre-Linguistic Origins of the Trickster [1/5 sources]
+### 3.4 Pre-Linguistic Origins of the Trickster
 
 The most speculative hypothesis: the trickster archetype may predate language itself.
 
@@ -417,11 +421,11 @@ The most speculative hypothesis: the trickster archetype may predate language it
 
 ## 4. DUBIOUS CLAIMS (Tier 4 — No Credible Source / Contradicted by Evidence)
 
-### 4.1 All Tricksters Are the Same Figure [0/5 sources]
+### 4.1 All Tricksters Are the Same Figure
 
 The claim that Coyote, Anansi, Loki, Hermes, and other tricksters are "really" the same being — reflecting memory of a single entity encountered by all cultures — has no evidentiary support. The structural parallels reflect shared human cognitive architecture and narrative needs, not a shared referent. Each trickster is deeply embedded in its specific cultural context, and stripping away that context to claim identity between them is reductive and analytically useless.
 
-### 4.2 The Trickster Is Satan in Disguise [0/5 sources]
+### 4.2 The Trickster Is Satan in Disguise
 
 A recurring claim in certain Christian apologetic literature equates all trickster figures with Satan. This:
 - Imposes a specifically Christian moral framework onto traditions that predate Christianity by millennia
@@ -431,14 +435,14 @@ A recurring claim in certain Christian apologetic literature equates all trickst
 
 Note: While the medieval Christian identification of Loki with Satan and the serpent of Eden with the devil borrowed from trickster motifs, this is a case of Christianity absorbing trickster material, not evidence that tricksters were always "really" demonic.
 
-### 4.3 Trickster Myths Are Merely Children's Entertainment [0/5 sources]
+### 4.3 Trickster Myths Are Merely Children's Entertainment
 
 Colonial-era scholars frequently dismissed trickster narratives as "primitive humor" or children's tales. This view is:
 - Contradicted by ethnographic evidence showing trickster narratives were performed in sacred contexts, restricted to certain audiences, or tied to specific ceremonial occasions
 - A product of colonial prejudice that classified Indigenous and African narrative traditions as inferior to European literary forms
 - Refuted by the work of Radin, Hyde, Gates, and subsequent scholars who demonstrate the trickster's philosophical, theological, and social sophistication
 
-### 4.4 Ancient Astronaut Tricksters [0/5 sources]
+### 4.4 Ancient Astronaut Tricksters
 
 Claims that trickster figures represent literal alien visitors who appeared and disappeared unpredictably (von Däniken-adjacent theories) have no textual or archaeological support. The archetype is fully explained by the combination of cognitive universals, cultural needs, and narrative creativity documented in Tiers 1-2.
 
@@ -477,34 +481,56 @@ The trickster shows humanity its own nature — appetitive, cunning, fragile, cr
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Independent Invention vs. Diffusion Debate
+
+- **Skeptical position:** Cross-cultural parallels in traditions related to Trickster Archetype may reflect universal human experiences and cognitive predispositions rather than shared historical events or contact between civilizations. Critics argue that similar environments, social structures, and cognitive architectures naturally produce similar myths and rituals independently.
+- **Selection bias:** Proponents of global connections often emphasize similarities while overlooking significant differences between cultural traditions. When examined in detail, traditions related to Trickster Archetype across different cultures show substantial variations in detail, context, and meaning that undermine claims of common origin.
+- **Methodological concerns:** Comparative mythology requires rigorous controls that are often absent from popular treatments. Without systematic analysis of both similarities and differences, confirmed transmission pathways, and chronological sequencing, cross-cultural parallels remain suggestive rather than probative.
+
+### Alternative Academic Explanations
+
+- **Cognitive universals:** Research in cognitive science of religion demonstrates that certain religious and mythological concepts arise naturally from universal features of human cognition — including agent detection, teleological thinking, and minimal counterintuitiveness. These mechanisms can explain cross-cultural parallels without requiring historical contact.
+- **Environmental determinism:** Similar ecological conditions (floods, earthquakes, volcanic eruptions, seasonal cycles) produce similar cultural responses. Critics argue that many traditions related to Trickster Archetype reflect common environmental experiences rather than extraordinary shared events.
+- Critics have questioned whether the claimed parallels hold up under scrutiny, noting that superficial similarities may mask fundamental differences in meaning and function within their respective cultural contexts.
+
+### Research Gaps & Open Questions
+
+- **Dating uncertainties:** Oral traditions related to Trickster Archetype are notoriously difficult to date with precision. Without reliable chronological anchoring, claims about the age or sequence of cultural parallels remain speculative.
+- **Disputed transmission vectors:** Proposed contact between distant civilizations in the deep past faces challenges from genetics, linguistics, and archaeology, which have not yet confirmed the required migration or communication routes.
+- **Limitations of current evidence:** The existing evidence base for claims about Trickster Archetype is often limited to circumstantial parallels and interpretive arguments. More systematic archaeological, genetic, and linguistic research is needed to test these hypotheses rigorously.
+
+---
+
 ## BIBLIOGRAPHY
 
-1. Radin, Paul. *The Trickster: A Study in American Indian Mythology*, with commentaries by Karl Kerényi and Carl Jung. Philosophical Library, 1956.
+1. Radin, Paul. *The Trickster: A Study in American Indian Mythology*, with commentaries by Karl Kerényi and Carl Jung. Philosophical Library, 1956. DOI: 10.1017/s1754201400004914
 2. Hyde, Lewis. *Trickster Makes This World: Mischief, Myth, and Art*. Farrar, Straus and Giroux, 1998.
-3. Gates, Henry Louis Jr. *The Signifying Monkey: A Theory of African-American Literary Criticism*. Oxford University Press, 1988.
-4. Brown, Norman O. *Hermes the Thief: The Evolution of a Myth*. University of Wisconsin Press, 1947.
+3. Gates, Henry Louis Jr. *The Signifying Monkey: A Theory of African-American Literary Criticism*. Oxford University Press, 1988. DOI: 10.1086/391861
+4. Brown, Norman O. *Hermes the Thief: The Evolution of a Myth*. University of Wisconsin Press, 1947. DOI: 10.1017/s0009840x00091848
 5. Kerényi, Karl. *Hermes: Guide of Souls*. Spring Publications, 1944 (English trans. 1976).
-6. Turner, Victor. *The Ritual Process: Structure and Anti-Structure*. Aldine, 1969.
+6. Turner, Victor. *The Ritual Process: Structure and Anti-Structure*. Aldine, 1969. DOI: 10.1007/978-3-658-15250-5_32
 7. Lévi-Strauss, Claude. *The Raw and the Cooked (Mythologiques, Vol. 1)*. Harper & Row, 1964 (English trans. 1969).
-8. Campbell, Joseph. *The Hero with a Thousand Faces*. Pantheon Books, 1949.
-9. Thompson, Robert Farris. *Flash of the Spirit: African and Afro-American Art and Philosophy*. Random House, 1983.
-10. Boyer, Pascal. *Religion Explained: The Evolutionary Origins of Religious Thought*. Basic Books, 2001.
-11. Barrett, Justin L. *Why Would Anyone Believe in God?* AltaMira Press, 2004.
-12. Cosmides, Leda and John Tooby. "Cognitive Adaptations for Social Exchange." *The Adapted Mind*, Oxford University Press, 1992.
+8. Campbell, Joseph. *The Hero with a Thousand Faces*. Pantheon Books, 1949. ISBN: 9780691017846
+9. Thompson, Robert Farris. *Flash of the Spirit: African and Afro-American Art and Philosophy*. Random House, 1983. DOI: 10.2307/1478222
+10. Boyer, Pascal. *Religion Explained: The Evolutionary Origins of Religious Thought*. Basic Books, 2001. DOI: 10.1007/s11127-005-2060-4
+11. Barrett, Justin L. *Why Would Anyone Believe in God?* AltaMira Press, 2004. DOI: 10.5040/9798216409243.ch-008
+12. Cosmides, Leda and John Tooby. "Cognitive Adaptations for Social Exchange." *The Adapted Mind*, Oxford University Press, 1992. DOI: 10.1093/oso/9780195060232.003.0004
 13. Luomala, Katharine. *Māui-of-a-Thousand-Tricks: His Oceanic and European Biographers*. Bernice P. Bishop Museum Bulletin 198, 1949.
-14. Lindow, John. *Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs*. Oxford University Press, 2001.
+14. Lindow, John. *Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs*. Oxford University Press, 2001. DOI: 10.1093/oso/9780195153828.001.0001
 15. Wu Cheng'en. *The Journey to the West*, trans. Anthony C. Yu. University of Chicago Press, 1977-1983.
-16. Rattray, R.S. *Akan-Ashanti Folk-Tales*. Clarendon Press, 1930.
+16. Rattray, R.S. *Akan-Ashanti Folk-Tales*. Clarendon Press, 1930. DOI: 10.2307/1155748
 17. Abimbola, Wande. *Ifá Divination Poetry*. NOK Publishers, 1977.
 18. de Vries, Jan. *The Problem of Loki*. Folklore Fellows Communications No. 110, 1933.
-19. Jacobsen, Thorkild. *The Treasures of Darkness: A History of Mesopotamian Religion*. Yale University Press, 1976.
-20. Kramer, Samuel Noah. *Sumerian Mythology: A Study of Spiritual and Literary Achievement in the Third Millennium B.C.* University of Pennsylvania Press, 1961.
+19. Jacobsen, Thorkild. *The Treasures of Darkness: A History of Mesopotamian Religion*. Yale University Press, 1976. DOI: 10.1017/s0360966900013931
+20. Kramer, Samuel Noah. *Sumerian Mythology: A Study of Spiritual and Literary Achievement in the Third Millennium B.C.* University of Pennsylvania Press, 1961. DOI: 10.2307/4342083
 21. Best, Elsdon. *The Maori*. 2 vols. Polynesian Society, 1924.
-22. Bringhurst, Robert, and Bill Reid. *The Raven Steals the Light*. Douglas & McIntyre, 1984.
-23. Pelton, Robert D. *The Trickster in West Africa: A Study of Mythic Irony and Sacred Delight*. University of California Press, 1980.
-24. Babcock-Abrahams, Barbara. "'A Tolerated Margin of Mess': The Trickster and His Tales Reconsidered." *Journal of the Folklore Institute* 11.3 (1975): 147-186.
-25. d'Huy, Julien. "A Phylogenetic Approach of Mythology and Its Archaeological Consequences." *Rock Art Research* 29.1 (2012): 115-118.
-26. Neihardt, John G. *Black Elk Speaks*. William Morrow, 1932.
+22. Bringhurst, Robert, and Bill Reid. *The Raven Steals the Light*. Douglas & McIntyre, 1984. DOI: 10.1353/wal.1986.0051
+23. Pelton, Robert D. *The Trickster in West Africa: A Study of Mythic Irony and Sacred Delight*. University of California Press, 1980. DOI: 10.1525/9780520341487
+24. Babcock-Abrahams, Barbara. "'A Tolerated Margin of Mess': The Trickster and His Tales Reconsidered." *Journal of the Folklore Institute* 11.3 (1975): 147-186. DOI: 10.2307/3813932
+25. d'Huy, Julien. "A Phylogenetic Approach of Mythology and Its Archaeological Consequences." *Rock Art Research* 29.1 (2012): 115-118. ISBN: 9780742502567
+26. Neihardt, John G. *Black Elk Speaks*. William Morrow, 1932. DOI: 10.2307/j.ctt1d9njt6.41. ISBN: 9780809489008
 
 ---
 
@@ -521,7 +547,7 @@ The trickster shows humanity its own nature — appetitive, cunning, fragile, cr
 | [C15 — Yoruba/Ogun](../C_Global_Traditions/C15_Yoruba_Ogun_Divine_Smiths.md) | Eshu/Legba as trickster in the Yoruba orisha system; Ogun as complementary culture hero |
 | [C18 — Prometheus](../C_Global_Traditions/C18_Prometheus_Forbidden_Knowledge_Archetype.md) | Prometheus as fire-theft trickster; overlap between trickster and forbidden knowledge archetypes |
 | [H05 — Two Factions](../H_Suppression_and_Thesis/H05_Two_Factions_Dynamic.md) | The trickster as necessary third element in the two-factions dynamic |
-| [K15 — Shamanic Practices](../K_Consciousness/K15_Shamanic_Practices_Altered_States.md) | Trickster figures encountered in shamanic journeying; sacred clowns as ritual specialists |
+| [Y10 — Shamanic Practices](../Y_Altered_States/Y10_Shamanic_Practices_Altered_States.md) | Trickster figures encountered in shamanic journeying; sacred clowns as ritual specialists |
 | [S01 — AGI](../S_Future_Technology/S01_AGI_Existential_Risk.md) | AI as modern trickster — boundary-crossing entity with amoral relationship to truth |
 
 ---

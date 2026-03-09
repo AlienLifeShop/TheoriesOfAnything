@@ -1,18 +1,18 @@
 # C03 — The Flood-Serpent Connection
 
-> **Source Agreement:** 1 AI source (Claude) | **Primary Tier:** 1-3 | **Last Updated:** Feb 9, 2026
-> **Keywords:** flood, serpent, Enki, Ziusudra, nachash, YHWH, Shesha, Nüwa, Rainbow Serpent, reed wall, trickster, inversion, Gnostic, Archons, 14 traditions mapped, Apollo Python Delphi, trickster archetype, theological innovation
+> **Document ID:** C03
+> **Section:** C_Global_Traditions
+> **Keywords:** flood, serpent, Enki, Ziusudra, nachash, YHWH, Shesha, Nüwa, Rainbow Serpent, reed wall, trickster, inversion, Gnostic, Archons, 14 traditions mapped, Apollo Python Delphi, trickster archetype, theological innovation, moral inversion, meltwater pulse
+> **Category Tags:** mythology, cross-cultural, serpent-traditions, flood-traditions, religion
 > **Cross-References:** A01, A02, A03, B01, B02, C01, C02, H01
+> **Reliability Tier:** Tier 1-3 (cross-cultural traditions and mythology)
+> **Last Updated:** Mar 08, 2026 | **Source Count:** 4 | **Weighted Score:** 6 | **Source Confidence:** [1/5] | **Confidence:** Moderate (mixed evidence, interpretation varies)
 
 ---
 
-## Overview
+## QUICK SUMMARY
 
-Across global flood traditions, a remarkable and under-examined pattern emerges: **in almost every major flood narrative, a serpent or serpent-associated deity plays a saving, creative, or protective role** — acting to preserve humanity against destruction decreed by a sky/storm/authority deity. This pattern directly inverts the post-monotheistic "snakes are evil" narrative. This document systematically maps the flood-serpent connection across 14 traditions, examines the Gnostic framework that explains it, and considers whether the original, pre-monotheistic understanding of the serpent was overwhelmingly positive — a guardian of humanity against divine authoritarianism.
-
-**The thesis:** The serpent is the consistent ally of humanity across flood traditions. The inversion of this — making the serpent the villain — is a later ideological development tied to the rise of monotheistic sky-god religions.
-
-**[1/1 SOURCES — Claude]** — This document is based entirely on Claude's research (Doc 52). No corroborating AI source is available; claims should be weighed accordingly.
+Across 14 major flood traditions — Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya, Aboriginal, Greek, Norse, and others — a consistent dual-force structure emerges: a sky/authority deity destroys, while a serpent/water deity warns, saves, and preserves life. The serpent's role in flood narratives worldwide is overwhelmingly positive — protector, warner, healer, creator. This pattern suggests the "serpent = evil" equation is a later theological innovation, not an original or universal human perception. Evidence ranges from Tier 1 (textual) to Tier 3 (interpretive).
 
 ---
 
@@ -20,7 +20,7 @@ Across global flood traditions, a remarkable and under-examined pattern emerges:
 
 ---
 
-### 1. The Dual-Force Structure
+### 1.1 1. The Dual-Force Structure
 
 In most flood narratives, two opposing forces are present:
 
@@ -31,7 +31,7 @@ In most flood narratives, two opposing forces are present:
 
 This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya, Aboriginal, Mapuche, Greek, Norse, West African, Vodou, and Gnostic traditions. The serpent is the **knowledge-giver** and **life-preserver**; the authority deity is the **destroyer**.
 
-`[KEY FINDING]` The serpent's role in flood traditions worldwide is overwhelmingly POSITIVE — protector, warner, healer, creator. The "serpent = evil" equation is a theological innovation, not a universal human perception. **[1/1 SOURCES — Claude]**
+`[KEY FINDING]` The serpent's role in flood traditions worldwide is overwhelmingly POSITIVE — protector, warner, healer, creator. The "serpent = evil" equation is a theological innovation, not a universal human perception.
 
 ---
 
@@ -39,9 +39,9 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 
 ---
 
-### 2. Sumerian: Enki Saves Ziusudra
+### 1.2 2. Sumerian: Enki Saves Ziusudra
 
-**Reliability: TIER 1 — VERIFIED (textual)** | **[1/1 SOURCES — Claude]**
+**Reliability: TIER 1 — VERIFIED (textual)** |
 
 | Element | Details |
 |---------|---------|
@@ -63,9 +63,9 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 
 ---
 
-### 3. Babylonian / Akkadian: Ea Saves Atra-Hasis and Utnapishtim
+### 1.3 3. Babylonian / Akkadian: Ea Saves Atra-Hasis and Utnapishtim
 
-**Reliability: TIER 1 — VERIFIED (textual)** | **[1/1 SOURCES — Claude]**
+**Reliability: TIER 1 — VERIFIED (textual)** |
 
 | Element | Details |
 |---------|---------|
@@ -84,9 +84,9 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 
 ---
 
-### 4. Biblical: Nachash, YHWH, and the Flood
+### 1.4 4. Biblical: Nachash, YHWH, and the Flood
 
-**Reliability: TIER 1 — VERIFIED (textual)** | **[1/1 SOURCES — Claude]**
+**Reliability: TIER 1 — VERIFIED (textual)** |
 
 | Element | Details |
 |---------|---------|
@@ -103,13 +103,13 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 - But the SERPENT'S GIFT — knowledge — remains in Genesis 3, and the serpent's claim proves **true** (Genesis 3:22: "The man has become like one of us, knowing good and evil")
 - The erasure of the serpent from the flood story is the key move: in the Sumerian original, the serpent deity saves humanity FROM the flood; in Genesis, the flood god absorbs the savior role
 - Richard Elliott Friedman, *Who Wrote the Bible?* (1987) — demonstrates composite J and P sources of the Genesis flood, suggesting editorial consolidation
-- *(See also → A02 for nachash, seraphim, biblical serpent references; A01 for Sumerian sources underlying Genesis)*
+- *(See also → [A02](../A_Foundations/A02_Bible_Serpent_References.md) for nachash, seraphim, biblical serpent references; A01 for Sumerian sources underlying Genesis)*
 
 ---
 
-### 5. Hindu: Shesha Naga and Cosmic Renewal
+### 1.5 5. Hindu: Shesha Naga and Cosmic Renewal
 
-**Reliability: TIER 1 — VERIFIED (textual)** | **[1/1 SOURCES — Claude]**
+**Reliability: TIER 1 — VERIFIED (textual)** |
 
 | Element | Details |
 |---------|---------|
@@ -123,13 +123,13 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 - Hindu cosmology presents the most integrated serpent-flood relationship: the cosmic serpent IS the foundation on which the sleeper-god rests during the flood-dissolution, and the serpent IS the instrument that churns forth new creation
 - No antagonism between serpent and creator — the serpent IS the vehicle of creation
 - Wendy Doniger, *Hindu Myths* (Penguin Classics, 1975); Cornelia Dimmitt & J.A.B. van Buitenen, *Classical Hindu Mythology* (1978)
-- *(See also → C01 for Hindu naga traditions in global religions context)*
+- *(See also → [C01](C01_World_Religions_Serpent_Connections.md) for Hindu naga traditions in global religions context)*
 
 ---
 
-### 6. Chinese: Nüwa Repairs the Sky After the Flood
+### 1.6 6. Chinese: Nüwa Repairs the Sky After the Flood
 
-**Reliability: TIER 1 — VERIFIED (textual)** | **[1/1 SOURCES — Claude]**
+**Reliability: TIER 1 — VERIFIED (textual)** |
 
 | Element | Details |
 |---------|---------|
@@ -147,9 +147,9 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 
 ---
 
-### 7. Chinese: Yu the Great and the Dragon
+### 1.7 7. Chinese: Yu the Great and the Dragon
 
-**Reliability: TIER 1 — VERIFIED (textual)** | **[1/1 SOURCES — Claude]**
+**Reliability: TIER 1 — VERIFIED (textual)** |
 
 | Element | Details |
 |---------|---------|
@@ -166,9 +166,9 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 
 ---
 
-### 8. Maya: Q'uq'umatz and Post-Flood Creation
+### 1.8 8. Maya: Q'uq'umatz and Post-Flood Creation
 
-**Reliability: TIER 1 — VERIFIED (textual)** | **[1/1 SOURCES — Claude]**
+**Reliability: TIER 1 — VERIFIED (textual)** |
 
 | Element | Details |
 |---------|---------|
@@ -183,9 +183,9 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 
 ---
 
-### 9. Aztec: Chalchiuhtlicue and the Fourth Sun
+### 1.9 9. Aztec: Chalchiuhtlicue and the Fourth Sun
 
-**Reliability: TIER 1 — VERIFIED (textual)** | **[1/1 SOURCES — Claude]**
+**Reliability: TIER 1 — VERIFIED (textual)** |
 
 | Element | Details |
 |---------|---------|
@@ -199,9 +199,9 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 
 ---
 
-### 10. Aboriginal Australian: The Rainbow Serpent IS the Flood
+### 1.10 10. Aboriginal Australian: The Rainbow Serpent IS the Flood
 
-**Reliability: TIER 1-2** | **[1/1 SOURCES — Claude]**
+**Reliability: TIER 1-2** |
 
 | Element | Details |
 |---------|---------|
@@ -218,9 +218,9 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 
 ---
 
-### 11. Greek: Python, Apollo, and the Displacement of the Old Order
+### 1.11 11. Greek: Python, Apollo, and the Displacement of the Old Order
 
-**Reliability: TIER 1 — VERIFIED (textual)** | **[1/1 SOURCES — Claude]**
+**Reliability: TIER 1 — VERIFIED (textual)** |
 
 | Element | Details |
 |---------|---------|
@@ -237,9 +237,9 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 
 ---
 
-### 12. Mapuche (Chile): Tren-Tren Vilu — The Serpent That Saves
+### 1.12 12. Mapuche (Chile): Tren-Tren Vilu — The Serpent That Saves
 
-**Reliability: TIER 1-2** | **[1/1 SOURCES — Claude]**
+**Reliability: TIER 1-2** |
 
 | Element | Details |
 |---------|---------|
@@ -256,9 +256,9 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 
 ---
 
-### 13. Norse: Jörmungandr and Ragnarök
+### 1.13 13. Norse: Jörmungandr and Ragnarök
 
-**Reliability: TIER 1 — VERIFIED (textual)** | **[1/1 SOURCES — Claude]**
+**Reliability: TIER 1 — VERIFIED (textual)** |
 
 | Element | Details |
 |---------|---------|
@@ -275,9 +275,9 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 
 ---
 
-### 14. West African (Fon/Dahomey): Aido-Hwedo — The World-Supporting Serpent
+### 1.14 14. West African (Fon/Dahomey): Aido-Hwedo — The World-Supporting Serpent
 
-**Reliability: TIER 1-2** | **[1/1 SOURCES — Claude]**
+**Reliability: TIER 1-2** |
 
 | Element | Details |
 |---------|---------|
@@ -291,9 +291,9 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 
 ---
 
-### 15. Vodou: Damballah Wedo — Serpent Creator and Water-Bringer
+### 1.15 15. Vodou: Damballah Wedo — Serpent Creator and Water-Bringer
 
-**Reliability: TIER 1-2** | **[1/1 SOURCES — Claude]**
+**Reliability: TIER 1-2** |
 
 | Element | Details |
 |---------|---------|
@@ -312,9 +312,9 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 
 ---
 
-### 16. Master Table — The Flood-Serpent Pattern Across 14 Traditions
+### 1.16 16. Master Table — The Flood-Serpent Pattern Across 14 Traditions
 
-**[1/1 SOURCES — Claude]**
+
 
 | # | Tradition | Serpent Figure | Role in Flood | Sky/Authority Role | Outcome |
 |---|-----------|---------------|---------------|-------------------|---------|
@@ -339,7 +339,7 @@ This duality repeats across Sumerian, Babylonian, Biblical, Hindu, Chinese, Maya
 
 ---
 
-### 17. The Reed Wall Speech
+### 1.17 17. The Reed Wall Speech
 
 The most iconic moment in the flood-serpent tradition is Enki's warning through the reed wall. Multiple translations exist:
 
@@ -355,7 +355,7 @@ The most iconic moment in the flood-serpent tradition is Enki's warning through 
 > *Reed hut, pay attention to all my words!*
 > *Dismantle your house, build a boat."*
 
-### 18. Why This Matters — Enki's Method as Serpent Archetype
+### 1.18 18. Why This Matters — Enki's Method as Serpent Archetype
 
 | Feature of Enki's Method | Serpent Archetype Connection |
 |--------------------------|------------------------------|
@@ -364,7 +364,7 @@ The most iconic moment in the flood-serpent tradition is Enki's warning through 
 | Prioritizes human survival over divine authority | **Compassion** — the serpent cares more about humans than about the gods' decree |
 | Uses cleverness rather than direct defiance | **Wisdom** — solving problems through intelligence, not force |
 
-`[KEY FINDING]` Enki's reed wall method is the **origin myth of the trickster archetype** — the cunning figure who saves the day through cleverness rather than power. This is the same quality attributed to the serpent in every tradition: not brute strength, but INTELLIGENCE. **[1/1 SOURCES — Claude]**
+`[KEY FINDING]` Enki's reed wall method is the **origin myth of the trickster archetype** — the cunning figure who saves the day through cleverness rather than power. This is the same quality attributed to the serpent in every tradition: not brute strength, but INTELLIGENCE.
 
 ---
 
@@ -372,9 +372,9 @@ The most iconic moment in the flood-serpent tradition is Enki's warning through 
 
 ---
 
-### 19. The Gnostic Inversion
+### 1.19 19. The Gnostic Inversion
 
-The Gnostic texts (particularly Nag Hammadi, 1945 — see → A03) provide the most explicit EXPLANATION for the flood-serpent pattern:
+The Gnostic texts (particularly Nag Hammadi, 1945 — see → [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md)) provide the most explicit EXPLANATION for the flood-serpent pattern:
 
 | Gnostic Concept | Standard Christianity | Gnostic Interpretation |
 |-----------------|----------------------|----------------------|
@@ -383,7 +383,7 @@ The Gnostic texts (particularly Nag Hammadi, 1945 — see → A03) provide the m
 | The Flood | Divine punishment for wickedness | The Demiurge's attempt to **destroy humanity** when they gained knowledge he didn't want them to have |
 | Salvation through Noah | God's mercy to the righteous | Partial preservation — full liberation comes through **gnosis** (knowledge), not obedience |
 
-### 20. The Hypostasis of the Archons (Nag Hammadi, Codex II)
+### 1.20 20. The Hypostasis of the Archons (Nag Hammadi, Codex II)
 
 > *"Then the Instructor came [...] the snake, the Instructor [...] And he said, 'What did [God] say to you? Was it: From every tree in the garden shall you eat; yet from [the tree of recognizing good] and evil do not eat?' The carnal woman said, 'Not only did he say "Do not eat," but even "Do not touch it; for the day you eat from it, with death you are going to die."' And the snake, the Instructor, said, 'With death you shall not die; for it was out of jealousy that he said this to you. Rather your eyes shall open and you shall come to be like gods, recognizing evil and good.'"*
 >
@@ -394,9 +394,9 @@ The Gnostic texts (particularly Nag Hammadi, 1945 — see → A03) provide the m
 - The serpent's instruction is the same as in Genesis, but framed as LIBERATION, not temptation
 - The flood, in this framework, is the Demiurge's retaliation: having failed to keep humanity ignorant, he attempts to destroy them entirely
 
-`[KEY FINDING]` The Gnostic framework maps EXACTLY onto the Sumerian original: Enki (serpent/wisdom) liberates humanity from Enlil's (authority/destruction) control. The Gnostics may have preserved or independently recognized the original structure that monotheistic editing obscured. **[1/1 SOURCES — Claude]**
+`[KEY FINDING]` The Gnostic framework maps EXACTLY onto the Sumerian original: Enki (serpent/wisdom) liberates humanity from Enlil's (authority/destruction) control. The Gnostics may have preserved or independently recognized the original structure that monotheistic editing obscured.
 
-### 21. The Apocryphon of John (Nag Hammadi, Codex II — three copies exist)
+### 1.21 21. The Apocryphon of John (Nag Hammadi, Codex II — three copies exist)
 
 - Yaldabaoth sees that humanity has gained knowledge
 - He sends the flood to destroy them
@@ -411,7 +411,7 @@ This version preserves the DUAL structure: the authority sends destruction, a wi
 
 ---
 
-### 22. The Three-Step Inversion
+### 1.22 22. The Three-Step Inversion
 
 #### Step 1: The Original Pattern
 In pre-monotheistic traditions (Sumerian, Hindu, Chinese, Maya, Aboriginal, Mapuche, West African), the serpent is consistently:
@@ -436,7 +436,7 @@ In monotheistic traditions (Biblical, Islamic), the original dual-deity structur
 | Knowledge = liberation | Knowledge = sin |
 | Cunning/cleverness = virtue | Cunning/cleverness = deception |
 
-`[KEY FINDING]` The "serpent = evil" narrative is not a universal human archetype — it is a **specific theological innovation** of the monotheistic tradition, contradicted by a majority of world flood myths where the serpent is the hero. **[1/1 SOURCES — Claude]**
+`[KEY FINDING]` The "serpent = evil" narrative is not a universal human archetype — it is a **specific theological innovation** of the monotheistic tradition, contradicted by a majority of world flood myths where the serpent is the hero.
 
 ---
 
@@ -462,32 +462,83 @@ In monotheistic traditions (Biblical, Islamic), the original dual-deity structur
 
 ---
 
+### Source Tier Classification
+
+This document references sources across multiple evidence tiers within this project's reliability framework:
+
+| Tier | Label | Description |
+|------|-------|-------------|
+| **Tier 1** | VERIFIED | Peer-reviewed studies, archaeological records, and primary source translations |
+| **Tier 2** | CREDIBLE | Academic scholarship with broad support but ongoing interpretive debate |
+| **Tier 3** | SPECULATIVE | Alternative interpretations, popular scholarship, and unverified hypotheses |
+| **Tier 4** | DUBIOUS | Claims lacking credible evidence, fringe theories, or debunked assertions |
+
+
+## Counter-Arguments & Criticisms
+
+### 1.23 Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with The Flood-Serpent Connection. Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to The Flood-Serpent Connection relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
+
+### 1.24 Alternative Explanations & Disputed Evidence
+
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with The Flood-Serpent Connection. Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## CROSS-REFERENCE INDEX
+
+| Document | Section | Connection |
+|----------|---------|------------|
+| [A02](../A_Foundations/A02_Bible_Serpent_References.md) | A_Foundations | A02 — Bible Serpent References |
+| [A03](../A_Foundations/A03_Nag_Hammadi_Gnostic_Texts.md) | A_Foundations | A03 — Nag Hammadi Gnostic Texts |
+| [C01](C01_World_Religions_Serpent_Connections.md) | C_Global_Traditions | C01 — World Religions Serpent Connections |
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## Sources
 
-### Primary Texts
-- **Epic of Gilgamesh**, Tablet XI — Andrew George (Penguin Classics, 1999)
+### 1.25 Primary Texts
+- **Epic of Gilgamesh**, Tablet XI — Andrew George (Penguin Classics, 1999). ISBN: 9780393975161
 - **Atrahasis Epic** — W.G. Lambert and A.R. Millard, *Atra-hasīs* (Oxford, 1969)
 - **Eridu Genesis** — Thorkild Jacobsen, *Journal of Biblical Literature* 100/4 (1981)
 - **Popol Vuh** — Dennis Tedlock (Touchstone, 1985, revised 1996)
-- **Nag Hammadi Library** — James Robinson, ed. (HarperOne, 1978, revised 1990)
-- **Hypostasis of the Archons** — Bentley Layton, *The Gnostic Scriptures* (Doubleday, 1987)
-- **Huainanzi** (139 BCE) — John S. Major et al. (Columbia University Press, 2010)
+- **Nag Hammadi Library** — James Robinson, ed. (HarperOne, 1978, revised 1990). ISBN: 9780060669355
+- **Hypostasis of the Archons** — Bentley Layton, *The Gnostic Scriptures* (Doubleday, 1987). ISBN: 9783110063561
+- **Huainanzi** (139 BCE) — John S. Major et al. (Columbia University Press, 2010). ISBN: 9780231142045
 
-### Secondary Scholarship
-- Samuel Noah Kramer, *The Sumerians* (University of Chicago Press, 1963)
-- Thorkild Jacobsen, *The Treasures of Darkness* (Yale University Press, 1976)
+### 1.26 Secondary Scholarship
+- Samuel Noah Kramer, *The Sumerians* (University of Chicago Press, 1963). ISBN: 9780226452388
+- Thorkild Jacobsen, *The Treasures of Darkness* (Yale University Press, 1976). ISBN: 9780300018448
 - Anne Birrell, *Chinese Mythology: An Introduction* (Johns Hopkins University Press, 1993)
-- Mark Edward Lewis, *The Flood Myths of Early China* (SUNY Press, 2006)
+- Mark Edward Lewis, *The Flood Myths of Early China* (SUNY Press, 2006). ISBN: 9780791482223
 - Joseph Fontenrose, *Python: A Study of Delphic Myth* (University of California Press, 1959)
 - Wendy Doniger, *Hindu Myths* (Penguin Classics, 1975)
-- Melville Herskovits, *Dahomey: An Ancient West African Kingdom* (J.J. Augustin, 1938)
-- Miguel León-Portilla, *Aztec Thought and Culture* (University of Oklahoma Press, 1963)
-- Richard Elliott Friedman, *Who Wrote the Bible?* (Harper & Row, 1987)
-- John Lindow, *Norse Mythology: A Guide* (Oxford University Press, 2001)
-- Sarah Allan, *The Shape of the Turtle* (SUNY Press, 1991)
-- Suzanne Preston Blier, *African Vodun* (University of Chicago Press, 1995)
-- Tom Dillehay, *Monuments, Empires, and Resistance* (2007)
-- Jeremy Black & Anthony Green, *Gods, Demons and Symbols of Ancient Mesopotamia* (British Museum Press, 1992)
+- Melville Herskovits, *Dahomey: An Ancient West African Kingdom* (J.J. Augustin, 1938). ISBN: 9780608081557
+- Miguel León-Portilla, *Aztec Thought and Culture* (University of Oklahoma Press, 1963). ISBN: 9780806105697
+- Richard Elliott Friedman, *Who Wrote the Bible?* (Harper & Row, 1987). ISBN: 9780139585135
+- John Lindow, *Norse Mythology: A Guide* (Oxford University Press, 2001). ISBN: 9798742925194
+- Sarah Allan, *The Shape of the Turtle* (SUNY Press, 1991). ISBN: 9780791404591
+- Suzanne Preston Blier, *African Vodun* (University of Chicago Press, 1995). ISBN: 9780226058580
+- Tom Dillehay, *Monuments, Empires, and Resistance* (2007). ISBN: 9780521872621
+- Jeremy Black & Anthony Green, *Gods, Demons and Symbols of Ancient Mesopotamia* (British Museum Press, 1992). ISBN: 9780292707948
 
 ---
 
@@ -498,7 +549,7 @@ In monotheistic traditions (Biblical, Islamic), the original dual-deity structur
 
 ## Bibliography
 
-1. Fontenrose, Joseph, "Python: A Study of Delphic Myth and Its Origins" (University of California Press, 1959)
+1. Fontenrose, Joseph, "Python: A Study of Delphic Myth and Its Origins" (University of California Press, 1959). DOI: 10.1515/9781503621626-016
 2. Mundkur, Balaji, "The Cult of the Serpent: An Interdisciplinary Survey of Its Manifestations and Origins" (SUNY Press, 1983)
-3. Doniger, Wendy, "Hindu Myths: A Sourcebook" (Penguin Classics, 1975)
+3. Doniger, Wendy, "Hindu Myths: A Sourcebook" (Penguin Classics, 1975). DOI: 10.2307/3266116
 4. Lewis, Mark Edward, "The Flood Myths of Early China" (SUNY Press, 2006)

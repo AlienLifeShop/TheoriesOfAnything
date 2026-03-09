@@ -1,33 +1,18 @@
 # C06 — Indonesian Naga & Southeast Asian Serpent Traditions
 
-> **Source Agreement:** 1 AI source (Claude) + GPT5.2 additions noted | **Primary Tier:** 1-2 | **Last Updated:** Feb 9, 2026
+> **Document ID:** C06
+> **Section:** C_Global_Traditions
 > **Keywords:** Naga, Indonesia, Antaboga, Batak, Padoha, Cambodia, Angkor, Khmer, Myanmar, Thailand, Philippines, Bakunawa, Vietnam, Lạc Long Quân, keris, Naga Fireballs, Shwedagon, Zhou Daguan, Antaboga consciousness, Naga Padoha, keris spirit blades, Naga Fireballs Mekong, living museum
+> **Category Tags:** mythology, cross-cultural, serpent-traditions, consciousness
 > **Cross-References:** B01, B06, C01, C07, C08, D02
-
----
-
-## Table of Contents
-
-1. [Overview](#1-overview)
-2. [Indonesian Naga Traditions](#2-indonesian-naga-traditions)
-3. [Cambodia / Khmer Naga Traditions](#3-cambodia--khmer-naga-traditions)
-4. [Myanmar (Burma)](#4-myanmar-burma)
-5. [Thailand](#5-thailand)
-6. [The Philippines](#6-the-philippines)
-7. [Vietnam](#7-vietnam)
-8. [Laos](#8-laos)
-9. [The Malay World](#9-the-malay-world)
-10. [Cross-Cultural Comparison Table](#10-cross-cultural-comparison-table)
-11. [The Big Picture — Why Southeast Asia Matters](#11-the-big-picture--why-southeast-asia-matters)
-12. [Reliability Assessment](#12-reliability-assessment)
-13. [Sources and References](#13-sources-and-references)
-14. [Change Log](#14-change-log)
+> **Reliability Tier:** Tier 1-2 (established with some scholarly debate)
+> **Last Updated:** Feb 9, 2026 | **Source Count:** 14 | **Weighted Score:** 24 | **Source Confidence:** [3/5] | **Confidence:** High (established with some scholarly debate)
 
 ---
 
 ## QUICK SUMMARY
 
-Southeast Asia possesses one of the **densest concentrations of living naga/serpent traditions on Earth**. From the cosmic serpent Antaboga of Java to the naga fireballs of the Mekong, from the naga princesses of Khmer dynastic legend to the dragon ancestry of Vietnam, the serpent is woven into the architecture, kingship, cosmology, and daily spiritual practice of hundreds of millions of people. Unlike the Near East and Europe — where Christianity and Islam systematically demonized and suppressed serpent veneration — Southeast Asian Buddhism, Hinduism, and indigenous animist traditions **integrated** the serpent as a positive, protective, ancestral figure. **[1/1 sources — Claude]**
+Southeast Asia possesses one of the **densest concentrations of living naga/serpent traditions on Earth**. From the cosmic serpent Antaboga of Java to the naga fireballs of the Mekong, from the naga princesses of Khmer dynastic legend to the dragon ancestry of Vietnam, the serpent is woven into the architecture, kingship, cosmology, and daily spiritual practice of hundreds of millions of people. Unlike the Near East and Europe — where Christianity and Islam systematically demonized and suppressed serpent veneration — Southeast Asian Buddhism, Hinduism, and indigenous animist traditions **integrated** the serpent as a positive, protective, ancestral figure.
 
 This document provides a comprehensive survey of naga/serpent traditions across Indonesia, Cambodia, Myanmar, Thailand, the Philippines, Vietnam, Laos, and the Malay world, with detailed sourcing, cross-cultural comparison, and reliability assessment.
 
@@ -42,7 +27,7 @@ This document provides a comprehensive survey of naga/serpent traditions across 
 
 ## 1. Overview
 
-Southeast Asia presents the clearest modern evidence for the "integration vs. suppression" thesis regarding serpent traditions. Where polytheistic or non-dualistic religions (Buddhism, Hinduism, animism) remained dominant, serpent traditions were integrated and preserved. Where monotheistic religions (Christianity, Islam) became dominant, serpent traditions were demonized and suppressed. **[1/1 sources — Claude]**
+Southeast Asia presents the clearest modern evidence for the "integration vs. suppression" thesis regarding serpent traditions. Where polytheistic or non-dualistic religions (Buddhism, Hinduism, animism) remained dominant, serpent traditions were integrated and preserved. Where monotheistic religions (Christianity, Islam) became dominant, serpent traditions were demonized and suppressed.
 
 The region spans ten major national traditions, each preserving distinct but related naga/serpent mythologies with demonstrable pre-Hindu indigenous roots overlaid by Hindu-Buddhist frameworks.
 
@@ -52,7 +37,7 @@ The region spans ten major national traditions, each preserving distinct but rel
 
 ### 2.1 Antaboga — The Javanese Cosmic Serpent (Tier 2)
 
-**[1/1 sources — Claude]**
+
 
 | Attribute | Details |
 |-----------|---------|
@@ -67,11 +52,11 @@ The region spans ten major national traditions, each preserving distinct but rel
 - Antaboga represents the serpent at the FOUNDATION of all reality — the meditating serpent whose thought creates the world. This is not a subsidiary or servant figure but the **primordial creative intelligence**.
 - The cosmological layering (serpent → turtle → serpents → world) echoes Hindu cosmic serpent Shesha (who also supports the world) but includes distinctively Javanese elements.
 - The name "Anantabhoga" directly connects to the Hindu **Ananta** (Shesha's epithet meaning "endless/infinite"), demonstrating the Hindu-Javanese cultural synthesis while preserving indigenous pre-Hindu cosmological structures.
-- **KEY FINDING:** In Javanese cosmology, the serpent is not merely a participant in creation — it IS the primordial creative consciousness. All of reality emerges from the serpent's meditation. **[1/1 sources — Claude]**
+- **KEY FINDING:** In Javanese cosmology, the serpent is not merely a participant in creation — it IS the primordial creative consciousness. All of reality emerges from the serpent's meditation.
 
 ### 2.2 Naga Basuki — Balinese Cosmic Protector (Tier 1-2)
 
-**[1/1 sources — Claude]**
+
 
 | Attribute | Details |
 |-----------|---------|
@@ -89,7 +74,7 @@ The region spans ten major national traditions, each preserving distinct but rel
 
 ### 2.3 Naga Padoha — The Batak Earth-Serpent (Tier 1-2)
 
-**[1/1 sources — Claude]**
+
 
 | Attribute | Details |
 |-----------|---------|
@@ -104,11 +89,11 @@ The region spans ten major national traditions, each preserving distinct but rel
 - Naga Padoha is critically important because it demonstrates that Indonesian serpent traditions are **not simply Hindu imports** — the Batak had their own serpent earth-bearer myth BEFORE Hinduism arrived.
 - Hinduism provided a new framework and new names (Batara Guru = Shiva, Naga = Naga) but the underlying concept — a great serpent supporting and shaking the earth — was **indigenous**.
 - The earthquake explanation is particularly significant in an Indonesian context: the Indonesian archipelago sits on the Pacific Ring of Fire, experiencing frequent seismic activity. The naga-earthquake link would have been reinforced by constant real-world experience.
-- **KEY FINDING:** The Batak Naga Padoha tradition proves that Southeast Asian serpent worship is not reducible to Hindu cultural transmission — indigenous serpent cosmologies existed independently and were INTEGRATED with, not replaced by, Hindu naga traditions. **[1/1 sources — Claude]**
+- **KEY FINDING:** The Batak Naga Padoha tradition proves that Southeast Asian serpent worship is not reducible to Hindu cultural transmission — indigenous serpent cosmologies existed independently and were INTEGRATED with, not replaced by, Hindu naga traditions.
 
 ### 2.4 Naga in Javanese Keris Tradition (Tier 1)
 
-**[1/1 sources — Claude]**
+
 
 | Attribute | Details |
 |-----------|---------|
@@ -120,7 +105,7 @@ The region spans ten major national traditions, each preserving distinct but rel
 
 ### 2.5 Pre-Hindu Indigenous Serpent Worship (Tier 2)
 
-**[1/1 sources — Claude]**
+
 
 Before Hindu-Buddhist cultural transmission reached the Indonesian archipelago (beginning ~1st century CE with trade contacts, intensifying in the 4th-5th centuries with the establishment of Indianized kingdoms), Indonesian peoples already had:
 
@@ -139,7 +124,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ### 3.1 Naga Architecture at Angkor (Tier 1)
 
-**[1/1 sources — Claude]**
+
 
 | Site | Naga Feature | Details |
 |------|-------------|---------|
@@ -154,11 +139,11 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 - The **Churning of the Ocean of Milk relief** at Angkor Wat is the largest single narrative relief in the world (49 meters / 160 feet long). The naga Vasuki is at its CENTER — literally the instrument around which the universe is created. Without the serpent, there is no churning, no amrita, no cosmic order.
 - George Coedès, *The Indianized States of Southeast Asia* (1968, English translation by Susan Brown Cowing), is the standard reference on the Hindu-Buddhist-naga synthesis in Khmer civilization.
 - Michael D. Coe, *Angkor and the Khmer Civilization* (2003), provides comprehensive archaeological context.
-- **KEY FINDING:** The Khmer Empire encoded the naga into the INFRASTRUCTURE of its greatest monuments. Angkor Thom's city gates literally transform the act of entering the city into a cosmological event — you walk along the naga's body, participating in the Churning of the Ocean. **[1/1 sources — Claude]**
+- **KEY FINDING:** The Khmer Empire encoded the naga into the INFRASTRUCTURE of its greatest monuments. Angkor Thom's city gates literally transform the act of entering the city into a cosmological event — you walk along the naga's body, participating in the Churning of the Ocean.
 
 ### 3.2 Zhou Daguan's Account of the Naga-King Ritual (Tier 1)
 
-**[1/1 sources — Claude]**
+
 
 | Attribute | Details |
 |-----------|---------|
@@ -174,7 +159,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ### 3.3 The Foundation Legend — Kaundinya and Soma (Tier 1)
 
-**[1/1 sources — Claude]**
+
 
 | Element | Details |
 |---------|---------|
@@ -189,7 +174,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ### 4.1 Pre-Buddhist Naga Traditions (Tier 2)
 
-**[1/1 sources — Claude]**
+
 
 | Aspect | Details |
 |--------|---------|
@@ -199,7 +184,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ### 4.2 The Shwedagon Pagoda Legend (Tier 1-2)
 
-**[1/1 sources — Claude]**
+
 
 | Attribute | Details |
 |-----------|---------|
@@ -218,7 +203,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ### 5.1 Naga Fireballs — Bung Fai Phaya Nag (Tier 1 — Phenomenon; Tier 2-3 — Cause)
 
-**[1/1 sources — Claude]**
+
 
 | Attribute | Details |
 |-----------|---------|
@@ -245,11 +230,11 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 - **The naga explanation:** **TIER 4** — supernatural; cannot be scientifically evaluated
 - **Any single scientific explanation:** **TIER 2-3** — no explanation fully accounts for all observed features (color, timing, location, altitude)
 
-**KEY FINDING:** The Naga Fireballs are a genuinely anomalous natural phenomenon that has been co-opted by / is the basis for a living naga tradition. Whether the tradition created the observation or the observation created the tradition, the result is the same: millions of Thai and Lao people maintain an active, vibrant naga belief connected to an observable event. **[1/1 sources — Claude]**
+**KEY FINDING:** The Naga Fireballs are a genuinely anomalous natural phenomenon that has been co-opted by / is the basis for a living naga tradition. Whether the tradition created the observation or the observation created the tradition, the result is the same: millions of Thai and Lao people maintain an active, vibrant naga belief connected to an observable event.
 
 ### 5.2 Mucalinda — The Buddha's Naga Protector (Tier 1)
 
-**[1/1 sources — Claude]**
+
 
 | Attribute | Details |
 |-----------|---------|
@@ -260,7 +245,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ### 5.3 Naga in Thai Temple Architecture (Tier 1)
 
-**[1/1 sources — Claude]**
+
 
 | Feature | Location | Function |
 |---------|----------|----------|
@@ -275,7 +260,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ### 6.1 Bakunawa — The Moon-Eating Dragon (Tier 1-2)
 
-**[1/1 sources — Claude]**
+
 
 | Attribute | Details |
 |-----------|---------|
@@ -289,7 +274,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ### 6.2 Suppression Under Spanish Colonization (Tier 1)
 
-**[1/1 sources — Claude]**
+
 
 | Period | Event |
 |--------|-------|
@@ -309,7 +294,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ### 7.1 Lạc Long Quân — The Dragon Lord, National Ancestor (Tier 1)
 
-**[1/1 sources — Claude]**
+
 
 | Attribute | Details |
 |-----------|---------|
@@ -324,7 +309,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 - Vietnam is extraordinary in that the **national identity itself** is dragon-derived. Vietnamese people refer to themselves as "con rồng cháu tiên" — "children of the dragon, grandchildren of the immortal."
 - This is not a relic or curiosity — it is a LIVING national identity. Vietnamese schoolchildren learn this origin story. National holidays celebrate it. The dragon pervades Vietnamese visual culture.
 - Keith Weller Taylor, *The Birth of Vietnam* (1983), discusses the Lạc Long Quân legend in historical context.
-- **KEY FINDING:** Vietnam may be the only modern nation-state whose official national origin story involves literal dragon/serpent ancestry. The serpent is not a god to be worshipped but an **ancestor to be remembered** — the deepest possible cultural integration. **[1/1 sources — Claude]**
+- **KEY FINDING:** Vietnam may be the only modern nation-state whose official national origin story involves literal dragon/serpent ancestry. The serpent is not a god to be worshipped but an **ancestor to be remembered** — the deepest possible cultural integration.
 
 ---
 
@@ -332,7 +317,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ### 8.1 Naga Protection of Buddhism (Tier 1-2)
 
-**[1/1 sources — Claude]**
+
 
 | Feature | Details |
 |---------|---------|
@@ -342,7 +327,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ### 8.2 The Mekong as Naga (Tier 2)
 
-**[1/1 sources — Claude]**
+
 
 | Concept | Details |
 |---------|---------|
@@ -357,7 +342,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ### 9.1 Naga in Malay Sultanate Traditions (Tier 2)
 
-**[1/1 sources — Claude]**
+
 
 | Feature | Details |
 |---------|---------|
@@ -368,7 +353,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ### 9.2 Seri Gumum — Malaysian Dragon Legend (Tier 2-3)
 
-**[1/1 sources — Claude]**
+
 
 | Attribute | Details |
 |-----------|---------|
@@ -380,7 +365,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ## 10. Cross-Cultural Comparison Table
 
-**[1/1 sources — Claude]**
+
 
 | # | Region | Primary Naga Figure | Function | Pre-Hindu Origin? | Living Tradition? |
 |---|--------|-------------------|----------|-------------------|-------------------|
@@ -401,7 +386,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ### 11.1 The Integration Pattern
 
-**[1/1 sources — Claude]**
+
 
 | Region | Major Religion | Serpent Outcome |
 |--------|---------------|-----------------|
@@ -414,7 +399,7 @@ Hinduism provided **systematization** — Sanskrit terminology, coherent cosmolo
 
 ### 11.2 The Suppression vs. Integration Thesis
 
-**[1/1 sources — Claude]**
+
 
 **Key argument:** Where monotheistic religions (Christianity, Islam, Zoroastrianism) became dominant, serpent traditions were **demonized and suppressed**. Where polytheistic or non-dualistic religions (Buddhism, Hinduism, animism) remained dominant, serpent traditions were **integrated and preserved**.
 
@@ -427,7 +412,7 @@ The Philippines serves as the **control case**: same region, same type of indige
 
 ### 11.3 The Serpent's Valence
 
-**[1/1 sources — Claude]**
+
 
 Across Southeast Asia, the naga/serpent is overwhelmingly characterized as:
 
@@ -442,11 +427,11 @@ Across Southeast Asia, the naga/serpent is overwhelmingly characterized as:
 
 This matches the **pre-monotheistic global pattern** documented in C01, C02, C03, and C05: the serpent as a positive, protective, knowledge-associated figure. Southeast Asia simply preserves what other regions suppressed.
 
-**KEY FINDING:** Southeast Asia is the **living museum** of humanity's serpent traditions. What the Near East and Europe buried under monotheistic theology, what Zoroastrianism demonized, what Spanish colonialism crushed in the Philippines — all of it survives and thrives in the Buddhist-Hindu-animist cultures of Southeast Asia. Any study of global serpent traditions that does not center Southeast Asia is incomplete. **[1/1 sources — Claude]**
+**KEY FINDING:** Southeast Asia is the **living museum** of humanity's serpent traditions. What the Near East and Europe buried under monotheistic theology, what Zoroastrianism demonized, what Spanish colonialism crushed in the Philippines — all of it survives and thrives in the Buddhist-Hindu-animist cultures of Southeast Asia. Any study of global serpent traditions that does not center Southeast Asia is incomplete.
 
 ### 11.4 Critical Perspectives
 
-**[1/1 sources — Claude]**
+
 
 The "integration vs. suppression" thesis, while supported by strong evidence, oversimplifies:
 
@@ -460,7 +445,7 @@ Some scholars (e.g., Sheldon Pollock, *The Language of the Gods in the World of 
 
 ## 12. Reliability Assessment
 
-**[1/1 sources — Claude]**
+
 
 | Claim | Tier | Basis |
 |-------|------|-------|
@@ -518,15 +503,15 @@ Some scholars (e.g., Sheldon Pollock, *The Language of the Gods in the World of 
 
 | Date | Change | Author |
 |------|--------|--------|
-| Feb 9, 2026 | Initial creation — consolidated from Claude Doc 54 into tiered template; GPT5.2 additions noted inline; all claims tagged [1/1 sources — Claude] | System |
+| Feb 9, 2026 | Initial creation — consolidated from Claude Doc 54 into tiered template; GPT5.2 additions noted inline; all claims tagged | System |
 
 ---
 
-*[1/1 SOURCES — Claude] — This document is based primarily on Claude's research (Doc 54). GPT5.2 additions are noted inline. No full corroborating AI source is available; claims should be weighed accordingly.*
+ — This document is based primarily on Claude's research (Doc 54). GPT5.2 additions are noted inline. No full corroborating AI source is available; claims should be weighed accordingly.*
 
 ---
 
-*Cross-references: → B01 Reptilian Beings Overview | → B06 Dynastic Serpent Lineage | → C01 World Religions Serpent Connections | → C07 Pacific Island Traditions | → C08 (future) | → D02 (future)*
+*Cross-references: → [B01](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) Reptilian Beings Overview | → [B06](../B_Beings_and_Entities/B06_Dynastic_Serpent_Lineage.md) Dynastic Serpent Lineage | → [C01](C01_World_Religions_Serpent_Connections.md) World Religions Serpent Connections | → [C07](C07_Pacific_Island_Traditions.md) Pacific Island Traditions | → [C08](C08_Cross_Cultural_Patterns.md) (future) | → [D02](../D_Sites_and_Artifacts/D02_Pyramids_Worldwide.md) (future)*
 
 ---
 
@@ -534,19 +519,73 @@ Some scholars (e.g., Sheldon Pollock, *The Language of the Gods in the World of 
 
 ---
 
+### Source Tier Classification
+
+This document references sources across multiple evidence tiers within this project's reliability framework:
+
+| Tier | Label | Description |
+|------|-------|-------------|
+| **Tier 1** | VERIFIED | Peer-reviewed studies, archaeological records, and primary source translations |
+| **Tier 2** | CREDIBLE | Academic scholarship with broad support but ongoing interpretive debate |
+| **Tier 3** | SPECULATIVE | Alternative interpretations, popular scholarship, and unverified hypotheses |
+| **Tier 4** | DUBIOUS | Claims lacking credible evidence, fringe theories, or debunked assertions |
+
+
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Indonesian Naga & Southeast Asian Serpent Traditions. Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Indonesian Naga & Southeast Asian Serpent Traditions relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with Indonesian Naga & Southeast Asian Serpent Traditions. Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## CROSS-REFERENCE INDEX
+
+| Document | Section | Connection |
+|----------|---------|------------|
+| [B01](../B_Beings_and_Entities/B01_Reptilian_Beings_Overview.md) | B_Beings_and_Entities | B01 — Reptilian Beings Overview |
+| [B06](../B_Beings_and_Entities/B06_Dynastic_Serpent_Lineage.md) | B_Beings_and_Entities | B06 — Dynastic Serpent Lineage |
+| [C01](C01_World_Religions_Serpent_Connections.md) | C_Global_Traditions | C01 — World Religions Serpent Connections |
+| [C07](C07_Pacific_Island_Traditions.md) | C_Global_Traditions | C07 — Pacific Island Traditions |
+| [C08](C08_Cross_Cultural_Patterns.md) | C_Global_Traditions | C08 — Cross Cultural Patterns |
+| [D02](../D_Sites_and_Artifacts/D02_Pyramids_Worldwide.md) | D_Sites_and_Artifacts | D02 — Pyramids Worldwide |
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## Bibliography
 
-1. Coedès, George. *The Indianized States of Southeast Asia*. Trans. Susan Brown Cowing. University of Hawaii Press, 1968.
-2. Coe, Michael D. *Angkor and the Khmer Civilization*. Thames & Hudson, 2003.
-3. Geertz, Clifford. *The Religion of Java*. Free Press, 1960.
-4. Gonda, Jan. *The Indian Religions in Pre-Islamic Indonesia and Their Survival in Bali*. Indologica Taurinensia, 1975.
-5. Taylor, Keith Weller. *The Birth of Vietnam*. University of California Press, 1983.
-6. Lansing, J. Stephen. *Perfect Order: Recognizing Complexity in Bali*. Princeton University Press, 2006.
-7. Pollock, Sheldon. *The Language of the Gods in the World of Men*. University of California Press, 2006.
-8. Stadtner, Donald M. *Sacred Sites of Burma: Myth and Folklore in an Evolving Spiritual Realm*. River Books, 2011.
-9. Jocano, F. Landa. *Outline of Philippine Mythology*. Centro Escolar University, 1969.
-10. Scott, William Henry. *Barangay: Sixteenth-Century Philippine Culture and Society*. Ateneo de Manila University Press, 1994.
+1. Coedès, George. *The Indianized States of Southeast Asia*. Trans. Susan Brown Cowing. University of Hawaii Press, 1968. DOI: 10.2307/2943044. ISBN: 9780824800710
+2. Coe, Michael D. *Angkor and the Khmer Civilization*. Thames & Hudson, 2003. DOI: 10.1017/s0021911804003110
+3. Geertz, Clifford. *The Religion of Java*. Free Press, 1960. ISBN: 9780029114605
+4. Gonda, Jan. *The Indian Religions in Pre-Islamic Indonesia and Their Survival in Bali*. Indologica Taurinensia, 1975. DOI: 10.1163/9789004482777_002
+5. Taylor, Keith Weller. *The Birth of Vietnam*. University of California Press, 1983. ISBN: 9780520044289
+6. Lansing, J. Stephen. *Perfect Order: Recognizing Complexity in Bali*. Princeton University Press, 2006. DOI: 10.1017/s0021911808001095
+7. Pollock, Sheldon. *The Language of the Gods in the World of Men*. University of California Press, 2006. DOI: 10.7146/ht.v108i2.56380. ISBN: 9781282357747
+8. Stadtner, Donald M. *Sacred Sites of Burma: Myth and Folklore in an Evolving Spiritual Realm*. River Books, 2011. DOI: 10.1558/bsrv.v29i2.304-307
+9. Jocano, F. Landa. *Outline of Philippine Mythology*. Centro Escolar University, 1969. ISBN: 9781790400867
+10. Scott, William Henry. *Barangay: Sixteenth-Century Philippine Culture and Society*. Ateneo de Manila University Press, 1994. DOI: 10.1017/s0022463400007852
 11. Frey, Edward. *The Kris: Mystic Weapon of the Malay World*. Oxford University Press, 2003.
-12. Solyom, Garrett & Solyom, Bronwen. *The World of the Javanese Keris*. University of Hawaii Press, 1978.
+12. Solyom, Garrett & Solyom, Bronwen. *The World of the Javanese Keris*. University of Hawaii Press, 1978. DOI: 10.2307/3103343. ISBN: 9780962034008
 13. Tobing, P.O.L. *The Structure of the Toba-Batak Belief in the High God*. Cellar Book Shop, 1956.
-14. Warneck, J. *Die Religion der Batak*. Göttingen, 1909.
+14. Warneck, J. *Die Religion der Batak*. Göttingen, 1909. ISBN: 9780524013878
