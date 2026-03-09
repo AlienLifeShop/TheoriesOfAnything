@@ -70,6 +70,8 @@ This entire research project is open. Feel free to:
 - **Join the Discord** to share AI prompts, responses, and topic ideas
 - **Play the games** and connect with the community in VR
 
+- **Download the files** and start your own research project — use this knowledge base as a foundation to explore whatever questions inspire you
+
 Every contribution — a shared link, a new source, a corrected fact — helps the project grow.
 
 ---
