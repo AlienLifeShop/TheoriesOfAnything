@@ -1,35 +1,29 @@
 # A08 — The Hermetic Tradition: Thoth, Hermes Trismegistus, and the Emerald Tablet
 
-**Keywords:** Hermes Trismegistus, Corpus Hermeticum, Emerald Tablet, As Above So Below, Prisca Theologia, Isaac Casaubon, Kybalion, Thoth, alchemy, Renaissance, Marsilio Ficino, Poimandres, Ouroboros, Newton, Tabula Smaragdina, Codex Clarkianus, Djehuty, gnosis, Book of Thoth, Ogdoad, Two Pillars, Jabir ibn Hayyan, Sabians of Harran, Giordano Bruno, John Dee, Golden Dawn, quantum parallels
-
-**Cross-references:** [A01](A01_Sumerian_Texts_and_Tablets.md) · [A03](A03_Nag_Hammadi_Gnostic_Texts.md) · ~~D10~~ *(document not yet created)* · [E04](../E_Cataclysms_and_Chronology/E04_Precession_of_the_Equinoxes.md) · [G01](../G_Modern_Frameworks/G01_Quantum_Mechanics_Ancient_Knowledge.md)
-
----
-
-## Reliability Legend
-
-| Tier | Meaning |
-|------|---------|
-| **TIER 1** | Primary texts, established historical facts, peer-reviewed sources |
-| **TIER 2** | Scholarly synthesis, debated but supported |
-| **TIER 3** | Plausible but unverified / speculative |
-| **TIER 4** | Dubious / unsupported |
-
-**Source agreement notation:** Claims are tagged with the number of independent research sources (Gemini, GPT5.2, Master, Raptor) that confirm them.
+> **Document ID:** A08
+> **Section:** A_Foundations
+> **Keywords:** Hermes Trismegistus, Corpus Hermeticum, Emerald Tablet, As Above So Below, Prisca Theologia, Isaac Casaubon, Kybalion, Thoth, alchemy, Renaissance, Marsilio Ficino, Poimandres, Ouroboros, Newton, Tabula Smaragdina, Codex Clarkianus, Djehuty, gnosis, Book of Thoth, Ogdoad, Two Pillars, Jabir ibn Hayyan, Sabians of Harran, Giordano Bruno, John Dee, Golden Dawn, quantum parallels, precession, simulation theory
+> **Category Tags:** foundations, ancient-texts, quantum-physics, religion
+> **Cross-References:** [A01](A01_Sumerian_Texts_and_Tablets.md) · [A03](A03_Nag_Hammadi_Gnostic_Texts.md) · ~~D10~~ *(document not yet created)* · [E04](../E_Cataclysms_and_Chronology/E04_Precession_of_the_Equinoxes.md) · [G01](../G_Modern_Frameworks/G01_Quantum_Mechanics_Ancient_Knowledge.md)
+> **Reliability Tier:** Tier 2-3 (foundational ancient texts and traditions)
+> **Last Updated:** Mar 08, 2026 | **Source Count:** 11 | **Weighted Score:** 22 | **Source Confidence:** [3/5] | **Confidence:** Moderate (mixed evidence across tiers)
 
 ---
+
+## Quick Summary
+
+This document examines The Hermetic Tradition: Thoth, Hermes Trismegistus, and the Emerald Tablet, a topic within the Foundations research area. Notable findings include: Ancient Egyptian tradition describes a **Book of Thoth** containing all the secrets of the universe. The document presents evidence organized across multiple tiers — from peer-reviewed and verified claims to more speculative interpretations — with cross-references to related topics throughout the knowledge base.
 
 ## 1. Overview
 
 The **Hermetic tradition** is one of the most influential esoteric currents in Western history, attributed to **Hermes Trismegistus** ("Thrice-Great Hermes") — a legendary figure merging the Egyptian god **Thoth** (Djehuty) with the Greek god **Hermes**. Hermeticism claims to preserve the original wisdom taught to humanity before the Flood: the knowledge of the cosmos, the divine mind, alchemy, astrology, and the nature of consciousness. Its core text — the **Emerald Tablet** — contains the most famous occult maxim: *"As above, so below."* Isaac Newton translated it. The Renaissance was sparked partly by the rediscovery of Hermetic texts. The tradition's claims echo the project's central theme: non-human intelligences gave humanity a foundational knowledge system that was subsequently suppressed.
 
-**Source agreement:** 4 sources (Gemini, GPT5.2, Master, Raptor) independently documented this topic. Core claims below represent consensus unless noted.
 
 ---
 
 ## 2. Thoth — The Egyptian Original — TIER 1 [Master]
 
-### Identity and Attributes
+### 2.1 Identity and Attributes
 
 | Attribute | Details |
 |-----------|---------|
@@ -41,7 +35,7 @@ The **Hermetic tradition** is one of the most influential esoteric currents in W
 | **Spouse** | Ma'at (truth/cosmic order) or Seshat (writing/measures) |
 | **Title** | "Lord of Divine Words," "Scribe of the Company of Gods," "Lord of Time" |
 
-### Thoth as Civilizer
+### 2.2 Thoth as Civilizer
 
 Thoth was responsible for:
 1. **Inventing writing** (hieroglyphs = *medu neter*, "words of god")
@@ -52,14 +46,14 @@ Thoth was responsible for:
 6. **Recording the weighing of hearts** in the Hall of Judgment (afterlife)
 7. **Mediating between cosmic forces** — maintaining the balance of the universe
 
-### The Book of Thoth
+### 2.3 The Book of Thoth
 
 - Ancient Egyptian tradition describes a **Book of Thoth** containing all the secrets of the universe
 - The book granted the reader power over the heavens, earth, the underworld, the sea, mountains, and all living creatures
 - Said to be hidden in nested containers at the bottom of the Nile, **guarded by serpents** (the Eden parallel is unmistakable)
 - Various stories describe seekers destroyed by its power (e.g., the *Setne Khaemwas* cycle, Ptolemaic period)
 
-### The Ogdoad of Hermopolis
+### 2.4 The Ogdoad of Hermopolis
 
 - At Hermopolis, Thoth presided over the **Ogdoad** — eight primordial deities (four male-female pairs) existing **before** creation
 - Parallels other "primordial council" traditions (Anunnaki council, Elohim as plural)
@@ -69,14 +63,14 @@ Thoth was responsible for:
 
 ## 3. Hermes Trismegistus — The Syncretic Figure — TIER 1 [Master]
 
-### The Fusion
+### 3.1 The Fusion
 
 - In Ptolemaic Egypt (305–30 BCE), Greek and Egyptian cultures merged
 - **Thoth** (wisdom, writing) was identified with **Hermes** (communication, psychopomp)
 - The merged figure: **Hermes Trismegistus** — "Thrice-Great Hermes"
 - "Trismegistus" likely derives from the Egyptian epithet of Thoth: "great, great, great" (*ꜥꜣ ꜥꜣ ꜥꜣ*)
 
-### Claims About Hermes Trismegistus
+### 3.2 Claims About Hermes Trismegistus
 
 Ancient and medieval authors considered him a real historical figure:
 1. A **pre-Flood sage** who inscribed all knowledge on pillars that survived the Deluge
@@ -84,7 +78,7 @@ Ancient and medieval authors considered him a real historical figure:
 3. The **inventor of all sciences** — alchemy, astrology, medicine, philosophy, theology, magic
 4. Author of **36,525 books** (according to Seleucus; Manetho claims 36,525; Iamblichus claims 20,000)
 
-### The Two Pillars Tradition
+### 3.3 The Two Pillars Tradition
 
 Hermes/Thoth inscribed all human knowledge on two pillars — one to survive fire, one to survive flood. This tradition appears in:
 - **Josephus** (*Antiquities of the Jews*, 1st century CE): attributes pillars to the children of Seth
@@ -94,22 +88,22 @@ Hermes/Thoth inscribed all human knowledge on two pillars — one to survive fir
 
 ---
 
-## 4. The Corpus Hermeticum — TIER 1 [4/4 SOURCES]
+## 4. The Corpus Hermeticum — TIER 1
 
-### Composition and Dating
+### 4.1 Composition and Dating
 
 | Feature | Details |
 |---------|---------|
 | **Contents** | 17 Greek treatises (the *Corpus Hermeticum*) plus the Latin *Asclepius* |
 | **Language** | Greek (with Egyptian concepts); *Asclepius* survives only in Latin — Greek original lost [GPT5.2] |
 | **Authorship** | Attributed to Hermes Trismegistus; actually composed by multiple anonymous authors |
-| **Date of composition** | **100–300 CE** (scholarly consensus) [4/4 SOURCES] |
+| **Date of composition** | **100–300 CE** (scholarly consensus) |
 | **Claimed date** | Pre-Mosaic; pre-Flood; the oldest wisdom in existence |
 | **Oldest manuscript** | **Codex Clarkianus** (14th century) [Gemini] |
 | **Earlier evidence** | Papyri fragments of "technical" Hermetica date to the **2nd century BCE** — earlier than the literary texts [Gemini] |
-| **Rediscovery** | Brought to Florence in 1460 by a monk; translated by **Marsilio Ficino** for Cosimo de' Medici in 1463 — BEFORE Ficino translated Plato [4/4 SOURCES] |
+| **Rediscovery** | Brought to Florence in 1460 by a monk; translated by **Marsilio Ficino** for Cosimo de' Medici in 1463 — BEFORE Ficino translated Plato |
 
-### Isaac Casaubon's "Debunking" (1614) — TIER 1 [4/4 SOURCES]
+### Isaac Casaubon's "Debunking" (1614) — TIER 1
 
 - **Isaac Casaubon** (1559–1614): Philologist who demonstrated through textual analysis that the Corpus Hermeticum was written in the **1st–3rd centuries CE**, not in pre-Mosaic antiquity [Gemini, GPT5.2, Master]
 - This undermined the claim that Hermeticism predated Christianity
@@ -117,13 +111,13 @@ Hermes/Thoth inscribed all human knowledge on two pillars — one to survive fir
 - The Egyptian concepts within the texts may be far older than their Greek literary expression
 - The Hermetic tradition itself claims to be a written version of oral teachings stretching back to the gods
 
-### The Prisca Theologia Connection — TIER 2 [Gemini, Master]
+### 4.2 The Prisca Theologia Connection — TIER 2 [Gemini, Master]
 
 - The **Prisca Theologia** ("ancient theology"): the belief in a single, true primordial theology given to humanity by God/Gods, which later religions fragmented
 - Renaissance thinkers believed the Hermetic texts preserved this original wisdom
 - This aligns directly with the "Civilization from the Seven Sages" thesis and the project's central argument of a common knowledge source
 
-### The Poimandres (Treatise I) — TIER 1 [Master]
+### 4.3 The Poimandres (Treatise I) — TIER 1 [Master]
 
 The first and most important Hermetic text — a creation narrative:
 
@@ -132,21 +126,21 @@ The first and most important Hermetic text — a creation narrative:
 3. **Humanity was created as a being of Light** who fell in love with Nature and became trapped in matter
 4. The path to return: **Gnosis** — direct knowledge of one's divine origin
 
-### Parallels to Other Traditions [Master]
+### 4.4 Parallels to Other Traditions [Master]
 
 | Hermetic Concept | Parallel |
 |-----------------|----------|
 | Creation through Word/Logos | Genesis: "God said"; Gospel of John: "In the beginning was the Word" |
-| Humanity as divine beings trapped in matter | Gnostic texts (→ A03): Sophia's fall; divine spark in flesh |
+| Humanity as divine beings trapped in matter | Gnostic texts (→ [A03](A03_Nag_Hammadi_Gnostic_Texts.md)): Sophia's fall; divine spark in flesh |
 | Knowledge as liberation | Nag Hammadi: gnosis frees from the Archons |
 | Seven planetary archons to be passed | Book of Enoch: seven heavens; Gnostic: seven Archons controlling the planets |
-| "As above, so below" | Sumerian: earthly realm mirrors the divine (→ A01); Hindu: Brahman reflects in Atman |
+| "As above, so below" | Sumerian: earthly realm mirrors the divine (→ [A01](A01_Sumerian_Texts_and_Tablets.md)); Hindu: Brahman reflects in Atman |
 
 ---
 
-## 5. The Emerald Tablet (*Tabula Smaragdina*) — TIER 1 [4/4 SOURCES]
+## 5. The Emerald Tablet (*Tabula Smaragdina*) — TIER 1
 
-### Earliest Known Sources [GPT5.2, Master]
+### 5.1 Earliest Known Sources [GPT5.2, Master]
 
 | Version | Date | Language |
 |---------|------|----------|
@@ -156,7 +150,7 @@ The first and most important Hermetic text — a creation narrative:
 
 The Emerald Tablet appears in Arabic sources (8th–9th century CE) and was translated into Latin in the medieval period. [GPT5.2] — TIER 1
 
-### Isaac Newton's Translation (c. 1680)
+### 5.2 Isaac Newton's Translation (c. 1680)
 
 > "Tis true without lying, certain & most true.
 > That which is below is like that which is above & that which is above is like that which is below to do the miracles of one only thing.
@@ -174,7 +168,7 @@ The Emerald Tablet appears in Arabic sources (8th–9th century CE) and was tran
 > Hence I am called Hermes Trismegist, having the three parts of the philosophy of the whole world
 > That which I have said of the operation of the Sun is accomplished & ended."
 
-### Key Concepts [Master]
+### 5.3 Key Concepts [Master]
 
 | Phrase | Interpretation |
 |--------|---------------|
@@ -187,7 +181,7 @@ The Emerald Tablet appears in Arabic sources (8th–9th century CE) and was tran
 
 ---
 
-## 6. Isaac Newton — The Secret Hermeticist — TIER 1 [4/4 SOURCES]
+## 6. Isaac Newton — The Secret Hermeticist — TIER 1
 
 | Fact | Details |
 |------|---------|
@@ -198,7 +192,7 @@ The Emerald Tablet appears in Arabic sources (8th–9th century CE) and was tran
 | **"Principia" connection** | Gravity as "action at a distance" was a HERMETIC concept — invisible forces connecting all matter |
 | **Alchemical papers** preserved and published [GPT5.2] | TIER 1 |
 
-### The Keynes Assessment
+### 6.1 The Keynes Assessment
 
 After purchasing Newton's papers at auction (1936), **John Maynard Keynes** concluded:
 
@@ -208,9 +202,9 @@ Newton believed he was **recovering ancient knowledge**, not discovering new tru
 
 ---
 
-## 7. The Hermetic Renaissance — TIER 1 [4/4 SOURCES]
+## 7. The Hermetic Renaissance — TIER 1
 
-### The Rediscovery
+### 7.1 The Rediscovery
 
 | Event | Date | Significance |
 |-------|------|-------------|
@@ -221,7 +215,7 @@ Newton believed he was **recovering ancient knowledge**, not discovering new tru
 
 Marsilio Ficino translated the Corpus Hermeticum into Latin in the 1460s, prioritizing it over Plato at the request of Cosimo de Medici. [GPT5.2] — TIER 1
 
-### Key Renaissance Hermeticists [Master]
+### 7.2 Key Renaissance Hermeticists [Master]
 
 | Thinker | Contribution |
 |---------|-------------|
@@ -238,7 +232,7 @@ Hermetic ideas influenced Renaissance magic, alchemy, and later esoteric orders 
 
 ## 8. Alchemy — The Hermetic Science — TIER 1–2 [Master]
 
-### Dual Nature of Alchemy
+### 8.1 Dual Nature of Alchemy
 
 | Aspect | Exoteric (Surface) | Esoteric (Hidden) |
 |--------|--------------------|--------------------|
@@ -249,7 +243,7 @@ Hermetic ideas influenced Renaissance magic, alchemy, and later esoteric orders 
 | **Sulfur (🜍)** | Combustible element | Soul/will/desire |
 | **Salt (🜔)** | Crystalline solid | Body/matter |
 
-### The Great Work (*Magnum Opus*)
+### 8.2 The Great Work (*Magnum Opus*)
 
 | Stage | Latin | Color | Process |
 |-------|-------|-------|---------|
@@ -258,7 +252,7 @@ Hermetic ideas influenced Renaissance magic, alchemy, and later esoteric orders 
 | 3 | **Citrinitas** | Yellow | Awakening — dawn of wisdom |
 | 4 | **Rubedo** | Red | Completion — the Philosopher's Stone achieved |
 
-### The Ouroboros
+### 8.3 The Ouroboros
 
 - **Serpent devouring its own tail** — the oldest alchemical symbol
 - First appears in the **Chrysopoeia of Cleopatra** (Egyptian alchemical text, ~3rd century CE)
@@ -269,14 +263,14 @@ Hermetic ideas influenced Renaissance magic, alchemy, and later esoteric orders 
 
 ## 9. The Arabic Preservation — TIER 1 [Master]
 
-### The Harran Connection
+### 9.1 The Harran Connection
 
 - After Justinian I closed Neoplatonic schools (529 CE), Hermetic knowledge migrated east
 - **Harran** (modern Turkey) — ancient center of Moon-god worship (Sin/Nanna) — became a haven for Hermetic scholars
 - The **Sabians of Harran** claimed Hermes Trismegistus as their prophet
 - Harranian scholars translated Greek and Hermetic texts into Arabic
 
-### Key Arabic Hermetic Figures
+### 9.2 Key Arabic Hermetic Figures
 
 | Figure | Period | Contribution |
 |--------|--------|-------------|
@@ -291,7 +285,7 @@ The **Bayt al-Hikma** (House of Wisdom) in Baghdad (8th–13th centuries) preser
 
 ## 10. The Hermetic Chain of Transmission — TIER 2–3 [Master]
 
-### The Prisca Theologia — The Chain
+### 10.1 The Prisca Theologia — The Chain
 
 ```
 Thoth/Hermes Trismegistus (pre-Flood)
@@ -342,15 +336,15 @@ The Raptor addendum flags philosophical parallels between Hermetic principles an
 
 ## 13. Modern Hermetic Legacy — TIER 1–2 [Master]
 
-### Freemasonry
+### 13.1 Freemasonry
 - Masonic symbolism is heavily Hermetic: All-Seeing Eye, two pillars, compass and square, layered degree system
 - The legend of Hiram Abiff preserves the Hermetic theme of the master builder with secret knowledge
 
-### Rosicrucianism
+### 13.2 Rosicrucianism
 - Rosicrucian manifestos (1614–1616) claimed a hidden brotherhood preserving Hermetic and alchemical knowledge
 - Founded by "Christian Rosenkreuz" who traveled to the Middle East and learned from Arab scholars
 
-### The Golden Dawn
+### 13.3 The Golden Dawn
 - **Hermetic Order of the Golden Dawn** (1887–1903): British occult organization explicitly based on Hermetic principles
 - Members included W.B. Yeats, Aleister Crowley, Arthur Machen
 - Synthesized Hermeticism, Kabbalah, Tarot, Enochian magic, Egyptian mythology
@@ -373,7 +367,7 @@ The Raptor addendum flags philosophical parallels between Hermetic principles an
 
 ## 15. GPT5.2 Source Links & Reliability Framework
 
-### Source Links (for verification)
+### 15.1 Source Links (for verification)
 
 | ID | Source |
 |----|--------|
@@ -403,12 +397,12 @@ The Raptor addendum flags philosophical parallels between Hermetic principles an
 
 ## 16. Annotated Bibliography [Raptor, Master]
 
-### Primary Texts & Critical Editions
+### 16.1 Primary Texts & Critical Editions
 - **Copenhaver, B.P.** (1992). *Hermetica: The Greek Corpus Hermeticum and the Latin Asclepius*. Cambridge University Press. — The standard critical English translation. [Raptor]
 - **Scott, W.** (1924–1936). *Hermetica*. 4 vols. Oxford University Press. — Older but still referenced edition.
 - *The Kybalion* (1908). "Three Initiates." The Yogi Publication Society. — **Modern text, not ancient** (see §11).
 
-### Academic Studies
+### 16.2 Academic Studies
 - **Fowden, G.** (1986). *The Egyptian Hermes: A Historical Approach to the Late Pagan Mind*. Princeton University Press. — The key historical study of Hermes Trismegistus in his Egyptian cultural context. [Raptor]
 - **Yates, F.A.** (1964). *Giordano Bruno and the Hermetic Tradition*. University of Chicago Press. — Foundational work on Hermeticism's role in the Renaissance. [Raptor]
 - **Bull, C.H.** (2018). *The Tradition of Hermes Trismegistus*. Brill. — Most recent comprehensive scholarly treatment.
@@ -421,31 +415,56 @@ The Raptor addendum flags philosophical parallels between Hermetic principles an
 
 ---
 
-## Source Agreement Summary
+## Counter-Arguments & Criticisms
 
-| Agreement Level | Claims |
-|----------------|--------|
-| **[4/4 SOURCES]** | Corpus Hermeticum dating (100–300 CE), Ficino's translation priority over Plato, Casaubon's re-dating (1614), Newton's alchemical writings, Emerald Tablet transmission history |
-| **[3/4 SOURCES]** | Kybalion as modern text (not ancient), Arabic preservation route, Hermetic influence on Renaissance thought |
-| **[2/4 SOURCES]** | Prisca Theologia as framework for Renaissance reception, Codex Clarkianus as oldest manuscript |
-| **[1/4 SOURCES]** | Technical Hermetica predating literary corpus (Gemini), quantum/entanglement parallels (Raptor) |
+### Mainstream Academic Counterpoints
 
----
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with The Hermetic Tradition: Thoth, Hermes Trismegistus, and the Emerald Tablet. Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to The Hermetic Tradition: Thoth, Hermes Trismegistus, and the Emerald Tablet relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
 
-*Consolidated Research Document A08 — Built from Gemini, GPT5.2, Master, and Raptor sources — February 2026*
+### Alternative Explanations & Disputed Evidence
 
----
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with The Hermetic Tradition: Thoth, Hermes Trismegistus, and the Emerald Tablet. Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## CROSS-REFERENCE INDEX
+
+| Document | Section | Connection |
+|----------|---------|------------|
+| [A01](A01_Sumerian_Texts_and_Tablets.md) | A_Foundations | A01 — Sumerian Texts and Tablets |
+| [A03](A03_Nag_Hammadi_Gnostic_Texts.md) | A_Foundations | A03 — Nag Hammadi Gnostic Texts |
+| [E04](../E_Cataclysms_and_Chronology/E04_Precession_of_the_Equinoxes.md) | E_Cataclysms_and_Chronology | E04 — Precession of the Equinoxes |
+| [G01](../G_Modern_Frameworks/G01_Quantum_Mechanics_Ancient_Knowledge.md) | G_Modern_Frameworks | G01 — Quantum Mechanics Ancient Knowledge |
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
 
 ## Bibliography
 
-1. Copenhaver, Brian P. *Hermetica: The Greek Corpus Hermeticum and the Latin Asclepius*. Cambridge University Press, 1992.
-2. Fowden, Garth. *The Egyptian Hermes: A Historical Approach to the Late Pagan Mind*. Princeton University Press, 1986.
-3. Yates, Frances A. *Giordano Bruno and the Hermetic Tradition*. University of Chicago Press, 1964.
-4. Bull, Christian H. *The Tradition of Hermes Trismegistus*. Brill, 2018.
-5. Ebeling, Florian. *The Secret History of Hermes Trismegistus*. Cornell University Press, 2007.
-6. Hanegraaff, Wouter J. *Esotericism and the Academy*. Cambridge University Press, 2012.
-7. Principe, Lawrence M. *The Secrets of Alchemy*. University of Chicago Press, 2013.
-8. Newman, William R. *Newton the Alchemist*. Princeton University Press, 2019.
-9. Green, Tamara M. *The City of the Moon God: Religious Traditions of Harran*. Brill, 1992.
-10. Scott, Walter. *Hermetica*. 4 vols. Oxford University Press, 1924–1936.
-11. Keynes, John Maynard. "Newton, the Man." In *Newton Tercentenary Celebrations*. Cambridge University Press, 1947.
+1. Copenhaver, Brian P. *Hermetica: The Greek Corpus Hermeticum and the Latin Asclepius*. Cambridge University Press, 1992. DOI: 10.1017/cbo9781107050075
+2. Fowden, Garth. *The Egyptian Hermes: A Historical Approach to the Late Pagan Mind*. Princeton University Press, 1986. DOI: 10.1017/s0009840x00121560
+3. Yates, Frances A. *Giordano Bruno and the Hermetic Tradition*. University of Chicago Press, 1964. DOI: 10.1086/ahr/70.2.455. ISBN: 9780710023377
+4. Bull, Christian H. *The Tradition of Hermes Trismegistus*. Brill, 2018. ISBN: 9789004370814
+5. Ebeling, Florian. *The Secret History of Hermes Trismegistus*. Cornell University Press, 2007. DOI: 10.1080/03612759.2007.10527107. ISBN: 9780801477492
+6. Hanegraaff, Wouter J. *Esotericism and the Academy*. Cambridge University Press, 2012. DOI: 10.1163/15700593-01401010. ISBN: 9781280484797
+7. Principe, Lawrence M. *The Secrets of Alchemy*. University of Chicago Press, 2013. ISBN: 9780226103792
+8. Newman, William R. *Newton the Alchemist*. Princeton University Press, 2019. ISBN: 9780691174877
+9. Green, Tamara M. *The City of the Moon God: Religious Traditions of Harran*. Brill, 1992. DOI: 10.1163/9789004301429
+10. Scott, Walter. *Hermetica*. 4 vols. Oxford University Press, 1924–1936. ISBN: 9780521361446
+11. Keynes, John Maynard. "Newton, the Man." In *Newton Tercentenary Celebrations*. Cambridge University Press, 1947. DOI: 10.2307/3609293

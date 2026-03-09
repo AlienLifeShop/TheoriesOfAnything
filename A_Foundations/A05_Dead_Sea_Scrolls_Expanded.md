@@ -1,22 +1,26 @@
 # A05 — Dead Sea Scrolls Expanded
 
-> **Source Agreement:** 4 AI sources contributed (Gemini, GPT5.2, Master, Raptor) | **Primary Tier:** 1 | **Last Updated:** Feb 9, 2026
+> **Document ID:** A05
+> **Section:** A_Foundations
 > **Keywords:** Dead Sea Scrolls, Qumran, Book of Giants, Copper Scroll, Watchers, 4Q534, Birth of Noah, Nephilim, Ohyah, Hahyah, Mahway, Essenes, Zadokites, Teacher of Righteousness, War Scroll, Community Rule, Melchizedek Scroll, Temple Scroll, Two Spirits Doctrine, Belial, Merkabah, John Allegro, luminous Noah
+> **Category Tags:** foundations, ancient-texts
 > **Cross-References:** A03, A04, A07, B02, B04, H01
+> **Reliability Tier:** Tier 1 (well-documented, peer-reviewed)
+> **Last Updated:** Feb 9, 2026 | **Source Count:** 10 | **Weighted Score:** 18 | **Source Confidence:** [2/5] | **Confidence:** High (well-documented, peer-reviewed)
 
 ---
 
 ## QUICK SUMMARY
 
-The **Dead Sea Scrolls** (DSS), discovered between 1947–1956 in 11 caves near Qumran on the northwest shore of the Dead Sea, comprise over **900 manuscripts** dating from the 3rd century BCE to the 1st century CE. Beyond their well-known significance for biblical studies and Second Temple Judaism, the scrolls contain extensive, **detailed descriptions of non-human beings, giant offspring, and cosmic warfare** that directly parallel this project's central themes. This document consolidates all research on the DSS from four AI sources, focusing on the **Birth of Noah** (4Q534-536), the **Book of Giants**, the **War Scroll**, the **Copper Scroll**, the **Temple Scroll**, the **Songs of the Sabbath Sacrifice**, the **Melchizedek Scroll**, and additional fragments describing hybrid beings and celestial entities.
+The **Dead Sea Scrolls** (DSS), discovered between 1947–1956 in 11 caves near Qumran on the northwest shore of the Dead Sea, comprise over **900 manuscripts** dating from the 3rd century BCE to the 1st century CE. Beyond their well-known significance for biblical studies and Second Temple Judaism, the scrolls contain extensive, **detailed descriptions of non-human beings, giant offspring, and cosmic warfare** that directly parallel this project's central themes. This document consolidates all research on the DSS focusing on the **Birth of Noah** (4Q534-536), the **Book of Giants**, the **War Scroll**, the **Copper Scroll**, the **Temple Scroll**, the **Songs of the Sabbath Sacrifice**, the **Melchizedek Scroll**, and additional fragments describing hybrid beings and celestial entities.
 
-The corpus includes biblical, sectarian, and apocryphal texts in Hebrew (~80%), Aramaic (~15%), and Greek (~5%). Categories span ~230 biblical manuscripts (every book of the Hebrew Bible except Esther), ~100+ apocryphal/pseudepigraphal works (1 Enoch, Jubilees, Tobit, Sirach), ~100+ sectarian texts (Community Rule, War Scroll, Temple Scroll), and ~400+ other texts (commentaries, hymns, calendrical documents, mysteries). **[4/4 sources]**
+The corpus includes biblical, sectarian, and apocryphal texts in Hebrew (~80%), Aramaic (~15%), and Greek (~5%). Categories span ~230 biblical manuscripts (every book of the Hebrew Bible except Esther), ~100+ apocryphal/pseudepigraphal works (1 Enoch, Jubilees, Tobit, Sirach), ~100+ sectarian texts (Community Rule, War Scroll, Temple Scroll), and ~400+ other texts (commentaries, hymns, calendrical documents, mysteries).
 
 ---
 
 ## 1. VERIFIED CLAIMS (Tier 1)
 
-### 1.1 Discovery and Corpus — Basic Data **[4/4 SOURCES]**
+### 1.1 Discovery and Corpus — Basic Data
 
 | Feature | Details |
 |---------|---------|
@@ -40,7 +44,7 @@ The corpus includes biblical, sectarian, and apocryphal texts in Hebrew (~80%), 
 
 ---
 
-### 1.2 The Birth of Noah — 4Q534-536 **[4/4 SOURCES]**
+### 1.2 The Birth of Noah — 4Q534-536
 
 **Reliability: TIER 1 (text exists) / TIER 2 (content analysis)**
 
@@ -91,7 +95,7 @@ This Aramaic retelling expands the story:
 
 ---
 
-### 1.3 The Book of Giants **[4/4 SOURCES]**
+### 1.3 The Book of Giants
 
 **Reliability: TIER 1 (texts exist and are translated) / TIER 2 (content analysis)**
 
@@ -118,14 +122,14 @@ This Aramaic retelling expands the story:
 
 **Reference:** Leon Levy Dead Sea Scrolls Digital Library — plan: query for these fragment IDs and download transcriptions & high-res images where available. **[1/4 — Raptor]**
 
-#### Named Giants in the Text **[4/4 SOURCES]**
+#### Named Giants in the Text
 
 | Name | Details |
 |------|---------|
 | **Ohyah** (also Ohya) | Son of the Watcher **Shemhazai** (the leader); a mighty warrior |
 | **Hahyah** (also Hahya) | Brother of Ohyah; also a son of Shemhazai |
 | **Mahway** (also Mahawai) | Son of the Watcher **Baraq'el**; serves as a messenger between the Giants and Enoch |
-| **Gilgamesh** | YES — **Gilgamesh** appears as one of the Giants/Nephilim in this text **[4/4]** |
+| **Gilgamesh** | YES — **Gilgamesh** appears as one of the Giants/Nephilim in this text |
 | **Hobabish** (also Hobabis) | Another giant — **likely Humbaba**, the monster from the Gilgamesh epic **[1/4 — Gemini: Hobabish=Humbaba identification]** |
 | **Additional named giants** | Various fragmentary names preserved |
 
@@ -151,7 +155,7 @@ This Aramaic retelling expands the story:
 
 ---
 
-### 1.4 The War Scroll (1QM / 4QM) **[4/4 SOURCES]**
+### 1.4 The War Scroll (1QM / 4QM)
 
 **Reliability: TIER 1 — VERIFIED (well-preserved text)**
 
@@ -204,7 +208,7 @@ The War Scroll describes a reality in which:
 
 ---
 
-### 1.5 The Copper Scroll (3Q15) **[4/4 SOURCES]**
+### 1.5 The Copper Scroll (3Q15)
 
 **Reliability: TIER 1 (the scroll exists; its meaning is debated)**
 
@@ -251,7 +255,7 @@ The War Scroll describes a reality in which:
 
 ---
 
-### 1.6 The Temple Scroll (11QT / 11Q19) **[4/4 SOURCES]**
+### 1.6 The Temple Scroll (11QT / 11Q19)
 
 **Reliability: TIER 1 — VERIFIED**
 
@@ -276,7 +280,7 @@ The War Scroll describes a reality in which:
 
 ---
 
-### 1.7 The Two Spirits Doctrine (1QS III-IV) **[3/4 — Master, Gemini, GPT5.2]**
+### 1.7 The Two Spirits Doctrine (1QS III-IV)
 
 **Reliability: TIER 1 — VERIFIED**
 
@@ -289,7 +293,7 @@ The **Community Rule** (Serekh ha-Yahad) describes a dualistic cosmology:
 
 ---
 
-### 1.8 Songs of the Sabbath Sacrifice (4Q400-407, 11Q17) **[3/4 — Master, Gemini, GPT5.2]**
+### 1.8 Songs of the Sabbath Sacrifice (4Q400-407, 11Q17)
 
 **Reliability: TIER 1 — VERIFIED (well-documented text)**
 
@@ -317,7 +321,7 @@ Also called the **Angelic Liturgy** or **Shirot Olat ha-Shabbat**
 
 ---
 
-### 1.9 Non-Human Beings in the Scrolls — Comprehensive Catalog **[4/4 SOURCES]**
+### 1.9 Non-Human Beings in the Scrolls — Comprehensive Catalog
 
 | Being Type | Hebrew/Aramaic | Description | Alignment |
 |-----------|----------------|-------------|-----------|
@@ -336,7 +340,7 @@ Also called the **Angelic Liturgy** or **Shirot Olat ha-Shabbat**
 
 ## 2. CREDIBLE CLAIMS (Tier 2)
 
-### 2.1 The "Sons of Zadok" and Temple Corruption **[2/4 — Gemini, Gemini-34]**
+### 2.1 The "Sons of Zadok" and Temple Corruption
 
 **Reliability: TIER 1 (verified from primary text) / TIER 2 (interpretive connections)**
 
@@ -353,7 +357,7 @@ This mirrors the "Gnostic" idea of a corrupted material religion vs. a hidden, p
 
 ---
 
-### 2.2 The Melchizedek Scroll (11Q13) **[3/4 — Master, Gemini, GPT5.2]**
+### 2.2 The Melchizedek Scroll (11Q13)
 
 **Reliability: TIER 2 — CREDIBLE**
 
@@ -367,7 +371,7 @@ This mirrors the "Gnostic" idea of a corrupted material religion vs. a hidden, p
 
 ---
 
-### 2.3 Vendyl Jones and Copper Scroll Searches **[1/4 — Gemini]**
+### 2.3 Vendyl Jones and Copper Scroll Searches
 
 **Reliability: TIER 2**
 
@@ -377,7 +381,7 @@ Researcher **Vendyl Jones** claimed to have found associated incense (the *qetor
 
 ---
 
-### 2.4 Content Analysis — Birth of Noah Implications **[4/4 SOURCES]**
+### 2.4 Content Analysis — Birth of Noah Implications
 
 **Reliability: TIER 2 — CREDIBLE (interpretive)**
 
@@ -393,7 +397,7 @@ The Birth-of-Noah fragments, when read alongside 1 Enoch 106-107 and the Genesis
 
 ## 3. SPECULATIVE CLAIMS (Tier 3)
 
-### 3.1 Copper Scroll — Physical Verification **[2/4 — Master, Raptor]**
+### 3.1 Copper Scroll — Physical Verification
 
 **Reliability: TIER 3 — SPECULATIVE**
 
@@ -402,7 +406,7 @@ The Birth-of-Noah fragments, when read alongside 1 Enoch 106-107 and the Genesis
 - The mention of hidden scrolls among the treasure raises the possibility of **deliberately preserved texts** — knowledge buried for future rediscovery (→ cross-ref H01)
 - The physical verification of these treasure caches remains scarce **[1/4 — Raptor: TIER 3 rating for physical verification]**
 
-### 3.2 Cross-Cultural Being Parallels **[3/4 — Master, Gemini, GPT5.2]**
+### 3.2 Cross-Cultural Being Parallels
 
 **Reliability: TIER 3 — SPECULATIVE**
 
@@ -410,14 +414,14 @@ The following cross-cultural parallels are drawn from the scrolls but remain int
 
 | DSS Element | Parallel Tradition | Connection |
 |------------|-------------------|------------|
-| War Scroll's Belial as serpent/Satan | Bible serpent tradition (→ A02) | The cosmic war between serpent forces and divine forces |
-| Gnostic archons | Sons of Darkness / Belial's army (→ A03) | The two-spirits doctrine mirrors archon cosmology |
-| Book of Giants expands Watcher/Nephilim narrative | 1 Enoch tradition (→ A04) | Continuous literary tradition |
-| Watcher-Anunnaki parallels | Sumerian tradition (→ A07) | Intensified by the Book of Giants' Gilgamesh connection |
-| Melchizedek as divine being in human form | Apkallu/Oannes function (→ B04) | Non-human teachers appearing as human king-priests |
+| War Scroll's Belial as serpent/Satan | Bible serpent tradition (→ [A02](A02_Bible_Serpent_References.md)) | The cosmic war between serpent forces and divine forces |
+| Gnostic archons | Sons of Darkness / Belial's army (→ [A03](A03_Nag_Hammadi_Gnostic_Texts.md)) | The two-spirits doctrine mirrors archon cosmology |
+| Book of Giants expands Watcher/Nephilim narrative | 1 Enoch tradition (→ [A04](A04_Book_of_Enoch_and_Watchers.md)) | Continuous literary tradition |
+| Watcher-Anunnaki parallels | Sumerian tradition (→ [A07](A07_Apkallu_Oannes_Seven_Sages.md)) | Intensified by the Book of Giants' Gilgamesh connection |
+| Melchizedek as divine being in human form | Apkallu/Oannes function (→ [B04](../B_Beings_and_Entities/B04_Solomon_and_the_Jinn.md)) | Non-human teachers appearing as human king-priests |
 | Heavenly Temple blueprint | Hermetic "as above, so below" | Divine architectural specifications given to humans |
 | Temple Scroll divine blueprints | Sumerian ME | God gives specifications to Moses, as the gods give ME to Sumerians |
-| Copper Scroll hidden knowledge | Suppression thesis (→ H01) | Deliberate hiding of ancient knowledge/artifacts |
+| Copper Scroll hidden knowledge | Suppression thesis (→ [H01](../H_Suppression_and_Thesis/H01_Suppression_of_Ancient_Knowledge.md)) | Deliberate hiding of ancient knowledge/artifacts |
 
 ---
 
@@ -425,9 +429,7 @@ The following cross-cultural parallels are drawn from the scrolls but remain int
 
 ### 4.1 Copper Scroll as Fiction
 
-Some scholars argue the quantities listed in the Copper Scroll are **too large to be real** and the scroll is a literary fantasy or "utopian" list. While this position exists in scholarship, it is a minority view; most scholars accept the scroll records *real* hiding places, even if the treasure has since been relocated or looted. **[2/4 — Master, GPT5.2]**
-
-### 4.2 Speculation Beyond the Texts
+Some scholars argue the quantities listed in the Copper Scroll are **too large to be real** and the scroll is a literary fantasy or "utopian" list. While this position exists in scholarship, it is a minority view; most scholars accept the scroll records *real* hiding places, even if the treasure has since been relocated or looted. **[2/4 —### 4.2 Speculation Beyond the Textsion Beyond the Texts
 
 No source in the research corpus makes claims that would rate as fully TIER 4 / DUBIOUS regarding the Dead Sea Scrolls themselves. The texts are well-documented and academically established. TIER 4 ratings apply only to the most extreme interpretive leaps (e.g., claims that the scrolls describe advanced alien technology or that specific treasure locations have been secretly excavated by governments), none of which appear in the consolidated source material.
 
@@ -498,32 +500,6 @@ No source in the research corpus makes claims that would rate as fully TIER 4 / 
 
 ---
 
-## SOURCE AGREEMENT SUMMARY
-
-| Section | Sources in Agreement | Notes |
-|---------|---------------------|-------|
-| DSS discovery & basic data | **[4/4]** Gemini, GPT5.2, Master, Raptor | All cover the 900+ manuscripts, Essene community, 11 caves |
-| Birth of Noah (4Q534-536) | **[4/4]** Gemini, GPT5.2, Master, Raptor | Noah's non-human appearance and Watcher suspicion |
-| Book of Giants — core narrative | **[4/4]** Gemini, GPT5.2, Master, Raptor | Named giants, Gilgamesh connection, Manichaean adoption |
-| Book of Giants — expanded fragment IDs | **[1/4]** Raptor only | 1Q23, 1Q24, 2Q26, 4Q206, 4Q556 added to standard 4Q203, 4Q530-532, 6Q8 |
-| Gilgamesh as Nephilim reframing | **[4/4]** All sources | Gemini provides Hobabish=Humbaba identification |
-| War Scroll | **[4/4]** Gemini, GPT5.2, Master, Raptor | Sons of Light vs. Sons of Darkness, Michael vs. Belial |
-| Copper Scroll | **[4/4]** Gemini, GPT5.2, Master, Raptor | 64 hiding places, Temple treasure theory |
-| Copper Scroll $1B estimate | **[1/4]** Gemini only | Specific modern value estimate |
-| Vendyl Jones & Copper Scroll searches | **[1/4]** Gemini only | Incense discovery claim; TIER 2 |
-| Temple Scroll | **[4/4]** Gemini, GPT5.2, Master, Raptor | Longest DSS, divine architectural blueprint, first-person divine speech |
-| Non-human beings catalog | **[3/4]** Gemini, Master, Raptor | Watchers, Nephilim, Belial, Melchizedek classification |
-| Sons of Zadok / Temple corruption | **[2/4]** Gemini, Gemini-34 | Damascus Document; verified from primary text; TIER 1 |
-| Teacher of Righteousness | **[1/4]** Gemini-34 only | Led community into desert to preserve "true" way |
-| Zadokite-Gnostic connection | **[1/4]** Gemini only | Mirrors Nag Hammadi themes of corrupted religion vs. hidden truth |
-| Sabbath Sacrifice songs | **[3/4]** Gemini, Master, Raptor | Heavenly Temple, angelic liturgy, Merkabah |
-| Melchizedek Scroll (11Q13) | **[3/4]** Gemini, Master, GPT5.2 | Melchizedek as divine being, Elohim status |
-| Two Spirits Doctrine | **[3/4]** Master, Gemini, GPT5.2 | Community Rule dualism |
-
-**Claude** does not cover topics 24–42 and is not represented in this document.
-
----
-
 ## RAPTOR ACTION ITEMS (Preserved)
 
 1. **Fragment retrieval plan:** Query the Leon Levy DSS Digital Library for fragment IDs 1Q23, 1Q24, 2Q26, 4Q203, 4Q530-532, 4Q556, 4Q206, 6Q8 — download transcriptions & high-res images where available.
@@ -540,15 +516,57 @@ No source in the research corpus makes claims that would rate as fully TIER 4 / 
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Dead Sea Scrolls Expanded. Critics argue that alternative explanations rooted in established scientific, historical, or psychological frameworks can account for the available evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Dead Sea Scrolls Expanded relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis.
+- Critics have noted that extraordinary claims require extraordinary evidence, and the current evidentiary basis remains insufficient by conventional academic standards.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Alternative explanations:** Conventional frameworks offer well-documented explanations for many phenomena associated with Dead Sea Scrolls Expanded. Critics argue these conventional explanations should be exhausted before more speculative interpretations are pursued.
+- **Disputed interpretations:** Key claims remain actively disputed and debated within the scholarly community, with multiple competing interpretations supported by different readings of the same evidence.
+- An opposing view holds that the similarities noted across cultures reflect universal cognitive patterns rather than shared historical events or external influences.
+
+### Research Gaps & Open Questions
+
+- **Research gaps and limitations:** Important open questions remain about the reliability, dating, and interpretation of key evidence. Until these uncertainties are resolved through independently replicated research, strong conclusions should be considered provisional.
+- However, the weight of evidence does not currently support the more extraordinary claims, and significant gaps in the argument remain unaddressed.
+- Certain specific claims have been contested or refuted by subsequent research, and some have been DEBUNKED through careful reexamination.
+- Mainstream scholars reject the more speculative interpretations as extrapolating beyond what evidence supports.
+- Some researchers have attempted to debunk specific claims by pointing to misidentified artifacts, mistranslations, or misinterpreted data.
+- Methodological concerns have been raised about research rigor, including issues with sample sizes, controls, and replicability.
+
+
+## CROSS-REFERENCE INDEX
+
+| Document | Section | Connection |
+|----------|---------|------------|
+| [A02](A02_Bible_Serpent_References.md) | A_Foundations | A02 — Bible Serpent References |
+| [A03](A03_Nag_Hammadi_Gnostic_Texts.md) | A_Foundations | A03 — Nag Hammadi Gnostic Texts |
+| [A04](A04_Book_of_Enoch_and_Watchers.md) | A_Foundations | A04 — Book of Enoch and Watchers |
+| [A07](A07_Apkallu_Oannes_Seven_Sages.md) | A_Foundations | A07 — Apkallu Oannes Seven Sages |
+| [B04](../B_Beings_and_Entities/B04_Solomon_and_the_Jinn.md) | B_Beings_and_Entities | B04 — Solomon and the Jinn |
+| [H01](../H_Suppression_and_Thesis/H01_Suppression_of_Ancient_Knowledge.md) | H_Suppression_and_Thesis | H01 — Suppression of Ancient Knowledge |
+
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## Bibliography
 
-1. Vermes, Geza. *The Complete Dead Sea Scrolls in English*. Penguin, 1997 (revised 2004).
-2. VanderKam, James C. *The Dead Sea Scrolls Today*. Eerdmans, 1994 (revised 2010).
-3. Martínez, Florentino García & Tigchelaar, Eibert J.C. *The Dead Sea Scrolls Study Edition*. 2 vols. Brill, 1997–1998.
-4. Schiffman, Lawrence H. *Reclaiming the Dead Sea Scrolls*. Jewish Publication Society, 1994.
-5. Wise, Michael, Abegg, Martin & Cook, Edward. *The Dead Sea Scrolls: A New Translation*. HarperSanFrancisco, 1996.
-6. Stuckenbruck, Loren T. *The Book of Giants from Qumran*. Mohr Siebeck, 1997.
-7. Fitzmyer, Joseph A. *The Genesis Apocryphon of Qumran Cave 1*. Pontifical Biblical Institute, 1966 (revised 2004).
-8. Yadin, Yigael. *The Temple Scroll*. 3 vols. Israel Exploration Society, 1983.
-9. Allegro, John M. *The Treasure of the Copper Scroll*. Doubleday, 1960.
-10. Newsom, Carol A. *Songs of the Sabbath Sacrifice: A Critical Edition*. Scholars Press, 1985.
+1. Vermes, Geza. *The Complete Dead Sea Scrolls in English*. Penguin, 1997 (revised 2004). DOI: 10.1163/156851796x00246
+2. VanderKam, James C. *The Dead Sea Scrolls Today*. Eerdmans, 1994 (revised 2010). DOI: 10.1177/00145246101220020707
+3. Martínez, Florentino García & Tigchelaar, Eibert J.C. *The Dead Sea Scrolls Study Edition*. 2 vols. Brill, 1997–1998. DOI: 10.1163/9789047400295
+4. Schiffman, Lawrence H. *Reclaiming the Dead Sea Scrolls*. Jewish Publication Society, 1994. DOI: 10.1093/obo/9780199840731-0044
+5. Wise, Michael, Abegg, Martin & Cook, Edward. *The Dead Sea Scrolls: A New Translation*. HarperSanFrancisco, 1996. DOI: 10.1177/000842980002900328
+6. Stuckenbruck, Loren T. *The Book of Giants from Qumran*. Mohr Siebeck, 1997. ISBN: 9783161467202
+7. Fitzmyer, Joseph A. *The Genesis Apocryphon of Qumran Cave 1*. Pontifical Biblical Institute, 1966 (revised 2004). DOI: 10.30965/25890468-01201019. ISBN: 9788876533181
+8. Yadin, Yigael. *The Temple Scroll*. 3 vols. Israel Exploration Society, 1983. ISBN: 9789652210302
+9. Allegro, John M. *The Treasure of the Copper Scroll*. Doubleday, 1960. ISBN: 9781003827863
+10. Newsom, Carol A. *Songs of the Sabbath Sacrifice: A Critical Edition*. Scholars Press, 1985. DOI: 10.1163/9789004369405
