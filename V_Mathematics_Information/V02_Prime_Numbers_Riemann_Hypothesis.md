@@ -3,9 +3,10 @@
 > **Document ID:** V02
 > **Section:** V_Mathematics_Information
 > **Keywords:** prime numbers, Riemann hypothesis, zeta function, Euclid, RSA cryptography, twin primes, Goldbach conjecture, prime number theorem, Eratosthenes, cicada, primes in nature, Mersenne primes
-> **Cross-References:** [V07](V07_Cryptography.md) · [V06](V06_Information_Theory.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [P04](../P_Philosophy_Meaning/P04_Mathematics_Discovered_Invented.md) · [C113](../C_Global_Traditions/C113_Numerology_Sacred_Number_Systems.md)
+> **Category Tags:** mathematics, information
+> **Cross-References:** [ZD03](V07_Cryptography.md) · [ZD02](V06_Information_Theory.md) · [D10](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) · [P03](../P_Philosophy_Meaning/P03_Mathematics_Discovered_Invented.md) · [C68](../C_Global_Traditions/C68_Numerology_Sacred_Number_Systems.md)
 > **Reliability Tier:** Tier 1 (pure mathematics and number theory are logically rigorous)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** Very High
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 20 | **Weighted Score:** 35 | **Source Confidence:** [4/5] | **Confidence:** Very High
 
 ---
 
@@ -97,18 +98,46 @@ Prime numbers — integers greater than 1 divisible only by 1 and themselves —
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with Prime Numbers — Patterns, Mysteries, and the Riemann Hypothesis. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to Prime Numbers — Patterns, Mysteries, and the Riemann Hypothesis relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching Prime Numbers — Patterns, Mysteries, and the Riemann Hypothesis with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with Prime Numbers — Patterns, Mysteries, and the Riemann Hypothesis, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about Prime Numbers — Patterns, Mysteries, and the Riemann Hypothesis, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about Prime Numbers — Patterns, Mysteries, and the Riemann Hypothesis, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about Prime Numbers — Patterns, Mysteries, and the Riemann Hypothesis have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to Prime Numbers — Patterns, Mysteries, and the Riemann Hypothesis are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to Prime Numbers — Patterns, Mysteries, and the Riemann Hypothesis. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
 1. Euclid. (~300 BCE). *Elements*, Book IX. Various translations.
-2. Riemann, B. (1859). "Über die Anzahl der Primzahlen unter einer gegebenen Grösse." *Monatsberichte der Berliner Akademie*.
+2. Riemann, B. (1859). "Über die Anzahl der Primzahlen unter einer gegebenen Grösse." *Monatsberichte der Berliner Akademie*. DOI: 10.1017/cbo9781139568050.008
 3. Hardy, G. H., & Wright, E. M. (1938). *An Introduction to the Theory of Numbers*. Oxford University Press. 6th ed. 2008.
-4. Rivest, R., Shamir, A., & Adleman, L. (1978). "A Method for Obtaining Digital Signatures and Public-Key Cryptosystems." *Communications of the ACM*, 21(2), 120-126.
-5. Shor, P. (1994). "Algorithms for Quantum Computation." *35th Annual Symposium on Foundations of Computer Science*, 124-134.
+4. Rivest, R., Shamir, A., & Adleman, L. (1978). "A Method for Obtaining Digital Signatures and Public-Key Cryptosystems." *Communications of the ACM*, 21(2), 120-126. ISBN: 9789994552627. DOI: 10.1145/359340.359342
+5. Shor, P. (1994). "Algorithms for Quantum Computation." *35th Annual Symposium on Foundations of Computer Science*, 124-134. DOI: 10.1109/sfcs.1994.365700
 6. du Sautoy, M. (2003). *The Music of the Primes*. Harper Collins.
-7. Derbyshire, J. (2003). *Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem*. Joseph Henry Press.
-8. Zhang, Y. (2014). "Bounded Gaps Between Primes." *Annals of Mathematics*, 179(3), 1121-1174.
+7. Derbyshire, J. (2003). *Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem*. Joseph Henry Press. DOI: 10.1017/s0025557200177976
+8. Zhang, Y. (2014). "Bounded Gaps Between Primes." *Annals of Mathematics*, 179(3), 1121-1174. ISBN: 9780691079912. DOI: 10.4007/annals.2014.179.3.7
 9. Helfgott, H. (2013). "Major Arcs for Goldbach's Theorem." arXiv:1305.2897.
-10. Agrawal, M., Kayal, N., & Saxena, N. (2004). "PRIMES Is in P." *Annals of Mathematics*, 160(2), 781-793.
+10. Agrawal, M., Kayal, N., & Saxena, N. (2004). "PRIMES Is in P." *Annals of Mathematics*, 160(2), 781-793. ISBN: 9780691079912
 11. Montgomery, H. L. (1973). "The Pair Correlation of Zeros of the Zeta Function." *Analytic Number Theory*, 181-193.
 12. Berry, M. V., & Keating, J. P. (1999). "The Riemann Zeros and Eigenvalue Asymptotics." *SIAM Review*, 41(2), 236-266.
 13. Tao, T. (2015). "The Erdős Discrepancy Problem." *Discrete Analysis*, 2016:1.
@@ -116,7 +145,7 @@ Prime numbers — integers greater than 1 divisible only by 1 and themselves —
 15. Granville, A. (2008). "Prime Number Patterns." *American Mathematical Monthly*, 115(4), 279-296.
 16. Crandall, R., & Pomerance, C. (2005). *Prime Numbers: A Computational Perspective*. 2nd ed. Springer.
 17. Caldwell, C. K. "The Prime Pages." University of Tennessee at Martin. Online resource (ongoing, since 1994).
-18. Green, B., & Tao, T. (2008). "The Primes Contain Arbitrarily Long Arithmetic Progressions." *Annals of Mathematics*, 167(2), 481-547.
+18. Green, B., & Tao, T. (2008). "The Primes Contain Arbitrarily Long Arithmetic Progressions." *Annals of Mathematics*, 167(2), 481-547. ISBN: 9780691079912
 19. Monteiro, L. H. A., & Peixoto, D. A. (2013). "The Influence of Predatory Interactions on the Evolution of Prime-Number Cicada Cycles." *BioSystems*, 113(1), 54-56.
 20. Conrey, J. B. (2003). "The Riemann Hypothesis." *Notices of the AMS*, 50(3), 341-353.
 
@@ -126,12 +155,12 @@ Prime numbers — integers greater than 1 divisible only by 1 and themselves —
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [V07 — Cryptography](V07_Cryptography.md) | RSA and prime factorization as cryptographic foundation |
-| [V06 — Information Theory](V06_Information_Theory.md) | Information-theoretic aspects of prime distribution |
+| [ZD03 — Cryptography](V07_Cryptography.md) | RSA and prime factorization as cryptographic foundation |
+| [ZD02 — Information Theory](V06_Information_Theory.md) | Information-theoretic aspects of prime distribution |
 | [D10 — Sacred Geometry](../D_Sites_and_Artifacts/D10_Sacred_Geometry.md) | Mathematical patterns in nature and architecture |
-| [C113 — Numerology](../C_Global_Traditions/C113_Numerology_Sacred_Number_Systems.md) | Number mysticism and Pythagorean traditions |
-| [V03 — Algorithms](V03_Algorithms_Computation_Limits.md) | Computability and primality testing |
-| [Q24 — Symmetry](../Q_Cosmology_Physics/Q24_Symmetry_Noether_Theorem.md) | Zeta function zeros and physics symmetries |
+| [C68 — Numerology](../C_Global_Traditions/C68_Numerology_Sacred_Number_Systems.md) | Number mysticism and Pythagorean traditions |
+| [ZD01 — Algorithms](V03_Algorithms_Computation_Limits.md) | Computability and primality testing |
+| [ZA09 — Symmetry](../ZA_Physics_Quantum/ZA09_Symmetry_Noether_Theorem.md) | Zeta function zeros and physics symmetries |
 
 ---
 

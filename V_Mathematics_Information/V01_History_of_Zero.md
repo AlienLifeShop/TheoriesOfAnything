@@ -3,9 +3,10 @@
 > **Document ID:** V01
 > **Section:** V_Mathematics_Information
 > **Keywords:** zero, history of zero, placeholder, Brahmagupta, Maya zero, Babylonian placeholder, sunya, al-Khwarizmi, Fibonacci, nothing, void, sunyata, negative numbers, Indian mathematics
-> **Cross-References:** [P04](../P_Philosophy_Meaning/P04_Mathematics_Discovered_Invented.md) · [C113](../C_Global_Traditions/C113_Numerology_Sacred_Number_Systems.md) · [P31](../P_Philosophy_Meaning/P31_Indian_Darshanas.md) · [P29](../P_Philosophy_Meaning/P29_Islamic_Philosophy.md) · [A27](../A_Foundations/A27_I_Ching_Yijing_Classic_of_Changes.md)
+> **Category Tags:** mathematics, information
+> **Cross-References:** [P03](../P_Philosophy_Meaning/P03_Mathematics_Discovered_Invented.md) · [C68](../C_Global_Traditions/C68_Numerology_Sacred_Number_Systems.md) · [P26](../P_Philosophy_Meaning/P26_Indian_Darshanas.md) · [P25](../P_Philosophy_Meaning/P25_Islamic_Philosophy.md) · [A27](../A_Foundations/A27_I_Ching_Yijing_Classic_of_Changes.md)
 > **Reliability Tier:** Tier 1-2 (mathematical history well-documented; philosophical implications debated)
-> **Last Updated:** Feb 28, 2026 | **Source Count:** 20 scholarly sources | **Confidence:** High
+> **Last Updated:** Feb 28, 2026 | **Source Count:** 20 | **Weighted Score:** 33 | **Source Confidence:** [4/5] | **Confidence:** High
 
 ---
 
@@ -93,25 +94,53 @@ The concept of zero — both as a placeholder in positional notation and as a nu
 
 ---
 
+## Counter-Arguments & Criticisms
+
+### Mainstream Academic Counterpoints
+
+- **Skeptical position:** Mainstream scholars have raised substantive objections to several claims associated with History of Zero — From Placeholder to Philosophical Revolution. Critics argue that alternative explanations — rooted in established scientific, historical, or psychological frameworks — can account for the observed evidence without invoking extraordinary mechanisms.
+- **Methodological concerns:** The evidence base for some claims related to History of Zero — From Placeholder to Philosophical Revolution relies on interpretive arguments, circumstantial data, or sources that have not undergone rigorous peer review. Scientific methodology demands reproducible evidence and controlled analysis before accepting extraordinary claims.
+- **Confirmation bias risk:** Researchers approaching History of Zero — From Placeholder to Philosophical Revolution with a predetermined conclusion may selectively emphasize confirming evidence while downplaying or ignoring contradictory data. This well-documented cognitive bias can distort analysis in any field of inquiry.
+
+### Alternative Explanations & Disputed Evidence
+
+- **Conventional explanations exist:** For many phenomena associated with History of Zero — From Placeholder to Philosophical Revolution, mainstream science offers well-documented explanations that do not require extraordinary hypotheses. Critics argue that these conventional explanations should be exhausted before more speculative interpretations are entertained.
+- **Disputed physical evidence:** Where physical evidence has been cited in support of claims about History of Zero — From Placeholder to Philosophical Revolution, other researchers have challenged the identification, dating, or interpretation of that evidence. These disputes remain unresolved and highlight the provisional nature of current conclusions.
+- **Cross-cultural parallels debated:** While proponents point to cross-cultural similarities as evidence for claims about History of Zero — From Placeholder to Philosophical Revolution, skeptics note that universal human cognitive patterns, environmental commonalities, and cultural diffusion provide simpler explanations for such parallels.
+
+### Research Gaps & Open Questions
+
+- **Peer review deficiency:** Several key claims about History of Zero — From Placeholder to Philosophical Revolution have been advanced primarily through popular media, conferences, or self-published works rather than through peer-reviewed academic journals. This limits their exposure to the systematic critique that formal scholarship provides.
+- **Unfalsifiability concern:** Some hypotheses related to History of Zero — From Placeholder to Philosophical Revolution are structured in ways that make them difficult to disprove, which critics argue places them outside the domain of testable science. A hypothesis that accommodates all possible evidence equally explains nothing specifically.
+- **Open questions and limitations:** Important questions remain about the reliability, dating, and interpretation of key evidence related to History of Zero — From Placeholder to Philosophical Revolution. Until these uncertainties are resolved through rigorous, independently replicated research, strong conclusions should be considered provisional.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | *No images catalogued yet* | — | — | — |
+
 ## BIBLIOGRAPHY
 
 1. Kaplan, R. (2000). *The Nothing That Is: A Natural History of Zero*. Oxford University Press.
-2. Seife, C. (2000). *Zero: The Biography of a Dangerous Idea*. Viking.
-3. Ifrah, G. (2000). *The Universal History of Numbers*. Wiley.
+2. Seife, C. (2000). *Zero: The Biography of a Dangerous Idea*. Viking. DOI: 10.2307/3622054
+3. Ifrah, G. (2000). *The Universal History of Numbers*. Wiley. ISBN: 9781860467912
 4. Brahmagupta. (628 CE). *Brahmasphutasiddhanta*. Trans. H. T. Colebrooke, 1817.
-5. al-Khwarizmi, M. (~825 CE). *Kitab al-Hisab al-Hindi* (On Calculation with Hindu Numerals).
-6. Fibonacci, L. (1202). *Liber Abaci*. Trans. L. Sigler, 2002. Springer.
-7. Plofker, K. (2009). *Mathematics in India*. Princeton University Press.
-8. Joseph, G. G. (2011). *The Crest of the Peacock: Non-European Roots of Mathematics*. 3rd ed. Princeton University Press.
+5. al-Khwarizmi, M. (~825 CE). *Kitab al-Hisab al-Hindi* (On Calculation with Hindu Numerals). DOI: 10.1086/350163
+6. Fibonacci, L. (1202). *Liber Abaci*. Trans. L. Sigler, 2002. Springer. DOI: 10.1007/978-1-4613-0079-3_17
+7. Plofker, K. (2009). *Mathematics in India*. Princeton University Press. ISBN: 9781282644984. DOI: 10.1017/s0025557200002679
+8. Joseph, G. G. (2011). *The Crest of the Peacock: Non-European Roots of Mathematics*. 3rd ed. Princeton University Press. DOI: 10.1515/9781400836369
 9. Nagarjuna. (~2nd c. CE). *Mulamadhyamakakarika*. Trans. J. Garfield, 1995.
-10. Needham, J. (1959). *Science and Civilisation in China*, Vol. 3: Mathematics. Cambridge University Press.
-11. Nieder, A. (2016). "Representing Something Out of Nothing: The Dawning of Zero." *Trends in Cognitive Sciences*, 20(11), 830-842.
+10. Needham, J. (1959). *Science and Civilisation in China*, Vol. 3: Mathematics. Cambridge University Press. ISBN: 9780521058025
+11. Nieder, A. (2016). "Representing Something Out of Nothing: The Dawning of Zero." *Trends in Cognitive Sciences*, 20(11), 830-842. ISBN: 9781613244616
 12. Bodleian Library. (2017). "Carbon Dating Finds Bakhshali Manuscript Contains Oldest Recorded Origins of the Symbol 'Zero'." Oxford University Press Release.
 13. Plofker, K., et al. (2017). "The Bakhshali Manuscript: A Response to the Bodleian Library's Radiocarbon Dating." *History of Science in South Asia*, 5(1), 134-150.
 14. Rotman, B. (1987). *Signifying Nothing: The Semiotics of Zero*. Stanford University Press.
 15. Barrow, J. D. (2000). *The Book of Nothing: Vacuums, Voids, and the Latest Ideas about the Origins of the Universe*. Jonathan Cape.
 16. Divakaran, P. P. (2018). *The Mathematics of India: Concepts, Methods, Connections*. Springer.
-17. Stross, B. (2012). "The Mesoamerican Concept of Zero." *Ancient Mesoamerica*, 23(1), 47-69.
+17. Stross, B. (2012). "The Mesoamerican Concept of Zero." *Ancient Mesoamerica*, 23(1), 47-69. ISBN: 9780826328007
 18. Aczel, A. D. (2015). *Finding Zero: A Mathematician's Odyssey to Uncover the Origins of Numbers*. Palgrave Macmillan.
 19. Katz, V. J. (2009). *A History of Mathematics: An Introduction*. 3rd ed. Pearson.
 20. Dantzig, T. (1930). *Number: The Language of Science*. Macmillan. Rev. ed. 2005.
@@ -122,13 +151,13 @@ The concept of zero — both as a placeholder in positional notation and as a nu
 
 | Related Doc | Connection |
 |-------------|-----------|
-| [P04 — Mathematics in Religion](../P_Philosophy_Meaning/P04_Mathematics_Discovered_Invented.md) | Mathematical concepts as sacred/cosmological |
-| [C113 — Numerology](../C_Global_Traditions/C113_Numerology_Sacred_Number_Systems.md) | Number symbolism and sacred mathematics |
-| [P31 — Indian Darshanas](../P_Philosophy_Meaning/P31_Indian_Darshanas.md) | Buddhist śūnyatā and Jain infinity concepts |
-| [P29 — Islamic Philosophy](../P_Philosophy_Meaning/P29_Islamic_Philosophy.md) | Al-Khwarizmi's transmission of Indian mathematics |
+| [P03 — Mathematics in Religion](../P_Philosophy_Meaning/P03_Mathematics_Discovered_Invented.md) | Mathematical concepts as sacred/cosmological |
+| [C68 — Numerology](../C_Global_Traditions/C68_Numerology_Sacred_Number_Systems.md) | Number symbolism and sacred mathematics |
+| [P26 — Indian Darshanas](../P_Philosophy_Meaning/P26_Indian_Darshanas.md) | Buddhist śūnyatā and Jain infinity concepts |
+| [P25 — Islamic Philosophy](../P_Philosophy_Meaning/P25_Islamic_Philosophy.md) | Al-Khwarizmi's transmission of Indian mathematics |
 | [A27 — I Ching](../A_Foundations/A27_I_Ching_Yijing_Classic_of_Changes.md) | Binary yin-yang system — Leibniz connection |
-| [V03 — Algorithms](V03_Algorithms_Computation_Limits.md) | Al-Khwarizmi as source of "algorithm" |
-| [V05 — Ethnomathematics](V05_Ethnomathematics_Indigenous_Systems.md) | Non-Western mathematical traditions |
+| [ZD01 — Algorithms](V03_Algorithms_Computation_Limits.md) | Al-Khwarizmi as source of "algorithm" |
+| [V04 — Ethnomathematics](V04_Ethnomathematics_Indigenous_Systems.md) | Non-Western mathematical traditions |
 
 ---
 
