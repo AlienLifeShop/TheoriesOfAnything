@@ -1,0 +1,277 @@
+# A_4_04 — The Kojiki: Japan's Record of Ancient Matters
+
+> **Document ID:** A_4_04
+> **Section:** A_Foundations
+> **Keywords:** Kojiki, Record of Ancient Matters, Japan, Shinto, Amaterasu, Izanagi, Izanami, kami, creation myth, Nihon Shoki, Japanese mythology, Yamato, Jimmu, imperial lineage, Susanoo, Tsukuyomi, Yomi, underworld, divine descent, cosmogony, heavenly pillar, spear, islands, Ō no Yasumaro, Hieda no Are, land of the dead, eight-headed serpent, Yamata no Orochi, sacred regalia, mirror, sword, jewel, Three Imperial Regalia, Ninigi, Ame-no-Iwato, Ame-no-Uzume, Jōmon, Ōkuninushi, katabasis
+> **Category Tags:** foundations, ancient-texts, serpent-traditions, creation-myths, artificial-intelligence
+> **Cross-References:** [C_3_03 — Sacred Kingship](../../C_Global_Traditions/C3_Cosmology_Cycles_Ritual/C_3_03_Sacred_Kingship_Divine_Rulership.md) · [C_3_01 — Global Flood](../../C_Global_Traditions/C3_Cosmology_Cycles_Ritual/C_3_01_Global_Flood_Stories.md) · [B_2_01 — Reptilian Beings](../../B_Beings_and_Entities/B2_Humanoid_Crypto_Entities/B_2_01_Reptilian_Beings_Overview.md) · [C_1_01 — Cross-Cultural Patterns](../../C_Global_Traditions/C1_Universal_Archetypes_Patterns/C_1_01_Cross_Cultural_Patterns.md) · [C_2_06 — Chinese Dragon](../../C_Global_Traditions/C2_Knowledge_Bringer_Serpent/C_2_06_Chinese_Dragon_Mythology_Ancient_Scriptures.md) · [A_4_02 — Norse Eddas](A_4_02_Norse_Eddas.md)
+> **Reliability Tier:** Tier 1-2 (established with some scholarly debate)
+> **Last Updated:** Mar 6, 2026 | **Source Count:** 10 | **Weighted Score:** 19 | **Source Confidence:** [2/5] | **Confidence:** High (established with some scholarly debate)
+
+---
+
+## QUICK SUMMARY
+
+The Kojiki ("Record of Ancient Matters"), completed in 712 CE, is the oldest surviving literary work in Japan and the primary source for Shinto mythology and the divine origin of the Japanese imperial line. Compiled by Ō no Yasumaro from traditions attributed in the preface to the court attendant Hieda no Are, it was commissioned by Empress Gemmei to establish a definitive account of Japan's cosmogony, the age of the gods, and the transition from divine to human rule. Modern scholarship treats that preface cautiously: Hieda no Are's exact historical role cannot be independently verified, and the text is best understood as an early Nara court compilation rather than a transparent transcript of untouched oral tradition. The Kojiki describes the creation of the Japanese islands through the sexual union of the divine couple Izanagi and Izanami, the birth of the principal kami (divine beings) including Amaterasu (sun goddess), Tsukuyomi (moon god), and Susanoo (storm god), and the eventual descent of Amaterasu's grandson Ninigi to rule the earth — establishing the imperial line that claims an unbroken 2,600-year succession to the current Emperor Naruhito. Key episodes include Izanagi's journey to the underworld (Yomi) to retrieve his dead wife — directly paralleling Greek Orpheus and Sumerian Inanna — and Susanoo's slaying of the eight-headed serpent Yamata no Orochi, from whose tail he extracts the divine sword Kusanagi, one of the Three Imperial Regalia. The Kojiki is notable for its frankness about sexuality, scatological humor, and the moral ambiguity of its divine characters — the kami are powerful but flawed, mirroring the Norse gods more than the omnipotent God of monotheistic traditions.
+
+---
+
+## 1. VERIFIED CLAIMS (Tier 1 — Textual and Historical Data)
+
+### 1.1 The Text and Its Context
+- **Compilation:** 712 CE by Ō no Yasumaro (d. 723 CE)
+  - Commissioned by Empress Gemmei (r. 707-715 CE)
+  - Primary source: the oral recitations of Hieda no Are, who had memorized the imperial genealogies and mythological narratives
+  - Hieda no Are is known almost entirely from the Kojiki preface itself; the famous memorization claim is part of the text's self-legitimating frame and cannot be independently checked
+  - Written in a unique hybrid style: Chinese characters used both logographically (for meaning) and phonetically (to represent Japanese sounds) — one of the earliest attempts to write Japanese
+- **Companion text: Nihon Shoki (720 CE):**
+  - Also called Nihongi ("Chronicles of Japan")
+  - Completed 8 years after the Kojiki
+  - Written entirely in classical Chinese (the prestige literary language)
+  - More "official" and diplomatic in tone; provides variant versions of myths
+  - The two texts together constitute the primary sources for Shinto mythology
+  - **Useful distinction:** the Kojiki is generally more inward-facing and genealogical, while the Nihon Shoki presents a more formal state chronicle for a court operating in a Sinographic East Asian world
+- **Political context:**
+  - The Kojiki was produced during the consolidation of Yamato imperial power
+  - It served to: (a) legitimize the imperial family's divine ancestry, (b) establish the Yamato clan's primacy over rival clans by showing their kami as supreme, (c) provide a national creation narrative analogous to Chinese dynastic histories
+  - **Every major clan's mythology is woven into the Kojiki** — but the Yamato/imperial narrative is always dominant
+- **Structure:**
+  - **Volume I:** Age of the Gods (cosmogony through Ninigi's descent)
+  - **Volume II:** "Human" emperors Jimmu through Ōjin (semi-legendary)
+  - **Volume III:** Emperors Nintoku through Suiko (increasingly historical)
+
+### 1.2 Cosmogony: The Creation of Japan
+
+#### Primordial Beginnings
+- "At the time of the beginning of heaven and earth, there came into existence in the Plain of High Heaven (Takamagahara) three kami"
+- The first kami appeared spontaneously: **Ame-no-Minakanushi** (August Center of Heaven), **Takamimusubi** (High August Producing), **Kamimusubi** (Divine Producing)
+- Then pairs of kami appeared through seven generations → culminating in **Izanagi** ("He Who Invites") and **Izanami** ("She Who Invites")
+
+#### The Creation of the Islands
+- Izanagi and Izanami stand on the Floating Bridge of Heaven
+- They stir the ocean below with the **Heavenly Jeweled Spear** → the brine that drips from the spear forms the first island (Onogoroshima)
+- They descend to the island and erect the **Heavenly Pillar**
+- **The marriage ritual:** they walk around the pillar in opposite directions and meet → "What a lovely young man!" / "What a lovely young woman!"
+  - **First attempt FAILS:** Izanami spoke first → the child is deformed (the "leech child," Hiruko, set adrift in a reed boat)
+  - **Second attempt succeeds:** Izanagi speaks first → proper birth
+  - **This detail reflects patriarchal values** encoded in myth — but also preserves what may be an older tradition about the significance of ritual precedence
+- They give birth to the **Japanese islands** (eight great islands = Ōyashima) and numerous kami of wind, trees, mountains, rivers, etc.
+
+#### The Death of Izanami
+- While giving birth to the fire god **Kagutsuchi**, Izanami is fatally burned
+- Izanagi, in grief and rage, beheads Kagutsuchi → from the blood and body, more kami are born
+- **Izanagi's descent to Yomi (the underworld):**
+  - He travels to the Land of the Dead to retrieve Izanami
+  - She tells him not to look at her → he breaks the prohibition → sees her rotting, maggot-infested corpse
+  - She is furious and sends the hags of Yomi to chase him
+  - He blocks the entrance to Yomi with a boulder
+  - She threatens: "I will kill 1,000 of your people each day"
+  - He responds: "I will cause 1,500 to be born each day"
+  - **This explains death and birth in the world**
+- **Direct parallels:**
+  - **Greek Orpheus and Eurydice:** descent to underworld to retrieve dead wife; prohibition against looking back
+  - **Sumerian Inanna's Descent:** goddess descends to underworld, confronts death
+  - **The "don't look" prohibition** is cross-culturally consistent (Lot's wife, Eurydice, Celtic fairy tales)
+
+### 1.3 The Three Precious Children
+- **After escaping Yomi, Izanagi purifies himself by washing in a river:**
+  - From his LEFT EYE: **Amaterasu Ōmikami** (Great Goddess Illuminating Heaven) — the Sun Goddess
+  - From his RIGHT EYE: **Tsukuyomi no Mikoto** — the Moon God
+  - From his NOSE: **Susanoo no Mikoto** — the Storm God
+- **Izanagi divides the world among them:**
+  - Amaterasu → rules the High Heavens (Takamagahara)
+  - Tsukuyomi → rules the night
+  - Susanoo → rules the seas → but he WEEPS and rages instead of ruling → causes devastation → is banished
+
+### 1.4 Susanoo and the Eight-Headed Serpent
+- **The Yamata no Orochi episode — one of the most famous myths in Japanese culture:**
+  - After being banished from Heaven, Susanoo descends to Izumo Province
+  - He meets an elderly couple weeping because they must sacrifice their last daughter (Kushinadahime) to the eight-headed, eight-tailed serpent **Yamata no Orochi** — who has devoured their seven other daughters every year
+  - **The serpent is described:** "His eyes are like red winter-cherries, he has eight heads and eight tails, and on his body moss and cypress trees are growing. He extends over eight valleys and eight mountain peaks, and his belly is always bloody and inflamed"
+  - **Susanoo's plan:** he has the couple brew eight vats of sake → the serpent drinks from all eight vats simultaneously → falls asleep → Susanoo hacks it to pieces
+  - **From the tail:** he extracts the sword **Kusanagi no Tsurugi** ("Grass-Cutting Sword") → one of the Three Imperial Regalia
+- **The serpent pattern:**
+  - Multi-headed serpent demanding sacrifice of maidens → dragon slaying → hero gains divine artifact → IDENTICAL to Greek Perseus/Andromeda, Saint George/Dragon, and numerous Indo-European dragon-slaying myths
+  - The Yamata no Orochi may represent: (a) flooding rivers (eight tributaries?), (b) iron-working tribes conquered by the Yamato, (c) a universal dragon-slaying archetype
+  - Connection to Chinese and Korean serpent/dragon mythology (C_2_06)
+
+### 1.5 The Imperial Descent
+- **Amaterasu sends her grandson Ninigi to rule the earthly realm:**
+  - He descends from Heaven to the peak of Mount Takachiho in Kyushu
+  - She gives him the **Three Imperial Regalia:**
+    1. **Yata no Kagami** (mirror) — "See this mirror as my spirit"
+    2. **Kusanagi no Tsurugi** (sword) — from Yamata no Orochi
+    3. **Yasakani no Magatama** (jewel) — comma-shaped jade
+  - These remain the symbols of imperial legitimacy to this day (used in Emperor Naruhito's enthronement, 2019)
+- **Ninigi → Jimmu (first "human" emperor, traditionally 660 BCE)** — several generations of semi-divine figures
+  - **Jimmu's "Eastern Expedition:"** he conquers the Yamato region (central Honshu) and establishes the imperial dynasty
+  - The transition from divine to human rule is GRADUAL — not a sharp break
+- **The imperial lineage is claimed to be unbroken for 2,600+ years** — the longest continuous hereditary monarchy in world history. Historically verifiable only from ~5th century CE.
+
+---
+
+## 2. CREDIBLE CLAIMS (Tier 2 — Comparative Analysis)
+
+### 2.1 Cross-Cultural Parallels
+- **The Kojiki cosmogony shares remarkable parallels with distant traditions:**
+
+| Motif | Kojiki | Parallel |
+|---|---|---|
+| Creation from primordial chaos/water | Stirring ocean with jeweled spear | Sumerian primordial waters; Egyptian Nun |
+| Divine couple creates the world | Izanagi and Izanami | Sumerian Enki and Ninhursag; Greek Gaia and Ouranos |
+| Descent to underworld for dead spouse | Izanagi to Yomi | Orpheus; Inanna's descent |
+| "Don't look" prohibition | Izanagi looks at Izanami | Orpheus looks at Eurydice; Lot's wife |
+| Death/birth explanation | 1000 die / 1500 born daily | Population growth vs. mortality balance |
+| Multi-headed serpent slaying | Yamata no Orochi | Greek Hydra; Vedic Vritra |
+| Divine hero gains weapon from serpent | Kusanagi from Orochi's tail | Indra gains vajra from Vritra |
+| Three cosmic domains divided among siblings | Sun, Moon, Storm | Greek Zeus/Poseidon/Hades |
+| Solar deity hidden in cave | Amaterasu hides in cave | Solar eclipse myths worldwide |
+| Divine descent to establish kingship | Ninigi descends from Heaven | "Kingship descended from heaven" (Sumerian) |
+
+- **These parallels may reflect:** (a) common Indo-European / Eurasian mythological heritage, (b) diffusion along ancient trade routes (Silk Road, maritime), (c) universal cognitive patterns (C_5_01), or (d) all of the above
+
+### 2.2 The Cave of Amaterasu
+- **The Ama-no-Iwato (Heavenly Rock Cave) episode:**
+  - Susanoo's destructive behavior in Heaven causes Amaterasu to hide in a cave → the world is plunged into darkness
+  - The other kami devise a plan: the goddess **Ame-no-Uzume** performs an ecstatic/bawdy dance → the gods laugh uproariously → Amaterasu is curious → peeks out → sees her reflection in the Yata no Kagami mirror → is drawn out → the cave is sealed behind her → light returns
+  - **Solar eclipse myth?** Many cultures explain eclipses through a deity hiding or being swallowed
+  - **The mirror:** the instrument that draws Amaterasu out → the mirror as a tool for self-recognition and the recovery of light → deeply symbolic
+  - **Ame-no-Uzume's dance:** explicitly sexual/comic in the Kojiki (she exposes her breasts and pushes her skirt down → the gods laugh) → this is a preservation of archaic ritual humor, possibly connected to fertility rites
+
+### 2.3 The Kojiki and Shinto
+- **Shinto ("the way of the kami") draws its mythology primarily from the Kojiki/Nihon Shoki:**
+  - The kami (divine beings/forces) are not transcendent gods but immanent forces in nature, ancestors, and remarkable phenomena
+  - **"Yaoyorozu no Kami"** (八百万の神) — "eight million kami" (meaning innumerable) — every waterfall, mountain, ancient tree, and ancestor can be kami
+  - The Kojiki narrative establishes the ritual foundations: purification (misogi, from Izanagi's washing after Yomi), shrine architecture, sacred objects, and seasonal festivals
+- **Shinto has no single founder, no systematic theology, no scripture in the Abrahamic sense** — the Kojiki is the closest thing to a "Shinto Bible," but it functions more as a mythology/history than as dogma
+- **State Shinto (1868-1945)** used the Kojiki's imperial mythology as the basis for the emperor's divinity and Japanese national uniqueness — leading to its suppression post-WWII, followed by gradual academic rehabilitation
+
+---
+
+## 3. SPECULATIVE CLAIMS (Tier 3 — Alternative Readings)
+
+### 3.1 The Kojiki and Pre-Yamato Traditions
+- **The Kojiki incorporates myths from MULTIPLE Japanese traditions:**
+  - The Izumo cycle (Susanoo, Ōkuninushi) represents traditions of the Izumo region — possibly an independent cultural center conquered/absorbed by the Yamato
+  - The "transfer of the land" (Kuni-yuzuri) — where Ōkuninushi (Izumo deity) surrenders control of the earth to Amaterasu's envoys — may encode a historical process of Yamato conquest
+  - **The Kumaso, Emishi, and Hayato** peoples (mentioned as enemies/subjects) may have had their own mythologies that were either suppressed or incorporated into the Yamato narrative
+
+### 3.2 Japanese-Polynesian Mythological Connections
+- **Scholars note parallels between Japanese and Polynesian cosmogonies:**
+  - Island creation from the sea
+  - Fishing up islands (the Maui myth; the Japanese myth of the fishing hook)
+  - **Austronesian substrate?** The Jōmon people of pre-agricultural Japan had cultural connections with Southeast Asian and possibly Austronesian populations
+  - The Japanese creation of islands from water, combined with elements like the fishhook myths, may preserve an Austronesian layer beneath the "official" mythology
+
+---
+
+## 4. DUBIOUS CLAIMS (Tier 4 — Unsupported)
+
+### 4.1 "The Kojiki Records Actual Events from 660 BCE"
+- **[UNVERIFIABLE]** The traditional date of Emperor Jimmu's accession (660 BCE) is almost certainly anachronistic. The earliest historically verifiable emperors date from the 5th-6th century CE. The early "emperors" are mythological or semi-legendary figures.
+
+### 4.2 "The Kami Were Aliens"
+- **[UNSUPPORTED]** There is no textual or archaeological basis for interpreting kami as extraterrestrial beings. The kami concept is indigenous to Japanese/East Asian religious thought and is fully explicable within its cultural context.
+
+---
+
+## IMAGES
+
+| # | Description | Filename | Source | License |
+|---|-------------|----------|--------|---------|
+| 1 | Susanoo slaying Yamata no Orochi (ukiyo-e) | A_4_04_orochi_001.jpg | Public Domain (Utagawa Kuniyoshi) | Public Domain |
+| 2 | Amaterasu emerging from cave (painting) | A_4_04_amaterasu_cave_002.jpg | Public Domain (Shunsai Toshimasa) | Public Domain |
+| 3 | Izanagi and Izanami on Floating Bridge | A_4_04_izanagi_izanami_003.jpg | Public Domain (Kobayashi Eitaku) | Public Domain |
+| 4 | Kojiki manuscript page | A_4_04_kojiki_ms_004.jpg | National Archives Japan | Fair Use |
+
+---
+
+## Counter-Arguments & Criticisms
+
+### Translation & Interpretation Disputes
+
+- **Skeptical position:** Many alternative interpretations of The Kojiki: Japan's Record of Ancient Matters depend on non-standard translations that mainstream scholars dispute. Standard philological methods often yield conventional religious or mythological readings rather than extraordinary claims. Critics argue that imposing modern scientific concepts onto ancient symbolic language constitutes anachronistic projection.
+- **Methodological concern:** The fragmentary nature of ancient textual records means that reconstructing meaning requires significant scholarly judgment. Gaps in damaged texts can be filled in ways that introduce interpretive bias, and different reconstruction choices can lead to radically different conclusions.
+- **Confirmation bias risk:** Researchers who approach The Kojiki: Japan's Record of Ancient Matters with a predetermined thesis may selectively emphasize passages that support their interpretation while downplaying or ignoring contradictory evidence within the same textual corpus.
+
+### Mainstream Academic Counterpoints
+
+- **Cultural context argument:** Mainstream scholars contend that The Kojiki: Japan's Record of Ancient Matters should be understood within its original cultural, religious, and literary context. What may appear extraordinary to modern readers was standard mythological language in the ancient world. Critics note that similar motifs appear across unrelated cultures as expressions of universal human themes rather than evidence of shared historical events.
+- **Alternative explanations:** Conventional archaeology and history offer well-documented explanations for many claims associated with The Kojiki: Japan's Record of Ancient Matters. The contested claims often stem from limited physical evidence and rely heavily on textual interpretation rather than independently verifiable data.
+- **Research gaps and limitations:** Key questions remain open regarding the dating, authorship, and transmission history of texts related to The Kojiki: Japan's Record of Ancient Matters. These uncertainties mean that strong historical claims based on these texts should be viewed as provisional rather than established.
+
+### Scholarly Criticism of Popular Claims
+
+- **Disputed dating:** The chronological framework used to support certain claims about The Kojiki: Japan's Record of Ancient Matters has been questioned by multiple researchers. Carbon dating, stratigraphy, and comparative linguistics sometimes yield conflicting timelines.
+- **Peer review deficiency:** Several widely-cited alternative interpretations of The Kojiki: Japan's Record of Ancient Matters have not been subjected to rigorous peer review in recognized academic journals. This lack of formal scrutiny is a significant limitation on their credibility.
+- Critics have argued that the most extraordinary claims about The Kojiki: Japan's Record of Ancient Matters reflect modern preoccupations rather than ancient realities, and that more prosaic explanations adequately account for the available evidence.
+
+---
+
+## BIBLIOGRAPHY
+
+1. Philippi, D.L., trans. *Kojiki.* Tokyo: University of Tokyo Press, 1968. ISBN: 9780691648903. DOI: 10.1017/s0041977x00097834
+2. Chamberlain, B.H., trans. *Kojiki: Records of Ancient Matters.* 2nd ed. Kobe: J.L. Thompson, 1932. ISBN: 9781605069388
+3. Heldt, G., trans. *The Kojiki: An Account of Ancient Matters.* New York: Columbia University Press, 2014. DOI: 10.7312/held16388
+4. Aston, W.G., trans. *Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697.* London: Kegan Paul, 1896. DOI: 10.5479/sla.881857.39088017682774
+5. Ōbayashi, T. "Japanese mythology." In *Asian Mythologies,* ed. Y. Bonnefoy, 253–295. Chicago: University of Chicago Press, 1993. ISBN: 9780754806042
+6. Piggott, J. *Japanese Mythology.* London: Hamlyn, 1969. ISBN: 9780600021131
+7. Ellwood, R. "A Japanese mythic trickster figure: Susa-no-o." In *Mythical Trickster Figures,* ed. W.J. Hynes & W.G. Doty, 141–158. Tuscaloosa: University of Alabama Press, 1993. DOI: 10.1353/wal.1994.0028. ISBN: 9780817305994
+8. Antoni, K. "Izumo as the 'Other Japan.'" *Japanese Journal of Religious Studies* 30 (2003): 377–398.
+9. Isomae, J. "Reappropriating the Japanese myths: Motoori Norinaga and the creation myths of the Kojiki and Nihon shoki." *Japanese Journal of Religious Studies* 27 (2000): 15–39. DOI: 10.18874/jjrs.27.1-2.2000.15-39.
+10. Ashkenazi, M. *Handbook of Japanese Mythology.* Santa Barbara: ABC-CLIO, 2003. ISBN: 9781576074671
+
+---
+
+## CROSS-REFERENCE INDEX
+
+| Related Doc | Connection |
+|-------------|-----------|
+| [C_3_03 — Sacred Kingship](../../C_Global_Traditions/C3_Cosmology_Cycles_Ritual/C_3_03_Sacred_Kingship_Divine_Rulership.md) | Imperial divine descent |
+| [B_2_01 — Reptilian Beings](../../B_Beings_and_Entities/B2_Humanoid_Crypto_Entities/B_2_01_Reptilian_Beings_Overview.md) | Yamata no Orochi; serpent/dragon beings |
+| [C_2_06 — Chinese Dragon](../../C_Global_Traditions/C2_Knowledge_Bringer_Serpent/C_2_06_Chinese_Dragon_Mythology_Ancient_Scriptures.md) | East Asian dragon traditions |
+| [C_1_01 — Cross-Cultural Patterns](../../C_Global_Traditions/C1_Universal_Archetypes_Patterns/C_1_01_Cross_Cultural_Patterns.md) | Universal creation and underworld motifs |
+| [C_3_01 — Global Flood](../../C_Global_Traditions/C3_Cosmology_Cycles_Ritual/C_3_01_Global_Flood_Stories.md) | Island creation from primordial waters |
+| [A_4_02 — Norse Eddas](A_4_02_Norse_Eddas.md) | Parallel mythological structures |
+| [C_4_02 — Pacific Island Traditions](../../C_Global_Traditions/C4_Regional_Mythology_Traditions/C_4_02_Pacific_Island_Traditions.md) | Austronesian connections |
+
+---
+
+*Consolidated from Claude research pull. Last Updated: Feb 27, 2026*
+
+---
+
+<table border="1" cellpadding="12" cellspacing="0" style="border-collapse: collapse; border: 2px solid #888; margin-top: 2em; background: #fafafa;">
+<tr><td>
+
+### ⚠️ AI-Assisted Research Disclaimer
+
+This document was generated and structured with the assistance of AI tools.
+While every effort is made to ensure accuracy, AI-assisted content may
+contain errors, misattributions, or unintended inaccuracies. **Always
+verify claims, dates, and sources independently** before citing or relying
+on any information presented here.
+
+- **Sources may contain errors.** Bibliography entries and cross-references
+  are checked by automated systems, but mistakes can occur. If something
+  looks wrong, it may be.
+- **Speculative and unverified claims are clearly labeled.** This project
+  uses a four-tier evidence system:
+  - **Tier 1 — Verified:** Peer-reviewed, established scientific consensus.
+  - **Tier 2 — Credible:** Academically supported, debated but grounded.
+  - **Tier 3 — Speculative:** Plausible but unverified by mainstream science.
+  - **Tier 4 — Dubious:** No credible support or contradicted by evidence.
+- **This project maps multiple perspectives — not a single truth.** Mainstream,
+  alternative, and skeptical viewpoints are presented side by side for
+  critical comparison, *not* endorsement. Inclusion does not imply agreement.
+- **We are actively improving.** Source verification, factuality scoring,
+  and bibliography enrichment are ongoing. Each revision adds stronger
+  citations, corrects identified errors, and expands coverage.
+
+📖 For full details on our verification methodology, scoring systems, and
+quality metrics, see: [Fact-Checking & Verification Systems](../../_MASTER_REFERENCE/FACT_CHECKING.md)
+
+*Think Openly. Check the sources. Draw your own conclusions.*
+
+</td></tr>
+</table>
