@@ -1,12 +1,12 @@
 # ORGANIZATION RULES — Theories of Everything Project
 
-> **Created:** Feb 26, 2026 | **Last Updated:** Mar 08, 2026
+> **Created:** Feb 26, 2026 | **Last Updated:** Mar 14, 2026
 > **Purpose:** Canonical rules for document structure, tier ratings, naming conventions, and reorganization procedures. All contributors and AI agents MUST follow these rules when creating, editing, or reorganizing content.
 > **Mission:** Build humanity's most comprehensive, interconnected knowledge base — connecting ancient wisdom, modern science, consciousness research, and every meaningful domain of inquiry — in pursuit of understanding existence, the origin and meaning of life, and the possible futures ahead. See `_MASTER_REFERENCE/PROJECT_MISSION.md` for full mission statement.
 
 ---
 
-## 1. PROJECT STRUCTURE -- Section Definitions (A through ZE)
+## 1. PROJECT STRUCTURE -- Section Definitions (A through ZF)
 
 | Section | Code | Topic | Scope |
 |---------|------|-------|-------|
@@ -33,6 +33,7 @@
 | **Art, Music & Culture** | U | Artistic traditions, music theory, cultural evolution | Music theory, sacred dance, oral literature, color symbolism, cultural evolution |
 | **Mathematics** | V | Pure mathematics | History of zero, prime numbers, topology, algebra, geometry, number theory, infinity |
 | **World Civilizations** | W | Civilization profiles, lived religions, and cultural practices | Specific civilization histories (Olmec, Minoan, Phoenician, etc.), lived religious traditions (Daoism, Shinto, Vodou, etc.) |
+| **Medicine & Healing** | X | Traditional medicine, pharmacology, medical history, healing practices | Trepanation, anesthesia, vaccination, surgery, antisepsis, plague medicine, herbal pharmacology |
 | **Altered States & Psychedelics** | Y | Altered states of consciousness | NDEs/OBEs, psychedelics, remote viewing, meditation, shamanic practices, lucid dreaming |
 | **Molecular Biology & Genomics** | Z | Molecular-level biology | Gene expression, epigenetics, CRISPR, RNA biology, genomic architecture, stem cells |
 | **Physics & Quantum Mechanics** | ZA | Fundamental physics | Relativity, quantum mechanics, particle physics, thermodynamics, forces, string theory |
@@ -41,6 +42,8 @@
 | **Information & Computation** | ZD | Information theory, computation, applied mathematics | Cryptography, algorithms, computational complexity, automata theory, game theory |
 | **Ethics & Applied Philosophy** | ZE | Applied ethics and political philosophy | Virtue ethics, deontology, utilitarianism, political philosophy, alchemy, ritual/symbol |
 | **Oceanography** | ZF | Ocean science, marine systems, and maritime knowledge | Thermohaline circulation, tides, coral reefs, deep-sea ecosystems, marine geology, maritime archaeology, USOs, ocean acidification, ENSO, hydrothermal vents, marine biology, sea-level history, ocean mythology, seafloor spreading |
+| **Linguistics & Communication** | ZG | Language, writing systems, decipherment, communication | Language origins, writing invention, scripts, decipherment, translation, rhetoric, sign systems, phonetics, endangered languages, constructed languages, computational linguistics |
+| **Archaeoastronomy & Celestial Knowledge** | ZH | Ancient astronomical knowledge and celestial practices | Archaeoastronomy, celestial navigation, star myths, astronomical instruments, calendar astronomy, ancient observatory alignments, eclipse/comet records, zodiac origins |
 
 ### Section Placement Rules
 
@@ -52,7 +55,7 @@
 6. **`_MASTER_REFERENCE/`** folder contains all master indexes, prompts, methodology docs, and research guides.
 7. **Section C** covers mythology, folklore, and cross-cultural comparative analysis ONLY. Specific civilization profiles belong in **W**.
 8. **Section W** holds civilization-specific profiles and lived religion descriptions.
-9. **Section X** contains medicine and healing documents (15 docs).
+9. **Section X** contains medicine and healing documents (50 docs).
 10. **K vs Y:** K = consciousness theory. Y = altered states (psychedelics, NDEs, meditation, shamanic).
 11. **L vs Z:** L = evolutionary genetics / human origins. Z = molecular biology / genomics.
 12. **Q vs ZA:** Q = cosmology / astrophysics. ZA = fundamental physics / quantum mechanics.
@@ -61,8 +64,33 @@
 15. **V vs ZD:** V = pure mathematics. ZD = information theory / computation.
 16. **P vs ZE:** P = theoretical philosophy. ZE = applied ethics / political philosophy.
 17. **O vs ZF:** O = anomalous geophysical phenomena (ley lines, Bermuda Triangle). ZF = ocean science and maritime knowledge (thermohaline, coral reefs, deep-sea ecosystems, tides, marine archaeology).
-18. **Category Tags** are required in all document headers. Format: `> **Category Tags:** tag1, tag2, tag3`
-19. **Document numbering must be sequential** within each section — no gaps. If a document is removed or relocated, remaining documents should be renumbered.
+18. **ZG vs C/A/F:** ZG = language AS SYSTEM (grammar, script, acquisition, evolution). C = mythology carried by language. A = ancient texts (content). F = contact evidence via linguistic traces.
+19. **ZH vs D/E/G/Q:** ZH = what ancient peoples KNEW and DID with the sky. D = site archaeology/engineering. E = chronological dating. G = modern scientific methods. Q = modern astrophysics.
+20. **Category Tags** are required in all document headers. Format: `> **Category Tags:** tag1, tag2, tag3`
+20. **Document numbering must be sequential** within each section — no gaps. If a document is removed or relocated, remaining documents should be renumbered.
+
+### Subfolder Structure
+
+Each section is organized into 4-5 **thematic subfolders**. Documents live within subfolders, not at the section root.
+
+**Subfolder naming:** `[SectionCode][GroupNumber]_Theme_Name/`
+
+**Example:**
+```
+K_Consciousness/
+├── K1_Theories_Frameworks/
+├── K2_Neuroscience_Mechanisms/
+├── K3_Altered_Variant_States/
+├── K4_Anomalous_Esoteric/
+└── K5_Perception_Phenomenology/
+```
+
+**Cross-reference format** (relative path through subfolder):
+```markdown
+[K_1_01 — Consciousness](../K_Consciousness/K1_Theories_Frameworks/K_1_01_Hard_Problem_of_Consciousness.md)
+```
+
+**Subfolder mapping files** are stored in `_scripts/mappings/[SectionFolder]_mapping.json`.
 
 ---
 
@@ -70,22 +98,28 @@
 
 ### Format
 ```
-[SectionCode][TwoDigitNumber]_Short_Descriptive_Name.md
+[Section]_[Group]_[Seq]_Short_Descriptive_Name.md
 ```
 
-### Rules
-- Section code: One or two uppercase letters (A-W, Y-Z, ZA-ZF)
-- Number: Two-digit, zero-padded, sequential (01, 02, 03...)
+### Structure
+- **Section code:** One or two uppercase letters (A-W, Y-Z, ZA-ZH) — identifies the main section
+- **Group number:** Single digit (1-5) — identifies the thematic subfolder
+- **Sequence number:** Two-digit, zero-padded, sequential (01, 02, 03...) — position within the subfolder
+- Separated by underscores: `Section_Group_Seq_Name.md`
 - Name: Use underscores between words, Title_Case
 - No spaces in filenames
 - Maximum ~50 characters for the name portion
-- Numbers must be sequential within each section -- no gaps
+- Sequence numbers must be sequential within each subfolder — no gaps
+
+### Document ID
+The document ID is the first three components: `A_1_01`, `ZA_2_05`, etc.
+This encodes section + subfolder + position and is used in all cross-references.
 
 ### Examples
 ```
-A01_Sumerian_Texts_and_Tablets.md       (correct)
-ZA01_Time_Physics_Philosophy.md         (correct)
-ZB34_Deep_Sea_Ecology.md               (correct)
+A_1_01_Sumerian_Texts_and_Tablets.md       (correct)
+ZA_2_01_Time_Physics_Philosophy.md         (correct)
+ZB_4_02_Deep_Sea_Ecology.md               (correct)
 a1_sumerian.md                          (wrong: lowercase, single digit)
 A - Sumerian Texts.md                   (wrong: spaces, no number)
 ```
@@ -114,33 +148,43 @@ Every content document MUST follow this structure:
 
 ## 1. VERIFIED CLAIMS (Tier 1 — Peer-Reviewed / Archaeological Record)
 
-### 1.1 [Claim Title] [N/5 sources]
+### 1.1 [Claim Title]
 - Evidence bullet points
 - Source citations inline
 
-### 1.2 [Next Claim] [N/5 sources]
+### 1.2 [Next Claim]
 ...
 
 ---
 
 ## 2. CREDIBLE CLAIMS (Tier 2 — Academic / Debated but Supported)
 
-### 2.1 [Claim Title] [N/5 sources]
+### 2.1 [Claim Title]
 ...
 
 ---
 
 ## 3. SPECULATIVE CLAIMS (Tier 3 — Possible but Unverified)
 
-### 3.1 [Claim Title] [N/5 sources]
+### 3.1 [Claim Title]
 ...
 
 ---
 
 ## 4. DUBIOUS CLAIMS (Tier 4 — No Credible Source / Contradicted by Evidence)
 
-### 4.1 [Claim Title] [N/5 sources]
+### 4.1 [Claim Title]
 ...
+
+---
+
+## Counter-Arguments & Criticisms
+
+[Present the strongest REAL, PUBLISHED counter-arguments to the document's major claims.
+Each must cite a specific scholar or publication.
+
+If the topic is settled consensus with no real dispute:
+"No significant counter-arguments exist in the scholarly literature for the core claims in this document."]
 
 ---
 
@@ -175,24 +219,24 @@ Every content document MUST follow this structure:
 1. **Header block is MANDATORY** — Source Count, Weighted Score, Source Confidence [N/5], Primary Tier, Last Updated, Keywords, Category Tags, Cross-References
 2. **QUICK SUMMARY is MANDATORY** — Always exactly one paragraph, placed between header and Section 1
 3. **Tier sections are MANDATORY** — Use sections 1–4 with the exact tier labels shown above. If a section has no claims, include it with a note: "*No claims at this tier level.*"
-4. **Source confidence tags** — Format: `[N/5]` based on weighted bibliography scoring (peer-reviewed journal = 3 pts, academic press/primary text = 2 pts, popular/other = 1 pt). Thresholds: < 14 = [1/5], 14–21 = [2/5], 22–29 = [3/5], 30–41 = [4/5], 42+ = [5/5]
+4. **Source confidence** — `[N/5]` appears ONLY in the document header, based on weighted bibliography scoring (peer-reviewed journal = 3 pts, academic press/primary text = 2 pts, popular/other = 1 pt). Thresholds: < 14 = [1/5], 14–21 = [2/5], 22–29 = [3/5], 30–41 = [4/5], 42+ = [5/5]. Do NOT place `[N/5 sources]` tags on individual claim headers — the rating is calculated automatically from the bibliography.
 5. **Subsection numbering** — Use `### N.N Title` format (e.g., `### 1.1`, `### 2.3`)
 6. **Tables** — Use markdown pipe tables for comparisons, catalogs, timelines
 7. **Blockquotes** — Use `>` for paraphrased primary-text quotes
 8. **`[KEY FINDING]` tag** — Use inline for especially significant conclusions
 9. **Debunked items** — Bold with correction: `**[DEBUNKED]** Item — Explanation`
 10. **Images table** — Include even if empty (with note: "*No images assigned yet.*")
-11. **Bibliography** — Numbered list, academic citation format
-12. **Footer** — Consolidation note with date
+11. **Bibliography** — Numbered list, academic citation format, minimum 5 entries per document. Source Count in header must match actual bibliography entry count.
+12. **Counter-Arguments** — Required section. Only include REAL, PUBLISHED counter-arguments attributed to specific scholars. If no real counter-arguments exist (settled consensus), use an honest "no dispute" note.
 
 ### Files That Use Alternative Section Naming
 
-Some files (K02, L05, N04) use numbered topical sections (1–10) instead of the standard "Verified/Credible/Speculative/Dubious" tier labels. This is ACCEPTABLE when:
+Some files (K_4_01, L_1_04, N_2_01) use numbered topical sections (1–10) instead of the standard "Verified/Credible/Speculative/Dubious" tier labels. This is ACCEPTABLE when:
 - The document is structured as a deep-dive into a single complex topic
 - Individual claims within each section ARE tagged with their tier level inline (e.g., `(Tier 1)`, `(Tier 2–3)`)
 - The overall Primary Tier is declared in the header
 
-When reorganizing, **prefer the standard tier-section format**. Only use numbered topical sections for documents where the topic flow requires it (e.g., K02's progressive Gateway Process analysis).
+When reorganizing, **prefer the standard tier-section format**. Only use numbered topical sections for documents where the topic flow requires it (e.g., K_4_01's progressive Gateway Process analysis).
 
 ---
 
@@ -202,10 +246,10 @@ When reorganizing, **prefer the standard tier-section format**. Only use numbere
 
 | Tier | Label | Criteria | Examples |
 |------|-------|----------|----------|
-| **TIER 1 — VERIFIED** | Peer-reviewed, primary texts, archaeological evidence with mainstream academic consensus | Sumerian tablets exist (A01), DNA double helix structure (L03), Göbekli Tepe dating (D01) |
-| **TIER 2 — CREDIBLE** | Academic work, published research, debated interpretation but with scholarly support | Sphinx water erosion hypothesis (D03), trans-oceanic pre-Columbian contact evidence (F02) |
-| **TIER 3 — SPECULATIVE** | Possible but unverified; intriguing, popular-author level, lacking primary evidence | Narby's DNA/biophoton shamanic perception (L03), Atlantis as historical place (F01) |
-| **TIER 4 — DUBIOUS** | No credible source; contradicted by evidence; conspiracy-only | Literal shapeshifting reptilian world leaders (B01), Anunnaki as literal aliens (B02) |
+| **TIER 1 — VERIFIED** | Peer-reviewed, primary texts, archaeological evidence with mainstream academic consensus | Sumerian tablets exist (A_1_01), DNA double helix structure (L_3_01), Göbekli Tepe dating (D_1_01) |
+| **TIER 2 — CREDIBLE** | Academic work, published research, debated interpretation but with scholarly support | Sphinx water erosion hypothesis (D_4_01), trans-oceanic pre-Columbian contact evidence (F_1_01) |
+| **TIER 3 — SPECULATIVE** | Possible but unverified; intriguing, popular-author level, lacking primary evidence | Narby's DNA/biophoton shamanic perception (L_3_01), Atlantis as historical place (F_4_01) |
+| **TIER 4 — DUBIOUS** | No credible source; contradicted by evidence; conspiracy-only | Literal shapeshifting reptilian world leaders (B_2_01), Anunnaki as literal aliens (B_2_02) |
 
 ### Rating Assignment Rules
 
@@ -234,7 +278,7 @@ Source types: **Peer-reviewed journal article = 3 pts** | **Academic press book 
 Primary texts > Archaeological evidence > Academic analysis > Popular author interpretation > Internet claim
 ```
 
-### Interpretive Lenses (from B01 "Raptor Framework")
+### Interpretive Lenses (from B_2_01 "Raptor Framework")
 
 When analyzing claims about non-human beings or supernatural elements, apply three lenses:
 1. **Mythic** — The tradition as mythology/archetype (Jungian, Campbell)
@@ -254,7 +298,7 @@ Note which lens is being used when making claims. Most Tier 1–2 claims use the
 
 ### Rules
 1. **Use relative paths** — Always relative to the current file's location
-2. **Include section letter and number** — e.g., `A01`, `B07`, not just the title
+2. **Include section letter and number** — e.g., `A_1_01`, `B_2_04`, not just the title
 3. **Bidirectional** — If Doc A references Doc B, Doc B should reference Doc A
 4. **Header cross-references** — List the most important 5–8 connections in the header block
 5. **Cross-Reference Index table** — Include a full table at the bottom of each document
@@ -283,7 +327,7 @@ Note which lens is being used when making claims. Most Tier 1–2 claims use the
 - Production notes (→ Episode folders)
 - Image search results (→ separate tracking files)
 - AI prompt engineering (→ Episode folders or _scripts)
-- To-do lists or task tracking (→ [H03](H_Suppression_and_Thesis/H03_Future_Research_Topics.md) or separate planning docs)
+- To-do lists or task tracking (→ [H_2_02](H_Suppression_and_Thesis/H2_Institutional_Academic_Suppression/H_2_02_Future_Research_Topics.md) or separate planning docs)
 
 ---
 
@@ -315,7 +359,7 @@ images/
 ```
 [SectionLetter][DocNumber]_[descriptive_name].[ext]
 ```
-Example: `A01_eridu_genesis_tablet.jpg`, `D01_gobekli_tepe_pillar43.png`
+Example: `A_1_01_eridu_genesis_tablet.jpg`, `D_1_01_gobekli_tepe_pillar43.png`
 
 ### Rules
 1. Images go in the folder matching their PRIMARY section
@@ -342,7 +386,7 @@ When performing a reorganization pass on a section or document:
 2. **Check QUICK SUMMARY** — Ensure it accurately reflects the document's current content
 3. **Sort claims into correct tiers** — Move any mis-tiered claims to their correct section
 4. **Integrate gap expansions** — Move any appended content blocks into the correct tier sections
-5. **Apply consistent formatting** — Subsection numbers, source confidence tags, table formatting
+5. **Apply consistent formatting** — Subsection numbers, table formatting, tier labels
 6. **Update cross-references** — Add missing cross-references, remove broken ones
 7. **Update IMAGES table** — Ensure it matches actual images in the images folder
 8. **Update bibliography** — Fix numbering, remove duplicates, add missing sources
@@ -370,7 +414,7 @@ When performing a reorganization pass on a section or document:
 | Tier 2 section | YES (even if empty) | |
 | Tier 3 section | YES (even if empty) | |
 | Tier 4 section | YES (even if empty) | |
-| Source confidence tags on claims | YES | |
+| Source confidence [N/5] in header (NOT on individual claims) | YES | |
 | IMAGES table | YES | |
 | BIBLIOGRAPHY | YES | |
 | CROSS-REFERENCE INDEX | YES | |
@@ -379,7 +423,7 @@ When performing a reorganization pass on a section or document:
 ### Project-Wide Quality Targets
 - All documents follow the standard template: **Target 100%**
 - All claims have tier assignments: **Target 100%**
-- All claims have source confidence ratings: **Target 95%+**
+- All documents have source confidence [N/5] in header: **Target 100%**
 - Cross-references are bidirectional: **Target 90%+**
 - Images are in correct section folders: **Target 100%**
 - No duplicate content across documents: **Target 95%+**
@@ -399,6 +443,7 @@ When performing a reorganization pass on a section or document:
 |------|-------|-------------|
 | Feb 26, 2026 | Full project | Initial organization rules created; Sections I–O reorganized for consistency |
 | Feb 27, 2026 | Full project | Expanded mission to "Theories of Everything" — added Sections P–S (Philosophy, Cosmology, Biology, Future). Created `_MASTER_REFERENCE/` folder with PROJECT_MISSION, CONNECTED_TOPICS_RESEARCH_MAP (87 new topics), ZI_AGENT_PROMPTS (12 templates), RESEARCH_METHODOLOGY, SECTION_GUIDE, STYLE_GUIDE, FUTURE_RESEARCH_QUEUE. Deep scan of all 100 docs completed. |
+| Jun 02, 2025 | Full project | **Phase 1:** Deleted 80 internal duplicate files across 18 sections. **Phase 2:** Resolved 38 cross-section duplicates (Q↔ZA, R↔ZB, D↔M, etc.). Total: 118 files removed, corpus reduced from 2,552 to 2,434. **Phase 3:** All 34 sections reorganized into ~165 thematic subfolders (4-5 per section). All cross-references updated workspace-wide (~8,700 updates). Mapping files stored in `_scripts/mappings/`. |
 
 ---
 
